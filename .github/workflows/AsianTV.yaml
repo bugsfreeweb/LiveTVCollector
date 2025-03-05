@@ -1,0 +1,51 @@
+name: LiveTV- Asian URLs-Daily
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '30 19 * * *' # Implemented at 3:30 am every day, 19+8-24=3
+    # - cron: '35 15 * * *'
+
+jobs:
+  copy-files:
+    runs-on: ubuntu-latest
+
+    env: 
+      # Replace with the actual save path
+      LOCAL_PATH: './livetv/AsianTV.m3u'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up environment 
+      run: |
+        # Define an array of file URLs
+        FILE_URLS=(          
+          "https://raw.githubusercontent.com/SonyIPTV/Sony-IPTV-Live/refs/heads/main/Sony%20IPTV%20Live.m3u"
+          "https://raw.githubusercontent.com/binhex/iptv/refs/heads/main/eng.m3u"
+        )
+        
+        # Initialize the local file
+        > $LOCAL_PATH
+
+        # Download each file and append its content to the local file
+        for url in "${FILE_URLS[@]}"; do
+          echo "Downloading $url and appending to $LOCAL_PATH"
+          wget -qO- $url >> $LOCAL_PATH
+        done
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'bugsfreeweb' # Replace with your GitHub username
+        git config --global user.email 'bugsfreeweb@example.com' # Replace with your GitHub email
+
+        # Add the local file to git
+        git add $LOCAL_PATH
+
+        # Commit changes
+        git commit -m "Automated file copy from multiple sources"
+
+        # Push to GitHub
+        git push
