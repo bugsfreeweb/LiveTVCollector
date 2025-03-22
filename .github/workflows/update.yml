@@ -1,0 +1,47 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0/30 * * * *
+
+env:
+  TZ: Asia/Mumbai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: Update
+      run: |
+        # Channel will update here
+        rm -f ./Others/IPTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O ./Others/IPTV.m3u
+
+        # Program list-EPG will update here
+        rm -f ./Others/EPG.xml && wget https://epg.112114.xyz/pp.xml -O ./Others/EPG.xml
+        
+        # ReadMe file will update from here
+        
+       # echo "Already $DATE Automatically update channels      
+        #" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "bugsfreeweb@gmail.com"
+        git config --local user.name "bugsfreeweb"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "$DATE"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main
