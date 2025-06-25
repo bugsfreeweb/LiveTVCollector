@@ -1,0 +1,59 @@
+name: TV-Mikhoul Update Files
+
+on:
+  push:
+    branches:
+      - main
+      - Test-Starting-Over  # ADDED: This will trigger the workflow on push to your test branch
+
+  schedule:
+    - cron: '0 20 * * *'   # 20:00 UTC = 16:00 EDT
+
+  workflow_dispatch:  # Allows manual triggering
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest # Using latest for better support
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Updated to v4 for latest features
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Updated to v5
+        with:
+          python-version: '3.11' # Using a specific, stable version is better practice
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz beautifulsoup4
+
+      - name: Run TV-Mikhoul M3U collector script
+        run: python BugsfreeMain/TV-Mikhoul.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          # Using "git add -A" is simpler and captures all generated files
+          git add -A
+          # The "|| true" part prevents the workflow from failing if there are no changes
+          git commit -m "TV-Mikhoul Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          # REMOVED the "git pull --rebase origin main" command that caused the conflict
+          git push
+
+  # The update-indexes job remains unchanged as it's not part of the problem
+  update-indexes:
+    needs: update-files
+    uses: bugsfreeweb/LiveTVCollector/.github/workflows/update-indexes.yml@main
+    permissions:
+      contents: write
