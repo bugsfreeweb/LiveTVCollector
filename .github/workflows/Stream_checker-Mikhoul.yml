@@ -1,0 +1,39 @@
+name: Stream Checker-Mikhoul
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" # Every 24 hours
+  workflow_dispatch:
+
+jobs:
+  check-streams:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          echo "requests==2.32.3" > requirements.txt
+          pip install -r requirements.txt
+
+      - name: Run stream processor
+        run: python BugsfreeStreams/process_streams-Mikhoul.py
+
+      - name: Show logs
+        run: cat *.log || echo "No logs found"
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add BugsfreeStreams/
+          git diff --staged --quiet || (git commit -m "Update stream links and processed links" && git push origin main) || echo "No changes to push"
