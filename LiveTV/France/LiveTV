@@ -24,6 +24,30 @@
     "img": "https://i.ibb.co/XkLHrbC/frinfo2bl.png"
   },
   {
+    "name": "TV5MONDE INFO",
+    "type": "Uncategorized",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
+    "img": "https://i.ibb.co/drk4BWw/tv5inf.png"
+  },
+  {
+    "name": "FRANCE 24 FR",
+    "type": "Uncategorized",
+    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+    "img": "https://i.ibb.co/hKP8X8B/f24.png"
+  },
+  {
+    "name": "EURONEWS FR",
+    "type": "Uncategorized",
+    "url": "https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8",
+    "img": "https://i.ibb.co/VxLFYSj/euronews.png"
+  },
+  {
+    "name": "RT FRANÇAIS",
+    "type": "Uncategorized",
+    "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
+    "img": "https://i.ibb.co/D7w9h7Q/rt.png"
+  },
+  {
     "name": "TVL TV LIBERTÉS",
     "type": "Uncategorized",
     "url": "https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?variant_version=1&tag=14",
@@ -40,24 +64,6 @@
     "type": "Uncategorized",
     "url": "https://tvradiozap.eu/tools/mng-m3u8.php/936.1/60/master.m3u8",
     "img": "https://i.ibb.co/ZBqk6mK/lemedia.jpg"
-  },
-  {
-    "name": "EURONEWS FR",
-    "type": "Uncategorized",
-    "url": "https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8",
-    "img": "https://i.ibb.co/VxLFYSj/euronews.png"
-  },
-  {
-    "name": "TV5MONDE INFO",
-    "type": "Uncategorized",
-    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
-    "img": "https://i.ibb.co/drk4BWw/tv5inf.png"
-  },
-  {
-    "name": "FRANCE 24 FR",
-    "type": "Uncategorized",
-    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
-    "img": "https://i.ibb.co/hKP8X8B/f24.png"
   },
   {
     "name": "LCP-AN",
@@ -196,12 +202,6 @@
     "type": "Uncategorized",
     "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
     "img": "https://i.ibb.co/rwbrckj/pressir.png"
-  },
-  {
-    "name": "RT FRANÇAIS [censure-blocked]",
-    "type": "Uncategorized",
-    "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
-    "img": "https://i.ibb.co/D7w9h7Q/rt.png"
   },
   {
     "name": "RT FRANÇAIS [censure-blocked]",
@@ -524,13 +524,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjEyNjg2OTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYxMjU0MjkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.zNEElJNgD1zqMjJldyL13TE_OYzud_WtzF8UEUUFy50/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjEyOTc0OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYxMjgzMDkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.zq1y9xYuHms60ZEJw6Kanwb5yuzoQxUXVF7h4VLZjoE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjEyNzcyMjgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTI2MjgyOCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.CLmXI2Rs-TMKy08j4Q6TDr2M2pBwJRQ4rPnjeoNT6Tg/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjEzMDYwNjQsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTI5MTY2NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.oRLEv6UbCuEbHJq36bPeQ3DUeax2OwoY34M2Z5O2Vn0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -1086,6 +1086,18 @@
     "img": "https://i.ibb.co/yPsXSFf/esprsorc.png"
   },
   {
+    "name": "ÉPICURIEUX",
+    "type": "Uncategorized",
+    "url": "https://epicurieux-channel-dash.vodfactorychannels.com/out/v1/a22ee1f11bbb4de88e66b049268406bd/index.mpd?bpkio_serviceid=ba9a56ce0a9bfa263cf8dddcda650d42",
+    "img": "https://i.ibb.co/4BZYXRH/epicurieux.png"
+  },
+  {
+    "name": "ÉPICURIEUX",
+    "type": "Uncategorized",
+    "url": "https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8",
+    "img": "https://i.ibb.co/4BZYXRH/epicurieux.png"
+  },
+  {
     "name": "SQOOL TV",
     "type": "Uncategorized",
     "url": "http://tvradiozap.eu/tools/yt-m3u8.php/@sqooltv.m3u8",
@@ -1221,6 +1233,12 @@
     "name": "VOYAGES+",
     "type": "Uncategorized",
     "url": "https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8",
+    "img": "https://i.ibb.co/JRX9cpG/voyagesplus.jpg"
+  },
+  {
+    "name": "VOYAGES+",
+    "type": "Uncategorized",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8",
     "img": "https://i.ibb.co/JRX9cpG/voyagesplus.jpg"
   },
   {
@@ -3356,13 +3374,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=QIfrurnGB9pmodhMqij00A&e=1761268726",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=uXinOjB-V11roUQCziguyw&e=1761302017",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=QIfrurnGB9pmodhMqij00A&e=1761268726",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=uXinOjB-V11roUQCziguyw&e=1761302017",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
