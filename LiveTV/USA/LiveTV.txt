@@ -2141,8 +2141,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/Tm3VFmq.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: PowerNation TV
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6275-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=534f5abf-183b-4b07-88d8-ba60af3de510
+Name: PowerNation (1080p)
+URL: https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/jguTO8E.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -2732,7 +2732,7 @@ Logo: https://i.ibb.co/GW4cMfc/cafe-trade-tv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: CNBC
-URL: https://fl41.moveonjoy.com/CNBC/index.m3u8
+URL: https://fl1.moveonjoy.com/CNBC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4040,7 +4040,7 @@ Logo: https://i.imgur.com/XC30JAF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Starz Encore Classic East
-URL: https://fl41.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+URL: https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 Logo: https://i.imgur.com/L6GjoS4.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4060,7 +4060,7 @@ Logo: https://i.imgur.com/1a03FlX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TV Land
-URL: https://fl41.moveonjoy.com/TV_LAND/index.m3u8
+URL: https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 Logo: https://i.imgur.com/VNNS4mF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4272,6 +4272,13 @@ Logo: https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_US.m3u
 --------------------------------------------------
 
+Group: Classic;Movies
+Name: Artflix Movie Classics (720p)
+URL: https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+Logo: https://i.imgur.com/5pOZQB4.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+
 Group: Classic;Series
 Name: The Twilight Zone
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67352ed93a61d4000881f9fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a782-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=02a62904-a852-11f0-88b2-b2f52acde718
@@ -4293,11 +4300,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: AFV en Español (720p) [Not 24/7]
 URL: https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/HUK4WXC.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: AFV Family
-URL: https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/dLSKBEn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Black Throwbacks
@@ -4331,7 +4333,7 @@ Logo: https://i.imgur.com/uENch0P.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Comedy Central East (720p)
-URL: https://fl41.moveonjoy.com/Comedy_Central/index.m3u8
+URL: https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4351,12 +4353,17 @@ Logo: https://i.imgur.com/1lEvUOa.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Comedy TV
-URL: https://fl41.moveonjoy.com/Comedy_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 Logo: https://i.imgur.com/KLfXnba.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Failarmy International
-URL: https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+Name: Dry Bar Comedy (720p)
+URL: https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+Logo: https://i.imgur.com/3N2C60N.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Failarmy International (720p)
+URL: https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/VIpQJxL.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4370,9 +4377,14 @@ URL: https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c64
 Logo: https://i.imgur.com/e5W91v2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Just for Laughs Gags
-URL: https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+Name: Just For Laughs Gags (720p)
+URL: https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/HjVEVMJ.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Kevin Hart’s LOL! Network
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca12f772-b121-408b-a288-4d8412b2a8f8
+Logo: https://i.imgur.com/Tiy3Ur2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: KSHB-DT3 (720p)
@@ -4383,11 +4395,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Laff (480p)
 URL: http://72.46.118.193/Laff/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: LOL! Network
-URL: https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/Tiy3Ur2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: More TV Sitcoms
@@ -4610,6 +4617,11 @@ URL: https://amg01312-cw-amg01312c26-cw-us-4227.playouts.now.amagi.tv/playlist/a
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: AFV Family
+URL: https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: Just for Laughs TV
 URL: https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991176
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4622,6 +4634,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Funny Or Die, Inc.
 URL: https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: FailArmy
+URL: https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4966,7 +4983,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Fox Soul
-URL: https://fl41.moveonjoy.com/FOX_SOUL/index.m3u8
+URL: https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 Logo: https://i.imgur.com/YIamDGn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5005,8 +5022,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/lW74nDH.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Museum TV Fast
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
+Name: Museum TV Fast (1080p)
+URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 Logo: https://i.imgur.com/zzVq7BQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5021,7 +5038,7 @@ Logo: https://i.imgur.com/xDuUrj9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Ovation (1080p)
-URL: https://fl41.moveonjoy.com/Ovation/index.m3u8
+URL: https://fl1.moveonjoy.com/Ovation/index.m3u8
 Logo: https://i.imgur.com/A3o9gvc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5298,7 +5315,7 @@ Logo: https://i.imgur.com/V5vvuLK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: History
-URL: https://fl41.moveonjoy.com/history_channel/index.m3u8
+URL: https://fl1.moveonjoy.com/history_channel/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5317,13 +5334,18 @@ URL: https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 Logo: https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: MagellanTV Now (1080p)
+URL: https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+Logo: https://i.imgur.com/gEraSp5.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Military History
-URL: https://fl41.moveonjoy.com/Military_History/index.m3u8
+URL: https://fl1.moveonjoy.com/Military_History/index.m3u8
 Logo: https://i.imgur.com/S1SnpoA.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: National Geographic East
-URL: https://fl41.moveonjoy.com/National_Geographic/index.m3u8
+URL: https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5333,7 +5355,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/5
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: National Geographic Wild East
-URL: https://fl41.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+URL: https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5373,7 +5395,7 @@ Logo: https://i.imgur.com/Ws8cNtV.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Reelz (720p)
-URL: https://fl41.moveonjoy.com/REELZ/index.m3u8
+URL: https://fl1.moveonjoy.com/REELZ/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8298,7 +8320,7 @@ Logo: https://i.imgur.com/L1h6W5Q.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Antenna TV
-URL: https://fl41.moveonjoy.com/Antenna_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
 Logo: https://i.imgur.com/ocs2DeU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8313,7 +8335,7 @@ Logo: https://i.imgur.com/hW6z1RG.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Aspire
-URL: https://fl41.moveonjoy.com/Aspire/index.m3u8
+URL: https://fl1.moveonjoy.com/Aspire/index.m3u8
 Logo: https://i.imgur.com/TOM5qO6.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8333,7 +8355,7 @@ Logo: https://i.imgur.com/5kdG4Dm.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Her East
-URL: https://fl41.moveonjoy.com/BET_HER/index.m3u8
+URL: https://fl1.moveonjoy.com/BET_HER/index.m3u8
 Logo: https://i.imgur.com/oafsrlo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8353,7 +8375,7 @@ Logo: https://i.imgur.com/p0cVTlK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Buzzr
-URL: https://fl41.moveonjoy.com/Buzzr/index.m3u8
+URL: https://fl1.moveonjoy.com/Buzzr/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8378,12 +8400,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/5
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Cozi TV
-URL: https://fl41.moveonjoy.com/COZI_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/COZI_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Crime + Investigation
-URL: https://fl41.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+URL: https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8398,7 +8420,7 @@ Logo: https://i.imgur.com/usqoEug.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: E! East
-URL: https://fl41.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+URL: https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 Logo: https://i.imgur.com/TWFDkap.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8433,17 +8455,17 @@ Logo: https://i.imgur.com/KbmXdjm.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Fuse East (720p)
-URL: https://fl41.moveonjoy.com/FUSE/index.m3u8
+URL: https://fl1.moveonjoy.com/FUSE/index.m3u8
 Logo: https://i.postimg.cc/gkhMThGb/fuse.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FX East
-URL: https://fl41.moveonjoy.com/FX/index.m3u8
+URL: https://fl1.moveonjoy.com/FX/index.m3u8
 Logo: https://i.postimg.cc/263GFb0J/fx.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FXX East
-URL: https://fl41.moveonjoy.com/FXX/index.m3u8
+URL: https://fl1.moveonjoy.com/FXX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8458,7 +8480,7 @@ Logo: https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: GetTV (480p)
-URL: https://fl41.moveonjoy.com/GET_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/GET_TV/index.m3u8
 Logo: https://i.imgur.com/evOWORd.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8468,7 +8490,7 @@ Logo: https://i.imgur.com/2u33Ayy.jpeg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Grit
-URL: https://fl41.moveonjoy.com/GRIT_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 Logo: https://i.imgur.com/6w1Wj3j.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8477,8 +8499,8 @@ URL: https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Haunt TV
-URL: https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+Name: Haunt TV (1080p)
+URL: https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIdro_kFORSMlXKT0V9fBpkp5TS7VbpwlNC6XbfZxrSSWUt1UA=s512-c-k-c0x00ffffff-no-rj
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8513,17 +8535,17 @@ Logo: https://i.imgur.com/DibiJ1l.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: INSP
-URL: https://fl41.moveonjoy.com/INSP/index.m3u8
+URL: https://fl1.moveonjoy.com/INSP/index.m3u8
 Logo: https://i.imgur.com/YgOC51j.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: ION Plus East (720p)
-URL: https://fl41.moveonjoy.com/ION_Plus/index.m3u8
+URL: https://fl1.moveonjoy.com/ION_Plus/index.m3u8
 Logo: https://i.imgur.com/1dgCvNE.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: ION TV East
-URL: https://fl41.moveonjoy.com/ION_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/ION_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8643,7 +8665,7 @@ Logo: https://i.imgur.com/fJxySUg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Lifetime East
-URL: https://fl41.moveonjoy.com/LIFETIME/index.m3u8
+URL: https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8668,7 +8690,7 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MeTV
-URL: https://fl41.moveonjoy.com/ME_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/ME_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8683,12 +8705,12 @@ Logo: https://i.imgur.com/Tw3rTxP.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTV2 (720p)
-URL: https://fl41.moveonjoy.com/MTV_2/index.m3u8
+URL: https://fl1.moveonjoy.com/MTV_2/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTV East
-URL: https://fl41.moveonjoy.com/MTV/index.m3u8
+URL: https://fl1.moveonjoy.com/MTV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8703,7 +8725,7 @@ Logo: https://i.imgur.com/WsQRCmZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: mtvU (480p)
-URL: https://fl41.moveonjoy.com/MTV_U/index.m3u8
+URL: https://fl1.moveonjoy.com/MTV_U/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8743,12 +8765,12 @@ Logo: https://i.imgur.com/CeMf68L.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Oxygen East
-URL: https://fl41.moveonjoy.com/OXYGEN/index.m3u8
+URL: https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: People are Awesome
-URL: https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+Name: People Are Awesome (720p)
+URL: https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/MsIx7Ax.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8783,7 +8805,7 @@ Logo: https://i.imgur.com/RPtjZyZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pop TV
-URL: https://fl41.moveonjoy.com/Pop_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 Logo: https://i.imgur.com/XySNnh0.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8847,8 +8869,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/LuE8Wl4.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Timeline
-URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+Name: Timeline (720p)
+URL: https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/PZRQvFv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -8887,8 +8909,8 @@ URL: https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Wipeout Xtra (720p)
-URL: https://livetv-fa.tubi.video/wipeout-xtra/playlist.m3u8
+Name: Wipeout Xtra (1080p)
+URL: https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/UDeCRW1.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -9080,7 +9102,7 @@ Logo: https://i.imgur.com/BGAGeIf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Channel East
-URL: https://fl41.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+URL: https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -9094,8 +9116,8 @@ URL: https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/uoWrh7e.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: The Pet Collective
-URL: https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
+Name: The Pet Collective International (720p)
+URL: https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/yH7n2dF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -9338,8 +9360,8 @@ URL: https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 Logo: https://www.lyngsat.com/logo/tv/bb/binge-us.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Bloomberg Quicktake
-URL: https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+Name: Bloomberg Quicktake (1080p)
+URL: https://bloomberg.com/media-manifest/streams/qt.m3u8
 Logo: https://i.imgur.com/T4HwPUn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -9424,7 +9446,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: CBS East (720p)
-URL: https://fl41.moveonjoy.com/CBS_News/index.m3u8
+URL: https://fl1.moveonjoy.com/CBS_News/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -9843,8 +9865,13 @@ URL: https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 Logo: https://i.imgur.com/64sZVF9.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: NTD TV (1080p)
-URL: https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+Name: NTD TV
+URL: https://live.ntdtv.com/live900/playlist.m3u8
+Logo: https://i.postimg.cc/XYGstDdJ/ntdtv.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: NTD TV West
+URL: https://live.ntdtv.com/uwlive990/playlist.m3u8
 Logo: https://i.postimg.cc/XYGstDdJ/ntdtv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -9993,11 +10020,6 @@ URL: https://link.frontlayer.com/services/hls2/fl823467/index.m3u8
 Logo: https://i.imgur.com/grDBcTs.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Telemundo West (720p)
-URL: https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: The Library Channel TV18 (360p)
 URL: https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 Logo: https://i.imgur.com/irwOxj4.png
@@ -10106,7 +10128,7 @@ Logo: https://i.imgur.com/PF71rdZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: NTD TV English (1080p)
-URL: https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+URL: https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 Logo: https://i.imgur.com/26uv1ww.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10546,12 +10568,12 @@ Logo: https://i.postimg.cc/854KwmH1/disneychannel.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Disney Junior East
-URL: https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
+URL: https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 Logo: https://i.postimg.cc/KvRqrLg2/disneyjunior.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Disney XD (720p)
-URL: http://fl41.moveonjoy.com/DISNEY_XD/index.m3u8
+URL: http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 Logo: https://i.postimg.cc/MKNssTyj/disneyxd.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10580,8 +10602,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/NxE3kX3.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Kartoon Channel
-URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+Name: Kartoon Channel (1080p)
+URL: https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/1luzP3T.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10611,7 +10633,7 @@ Logo: https://i.imgur.com/PVt8OPN.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Nick Jr. East (720p)
-URL: https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+URL: https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 Logo: https://i.imgur.com/KT4tdQs.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10696,7 +10718,7 @@ Logo: https://i.imgur.com/O1Mengf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TeenNick
-URL: https://fl41.moveonjoy.com/Teen_Nick/index.m3u8
+URL: https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10705,8 +10727,8 @@ URL: https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 Logo: https://gia.tv/streams/pptv/208314.jpg?1750373428
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Toon Goggles (720p)
-URL: https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+Name: ToonGoggles (720p)
+URL: https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/JMnxswq.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13203,7 +13225,7 @@ Logo: https://i.imgur.com/ObNBL7L.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: C-SPAN
-URL: https://fl41.moveonjoy.com/C-SPAN/index.m3u8
+URL: https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13639,11 +13661,6 @@ URL: https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 Logo: https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Antiques Road Trip (1080p) [Geo-blocked]
-URL: https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/kkm7VqV.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: BBC Home & Garden
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
 Logo: https://i.imgur.com/rC0pi1D.png
@@ -13670,12 +13687,12 @@ Logo: https://i.imgur.com/RIUNuMQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Cleo TV (720p)
-URL: https://fl41.moveonjoy.com/Cleo_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
 Logo: https://i.imgur.com/US0T6DC.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FYI East
-URL: https://fl41.moveonjoy.com/FYI/index.m3u8
+URL: https://fl1.moveonjoy.com/FYI/index.m3u8
 Logo: https://i.imgur.com/PggQk7F.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13707,6 +13724,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Opportunities in Urban Renaissance Television (OURTV) (720p)
 URL: https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
 Logo: https://i.imgur.com/LMeoW0l.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: PBS Antiques Road Trip (1080p)
+URL: https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+Logo: https://i.imgur.com/kkm7VqV.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Home
@@ -13744,8 +13766,8 @@ URL: https://stream.castr.com/67320cbb6b3df3c4694581ce/live_a80e55b0a03411efa6ee
 Logo: https://i.imgur.com/KShaqAp.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: The Design Network (1080p)
-URL: https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+Name: The Design Network (1080p) [Geo-blocked]
+URL: https://amg00441-amg00441c1-samsung-au-6606.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/J5YJ3r3.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17492,7 +17514,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.sv
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: AMC East (1080p)
-URL: https://fl41.moveonjoy.com/AMC_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17602,8 +17624,13 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FXM East
-URL: https://fl41.moveonjoy.com/FX_MOVIE/index.m3u8
+URL: https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 Logo: https://i.postimg.cc/j27hBV04/fxm.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Grjngo Western Movies (720p)
+URL: https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+Logo: https://i.imgur.com/wFqhK3p.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Movies & More
@@ -17612,7 +17639,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Movies Mysteries East
-URL: https://fl41.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+URL: https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 Logo: https://i.imgur.com/GPRGA9C.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17622,7 +17649,7 @@ Logo: https://i.imgur.com/bQdkyF9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Lifetime Movies East
-URL: https://fl41.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 Logo: https://i.postimg.cc/RZGmYyTt/lifetimemovies.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17637,12 +17664,12 @@ Logo: https://images.fubo.tv/station_logos/maverick_black_cinema_c.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MGM+ East
-URL: https://fl41.moveonjoy.com/EPIX/index.m3u8
+URL: https://fl1.moveonjoy.com/EPIX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MGM+ Marquee
-URL: https://fl41.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+URL: https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17661,8 +17688,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/h1ejU90.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: MyTime Movie Network
-URL: https://mytime-tcl.amagi.tv/playlist.m3u8
+Name: MyTime Movie Network (1080p)
+URL: https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/HYgxPVQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17672,7 +17699,7 @@ Logo: https://i.imgur.com/wCgirjc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: OuterMax East (720p)
-URL: https://fl41.moveonjoy.com/OUTER_MAX/index.m3u8
+URL: https://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17802,7 +17829,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Sundance TV East
-URL: https://fl41.moveonjoy.com/SUNDANCE/index.m3u8
+URL: https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -17986,7 +18013,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 
 Group: Movies;Series
 Name: Paramount Network East
-URL: https://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18003,7 +18030,7 @@ Logo: https://i.postimg.cc/qMJNKMP2/avangtv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: AXS TV
-URL: https://fl41.moveonjoy.com/Axs_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/Axs_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/512px-AXS_TV_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18018,7 +18045,7 @@ Logo: https://i.imgur.com/bLjmQTU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: CMT East
-URL: https://fl41.moveonjoy.com/CMT/index.m3u8
+URL: https://fl1.moveonjoy.com/CMT/index.m3u8
 Logo: https://i.imgur.com/S7DOpdY.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18093,12 +18120,12 @@ Logo: https://i.imgur.com/AOaZmlS.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTV Classic (360p)
-URL: https://fl41.moveonjoy.com/MTV_CLASSIC/index.m3u8
+URL: https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTV Live (720p)
-URL: https://fl41.moveonjoy.com/MTV_LIVE/index.m3u8
+URL: https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 Logo: https://i.imgur.com/3UByLqb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18113,7 +18140,7 @@ Logo: https://i.imgur.com/B7ILXMc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Nick Music (720p)
-URL: https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8
+URL: https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18167,28 +18194,28 @@ URL: https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 Logo: https://i.imgur.com/rVKroNW.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo 2K
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+Name: Vevo 2K (1080p)
+URL: https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 Logo: https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo '70s
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+Name: Vevo 70s (1080p)
+URL: https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 Logo: https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo '80s
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
+Name: Vevo 80s (1080p)
+URL: https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 Logo: https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo '90s
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+Name: Vevo 90s (1080p)
+URL: https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 Logo: https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo Country
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
+Name: Vevo Country (1080p)
+URL: https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 Logo: https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18202,8 +18229,8 @@ URL: https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist
 Logo: https://i.imgur.com/D7SwmuB.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo Pop
-URL: https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+Name: Vevo Pop (1080p)
+URL: https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/dZHktKR.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18217,8 +18244,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Vevo Retro Rock
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
+Name: Vevo Retro Rock (1080p)
+URL: https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/H1Aap4E.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18228,7 +18255,7 @@ Logo: https://i.imgur.com/owUXUih.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: VH1 East
-URL: https://fl41.moveonjoy.com/VH1/index.m3u8
+URL: https://fl1.moveonjoy.com/VH1/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22234,6 +22261,11 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: MyTime Movie Network
+URL: https://mytime-tcl.amagi.tv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: WE TV (Women Entertainment Television)
 URL: http://kstv.us:8080/live/Babeboi11/9785992589/23233.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -22982,7 +23014,7 @@ Logo: https://i.imgur.com/YFFSEd9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WFTS-DT1
-URL: https://fl41.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+URL: https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -23231,6 +23263,11 @@ URL: https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: Bloomberg Quicktake
+URL: https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: BBC News North America
 URL: https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -23298,6 +23335,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: The National News Desk
 URL: https://dai.google.com/linear/hls/event/VnZY5jBuRymXMn2_604j8Q/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NTD News
+URL: https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -23496,7 +23538,7 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 
 Group: News;Sports
 Name: ESPNews (720p)
-URL: https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
+URL: https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -23559,8 +23601,8 @@ URL: https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/UKfimFD.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Outdoor Channel
-URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+Name: Outdoor Channel (1080p)
+URL: https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/Kh4MWaY.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -25403,7 +25445,7 @@ Logo: https://i.imgur.com/3pUik3b.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Gospel
-URL: https://fl41.moveonjoy.com/BET_GOSPEL/index.m3u8
+URL: https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
 Logo: https://i.imgur.com/jbOkq8C.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26019,7 +26061,7 @@ Logo: https://i.imgur.com/uhunRoU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Smithsonian Channel East
-URL: https://fl41.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+URL: https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26122,8 +26164,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/WFgWGPb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Baywatch
-URL: https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+Name: Baywatch (1080p)
+URL: https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/c2esKHg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26152,8 +26194,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/9K8T3ND.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Deal or no Deal
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4
+Name: Deal or No Deal (1080p)
+URL: https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/lZvNXA1.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26183,7 +26225,7 @@ Logo: https://i.imgur.com/zeTgPIx.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Don't Tell The Bride (1080p)
-URL: https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+URL: https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/h0bc3Fa.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26202,8 +26244,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/WJEkKCb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Fear Factor
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e31f1ad3-d53a-4c8d-9e63-079c41a20d98
+Name: Fear Factor (1080p)
+URL: https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/CIYnLWz.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26213,7 +26255,7 @@ Logo: https://i.imgur.com/OxUS1Hq.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Drama (720p)
-URL: https://fl41.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+URL: https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26302,8 +26344,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/dD7WbQC.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Nosey
-URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
+Name: Nosey (1080p)
+URL: https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/i5doCQK.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26432,8 +26474,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/8cvXYiT.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Survivor
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a
+Name: Survivor (1080p)
+URL: https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 Logo: https://i.imgur.com/Zz9SgY8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26851,7 +26893,7 @@ Logo: https://i.imgur.com/V6Kaqha.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: ACCN (720p)
-URL: https://fl41.moveonjoy.com/ACC_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 Logo: https://i.imgur.com/TpCkbkT.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26866,12 +26908,12 @@ Logo: https://i.imgur.com/9oyc88J.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: beIN Sports USA
-URL: http://fl41.moveonjoy.com/BEIN_SPORTS/index.m3u8
+URL: http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: beIN SPORTS XTRA
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863
+Name: BeIN SPORTS XTRA (1080p) [Geo-blocked]
+URL: https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/uJosqHh.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26911,7 +26953,7 @@ Logo: https://i.imgur.com/q8BENJg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: CBS Sports Network USA
-URL: https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 Logo: https://i.imgur.com/A8CnA8g.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26921,7 +26963,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.sv
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: ESPN U (720p)
-URL: https://fl41.moveonjoy.com/ESPN_U/index.m3u8
+URL: https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 Logo: https://i.imgur.com/HiBrysh.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26931,7 +26973,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FanDuel Sports Network
-URL: https://fl41.moveonjoy.com/PAC_12/index.m3u8
+URL: https://fl1.moveonjoy.com/PAC_12/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26971,7 +27013,7 @@ Logo: https://i.imgur.com/tS7Ub7i.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Golf Channel
-URL: https://fl41.moveonjoy.com/GOLF/index.m3u8
+URL: https://fl1.moveonjoy.com/GOLF/index.m3u8
 Logo: https://i.imgur.com/Lgux6Ik.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -26991,12 +27033,12 @@ Logo: https://i.imgur.com/ym3su2J.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MLB Network
-URL: https://fl41.moveonjoy.com/MLB_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 Logo: https://i.imgur.com/sA5V39D.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MSG
-URL: https://fl41.moveonjoy.com/MSG/index.m3u8
+URL: https://fl1.moveonjoy.com/MSG/index.m3u8
 Logo: https://i.imgur.com/SEQFh0P.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -27031,12 +27073,12 @@ Logo: https://i.imgur.com/mPGtwAP.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: NFL Network
-URL: https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: NFL RedZone
-URL: https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
+URL: https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 Logo: https://i.imgur.com/5lPqQj5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -27106,12 +27148,12 @@ Logo: https://i.imgur.com/ulGKX30.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Sportsman Channel
-URL: https://fl41.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+URL: https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 Logo: https://i.imgur.com/CXauv8M.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: SportsNet New York (540p)
-URL: https://fl41.moveonjoy.com/SNY/index.m3u8
+URL: https://fl1.moveonjoy.com/SNY/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -27760,6 +27802,11 @@ URL: http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/5289.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: Outdoor TV
+URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: Fuel TV
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuseng-teleup/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -28366,8 +28413,8 @@ URL: https://go2thls.wns.live/hls/stream.m3u8
 Logo: https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Go USA
-URL: https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+Name: Go USA TV (720p)
+URL: https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/x90ALip.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29320,17 +29367,17 @@ Logo: https://i.imgur.com/RAfuLul.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET East
-URL: https://fl41.moveonjoy.com/BET_EAST/index.m3u8
+URL: https://fl1.moveonjoy.com/BET_EAST/index.m3u8
 Logo: https://i.imgur.com/copIbc9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Jams
-URL: https://fl41.moveonjoy.com/BET_Jams/index.m3u8
+URL: https://fl1.moveonjoy.com/BET_Jams/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Soul
-URL: https://fl41.moveonjoy.com/BET_SOUL/index.m3u8
+URL: https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 Logo: https://i.imgur.com/VeuTWUb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29345,17 +29392,17 @@ Logo: https://i.imgur.com/3Gqc5f2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Big Ten Network
-URL: https://fl41.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Bounce
-URL: https://fl41.moveonjoy.com/BOUNCE_TV/index.m3u8
+URL: https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Bravo East
-URL: https://fl41.moveonjoy.com/BRAVO/index.m3u8
+URL: https://fl1.moveonjoy.com/BRAVO/index.m3u8
 Logo: https://i.imgur.com/JmTIRLF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29475,7 +29522,7 @@ Logo: https://i.imgur.com/wlYUEYc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: INFAST (1080p)
-URL: https://lifestyle-rakuten.amagi.tv/playlist.m3u8
+URL: https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/VwAMqA7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29715,7 +29762,7 @@ Logo: https://i.imgur.com/I4KDvu9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pursuit Channel (720p)
-URL: https://fl41.moveonjoy.com/Pursuit_Channel/index.m3u8
+URL: https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29724,13 +29771,13 @@ URL: https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://i.imgur.com/l7tmTjX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Real Wild
-URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+Name: Real Wild (1080p)
+URL: https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/T9HHmAO.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Revolt
-URL: https://fl41.moveonjoy.com/REVOLT/index.m3u8
+URL: https://fl1.moveonjoy.com/REVOLT/index.m3u8
 Logo: https://i.postimg.cc/4xnH4Dx6/revolt.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29765,27 +29812,27 @@ Logo: https://i.imgur.com/TFxLj80.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime 2 East
-URL: https://fl41.moveonjoy.com/SHOWTIME_2/index.m3u8
+URL: https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime East
-URL: https://fl41.moveonjoy.com/SHOWTIME/index.m3u8
+URL: https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 Logo: https://i.postimg.cc/4NFMSszc/showtime.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime Next East
-URL: https://fl41.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+URL: https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 Logo: https://i.imgur.com/1Ak2MX2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime West (1080p)
-URL: https://fl41.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+URL: https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 Logo: https://i.postimg.cc/4NFMSszc/showtime.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime Women East
-URL: https://fl41.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+URL: https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29815,17 +29862,17 @@ Logo: https://i.imgur.com/1LX6L6Z.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Start TV
-URL: https://fl41.moveonjoy.com/Start_Tv/index.m3u8
+URL: https://fl1.moveonjoy.com/Start_Tv/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Starz East
-URL: https://fl41.moveonjoy.com/STARZ/index.m3u8
+URL: https://fl1.moveonjoy.com/STARZ/index.m3u8
 Logo: https://i.imgur.com/N7oSm4d.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Starz West
-URL: https://fl41.moveonjoy.com/STARZ_WEST/index.m3u8
+URL: https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 Logo: https://i.imgur.com/N7oSm4d.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29840,7 +29887,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.p
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Syfy East
-URL: https://fl41.moveonjoy.com/SYFY/index.m3u8
+URL: https://fl1.moveonjoy.com/SYFY/index.m3u8
 Logo: https://i.imgur.com/4fMWhUE.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29890,7 +29937,7 @@ Logo: https://i.imgur.com/2gj2KhC.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: The Cowboy Channel
-URL: https://fl41.moveonjoy.com/Cowboy_Channel/index.m3u8
+URL: https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
 Logo: https://i.imgur.com/0F1c7x4.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29920,7 +29967,7 @@ Logo: https://i.imgur.com/JCpFAll.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: True Crime Now (1080p)
-URL: https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+URL: https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
 Logo: https://i.imgur.com/Y6Hix17.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29945,7 +29992,7 @@ Logo: https://i.imgur.com/a0BRhvr.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TV One
-URL: https://fl41.moveonjoy.com/TV_ONE/index.m3u8
+URL: https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 Logo: https://i.imgur.com/tthm8Q5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -29960,12 +30007,12 @@ Logo: https://i.imgur.com/cTwdOtV.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Up TV (1080p)
-URL: https://fl41.moveonjoy.com/Up_Tv/index.m3u8
+URL: https://fl1.moveonjoy.com/Up_Tv/index.m3u8
 Logo: https://i.imgur.com/AvR9LSn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: USA Network (720p)
-URL: http://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
+URL: http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30045,12 +30092,12 @@ Logo: https://i.imgur.com/RG8bjL7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WFLA-DT1
-URL: https://fl41.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+URL: https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WFLX-DT1
-URL: https://fl41.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+URL: https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30110,7 +30157,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_L
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Willow
-URL: https://fl41.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+URL: https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 Logo: https://i.imgur.com/v7nSm7M.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30170,7 +30217,7 @@ Logo: https://i.imgur.com/mrWo0P1.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WKCF-DT1
-URL: https://fl41.moveonjoy.com/CW_ORLANDO/index.m3u8
+URL: https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30210,7 +30257,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_networ
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WNBC-DT1
-URL: https://fl41.moveonjoy.com/NBC_EAST/index.m3u8
+URL: https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30225,7 +30272,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WOFL-DT1 (720p)
-URL: https://fl41.moveonjoy.com/FOX_EAST/index.m3u8
+URL: https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30245,7 +30292,7 @@ Logo: https://i.imgur.com/xtbkDDN.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WPEC-DT1
-URL: https://fl41.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+URL: https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30285,7 +30332,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WTOG-DT1
-URL: https://fl41.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+URL: https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WTOG_Tampa_Bay_44_2023.svg/1024px-WTOG_Tampa_Bay_44_2023.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30325,7 +30372,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Gro
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Yes Network
-URL: https://fl41.moveonjoy.com/YES_NETWORK/index.m3u8
+URL: https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
