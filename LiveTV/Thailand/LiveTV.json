@@ -1,7 +1,14 @@
 {
-  "date": "2025-11-02 21:54:37",
+  "date": "2025-11-03 07:21:45",
   "channels": {
     "VTV": [
+      {
+        "name": "VTV1",
+        "logo": "https://i.imgur.com/nfkmvAY.png",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://kupjta.online/iptv/2/index.m3u8"
+      },
       {
         "name": "VTV1",
         "logo": "https://i.imgur.com/nfkmvAY.png",
@@ -203,34 +210,6 @@
     ],
     "K+": [
       {
-        "name": "K+ CINE",
-        "logo": "https://i.imgur.com/As4bwUs.png",
-        "group": "K+",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6gx7gFPNU9ZfLtkACIxHuw/ts"
-      },
-      {
-        "name": "K+ACTION",
-        "logo": "https://i.imgur.com/QPkuBRi.png",
-        "group": "K+",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-_R93eVBwswXKHs_gjSOGc/ts"
-      },
-      {
-        "name": "K+SPORT1",
-        "logo": "https://i.imgur.com/6yiAtRg.png",
-        "group": "K+",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8Bhv8AwPH-8TUlO_Jo3kh8/ts"
-      },
-      {
-        "name": "K+SPORT2",
-        "logo": "https://i.imgur.com/EFeyqYX.png",
-        "group": "K+",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1quEUElf5xxIH8qdsfUpp0/ts"
-      },
-      {
         "name": "K+KIDS",
         "logo": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg",
         "group": "K+",
@@ -251,7 +230,7 @@
         "logo": "https://i.imgur.com/Yc3cmAi.png",
         "group": "HTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/htv2/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban2/index.m3u8?id=htv2&token=2025"
       },
       {
         "name": "HTV3",
@@ -900,73 +879,101 @@
         "logo": "https://i.imgur.com/leWw1zz.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025"
       },
       {
         "name": "Box Hits",
         "logo": "https://i.ibb.co/BBN7g4y/boxhits.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=239&token=2025"
       },
       {
         "name": "Hollywood Classics",
         "logo": "https://i.imgur.com/2EDOvcL.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=160&token=2025"
       },
       {
         "name": "In The Box",
         "logo": "https://i.ibb.co/Qdv98Db/inthebox.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=235&token=2025"
       },
       {
         "name": "Dr.Fit",
         "logo": "https://i.imgur.com/1D37LIf.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=162&token=2025"
       },
       {
         "name": "Happy Kids",
         "logo": "https://i.imgur.com/KbZPtgB.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=212&token=2025"
       },
       {
         "name": "Music Box",
         "logo": "https://i.imgur.com/kPJktTH.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=289&token=2025"
       },
       {
         "name": "Planet Earth",
         "logo": "https://i.imgur.com/GKOac3p.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025"
       },
       {
         "name": "Woman",
         "logo": "https://i.imgur.com/s8nALCG.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=163"
       },
       {
         "name": "Man",
         "logo": "https://i.ibb.co/wcT2VqP/man.png",
         "group": "In The Box",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=237&token=2025"
       }
     ],
     "Quốc tế": [
+      {
+        "name": "HBO Hits",
+        "logo": "https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://filex.tv:8080//live/drzain/002808/302250.ts"
+      },
+      {
+        "name": "HBO Family",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://filex.tv:8080//live/drzain/002808/302249.ts"
+      },
+      {
+        "name": "HBO Signature HD",
+        "logo": "https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://filex.tv:8080//live/drzain/002808/302251.ts"
+      },
+      {
+        "name": "Cartoonito",
+        "logo": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=EmvO2AH4kY"
+      },
       {
         "name": "Da Vinci",
         "logo": "https://i.imgur.com/iBx7K1M.png",
@@ -975,11 +982,25 @@
         "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8"
       },
       {
+        "name": "Animax HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://filex.tv:8080//live/drzain/002808/290854.ts"
+      },
+      {
         "name": "KIX",
         "logo": "https://vnepg.site/logos/167.png",
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "BBC Earth",
+        "logo": "https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71995&extension=ts&play_token=mvpWiPu9Lp"
       },
       {
         "name": "HGTV",
@@ -993,7 +1014,7 @@
         "logo": "https://i.ibb.co/41wJdvL/history.png",
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8"
+        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=9856&token=2025"
       },
       {
         "name": "Asian Food Network",
@@ -1014,7 +1035,7 @@
         "logo": "https://i.imgur.com/ZStxdQI.png",
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://125hvt.ddns.net:21585/tlc/index.m3u8"
+        "url": "https://1.org.vn/tlc"
       },
       {
         "name": "ABC News",
