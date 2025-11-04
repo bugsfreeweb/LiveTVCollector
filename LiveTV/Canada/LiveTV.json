@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-03 21:52:44",
+  "date": "2025-11-04 06:57:50",
   "channels": {
     "Pluto TV House of Horror": [
       {
@@ -1953,6 +1953,99 @@
         "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
       }
     ],
+    "Religious": [
+      {
+        "name": "3ABN Canada",
+        "logo": "https://i.imgur.com/U99CsEc.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
+      },
+      {
+        "name": "Amazing Discoveries TV (720p)",
+        "logo": "https://i.imgur.com/I0oPFTj.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+      },
+      {
+        "name": "Erfan Halgheh TV (720p)",
+        "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8"
+      },
+      {
+        "name": "EWTN Canada (720p)",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "GurSikh Sabha TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/2EKCtQm.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
+      },
+      {
+        "name": "icnet 1",
+        "logo": "https://i.imgur.com/aeS4Sjv.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://icnet1hls.wns.live/hls/stream.m3u8"
+      },
+      {
+        "name": "IIPC TV (480p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/mIih39Y.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8"
+      },
+      {
+        "name": "Quo Vadis Ministry TV (720p)",
+        "logo": "https://i.imgur.com/pEqDDHl.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8"
+      },
+      {
+        "name": "Radio Tele Evangile Sans Limite",
+        "logo": "https://i.imgur.com/CL32kFA.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+      },
+      {
+        "name": "SVBC 2 (576p)",
+        "logo": "https://i.imgur.com/NtmRt1A.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/svbc2tamil/playlist.m3u8"
+      },
+      {
+        "name": "SVBC 3 (720p)",
+        "logo": "https://i.imgur.com/Ae2PMTu.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
+      },
+      {
+        "name": "SVBC 4 (1080p)",
+        "logo": "https://i.imgur.com/vCFdZny.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
+      },
+      {
+        "name": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
+        "logo": "https://i.imgur.com/LSMvXAl.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8"
+      }
+    ],
     "Entertainment": [
       {
         "name": "5AAB TV (720p) [Not 24/7]",
@@ -2349,92 +2442,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e2f6bf-cd8e-44d2-ad1e-a5747a670d91"
-      }
-    ],
-    "Religious": [
-      {
-        "name": "Amazing Discoveries TV (720p)",
-        "logo": "https://i.imgur.com/I0oPFTj.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
-      },
-      {
-        "name": "Erfan Halgheh TV (720p)",
-        "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8"
-      },
-      {
-        "name": "EWTN Canada (720p)",
-        "logo": "https://i.imgur.com/sua70RO.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "GurSikh Sabha TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/2EKCtQm.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
-      },
-      {
-        "name": "icnet 1",
-        "logo": "https://i.imgur.com/aeS4Sjv.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://icnet1hls.wns.live/hls/stream.m3u8"
-      },
-      {
-        "name": "IIPC TV (480p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/mIih39Y.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8"
-      },
-      {
-        "name": "Quo Vadis Ministry TV (720p)",
-        "logo": "https://i.imgur.com/pEqDDHl.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8"
-      },
-      {
-        "name": "Radio Tele Evangile Sans Limite",
-        "logo": "https://i.imgur.com/CL32kFA.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
-      },
-      {
-        "name": "SVBC 2 (576p)",
-        "logo": "https://i.imgur.com/NtmRt1A.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://yuppftalive.akamaized.net/080823/svbc2tamil/playlist.m3u8"
-      },
-      {
-        "name": "SVBC 3 (720p)",
-        "logo": "https://i.imgur.com/Ae2PMTu.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
-      },
-      {
-        "name": "SVBC 4 (1080p)",
-        "logo": "https://i.imgur.com/vCFdZny.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
-      },
-      {
-        "name": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
-        "logo": "https://i.imgur.com/LSMvXAl.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8"
       }
     ],
     "Undefined": [
