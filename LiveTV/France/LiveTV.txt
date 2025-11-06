@@ -799,9 +799,9 @@ URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls
 Logo: https://i.imgur.com/MgBeU52.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
-Name: Men's UP TV
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
-Logo: https://i.imgur.com/5BZwRFs.png
+Name: ici Elsass
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: Puissance TV
@@ -1082,11 +1082,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: HANDICAP TV France
 URL: https://srv.webtvmanager.fr:3697/stream/play.m3u8
 Logo: https://i.imgur.com/vXbAeD0.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Maison & Travaux TV
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
-Logo: https://i.imgur.com/uYpc6nE.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: Monte Carlo Digital Television (1080p)
@@ -1390,6 +1385,11 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: Religious
+Name: EMCI TV
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Ère TV (1080p)
 URL: https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 Logo: https://i.imgur.com/utMKPpl.png
@@ -2110,12 +2110,12 @@ Logo: https://i.ibb.co/Zfcrrr1/lci.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1_
-URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjIzNzAyOTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyMzU1ODkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.BTj61ITbscMcL6QsIAs7N3pY6NXR3nvL8Zw5Qt51_ss/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjIzOTU1MDQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyMzgxMTA0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.sAEQk12tBiED4Wr4RgNQw-k4bd9IkrE3QTbmUh4kOm0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1-
-URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjIzNzE5NDQsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjM1NzU0NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.TJ0KhTydn29rqB4kPWuMl-BDRqKomhLTAJdylcsYBVI/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjI0MDA1NjcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjM4NjE2NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.gq__1pQ2NZXoBzLaNxVWZEYEEC6LST31kt0fgbKz5m0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -2629,6 +2629,11 @@ URL: https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
 Logo: https://i.ibb.co/tcYgz6h/mensup.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: MEN'S UP TV
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
+Logo: https://i.ibb.co/tcYgz6h/mensup.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: TOP SANTÉ
 URL: https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
 Logo: https://i.ibb.co/TLPBT2L/topsante.png
@@ -2646,6 +2651,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: MAISON & TRAVAUX
 URL: https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+Logo: https://i.ibb.co/d66k2fw/maisontrvx.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MAISON & TRAVAUX
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 Logo: https://i.ibb.co/d66k2fw/maisontrvx.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -4510,12 +4520,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2ZCbIIrmiVyOWTWXwEp-Jg&e=1762370527
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=YI-1-5vuaATo_GzZwGikdg&e=1762392169
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2ZCbIIrmiVyOWTWXwEp-Jg&e=1762370527
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=YI-1-5vuaATo_GzZwGikdg&e=1762392169
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -5879,6 +5889,11 @@ URL: https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e
 Logo: https://i.ibb.co/k9phm3v/diyanettv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: DİYANET TV
+URL: http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+Logo: https://i.ibb.co/k9phm3v/diyanettv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: SEMERKAND
 URL: https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 Logo: https://i.ibb.co/k8L3Mq1/semerkandtv.png
@@ -5911,6 +5926,76 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: VAV TV
 URL: https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV
+URL: https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/vav-tv.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV AILE
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV ISLAM
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV ILMIHAL
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV KURANI KERIM
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV KULTUR SANAT
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV MUKABELE
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV BELGESEL
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV TARIH
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV SAGLIK
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist/1.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV VAAZ
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV ASR-I SERIF
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV ASR-I SAADET
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
+Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: VAV TV ILAHILER
+URL: https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
 Logo: https://i.ibb.co/bj1H8LCm/vavtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -6959,26 +7044,6 @@ URL: https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: KURDMAX SHOW
-URL: https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
-Logo: https://i.ibb.co/cXd3MBV/symkr.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: KURDMAX SHOW
-URL: https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
-Logo: https://i.ibb.co/cXd3MBV/symkr.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: KURDMAX SORANÎ
-URL: https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
-Logo: https://i.ibb.co/cXd3MBV/symkr.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: KURDMAX MUSIC
-URL: https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
-Logo: https://i.ibb.co/cXd3MBV/symkr.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
 Name: RÛDAW TV
 URL: https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
@@ -7054,13 +7119,58 @@ URL: https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: KURDSAT NEWS
+URL: https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: KURDMAX MUSIC
 URL: https://6476e46b58f91.streamlock.net/music/livestream/chunklist.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: KURDMAX MUSIC
+URL: https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KURDMAX MUSIC
+URL: https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KURDMAX SHOW
+URL: https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KURDMAX SHOW
+URL: https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KURDMAX SHOW
+URL: https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KURDMAX SORANÎ
+URL: https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KURDMAX SORANÎ
+URL: https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: GELÎ KURDISTAN TV
 URL: https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: WAAR MEDIA
+URL: https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -15716,6 +15826,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 
 Group: Undefined
+Name: AraBel
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8
+Logo: https://www.arabel.fm/wp-content/uploads/2021/10/Logo-AraBel.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Caillou
 URL: https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 Logo: https://i.imgur.com/RgKaoe4.png
@@ -15754,6 +15869,11 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: RMC Story (1080p)
 URL: https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 Logo: https://i.postimg.cc/MpjZFqGF/rmcstory.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Sud Radio
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
+Logo: https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: Telenantes
