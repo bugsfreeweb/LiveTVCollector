@@ -60,12 +60,6 @@
     "img": "https://i.imgur.com/KSePPeW.png"
   },
   {
-    "name": "Global TV",
-    "type": "General",
-    "url": "http://181.188.216.5:18000/play/a0m5/index.m3u8",
-    "img": "https://i.imgur.com/yuEou9C.png"
-  },
-  {
     "name": "Intuitiva TV (720p)",
     "type": "General",
     "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
@@ -690,12 +684,6 @@
     "img": "https://i.imgur.com/fY9256H.png"
   },
   {
-    "name": "Canal N",
-    "type": "News",
-    "url": "http://181.188.216.5:18000/play/a01p/index.m3u8",
-    "img": "https://i.imgur.com/Xytvw3J.png"
-  },
-  {
     "name": "Conecta2TV (720p) [Not 24/7]",
     "type": "News",
     "url": "https://live.obslivestream.com/conecta2/index.m3u8",
@@ -906,16 +894,10 @@
     "img": "https://i.imgur.com/e6esjLZ.jpg"
   },
   {
-    "name": "Canal IPe (1080p)",
-    "type": "Family",
-    "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png"
-  },
-  {
-    "name": "Congreso TV",
-    "type": "Legislative",
-    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
-    "img": "https://i.imgur.com/r0foZ5t.png"
+    "name": "Cadena TV (720p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+    "img": "https://i.imgur.com/stvzqzd.png"
   },
   {
     "name": "Controversia TV (720p) [Not 24/7]",
@@ -1132,6 +1114,18 @@
     "type": "Undefined",
     "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
     "img": "https://i.imgur.com/BOXIRBT.png"
+  },
+  {
+    "name": "Canal IPe (1080p)",
+    "type": "Family",
+    "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png"
+  },
+  {
+    "name": "Congreso TV",
+    "type": "Legislative",
+    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "img": "https://i.imgur.com/r0foZ5t.png"
   },
   {
     "name": "DirecTV Sports (1080p)",
@@ -1620,6 +1614,12 @@
     "img": "http://imgfz.com/i/FjOT9LP.jpeg"
   },
   {
+    "name": "13 | GLOBAL TV |",
+    "type": "TV PERU",
+    "url": "http://181.188.216.5:18000/play/a0m5/index.m3u8",
+    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg"
+  },
+  {
     "name": "13.1 | GLOBAL TV ALT |",
     "type": "TV PERU",
     "url": "https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_480p/chunks.m3u8",
@@ -1822,12 +1822,6 @@
     "type": "TV PERU",
     "url": "https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CayetanoPlus.jpg"
-  },
-  {
-    "name": "63 | CADENA TV |",
-    "type": "TV PERU",
-    "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg"
   },
   {
     "name": "64 | AUTENTICA TELEVISION |",

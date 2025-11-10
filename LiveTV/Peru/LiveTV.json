@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-09 21:50:24",
+  "date": "2025-11-10 07:08:35",
   "channels": {
     "General": [
       {
@@ -71,13 +71,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
-      },
-      {
-        "name": "Global TV",
-        "logo": "https://i.imgur.com/yuEou9C.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://181.188.216.5:18000/play/a0m5/index.m3u8"
       },
       {
         "name": "Intuitiva TV (720p)",
@@ -816,13 +809,6 @@
         "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
       },
       {
-        "name": "Canal N",
-        "logo": "https://i.imgur.com/Xytvw3J.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://181.188.216.5:18000/play/a01p/index.m3u8"
-      },
-      {
         "name": "Conecta2TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/cfHaLt2.png",
         "group": "News",
@@ -1070,25 +1056,14 @@
         "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
       }
     ],
-    "Family": [
-      {
-        "name": "Canal IPe (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png",
-        "group": "Family",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
-      }
-    ],
-    "Legislative": [
-      {
-        "name": "Congreso TV",
-        "logo": "https://i.imgur.com/r0foZ5t.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-      }
-    ],
     "Undefined": [
+      {
+        "name": "Cadena TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/stvzqzd.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
+      },
       {
         "name": "Controversia TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/X7cPyP2.png",
@@ -1340,6 +1315,24 @@
         "group": "Undefined",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+      }
+    ],
+    "Family": [
+      {
+        "name": "Canal IPe (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
+      }
+    ],
+    "Legislative": [
+      {
+        "name": "Congreso TV",
+        "logo": "https://i.imgur.com/r0foZ5t.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
       }
     ],
     "Sports": [
@@ -1969,6 +1962,13 @@
         "url": "https://live-evg20.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8"
       },
       {
+        "name": "13 | GLOBAL TV |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://181.188.216.5:18000/play/a0m5/index.m3u8"
+      },
+      {
         "name": "13.1 | GLOBAL TV ALT |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg",
         "group": "TV PERU",
@@ -2205,13 +2205,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8"
-      },
-      {
-        "name": "63 | CADENA TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
       },
       {
         "name": "64 | AUTENTICA TELEVISION |",
