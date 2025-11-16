@@ -1024,7 +1024,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: Documentários 🌎
-Name: ❖ TRVL Channel 🇺🇸🇵🇭
+Name: ❖ Ttvl Channel 🇺🇸🇵🇭
 URL: https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
 Logo: https://logo.m3uassets.com/travelchannel.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -1051,7 +1051,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ Outdoor Channel
 URL: http://97.82.50.17:8182/play/outdoor_channel-7.m3u8
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Outdoorchannel.webp
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/outdoorchannel.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ History 🇺🇸🇵🇭
@@ -1096,12 +1096,12 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ Crime & Investigation 🇺🇸
 URL: http://97.82.50.17:8182/play/crime_investigation-39.m3u8
-Logo: https://i.imgur.com/9QBOVGF.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ Crime & Investigation 🇺🇸🇵🇭
 URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
-Logo: https://i.imgur.com/9QBOVGF.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ National Geographic 🇺🇸
@@ -2035,12 +2035,12 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ AMC (💬🇬🇧) 🇺🇸
 URL: https://aba2ohkaaaaaaaama62xttrwjeeps.dd4bc9f2d43e4d9d8c0f402f186632fb.emt.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/amc1.webp
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ AMC
 URL: https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560908/index.mpd
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/amc1.webp
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ FX 🇺🇸
@@ -2441,14 +2441,9 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 
 Group: Meteorology 🌎
-Name: ❖ Sky News Weather
+Name: ❖ Sky News Weather 🇺🇸
 URL: https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: ❖ MeteoNews 🇦🇹
-URL: https://streaming.meteonews.net/hls/stream.m3u8
-Logo: https://wetter.tv/favicon.ico
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ WeatherSpy 🇺🇸
@@ -2474,6 +2469,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: ❖ The Weather Channel 🇺🇸🇨🇦
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 Logo: https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ MeteoNews 🇦🇹
+URL: https://streaming.meteonews.net/hls/stream.m3u8
+Logo: https://wetter.tv/favicon.ico
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 
@@ -2528,7 +2528,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSAxMjo1OTo3IFBNJmhhc2hfdmFsdWU9eFk0THR5T2ZKRWc5OXhvYk5hR2dsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM3MWYwYjA2LTkyNDEtNGU3Zi1hNTJjLTk5MmU2OTFkOWE4OQ==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA4OjM2OjM1IFBNJmhhc2hfdmFsdWU9M2JSbzdjbWJNVnl0aTJFOStRMlN4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVkYWM4ODg2LWMyMGYtNDlhMi05MDJmLWZlZTRjYTAwNzA3ZQ==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -2540,6 +2540,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: ❖ Record News 🇧🇷
 URL: https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/RecordNew.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ CNN Money 🇧🇷
+URL: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKV7KXWk2M9BZzGpmLwjLaEu3r0Khx_nsfgQ&s
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ New Brasil 🇧🇷
@@ -4180,7 +4185,7 @@ URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/RTPi.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ RTP 1 🇵🇹
+Name: ❖ RTP1 🇵🇹
 URL: http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -4216,7 +4221,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSAxMjo1OTo4IFBNJmhhc2hfdmFsdWU9b0Q3QXg5UVZ4ZVJtZFRzRUl1ekhMQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc1NGJkYjEyLTkxZmEtNDc5YS04NjZlLWI5MTA4YTE1MWU2MQ==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA4OjM2OjM2IFBNJmhhc2hfdmFsdWU9NTc3d3gydmJnR0gwclIrVWJkVDVrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZlNmRiMmVlLTEwNjYtNDM2My1hNDI4LWYzZGMwNmMyNTRmMw==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -4226,7 +4231,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSAxMjo1OTo3IFBNJmhhc2hfdmFsdWU9dE56K05vdkhFbVJ4SDJMLzNzbHdyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY0NTM2MTM0LThhYmQtNDJlZS1hYjU4LTY1NmU5YmQ0OTQ2Nw==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA4OjM2OjM0IFBNJmhhc2hfdmFsdWU9Y1BjUy9GTE5sdXlOWUdDaWZoNWZWZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBkZDI1MjBlLTIxMjgtNDUzYS1hOWVjLWZkMmY0MzZjNDlkOQ==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -4346,7 +4351,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: Tuga Fm
 URL: https://tugafm.stream.laut.fm/tugafm
-Logo: https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/tugafm.webp
+Logo: https://app.tugafm.com/images/1757453483_8bf6c2fa5cedbd047d04.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Radio m80
@@ -4426,17 +4431,17 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: Batida fm
 URL: https://stream-icy.bauermedia.pt/batidafm.mp3
-Logo: https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/batidafm.png
+Logo: https://batida.fm/images/logo-BATIDAFM-white.svg
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Radio Meo Sudoeste
 URL: http://centova.radios.pt:8495/stream/1/
-Logo: https://cdn6.aptoide.com/imgs/d/e/5/de5c79b747e468a8a7718608927a8bcd_icon.png
+Logo: https://radiosudoeste.pt/media/plg_system_cgwebp/_cache/images/meosw/layout/android-chrome-192x192.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: NovaEra
 URL: http://centova.radios.pt:9478/stream/1/
-Logo: https://radionovaera.pt/resources/img/favicon/apple-icon-144x144.png
+Logo: https://radionovaera.pt/favicon.ico
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Nove3cinco
@@ -5290,7 +5295,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA0OjY6NTYgUE0maGFzaF92YWx1ZT1IYkFRdmhYZkF3ZkhucjRYZmxkMEV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2FhNjczZDMtODdlMi00ZGYyLThiOTItY2ViYjE3OGYyZTlk/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAxMjozMzo1NyBBTSZoYXNoX3ZhbHVlPWJEclMzRDYvWWhyZm1XbWNmaWhYZkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kNTYyZDMxZi1iOTZjLTRkMjctODQ4Yi0yZjhmMDQ4YjBkYjg=/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -5305,7 +5310,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA0OjY6NTYgUE0maGFzaF92YWx1ZT1QU3R6NE50SUROWXk2REdxVmR0RzhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDk1YmU3ZjktOWY4Mi00MWRiLWE1M2QtZGIzY2M0ZTgxM2Rk/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAxMjozMzo1NyBBTSZoYXNoX3ZhbHVlPUxFa1RUVEphZUs5YXVmRU8xSlF0QlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NmE1MGZiZC01N2JlLTRjNDAtYWUwYS0yMzYzOTU4MDQzZWM=/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -5350,7 +5355,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA0OjY6NTcgUE0maGFzaF92YWx1ZT1aVis4S1JEUmNDQ1Zla2t2bk5oRldnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTQ3Yzg2YWYtNzg5Ni00ZjVkLWJiOWItMzFjZTQxMjY2NmI0/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAxMjozMzo1OCBBTSZoYXNoX3ZhbHVlPUJNY0hETkZqeGptYXVZOFpROUJUZ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NGY2NmExMS1kYzczLTQ1Y2MtOWUzZC0yY2JhOTBhZmVhNjU=/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -5998,6 +6003,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: World News 🌍
+Name: ❖ Celebrity Scene TV 🇺🇸
+URL: https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/celebrityscene.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: ❖ 24h 🇪🇸
 URL: https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/faf542bd3d8c865b796671349896ae4a3788a832/BugsfreeStreams/StreamsTV-PT/24_horas_internacional_geoblocked_490afc61.m3u8
 Logo: https://logo.m3uassets.com/24h.png
@@ -6078,14 +6088,14 @@ URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20240527T200833SQUARE.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ France24 🇫🇷🇬🇧
+Name: ❖ France 24 🇫🇷🇬🇧
 URL: https://amg00106-france24-france24-samsungspain-n4tez.amagi.tv/playlist/amg00106-france24-france24-samsungspain/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/640px-FRANCE_24_logo.svg.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/france24-eng.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ France 24 Fast 🇫🇷
 URL: https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20241022T051609SQUARE.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/France24FastENG.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ Africa 24 🇫🇷
@@ -6096,11 +6106,6 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: ❖ África News 🇺🇸🇫🇷
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 Logo: https://www.africaNews.com/apple-touch-icon-precomposed.png?v=3
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: ❖ Celebrity Scene TV 🇺🇸
-URL: https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
-Logo: https://flixhousecom.cdn.ypt.me/videos/v_230414152616_v16ab/v_230414152616_v16ab_thumbsV2_jpg.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ European Parliament tv 🇬🇧
@@ -6140,7 +6145,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ CNN XPRESS 🇲🇽
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673248f9030a2c0008033af8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-Logo: https://provider-static.plex.tv/epg/cms/production/42343540-3224-4dc1-9c4f-c056ddeb57e3/CNNE_EXPRES_LOGO_DARK.png
+Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNNXpress_1920x1080_Logo.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ CNN Fast 🇺🇸
@@ -6155,7 +6160,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ NewsWord 🇺🇸
 URL: https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011.jpeg
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ Cheddar News 🇺🇸
@@ -6170,7 +6175,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ Sky News Now 🇺🇸
 URL: https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/ts-eu-w1-n2/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logosTv/Skynewsnow.webp
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Skynewsnow.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ Fox News Now 🇺🇸
@@ -6188,14 +6193,14 @@ URL: https://stitcher.pluto.tv/stitch/hls/channel/667f2c7b22acab0008b7072b/maste
 Logo: https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ FOX 12 New York 🇺🇸
+Name: ❖ News12  New York 🇺🇸
 URL: https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
 Logo: https://canvas-lb.tubitv.com/opts/-7LfJWOBjXLPNQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjVAAQ==
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ GB News 🇬🇧
 URL: https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png
+Logo: https://assets.rbl.ms/61228189/origin.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ NBC News Now 🇺🇸
@@ -6203,14 +6208,39 @@ URL: https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ NBC 6 🇺🇸
+Name: ❖ NBC 6 🇺🇸
 URL: https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png
+Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_south_florida_news.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ CBS News 🇺🇸
+URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Logo: https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ CBS News 24/7 🇺🇸
+URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Logo: https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoSVG.svg
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ CBS News Bay Area 🇺🇸
+URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cbsbatarea.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ CBS News Boston 🇺🇸
 URL: https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 Logo: https://i.imgur.com/9un7R3N.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ CBS News Minnesota 🇺🇸
+URL: https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+Logo: https://i.imgur.com/ubxwfMY.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: ❖ CBS News Pittsburgh 🇺🇸
+URL: https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+Logo: https://i.imgur.com/Un9IrUh.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ CBS News Chicago 🇺🇸
@@ -6228,7 +6258,7 @@ URL: https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fe
 Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_detroit.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .CA.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News Los Angeles 🇺🇸
+Name: ❖ CBS News Los Angeles 🇺🇸
 URL: https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 Logo: https://i.imgur.com/klULxMV.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -6238,12 +6268,7 @@ URL: https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584
 Logo: https://i.imgur.com/DExbVa9.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ CBS News Minnesota 🇺🇸
-URL: https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-Logo: https://i.imgur.com/ubxwfMY.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: .NY.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News New York 🇺🇸
+Name: ❖ CBS News New York 🇺🇸
 URL: https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 Logo: https://i.imgur.com/bpc4v0u.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -6253,24 +6278,9 @@ URL: https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b33521
 Logo: https://i.imgur.com/FmtTbNY.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ CBS News Pittsburgh 🇺🇸
-URL: https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-Logo: https://i.imgur.com/Un9IrUh.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
 Name: ❖ CBS News Sacramento 🇺🇸
 URL: https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 Logo: https://i.imgur.com/0e1kSGX.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: ❖ CBS News 🇺🇸
-URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-Logo: https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: ❖ CBS News 24/7 🇺🇸
-URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-Logo: https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoSVG.svg
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ Global News Toronto
@@ -6280,7 +6290,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ ABC News Australia 🇦🇺
 URL: https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-Logo: https://i.ibb.co/mBTzvw8/Abcau.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ABCNEWS.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ ABC News Live 🇺🇸
@@ -6288,14 +6298,14 @@ URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d7000
 Logo: https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ BBC News 🇺🇸
-URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png
+Name: ❖ BBC News 🇬🇧
+URL: https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/bbcnews.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ❖ BBC News₂ 🇬🇧
-URL: https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png
+Name: ❖ BBC News 🇺🇸
+URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/bbcnews.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ TVP World 🇬🇧
@@ -6305,17 +6315,17 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: ❖ CGTN News 🇬🇧
 URL: https://english-livebkali.cgtn.com/live/encgtn.m3u8
-Logo: https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cgtn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ Al Jazeera 🇬🇧
 URL: https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-Logo: https://www.aljazeera.com/favicon_aje.ico
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/AlJazeera.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ DW 🇬🇧
 URL: http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-Logo: https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/dw.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖ NHK World 🇬🇧
