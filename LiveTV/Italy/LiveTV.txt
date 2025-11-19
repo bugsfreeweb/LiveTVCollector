@@ -9,11 +9,6 @@ URL: https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
 Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png
 Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
-Name: QVC
-URL: https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png
-Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
---------------------------------------------------
 Name: Super!
 URL: https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png
@@ -128,8 +123,8 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: Business
-Name: Class CNBC (576p)
-URL: https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+Name: Class CNBC
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
 Logo: https://i.imgur.com/3Ei5VHa.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
@@ -310,13 +305,6 @@ Logo: https://i.imgur.com/rF3tpbR.jpeg
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
-Group: Documentary;News
-Name: ByoBlu
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/byoblu/playlist.m3u8
-Logo: https://i.postimg.cc/YC3fgCqF/byoblu.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-
 Group: Education
 Name: Rai Scuola (576p) [Geo-blocked]
 URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
@@ -355,11 +343,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: CG Entertainment
 URL: https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/XeWzy7e.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Genius 240
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/genius240/playlist.m3u8
-Logo: https://www.lyngsat.com/logo/tv/gg/genius-240-it.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Geordie Shore Italy (720p)
@@ -650,11 +633,6 @@ URL: https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/
 Logo: https://i.postimg.cc/4xNHDbsK/canaleitalia.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Cielo
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/cielo/playlist.m3u8
-Logo: https://i.imgur.com/tWUy3yx.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Cusano Italia TV (720p)
 URL: https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 Logo: https://i.imgur.com/fOluzuE.png
@@ -727,11 +705,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: LA7d (720p)
 URL: https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-Logo: https://i.imgur.com/sM0A3GD.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: LA7d HD
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/la7d/playlist.m3u8
 Logo: https://i.imgur.com/sM0A3GD.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
@@ -825,11 +798,6 @@ URL: https://streamlive.arcapuglia.it:8080/live/partenope/index.m3u8
 Logo: https://i.imgur.com/6PxkHBR.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Prima Free
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/primafree/playlist.m3u8
-Logo: https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Prima TV Napoli (720p)
 URL: https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
 Logo: https://i.imgur.com/48BCOUZ.png
@@ -838,6 +806,11 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Prima TV Sicilia (720p)
 URL: https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 Logo: https://i.imgur.com/HE9c8Sk.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: PrimaFree
+URL: https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+Logo: https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: PrimAntenna TV (720p)
@@ -891,7 +864,7 @@ Logo: https://i.imgur.com/w9Twxsi.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: RTV38 (576p)
-URL: https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+URL: https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 Logo: https://i.imgur.com/YOlwudm.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
@@ -963,11 +936,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: TeleRama (576p)
 URL: https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 Logo: https://i.imgur.com/0YTYXB9.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Teleregione
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/teleregione/playlist.m3u8
-Logo: https://i.postimg.cc/J4PqTxCd/teleregione.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Teleromagna (480p)
@@ -1416,13 +1384,8 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Radio Freccia TV (1080p)
-URL: https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 Logo: https://i.imgur.com/RxeRlar.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Radio Italia TV
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radioitalia/playlist.m3u8
-Logo: https://i.imgur.com/XqNhQp6.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Radio Piter Pan TV (720p) [Not 24/7]
@@ -1430,8 +1393,8 @@ URL: https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3
 Logo: https://i.imgur.com/hbqVWV4.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Radio Zeta
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radiozeta/playlist.m3u8
+Name: Radio Zeta TV (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 Logo: https://i.imgur.com/K2xLMin.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
@@ -1445,9 +1408,24 @@ URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9d
 Logo: https://i.imgur.com/EWbK4XZ.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: RTL 102.5 Napulé (1080p)
+Name: RTL 102.5 Caliente (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+Logo: https://i.imgur.com/P0zsi6I.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: RTL 102.5 Disco (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+Logo: https://i.imgur.com/JA1OPrz.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: RTL 102.5 Napulè (1080p)
 URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 Logo: https://i.imgur.com/HFPw1YW.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: RTL 102.5 Traffic (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+Logo: https://i.imgur.com/EBftMcB.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: RTL 102.5 TV (1080p)
@@ -1539,11 +1517,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Giornale Radio TV (720p)
 URL: https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 Logo: https://i.imgur.com/2Y5qiao.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Info Media News
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/infomedianews/playlist.m3u8
-Logo: https://i.imgur.com/uFSDnOr.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: L'altro Corriere TV (720P)
@@ -1762,29 +1735,14 @@ URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=1
 Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png
 Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
-Name: RTL 102.5 News
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png
-Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
---------------------------------------------------
 Name: VIRGIN RADIO
 URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png
 Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
-Name: RADIOFRECCIA
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png
-Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
---------------------------------------------------
 Name: RDS Social TV
 URL: https://stream.rdstv.radio/index.m3u8
 Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png
-Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
---------------------------------------------------
-Name: RADIO ZETA
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png
 Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
 Name: Radio Capital TV
@@ -2155,11 +2113,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
 Group: Shop
-Name: Arte Investimenti
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/arteinvestimenti/playlist.m3u8
-Logo: https://i.postimg.cc/4nkhCz8M/arteinvestimenti.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Casa Italia 53 (720p)
 URL: https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 Logo: https://i.imgur.com/X8BI1Md.png
@@ -2180,24 +2133,9 @@ URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_li
 Logo: https://i.postimg.cc/bwD3t2FB/juwelo.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Linea Gem
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/lineagem/playlist.m3u8
-Logo: https://i.imgur.com/hga7xDe.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: QVC
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/qvchd/playlist.m3u8
+Name: QVC Italia (540p)
+URL: https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 Logo: https://i.imgur.com/6TWUVrh.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Tele Shopping
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/teleshopping/playlist.m3u8
-Logo: https://i.postimg.cc/Pf3wGftX/teleshopping.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Tesory Channel
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tesorychannel/playlist.m3u8
-Logo: https://i.postimg.cc/sXd9B051/tesorychannel.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
@@ -2222,11 +2160,6 @@ Group: Sports
 Name: ACI Sport TV (1080p)
 URL: https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 Logo: https://i.imgur.com/U8cHMOt.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: EQUtv
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/equtv/playlist.m3u8
-Logo: https://i.imgur.com/qGwFGQ4.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: FIFA+ Italy (720p)
@@ -2259,11 +2192,6 @@ URL: https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.m
 Logo: https://i.imgur.com/6PEevOM.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rete 8 Sport
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/rete8sport/playlist.m3u8
-Logo: https://www.lyngsat.com/logo/tv/rr/rete-8-sport-it.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: San Marino RTV Sport (720p)
 URL: https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 Logo: https://i.imgur.com/PGm944g.png
@@ -2287,11 +2215,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Sportitalia Solocalcio (720p) [Geo-blocked]
 URL: https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 Logo: https://i.imgur.com/hu56Ya5.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: SuperTennis
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/supertennis/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: TR Sport (480p)
@@ -2389,24 +2312,9 @@ URL: https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 Logo: https://i.imgur.com/ANGD7gv.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Channel 24
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/channel24/playlist.m3u8
-Logo: https://i.imgur.com/5bI0vsw.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Deluxe 139
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/deluxe139/playlist.m3u8
-Logo: https://i.postimg.cc/Y0wrfkdc/deluxe139.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Euro TV (720p) [Not 24/7]
 URL: https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 Logo: https://i.imgur.com/HFWWzKT.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Fire TV
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/firetv/playlist.m3u8
-Logo: https://i.imgur.com/B6OZOvN.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Italia 2 TV (480p) [Geo-blocked]
@@ -2417,11 +2325,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Italia 7 (576p)
 URL: http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 Logo: https://i.imgur.com/xc0kUHk.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: La4 Italia
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/la4italia/playlist.m3u8
-Logo: https://i.imgur.com/U5t2uhw.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Paradise TV [Geo-blocked]
@@ -2634,6 +2537,11 @@ URL: https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.
 Logo: https://i.postimg.cc/HLFT0KHC/sanmarinortv.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: Sardegna 1
+URL: https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
+Logo: https://i.postimg.cc/C1DScNLn/sardegnauno.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: Sophia TV Italy (720p)
 URL: https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 Logo: https://i.imgur.com/RPXusvS.png
@@ -2822,11 +2730,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: TV7 Triveneta (562p)
 URL: https://www.gruppotv7.com:8090/hls/ireporter.m3u8
 Logo: https://i.postimg.cc/mkq9v9cH/tv7triveneta.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: TV8
-URL: https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/tv8/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/512px-TV8_Logo_2016.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: TV Prato (1080p)
