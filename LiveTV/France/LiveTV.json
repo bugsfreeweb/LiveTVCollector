@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-23 13:43:26",
+  "date": "2025-11-23 21:41:23",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -31,27 +31,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8"
-      },
-      {
-        "name": "FRANCE INTER DIRECT",
-        "logo": "https://i.ibb.co/VYKgLYPV/frinter.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8"
-      },
-      {
-        "name": "SUD RADIO STUDIO",
-        "logo": "https://i.ibb.co/ycCyt780/sudrad.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8"
-      },
-      {
-        "name": "EUROPE 1 RADIO TV",
-        "logo": "https://i.ibb.co/Zp6fdRMg/Eur1rd.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8"
       },
       {
         "name": "TV5MONDE INFO",
@@ -101,6 +80,27 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://tvradiozap.eu/tools/mng-m3u8.php/936.1/60/master.m3u8"
+      },
+      {
+        "name": "FRANCE INTER DIRECT",
+        "logo": "https://i.ibb.co/VYKgLYPV/frinter.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8"
+      },
+      {
+        "name": "SUD RADIO STUDIO",
+        "logo": "https://i.ibb.co/ycCyt780/sudrad.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8"
+      },
+      {
+        "name": "EUROPE 1 RADIO TV",
+        "logo": "https://i.ibb.co/Zp6fdRMg/Eur1rd.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8"
       },
       {
         "name": "LCP-AN",
@@ -660,14 +660,14 @@
         "logo": "https://i.ibb.co/BBpR1Wx/tf1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjM4OTMwOTQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYzODc4Njk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.YphJA2Qdz5x0Y2bVB7RgNQaVk1ZfJgLRjzMUHgg9KJI/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8"
+        "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjM5MjU1NTcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYzOTExMTU3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.W1eGb5gV0jyRpWL4aUnAljQahcpOg1d1xc2_JARn6GQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8"
       },
       {
         "name": "TF1-",
         "logo": "https://i.ibb.co/BBpR1Wx/tf1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjM4OTgwNDgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2Mzg4MzY0OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.zT-KkO0sjPaXCebwKk1JHh_ITZKiYo3kEOz21Jz1VKI/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8"
+        "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjM5MjMzMTIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MzkwODkxMiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.-DfMInTi5PUOCyiR3UhpcgSfHyyFg4UbSbq103tVJyc/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8"
       },
       {
         "name": "FRANCE 2",
@@ -4209,14 +4209,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=nCwp-owcebn3jW2IiUTmOw&e=1763894011"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2mOYXySGJOl5_3j7tKTF0Q&e=1763925628"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=nCwp-owcebn3jW2IiUTmOw&e=1763894011"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2mOYXySGJOl5_3j7tKTF0Q&e=1763925628"
       },
       {
         "name": "TV8",
@@ -4751,18 +4751,18 @@
         "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
       },
       {
+        "name": "TYT TÜRK",
+        "logo": "https://i.ibb.co/N2n2tqMz/tyt.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8"
+      },
+      {
         "name": "TİVİ 6",
         "logo": "https://i.ibb.co/sRNHKjS/tivi622.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
-      },
-      {
-        "name": "CİNE 1 TV",
-        "logo": "https://i.ibb.co/SnPFhXS/cnee12.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8"
       },
       {
         "name": "Bİ 1! KANAL",
@@ -4772,39 +4772,11 @@
         "url": "https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8"
       },
       {
-        "name": "AKILLI TV",
-        "logo": "https://i.ibb.co/8dQdNrv/akilli22.png",
+        "name": "CİNE 1 TV",
+        "logo": "https://i.ibb.co/SnPFhXS/cnee12.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://yayin.santraltr.com/hls/akillitv.m3u8"
-      },
-      {
-        "name": "DMAX",
-        "logo": "https://i.ibb.co/QQQR6VK/dmax.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8"
-      },
-      {
-        "name": "DMAX",
-        "logo": "https://i.ibb.co/QQQR6VK/dmax.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8"
-      },
-      {
-        "name": "TLC TR",
-        "logo": "https://i.ibb.co/Z1vHy41/tlc.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8"
-      },
-      {
-        "name": "TLC TR",
-        "logo": "https://i.ibb.co/Z1vHy41/tlc.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8"
+        "url": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8"
       },
       {
         "name": "360",
@@ -4835,11 +4807,32 @@
         "url": "https://tv4.blutv.com/blutv_tv4/live.m3u8"
       },
       {
-        "name": "TYT TÜRK",
-        "logo": "https://i.ibb.co/N2n2tqMz/tyt.png",
+        "name": "DMAX",
+        "logo": "https://i.ibb.co/QQQR6VK/dmax.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8"
+        "url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8"
+      },
+      {
+        "name": "DMAX",
+        "logo": "https://i.ibb.co/QQQR6VK/dmax.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8"
+      },
+      {
+        "name": "TLC TR",
+        "logo": "https://i.ibb.co/Z1vHy41/tlc.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8"
+      },
+      {
+        "name": "TLC TR",
+        "logo": "https://i.ibb.co/Z1vHy41/tlc.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8"
       },
       {
         "name": "TÜRKİYE KLİNİKLERİ TV",
@@ -4889,6 +4882,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
+      },
+      {
+        "name": "AKILLI TV",
+        "logo": "https://i.ibb.co/8dQdNrv/akilli22.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://yayin.santraltr.com/hls/akillitv.m3u8"
       },
       {
         "name": "ONS TV",
