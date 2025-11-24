@@ -257,7 +257,8 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [        
-        "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",        
+        "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "https://iptv-org.github.io/iptv/countries/in.m3u",
     ]
 
