@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-26 14:02:39",
+  "date": "2025-11-26 22:01:14",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -1036,13 +1036,6 @@
         "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
       },
       {
-        "name": "GEM Fit",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8"
-      },
-      {
         "name": "Geo Super (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
@@ -1097,6 +1090,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8"
+      },
+      {
+        "name": "KHL Prime",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://194.143.148.28:8080/KHL_HD/index.m3u8"
       },
       {
         "name": "L1 Max (1080p)",
@@ -1321,27 +1321,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
-      },
-      {
-        "name": "Telewebion Sport",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8"
-      },
-      {
-        "name": "Telewebion Sport 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8"
-      },
-      {
-        "name": "Telewebion Sport 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8"
       },
       {
         "name": "Tennis Channel",
@@ -1971,6 +1950,15 @@
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
       }
     ],
+    "LiveTv": [
+      {
+        "name": "MY TV HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "LiveTv",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://mytvbangla.com/0.m3u8"
+      }
+    ],
     "Infotainment & Lifestyle🐅🏝️🍽️🛠️": [
       {
         "name": "BBC Earth",
@@ -1982,18 +1970,18 @@
     ],
     "Cricket 🏏": [
       {
+        "name": "Azan TV 🎯",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+      },
+      {
         "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://stream.spicefmbd.com/stream.m3u8"
-      },
-      {
-        "name": "IND VS RSA 2nd Test",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
       },
       {
         "name": "🇵🇰 Pak A vs BAN A  🇧🇩 T20🏏 Sony Liv",
@@ -2022,13 +2010,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8"
-      },
-      {
-        "name": "NZ_sky_Sport_2 📺",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658"
       },
       {
         "name": "Fox 501 HD 📺",
@@ -2639,6 +2620,13 @@
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
       },
       {
+        "name": "Cartoon Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
+      },
+      {
         "name": "Discovery Kids",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Kids",
@@ -2721,15 +2709,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/kushitv/master.m3u8"
-      }
-    ],
-    "ISLAMIC CHANNELS": [
-      {
-        "name": "মক্কা টিভি হজের জন্য",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ISLAMIC CHANNELS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8"
       }
     ],
     "Infotainment Channels": [
@@ -2839,13 +2818,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
