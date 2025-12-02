@@ -234,12 +234,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Film Top - Rakuten TV",
-    "type": "film",
-    "url": "https://top-movies-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Azione - Rakuten TV",
     "type": "film",
     "url": "https://action-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8",
@@ -690,6 +684,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Mayday: Disastro Aereo",
+    "type": "documentari",
+    "url": "https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "80 Anni - 2a Guerra Mondiale",
     "type": "documentari",
     "url": "https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8",
@@ -698,7 +698,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMDk4NTdjMmUtNGZlZC00NDdkLTk1NGQtNDZlNzUwY2U5ZTA3IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYTUxZWRkNDctOWI1Mi00OTJlLWFhZTYtMTc2ODI1M2ViZGJhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -734,7 +734,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMjE5MDU0NTktZWI5MC00NjBiLWJkOWEtZjhmZDU5YjgwZTBmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZDBiMDY0NDgtMGQxYS00YzY3LWE1NDEtYjM3NWU5ZjUyZGRjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1812,30 +1812,6 @@
     "img": "https://i.imgur.com/INJJEt5.png"
   },
   {
-    "name": "Radio S1",
-    "type": "RS",
-    "url": "https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
-    "name": "Radio S2",
-    "type": "RS",
-    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
-    "name": "Radio S3",
-    "type": "RS",
-    "url": "https://539745e629986.streamlock.net/asmedia/pingvin/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
-    "name": "Radio S4",
-    "type": "RS",
-    "url": "https://65aa8689be25a.streamlock.net/asmedia/gradski/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
     "name": "TDI Radio",
     "type": "RS",
     "url": "http://streaming.tdiradio.com:8000/tdiradiobezreklama",
@@ -1920,60 +1896,6 @@
     "img": "https://i.imgur.com/IBCVMnt.png"
   },
   {
-    "name": "Radio Kosava 1",
-    "type": "RS",
-    "url": "https://main.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava 2",
-    "type": "RS",
-    "url": "https://kosava2.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava Rock",
-    "type": "RS",
-    "url": "https://rock.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava folk 1",
-    "type": "RS",
-    "url": "https://folk1.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava folk 2",
-    "type": "RS",
-    "url": "https://folk2.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava folk 3",
-    "type": "RS",
-    "url": "https://folk3.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava clubbing",
-    "type": "RS",
-    "url": "https://clubbing.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava city",
-    "type": "RS",
-    "url": "https://city.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava cafe",
-    "type": "RS",
-    "url": "https://cafe.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
     "name": "Radio BN",
     "type": "BiH",
     "url": "http://stream.rtvbn.com:8522/.mp3",
@@ -2018,7 +1940,7 @@
   {
     "name": "Bobar Radio",
     "type": "BiH",
-    "url": "http://live.radiobobar.com/",
+    "url": "https://stream.radios.rs:9082/stream",
     "img": "https://i.imgur.com/mhBsbmW.png"
   },
   {
