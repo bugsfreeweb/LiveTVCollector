@@ -290,11 +290,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
 Group: General
-Name: America Television (1080p)
-URL: http://38.183.182.166:8000/play/a0rb/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: ATV (720p) [Not 24/7]
 URL: https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 Logo: https://i.imgur.com/eUzYZfg.png
@@ -388,11 +383,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: ONDA DIGITAL (720p)
 URL: https://tv.ondadigital.pe/ondadigital/index.m3u8
 Logo: https://i.imgur.com/3R2emx7.jpg
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: Panamericana TV (1080p)
-URL: http://38.183.182.166:8000/play/a0ii/index.m3u8
-Logo: https://i.imgur.com/uQhEDES.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Primavera 15
@@ -991,11 +981,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 URL: https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 Logo: https://i.imgur.com/A8TRPrF.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: RPP TV (480p)
-URL: http://38.183.182.166:8000/play/a13g/index.m3u8
-Logo: https://i.imgur.com/oBz3CgE.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: RSelvaTV
@@ -1637,9 +1622,24 @@ URL: https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419ef
 Logo: https://i.imgur.com/rYo3GDy.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
+Name: 03 | RPP TV |
+URL: http://38.183.182.166:8000/play/a13g/index.m3u8
+Logo: https://i.imgur.com/XfRqKoI.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 04 | AMERICA TV ᴴᴰ |
+URL: http://38.183.182.166:8000/play/a0rb/index.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
 Name: 04.1 | AMERICA TV ALT
 URL: https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 05 | PANAMERICANA TV ᴴᴰ |
+URL: http://38.183.182.166:8000/play/a0ii/index.m3u8
+Logo: https://i.imgur.com/8dElUGL.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 05.1 | PANAMERICANA TV ALT |
@@ -2276,6 +2276,16 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Teleselva
 URL: https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 Logo: https://i.imgur.com/cu7hTn8.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Telesur Camana [Not 24/7]
+URL: https://telesurnew.b-cdn.net/hls/camana.m3u8
+Logo: https://i.imgur.com/bbhgIN4.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Telesur Moquegua [Not 24/7]
+URL: https://telesurnew.b-cdn.net/hls/moquegua.m3u8
+Logo: https://i.imgur.com/bbhgIN4.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Tumpis TV (720p)
