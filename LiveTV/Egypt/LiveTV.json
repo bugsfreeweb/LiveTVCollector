@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-02 22:05:49",
+  "date": "2025-12-03 07:28:32",
   "channels": {
     "Uncategorized": [
       {
@@ -1237,25 +1237,11 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
       },
       {
-        "name": "Al-Nahar (576p)",
-        "logo": "https://i.ibb.co/WN6bh6mq/alnahar.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06m"
-      },
-      {
         "name": "AlShoub (720p)",
         "logo": "https://alshoub.tv/wp-content/uploads/2023/09/logo@2x-1-1.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8"
-      },
-      {
-        "name": "CBC (576p)",
-        "logo": "https://i.imgur.com/8apNaLP.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06o"
       },
       {
         "name": "MBC 1 Egypt (1080p)",
@@ -1270,45 +1256,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
-      }
-    ],
-    "Series": [
-      {
-        "name": "Al-Nahar Drama (576)",
-        "logo": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06n"
-      },
-      {
-        "name": "Alhayat Drama (576)",
-        "logo": "https://i.imgur.com/vVM7I4a.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06s"
-      },
-      {
-        "name": "CBC Drama (576p)",
-        "logo": "https://i.imgur.com/I8YdakH.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06q"
-      },
-      {
-        "name": "PNC Drama (1080p)",
-        "logo": "https://i.postimg.cc/wBsfSbK2/pncdrama.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
-      }
-    ],
-    "Lifestyle": [
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06p"
       }
     ],
     "Religious": [
@@ -1331,6 +1278,13 @@
     ],
     "Movies": [
       {
+        "name": "Mix Hollywood (1080p)",
+        "logo": "https://i.imgur.com/1ENdbZn.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
+      },
+      {
         "name": "Rotana Cinema Egypt (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/dGlKoLW.png",
         "group": "Movies",
@@ -1338,13 +1292,13 @@
         "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
       }
     ],
-    "Entertainment;Series": [
+    "Series": [
       {
-        "name": "Zee Alwan Egypt (576p)",
-        "logo": "https://i.imgur.com/OLuCox7.png",
-        "group": "Entertainment;Series",
+        "name": "PNC Drama (1080p)",
+        "logo": "https://i.postimg.cc/wBsfSbK2/pncdrama.png",
+        "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a05u"
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
       }
     ]
   }
