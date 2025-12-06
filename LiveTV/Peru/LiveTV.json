@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-06 13:54:01",
+  "date": "2025-12-06 21:52:23",
   "channels": {
     "Music": [
       {
@@ -201,44 +201,14 @@
         "url": "https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8"
       }
     ],
-    "Culture": [
-      {
-        "name": "AsiriTV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/7bGVFBa.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://video2.lhdserver.es/asiritv/live.m3u8"
-      },
-      {
-        "name": "USMPTV (720p)",
-        "logo": "https://i.imgur.com/9cmIv3q.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://streamusmptv.ddns.net/live/stream.m3u8"
-      },
-      {
-        "name": "USMPTV",
-        "logo": "https://i.imgur.com/9cmIv3q.png",
-        "group": "Culture",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8"
-      },
-      {
-        "name": "Cultura 24 (360p)",
-        "logo": "https://i.imgur.com/2mSwwpH.png",
-        "group": "Culture",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://cloud.live.opencaster.com/multi_web/play_480.m3u8"
-      },
-      {
-        "name": "Somos Cultura TV (720p)",
-        "logo": "https://i.imgur.com/kWR3END.png",
-        "group": "Culture",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8"
-      }
-    ],
     "General": [
+      {
+        "name": "Antena SUR",
+        "logo": "https://i.imgur.com/4aHrD2l.jpeg",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+      },
       {
         "name": "ATV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/eUzYZfg.png",
@@ -784,6 +754,43 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://live.obslivestream.com/wtv/index.m3u8"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "AsiriTV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/7bGVFBa.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://video2.lhdserver.es/asiritv/live.m3u8"
+      },
+      {
+        "name": "USMPTV (720p)",
+        "logo": "https://i.imgur.com/9cmIv3q.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://streamusmptv.ddns.net/live/stream.m3u8"
+      },
+      {
+        "name": "USMPTV",
+        "logo": "https://i.imgur.com/9cmIv3q.png",
+        "group": "Culture",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8"
+      },
+      {
+        "name": "Cultura 24 (360p)",
+        "logo": "https://i.imgur.com/2mSwwpH.png",
+        "group": "Culture",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://cloud.live.opencaster.com/multi_web/play_480.m3u8"
+      },
+      {
+        "name": "Somos Cultura TV (720p)",
+        "logo": "https://i.imgur.com/kWR3END.png",
+        "group": "Culture",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8"
       }
     ],
     "News": [
