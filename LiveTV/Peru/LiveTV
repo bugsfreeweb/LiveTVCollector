@@ -1182,12 +1182,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
   },
   {
-    "name": "Disney Jr. Latin America South (480p)",
-    "type": "Animation;Kids",
-    "url": "http://38.183.182.166:8000/play/a0j9/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
-  },
-  {
     "name": "History Latin America (480p)",
     "type": "Documentary",
     "url": "http://181.188.216.5:18000/play/a0cf/index.m3u8",
@@ -1568,6 +1562,12 @@
   {
     "name": "03 | RPP TV |",
     "type": "TV PERU",
+    "url": "http://38.183.182.166:8000/play/a13g/index.m3u8",
+    "img": "https://i.imgur.com/XfRqKoI.jpeg"
+  },
+  {
+    "name": "03.1 | RPP TV ᴴᴰ ALT |",
+    "type": "TV PERU",
     "url": "https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8",
     "img": "https://i.imgur.com/XfRqKoI.jpeg"
   },
@@ -1587,7 +1587,7 @@
     "name": "05 | PANAMERICANA TV ᴴᴰ |",
     "type": "TV PERU",
     "url": "http://38.183.182.166:8000/play/a0ii/index.m3u8",
-    "img": "https://i.imgur.com/8dElUGL.jpeg"
+    "img": "https://i.imgur.com/TYRevMg.jpeg"
   },
   {
     "name": "05.1 | PANAMERICANA TV ALT |",
@@ -1620,7 +1620,7 @@
     "img": "https://i.imgur.com/bInzVde.jpeg"
   },
   {
-    "name": "13 | GLOBAL TV  |",
+    "name": "13 | GLOBAL TV |",
     "type": "TV PERU",
     "url": "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_480p/chunks.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg"
@@ -1740,7 +1740,7 @@
     "img": "https://i.imgur.com/LoQRsz0.jpeg"
   },
   {
-    "name": "42 | SELVATICA TV |",
+    "name": "42 | SELVATICA ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8",
     "img": "https://i.imgur.com/eAXejBj.jpeg"
@@ -1764,13 +1764,19 @@
     "img": "https://i.imgur.com/ITgwlL5.jpeg"
   },
   {
-    "name": "49 | VITAL TV |",
+    "name": "49 | IDENTIDAD TV |",
     "type": "TV PERU",
     "url": "https://stream.mediacorp.pe/srt/2/chunks.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "49.1 | VITAL TV |",
+    "type": "TV PERU",
+    "url": "https://stream.mediacorp.pe/srt/1/chunks.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg"
   },
   {
-    "name": "50 | DUNAS TV |",
+    "name": "50 | DUNAS TV ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8",
     "img": "https://i.imgur.com/RVHUPqD.jpeg"
@@ -1968,7 +1974,7 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg"
   },
   {
-    "name": "95 | LIKE TV HD |",
+    "name": "95 | LIKE TV ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg"
@@ -2064,7 +2070,7 @@
     "img": "http://imgfz.com/i/ABv20Sx.jpeg"
   },
   {
-    "name": "118.1 | CANAL A1 HD |",
+    "name": "118.1 | CANAL A1 ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8",
     "img": "http://imgfz.com/i/0ZqaXBY.jpeg"
@@ -2208,7 +2214,7 @@
     "img": "https://i.imgur.com/vWXPJcj.jpeg"
   },
   {
-    "name": "147 | COVATEL HD |",
+    "name": "147 | COVATEL ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8",
     "img": "https://i.imgur.com/PcXk5GW.jpeg"
@@ -2220,7 +2226,7 @@
     "img": "https://i.imgur.com/Qh5lzPk.jpeg"
   },
   {
-    "name": "149 | KBO TV HD |",
+    "name": "149 | KBO TV ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://7.innovatestream.pe:19360/kbo/kbo.m3u8",
     "img": "https://i.imgur.com/MsLPNr3.jpeg"
@@ -2324,7 +2330,7 @@
   {
     "name": "6 | VENEZOLANA DE TELEVISIÓN",
     "type": "TV NOTICIAS",
-    "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(ym-NqbL8u7EDCBlYiJCcVk5H3hn9u3YSyMGltapZLmKFfvjukzBlOWXkgfhTBZnOt3RNiTNQ8XWa8IeSI8rD4jLbyooaGqUdiEdJr3YDyGBVI033BAPF-ppD2r43fSQp)/dm/3/x930kre/d/live-720.m3u8",
+    "url": "https://live.eu-north-1b.cf.dmcdn.net/sec2(-0HkARClK1JVkylIKaoxLv2nYxdacjy7DK5NMYHaFz_VwwIcV-XO9tPht21DfJe64QEbv1e9CY3J6ie_qCU64Fua6tGGB9ssJ7SdzUYUTa5eozfhd2JQYAA9S5Df2Ucz)/dm/3/x930kre/d/live-720@60.m3u8",
     "img": "https://i.imgur.com/miHQF71.jpeg"
   },
   {
@@ -2438,7 +2444,7 @@
   {
     "name": "27 | EURONEWS ᴴᴰ",
     "type": "TV NOTICIAS",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/efcd0520-a375-468a-8c60-a7383409da64/5.m3u8",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/ca2b12d6-6fcd-4f86-bbe3-8fdd07f701ae/5.m3u8",
     "img": "http://imgfz.com/i/M3eCHbo.jpeg"
   },
   {
@@ -2592,43 +2598,43 @@
     "img": "https://i.imgur.com/JaLxQ0i.jpeg"
   },
   {
-    "name": "53 | SKY NEWS |",
+    "name": "53 | SKY NEWS ᴴᴰ",
     "type": "TV NOTICIAS",
     "url": "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8",
     "img": "https://i.imgur.com/e95rkEq.jpeg"
   },
   {
-    "name": "54 | TRT WORLD |",
+    "name": "54 | TRT WORLD ᴴᴰ",
     "type": "TV NOTICIAS",
     "url": "https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8",
     "img": "https://i.imgur.com/D7sBXIF.jpeg"
   },
   {
-    "name": "1 | TELE DEPORTES ⚽ |",
+    "name": "3 | TELE DEPORTES ⚽ |",
     "type": "DEPORTES",
     "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
     "img": "https://i.imgur.com/l6fmLPf.jpeg"
   },
   {
-    "name": "2 | ONE SOCCER ⚽ |",
+    "name": "4 | ONE SOCCER ⚽ |",
     "type": "DEPORTES",
     "url": "http://tvmate.icu:8080/85646307/54885994/135810",
     "img": "https://i.imgur.com/p4ZZY0P.jpeg"
   },
   {
-    "name": "3 | SKY SPORTS ᴴᴰ ⚽ |",
+    "name": "5 | SKY SPORTS ᴴᴰ ⚽ |",
     "type": "DEPORTES",
     "url": "http://tvmate.icu:8080/85646307/54885994/137720",
     "img": "https://i.imgur.com/96ebfyp.jpeg"
   },
   {
-    "name": "4 | SPORTSMAX NEWS ⚽ |",
+    "name": "6 | SPORTSMAX NEWS ⚽ |",
     "type": "DEPORTES",
     "url": "https://cdahum.streaming.ws/sportsmaxnews/live/chunklist_w1062378774.m3u8",
     "img": "https://i.imgur.com/2usac7N.jpeg"
   },
   {
-    "name": "5 | US TUDN ᴴᴰ ⚽ |",
+    "name": "7 | US TUDN ᴴᴰ ⚽ |",
     "type": "DEPORTES",
     "url": "http://tvmate.icu:8080/85646307/54885994/11885",
     "img": "https://i.imgur.com/a8jwRcH.jpeg"

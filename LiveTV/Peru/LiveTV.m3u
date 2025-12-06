@@ -393,8 +393,6 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://201.217.246.177:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (480p)
-http://38.183.182.166:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Latin America (480p)
 http://181.188.216.5:18000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
@@ -522,12 +520,14 @@ https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYo3GDy.jpeg" group-title="TV PERU",02.1 | LATINA NOTICIAS |
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="TV PERU",03 | RPP TV |
+http://38.183.182.166:8000/play/a13g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="TV PERU",03.1 | RPP TV ᴴᴰ ALT |
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg" group-title="TV PERU",04 | AMERICA TV ᴴᴰ |
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04.1 | AMERICA TV ALT
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8dElUGL.jpeg" group-title="TV PERU",05 | PANAMERICANA TV ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TYRevMg.jpeg" group-title="TV PERU",05 | PANAMERICANA TV ᴴᴰ |
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dElUGL.jpeg" group-title="TV PERU",05.1 | PANAMERICANA TV ALT |
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8
@@ -539,7 +539,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bInzVde.jpeg" group-title="TV PERU",7.3 | JNE TV |
 https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV  |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cajamarca.jpg" group-title="TV PERU",15 | CAJAMARCA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8
@@ -579,7 +579,7 @@ https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoQRsz0.jpeg" group-title="TV PERU",40 | AMAZONIA TVR |
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eAXejBj.jpeg" group-title="TV PERU",42 | SELVATICA TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAXejBj.jpeg" group-title="TV PERU",42 | SELVATICA ᴴᴰ |
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHsbCCv.jpeg" group-title="TV PERU",43 | RIBEREÑA TV |
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
@@ -587,9 +587,11 @@ https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ITgwlL5.jpeg" group-title="TV PERU",46.1 |  SUPER TV ᴴᴰ |
 https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49 | VITAL TV |
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="TV PERU",49 | IDENTIDAD TV |
 https://stream.mediacorp.pe/srt/2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RVHUPqD.jpeg" group-title="TV PERU",50 | DUNAS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49.1 | VITAL TV |
+https://stream.mediacorp.pe/srt/1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVHUPqD.jpeg" group-title="TV PERU",50 | DUNAS TV ᴴᴰ |
 https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSjQ0De.jpeg" group-title="TV PERU",51 | RUMBA TV |
 https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8
@@ -655,7 +657,7 @@ https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8
 https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | LIKE TV HD |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | LIKE TV ᴴᴰ |
 https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OasisTv.jpg" group-title="TV PERU",97 | OASIS RTV |
 https://play.agenciastreaming.com:8081/oasis/tracks-v1a1/mono.m3u8
@@ -687,7 +689,7 @@ https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ABv20Sx.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/0ZqaXBY.jpeg" group-title="TV PERU",118.1 | CANAL A1 HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0ZqaXBY.jpeg" group-title="TV PERU",118.1 | CANAL A1 ᴴᴰ |
 https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | 3 MEDIA TV |
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
@@ -735,11 +737,11 @@ https://gnstreammedia.com:19360/4000/4000.m3u8
 https://sc1.wasidata.com/Peruanisima/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWXPJcj.jpeg" group-title="TV PERU",146 | RHTV SELVA CENTRAL |
 https://vivatv.juanjuiserver.com:3888/live/rhtv2025live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PcXk5GW.jpeg" group-title="TV PERU",147 | COVATEL HD |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcXk5GW.jpeg" group-title="TV PERU",147 | COVATEL ᴴᴰ |
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5lzPk.jpeg" group-title="TV PERU",148 | ANTENA SUR TV |
 https://play.agenciastreaming.com:8081/agenciaandinartv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsLPNr3.jpeg" group-title="TV PERU",149 | KBO TV HD |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsLPNr3.jpeg" group-title="TV PERU",149 | KBO TV ᴴᴰ |
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",1 | TVE TV ᴴᴰ |
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
@@ -774,7 +776,7 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(ym-NqbL8u7EDCBlYiJCcVk5H3hn9u3YSyMGltapZLmKFfvjukzBlOWXkgfhTBZnOt3RNiTNQ8XWa8IeSI8rD4jLbyooaGqUdiEdJr3YDyGBVI033BAPF-ppD2r43fSQp)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(-0HkARClK1JVkylIKaoxLv2nYxdacjy7DK5NMYHaFz_VwwIcV-XO9tPht21DfJe64QEbv1e9CY3J6ie_qCU64Fua6tGGB9ssJ7SdzUYUTa5eozfhd2JQYAA9S5Df2Ucz)/dm/3/x930kre/d/live-720@60.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOUFdo8.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ
@@ -812,7 +814,7 @@ https://s5.mexside.net:1936/france24/france24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30zRUym.jpeg" group-title="TV NOTICIAS",26 | DEUSTCHE WELLE ᴴᴰ
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",27 | EURONEWS ᴴᴰ
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/efcd0520-a375-468a-8c60-a7383409da64/5.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/ca2b12d6-6fcd-4f86-bbe3-8fdd07f701ae/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30Y89SU.jpeg" group-title="TV NOTICIAS",28 | CGTN EN ESPAÑOL ᴴᴰ
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="TV NOTICIAS",29 | ACTUALIDAD RT ᴴᴰ
@@ -863,19 +865,19 @@ https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaLxQ0i.jpeg" group-title="TV NOTICIAS",52 | ULKE ᴴᴰ TURQUIA
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e95rkEq.jpeg" group-title="TV NOTICIAS",53 | SKY NEWS |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e95rkEq.jpeg" group-title="TV NOTICIAS",53 | SKY NEWS ᴴᴰ
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7sBXIF.jpeg" group-title="TV NOTICIAS",54 | TRT WORLD |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7sBXIF.jpeg" group-title="TV NOTICIAS",54 | TRT WORLD ᴴᴰ
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6fmLPf.jpeg" group-title="DEPORTES",1 | TELE DEPORTES ⚽ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6fmLPf.jpeg" group-title="DEPORTES",3 | TELE DEPORTES ⚽ |
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES",2 | ONE SOCCER ⚽ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES",4 | ONE SOCCER ⚽ |
 http://tvmate.icu:8080/85646307/54885994/135810
-#EXTINF:-1 tvg-logo="https://i.imgur.com/96ebfyp.jpeg" group-title="DEPORTES",3 | SKY SPORTS ᴴᴰ ⚽ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96ebfyp.jpeg" group-title="DEPORTES",5 | SKY SPORTS ᴴᴰ ⚽ |
 http://tvmate.icu:8080/85646307/54885994/137720
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2usac7N.jpeg" group-title="DEPORTES",4 | SPORTSMAX NEWS ⚽ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2usac7N.jpeg" group-title="DEPORTES",6 | SPORTSMAX NEWS ⚽ |
 https://cdahum.streaming.ws/sportsmaxnews/live/chunklist_w1062378774.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",5 | US TUDN ᴴᴰ ⚽ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",7 | US TUDN ᴴᴰ ⚽ |
 http://tvmate.icu:8080/85646307/54885994/11885
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rdc5Vlk.jpeg" group-title="DEPORTES",8 | SPORTS TV ᴴᴰ |
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
