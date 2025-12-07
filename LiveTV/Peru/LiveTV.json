@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-06 21:52:23",
+  "date": "2025-12-07 07:15:55",
   "channels": {
     "Music": [
       {
@@ -15,6 +15,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8"
+      },
+      {
+        "name": "La Fabulosa Radio y TV",
+        "logo": "https://i.imgur.com/GjME5H0.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://eu1.servers10.com:8081/8004/index.m3u8"
       },
       {
         "name": "Miel TV (720p) [Not 24/7]",
@@ -410,7 +417,7 @@
         "logo": "https://i.imgur.com/6io0IrX.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://38.183.182.166:8000/play/a12u/index.m3u8"
+        "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"
       },
       {
         "name": "TV Peru Internacional (720p)",
@@ -1885,14 +1892,14 @@
     ],
     "TV PERU": [
       {
-        "name": "01.1 | WILLAX ALT |",
+        "name": "01 | WILLAX |",
         "logo": "https://i.imgur.com/K4v2B7T.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8"
       },
       {
-        "name": "02 | LATINA TV |",
+        "name": "02 | LATINA TV ᴴᴰ |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
@@ -1906,42 +1913,21 @@
         "url": "https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8"
       },
       {
-        "name": "03 | RPP TV |",
-        "logo": "https://i.imgur.com/XfRqKoI.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "http://38.183.182.166:8000/play/a13g/index.m3u8"
-      },
-      {
-        "name": "03.1 | RPP TV ᴴᴰ ALT |",
+        "name": "03 | RPP TV ᴴᴰ |",
         "logo": "https://i.imgur.com/XfRqKoI.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8"
       },
       {
-        "name": "04 | AMERICA TV ᴴᴰ |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "http://38.183.182.166:8000/play/a0rb/index.m3u8"
-      },
-      {
-        "name": "04.1 | AMERICA TV ALT",
+        "name": "04.1 | AMERICA TV ᴴᴰ |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8"
       },
       {
-        "name": "05 | PANAMERICANA TV ᴴᴰ |",
-        "logo": "https://i.imgur.com/TYRevMg.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "http://38.183.182.166:8000/play/a0ii/index.m3u8"
-      },
-      {
-        "name": "05.1 | PANAMERICANA TV ALT |",
+        "name": "05.1 | PANAMERICANA TV ᴴᴰ |",
         "logo": "https://i.imgur.com/8dElUGL.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
@@ -1953,13 +1939,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
-      },
-      {
-        "name": "07 | TV PERU |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"
       },
       {
         "name": "7.2 | CANAL IPe ᴴᴰ |",
@@ -2522,13 +2501,6 @@
         "url": "https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8"
       },
       {
-        "name": "122 | DOBLE AA TV ᴴᴰ |",
-        "logo": "https://i.imgur.com/dmfNAmM.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8"
-      },
-      {
         "name": "123 | AURA TV ᴴᴰ |",
         "logo": "https://i.imgur.com/whsAXAN.jpeg",
         "group": "TV PERU",
@@ -2585,13 +2557,6 @@
         "url": "https://live.obslivestream.com/tacalatv/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "132 | TV MAS |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvMas.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "134 | TROPICAL TV |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg",
         "group": "TV PERU",
@@ -2625,13 +2590,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "141 | EDUCA SM ᴴᴰ |",
-        "logo": "https://i.imgur.com/uic3mEe.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://tv.perustream.com:3056/stream/play.m3u8"
       },
       {
         "name": "142 | CANAL 25 AYACUCHO |",
@@ -3377,6 +3335,57 @@
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
+      }
+    ],
+    "ESPERA": [
+      {
+        "name": "03 | RPP TV |",
+        "logo": "https://i.imgur.com/XfRqKoI.jpeg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://38.183.182.166:8000/play/a13g/index.m3u8"
+      },
+      {
+        "name": "04 | AMERICA TV ᴴᴰ |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://38.183.182.166:8000/play/a0rb/index.m3u8"
+      },
+      {
+        "name": "05 | PANAMERICANA TV ᴴᴰ |",
+        "logo": "https://i.imgur.com/TYRevMg.jpeg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://38.183.182.166:8000/play/a0ii/index.m3u8"
+      },
+      {
+        "name": "07 | TV PERU |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://38.183.182.166:8000/play/a12u/index.m3u8"
+      },
+      {
+        "name": "122 | DOBLE AA TV ᴴᴰ |",
+        "logo": "https://i.imgur.com/dmfNAmM.jpeg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8"
+      },
+      {
+        "name": "132 | TV MAS |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvMas.jpg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "141 | EDUCA SM ᴴᴰ |",
+        "logo": "https://i.imgur.com/uic3mEe.jpeg",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://tv.perustream.com:3056/stream/play.m3u8"
       }
     ]
   }

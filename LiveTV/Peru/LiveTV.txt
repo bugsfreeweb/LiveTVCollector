@@ -213,6 +213,43 @@ Logo: https://i.imgur.com/H4SFkx6.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 
+Group: ESPERA
+Name: 03 | RPP TV |
+URL: http://38.183.182.166:8000/play/a13g/index.m3u8
+Logo: https://i.imgur.com/XfRqKoI.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 04 | AMERICA TV ᴴᴰ |
+URL: http://38.183.182.166:8000/play/a0rb/index.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 05 | PANAMERICANA TV ᴴᴰ |
+URL: http://38.183.182.166:8000/play/a0ii/index.m3u8
+Logo: https://i.imgur.com/TYRevMg.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 07 | TV PERU |
+URL: http://38.183.182.166:8000/play/a12u/index.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 122 | DOBLE AA TV ᴴᴰ |
+URL: https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+Logo: https://i.imgur.com/dmfNAmM.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 132 | TV MAS |
+URL: https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvMas.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 141 | EDUCA SM ᴴᴰ |
+URL: https://tv.perustream.com:3056/stream/play.m3u8
+Logo: https://i.imgur.com/uic3mEe.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+
 Group: Education
 Name: MINEDU IPTV 1 (320p)
 URL: http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
@@ -431,7 +468,7 @@ Logo: https://i.imgur.com/nr4ctt4.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: TV Peru (1080p)
-URL: http://38.183.182.166:8000/play/a12u/index.m3u8
+URL: https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 Logo: https://i.imgur.com/6io0IrX.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -812,6 +849,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Karibena
 URL: https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
 Logo: https://i.imgur.com/cgHjg1e.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: La Fabulosa Radio y TV
+URL: https://eu1.servers10.com:8081/8004/index.m3u8
+Logo: https://i.imgur.com/GjME5H0.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Miel TV (720p) [Not 24/7]
@@ -1612,12 +1654,12 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 
 Group: TV PERU
-Name: 01.1 | WILLAX ALT |
+Name: 01 | WILLAX |
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
 Logo: https://i.imgur.com/K4v2B7T.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 02 | LATINA TV |
+Name: 02 | LATINA TV ᴴᴰ |
 URL: https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
@@ -1627,32 +1669,17 @@ URL: https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419ef
 Logo: https://i.imgur.com/rYo3GDy.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 03 | RPP TV |
-URL: http://38.183.182.166:8000/play/a13g/index.m3u8
-Logo: https://i.imgur.com/XfRqKoI.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 03.1 | RPP TV ᴴᴰ ALT |
+Name: 03 | RPP TV ᴴᴰ |
 URL: https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8
 Logo: https://i.imgur.com/XfRqKoI.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 04 | AMERICA TV ᴴᴰ |
-URL: http://38.183.182.166:8000/play/a0rb/index.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 04.1 | AMERICA TV ALT
+Name: 04.1 | AMERICA TV ᴴᴰ |
 URL: https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 05 | PANAMERICANA TV ᴴᴰ |
-URL: http://38.183.182.166:8000/play/a0ii/index.m3u8
-Logo: https://i.imgur.com/TYRevMg.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 05.1 | PANAMERICANA TV ALT |
+Name: 05.1 | PANAMERICANA TV ᴴᴰ |
 URL: https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8
 Logo: https://i.imgur.com/8dElUGL.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
@@ -1660,11 +1687,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 06 | EXITOSA TV |
 URL: https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 07 | TV PERU |
-URL: https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 7.2 | CANAL IPe ᴴᴰ |
@@ -2067,11 +2089,6 @@ URL: https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
 Logo: https://i.imgur.com/FAyTyNa.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 122 | DOBLE AA TV ᴴᴰ |
-URL: https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-Logo: https://i.imgur.com/dmfNAmM.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
 Name: 123 | AURA TV ᴴᴰ |
 URL: https://live-evg25.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8
 Logo: https://i.imgur.com/whsAXAN.jpeg
@@ -2112,11 +2129,6 @@ URL: https://live.obslivestream.com/tacalatv/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TacalaTv.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 132 | TV MAS |
-URL: https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvMas.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
 Name: 134 | TROPICAL TV |
 URL: https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w1855008952.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg
@@ -2140,11 +2152,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 140 | TV MUNDO ᴴᴰ |
 URL: https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
 Logo: https://i.imgur.com/iFqMFu0.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 141 | EDUCA SM ᴴᴰ |
-URL: https://tv.perustream.com:3056/stream/play.m3u8
-Logo: https://i.imgur.com/uic3mEe.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 142 | CANAL 25 AYACUCHO |
