@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-09 22:01:15",
+  "date": "2025-12-10 07:24:38",
   "channels": {
     "VTV": [
       {
@@ -153,7 +153,7 @@
       },
       {
         "name": "ON Cine",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://i.imgur.com/6f9ngwY.png",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
@@ -191,7 +191,7 @@
         "logo": "https://vnepg.site/logos/26.png",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://kupjta.online/iptv/5/394/index.m3u8"
+        "url": "https://kupjta.online/iptv/5/441/index.m3u8"
       },
       {
         "name": "ON Vie DRAMAS",
@@ -417,11 +417,25 @@
         "url": "https://liveh34.seenow.vn/hls/SCTV14/index.m3u8"
       },
       {
+        "name": "SCTV15",
+        "logo": "https://vnepg.site/logos/58.png",
+        "group": "SCTV",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://kupjta.online/iptv/5/823/index.m3u8"
+      },
+      {
         "name": "SCTV16",
         "logo": "https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://liveh34.seenow.vn/hls/SCTV16/index.m3u8"
+      },
+      {
+        "name": "SCTV17",
+        "logo": "https://vnepg.site/logos/60.png",
+        "group": "SCTV",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://kupjta.online/iptv/5/826/index.m3u8"
       },
       {
         "name": "SCTV18",
@@ -988,7 +1002,7 @@
       },
       {
         "name": "AXN HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png",
+        "logo": "https://vnepg.site/logos/163.png",
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://kupjta.online/iptv/5/387/index.m3u8"
@@ -1002,10 +1016,17 @@
       },
       {
         "name": "Cartoon Network",
-        "logo": "https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg",
+        "logo": "https://vnepg.site/logos/140.png",
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://kupjta.online/iptv/5/391/index.m3u8"
+      },
+      {
+        "name": "Dreamworks",
+        "logo": "https://vnepg.site/logos/141.png",
+        "group": "Quốc tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://kupjta.online/iptv/5/553/index.m3u8"
       },
       {
         "name": "Da Vinci",
@@ -1030,7 +1051,7 @@
       },
       {
         "name": "Discovery",
-        "logo": "https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",
+        "logo": "https://vnepg.site/logos/144.png",
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://kupjta.online/iptv/5/363/index.m3u8"
@@ -1153,6 +1174,15 @@
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8"
+      }
+    ],
+    "Quốc Tế": [
+      {
+        "name": "Discovery Asia",
+        "logo": "https://vnepg.site/logos145.png",
+        "group": "Quốc Tế",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://kupjta.online/iptv/5/394/index.m3u8"
       }
     ],
     "General": [
