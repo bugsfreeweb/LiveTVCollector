@@ -1,0 +1,52 @@
+name: TV-Nepal Update Files
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'  # Runs at 00:00, 08:00, 16:00 UTC daily
+  workflow_dispatch:  # Allows manual triggering
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz beautifulsoup4
+
+      - name: Run TV-Nepal M3U collector script
+        run: python BugsfreeMain/TV-Nepal.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add LiveTV/Nepal/LiveTV.m3u LiveTV/Nepal/LiveTV.txt LiveTV/Nepal/LiveTV.json LiveTV/Nepal/LiveTV
+          git commit -m "TV-Nepal Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push
+
+  update-indexes:
+    needs: update-files
+    uses: bugsfreeweb/LiveTVCollector/.github/workflows/update-indexes.yml@main
+    permissions:
+      contents: write  # Required for the called workflow to push changes
