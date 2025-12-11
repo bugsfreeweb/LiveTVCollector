@@ -257,7 +257,7 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [    
-        "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/refs/heads/master/Channels.json",
+        "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Channels.json",
         "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "https://iptv-org.github.io/iptv/countries/il.m3u",
     ]
