@@ -1,6 +1,637 @@
 {
-  "date": "2025-12-12 14:07:50",
+  "date": "2025-12-12 22:04:10",
   "channels": {
+    "film": [
+      {
+        "name": "Dramma - Rakuten TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://drama-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      },
+      {
+        "name": "Romance - Rakuten TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://romance-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
+      },
+      {
+        "name": "Film Asiatici - Rakuten TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+      },
+      {
+        "name": "Fantascienza - Rakuten TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
+      },
+      {
+        "name": "100% Natale - Rakuten TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://family-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+      },
+      {
+        "name": "Bizzarro Movies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "Cinema Italiano",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8"
+      },
+      {
+        "name": "CineWestern",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "Dark Matter",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8"
+      },
+      {
+        "name": "CG Grandi Film",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8"
+      },
+      {
+        "name": "Brividy Cinema",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://136d462a71e843a886633ffc9d0f9bb2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_Serially/playlist.m3u8"
+      },
+      {
+        "name": "Grjngo - Film Western",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://30a2c5f3e66e4b208d68c6b61d5db155.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GrjngoFilmWestern/playlist.m3u8"
+      },
+      {
+        "name": "Alberto Sordi & Co",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "film",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8"
+      }
+    ],
+    "programmi_tv": [
+      {
+        "name": "Serie Crime - Rakuten TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://crime-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+      },
+      {
+        "name": "Squadra Speciale Cobra 11",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://alarm-for-cobra-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7231/master.m3u8"
+      },
+      {
+        "name": "Serially Crime",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://bb0eae10f3324ced912bfb79fff13245.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SeriallyCrime/playlist.m3u8"
+      },
+      {
+        "name": "Soap Latino",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8"
+      },
+      {
+        "name": "Soap Turco",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8"
+      },
+      {
+        "name": "Risate dal Sud",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://ea65571e3aa748d1a0c2a15a8ab8b07a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RisatealSud/playlist.m3u8"
+      },
+      {
+        "name": "BBC Drama",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Rakuten VIKI",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+      },
+      {
+        "name": "Top Gear",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitaly-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Inazuma Eleven Collection",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/playlist.m3u8"
+      },
+      {
+        "name": "Inuyasha",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg17293-dynit-amg17293c1-rakuten-it-9739.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17293-dynitsrl-bleach-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Yu-Gi-Oh!",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Mr. Bean",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Mr. Bean - Live Action",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
+      },
+      {
+        "name": "Guardia Costiera",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://86c4bfd09c6044e4b68289bb367f7681.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GuardiaCostiera/playlist.m3u8"
+      },
+      {
+        "name": "Squadra Speciale Lipsia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "programmi_tv",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://4ede4e2e52be4ac280c54ec711b428fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SquadraSpecialeLipsia/playlist.m3u8"
+      }
+    ],
+    "intrattenimento": [
+      {
+        "name": "The Pet Collective",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "intrattenimento",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
+      },
+      {
+        "name": "People Are Awesome",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "intrattenimento",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8"
+      },
+      {
+        "name": "Revry",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "intrattenimento",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "Fail Army",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "intrattenimento",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+      }
+    ],
+    "sport": [
+      {
+        "name": "TOP Barça",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
+      },
+      {
+        "name": "FIFA+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "INTER 24/7",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8"
+      },
+      {
+        "name": "FUEL TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+      },
+      {
+        "name": "World Billiards TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
+      },
+      {
+        "name": "GLORY Kickboxing",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
+      },
+      {
+        "name": "World Poker Tour",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8"
+      },
+      {
+        "name": "Sport Italia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
+      },
+      {
+        "name": "PFL MMA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "Motorsport.tv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "RACER International",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
+      },
+      {
+        "name": "Golf Television",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c1-amgplt0165/playlist.m3u8"
+      },
+      {
+        "name": "Red Bull TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "MOTORVISION.TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv.m3u8"
+      },
+      {
+        "name": "Motoretrò",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8"
+      },
+      {
+        "name": "Tennis+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8"
+      }
+    ],
+    "lifestyle": [
+      {
+        "name": "Fashion TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8"
+      },
+      {
+        "name": "The Design Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
+      },
+      {
+        "name": "Per Caso TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://5ed3b27b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1BlckNhc29Udl9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "Travelxp",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8"
+      },
+      {
+        "name": "Daystar Español",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00405-amg00405c2-amgplt0165.playout.now3.amagi.tv/web/v2a5w28m3/playlist.m3u8"
+      },
+      {
+        "name": "Daystar TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00405-amg00405c1-amgplt0165.playout.now3.amagi.tv/web/y09w8o7mr/playlist.m3u8"
+      }
+    ],
+    "cucina": [
+      {
+        "name": "Gusto TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "cucina",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8"
+      },
+      {
+        "name": "Gambero Rosso",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "cucina",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c3-amgplt0165/playlist.m3u8"
+      }
+    ],
+    "musica": [
+      {
+        "name": "Metal.Rocks",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8"
+      },
+      {
+        "name": "Qwest TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
+      },
+      {
+        "name": "Radio Italia Live",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
+      },
+      {
+        "name": "Deluxe Lounge HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8"
+      },
+      {
+        "name": "NOW 70s",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
+      },
+      {
+        "name": "NOW 80s",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
+      },
+      {
+        "name": "NOW Rock",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
+      },
+      {
+        "name": "Trace Urban",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8"
+      },
+      {
+        "name": "Vevo Pop",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Vevo '90s & '00s",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "NOW 90s00s",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "musica",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
+      }
+    ],
+    "bambini": [
+      {
+        "name": "Baby Shark TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "bambini",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+      },
+      {
+        "name": "Bernard L'Orso",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "bambini",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8"
+      }
+    ],
+    "reality": [
+      {
+        "name": "Hell's Kitchen",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "reality",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitalyrakuten-rakutenit/playlist.m3u8"
+      }
+    ],
+    "documentari": [
+      {
+        "name": "Weather Spy",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "documentari",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8"
+      },
+      {
+        "name": "Nature Time",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "documentari",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01576-amg01576c6-rakuten-it-10716.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaaudioita-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "wedo Big Stories",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "documentari",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8"
+      },
+      {
+        "name": "CGTN Documentary",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "documentari",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "Mayday: Disastro Aereo",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "documentari",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "80 Anni - 2a Guerra Mondiale",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "documentari",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8"
+      }
+    ],
+    "notizie": [
+      {
+        "name": "Euronews IN DIRETTA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiODRlZjI2ZGQtYTI3YS00YTliLTkxMWQtYzljNTM4NWRiYTk0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+      },
+      {
+        "name": "The Reuters 60",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8"
+      },
+      {
+        "name": "Urania News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c4-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c4-amgplt0165/playlist.m3u8"
+      },
+      {
+        "name": "Revry News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8"
+      },
+      {
+        "name": "Bloomberg Originals",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8"
+      },
+      {
+        "name": "Bloomberg TV+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8"
+      },
+      {
+        "name": "Africanews",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOGQ1MGM2YjgtZjNmYy00OTdkLWEyOTAtNDI4NWQ2M2ZiNGRmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+      },
+      {
+        "name": "CGTN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "NewsWorld",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworlditaly-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "France 24 FAST English",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8"
+      }
+    ],
     "STREAMING MEDIA": [
       {
         "name": "SONY SAB (USA)",
@@ -222,637 +853,6 @@
         "group": "ADULT LIVE",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://flx.lat:8080//live/DonPota/hz4fhL6f3ZCg/330553.ts"
-      }
-    ],
-    "film": [
-      {
-        "name": "Dramma - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://drama-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
-      },
-      {
-        "name": "Romance - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://romance-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
-      },
-      {
-        "name": "Film Asiatici - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
-      },
-      {
-        "name": "Fantascienza - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
-      },
-      {
-        "name": "100% Natale - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://family-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-      },
-      {
-        "name": "Bizzarro Movies",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "Cinema Italiano",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8"
-      },
-      {
-        "name": "CineWestern",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "Dark Matter",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8"
-      },
-      {
-        "name": "CG Grandi Film",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8"
-      },
-      {
-        "name": "Brividy Cinema",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://136d462a71e843a886633ffc9d0f9bb2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_Serially/playlist.m3u8"
-      },
-      {
-        "name": "Grjngo - Film Western",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://30a2c5f3e66e4b208d68c6b61d5db155.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GrjngoFilmWestern/playlist.m3u8"
-      },
-      {
-        "name": "Alberto Sordi & Co",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8"
-      }
-    ],
-    "programmi_tv": [
-      {
-        "name": "Serie Crime - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://crime-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
-      },
-      {
-        "name": "Squadra Speciale Cobra 11",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://alarm-for-cobra-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7231/master.m3u8"
-      },
-      {
-        "name": "Serially Crime",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://bb0eae10f3324ced912bfb79fff13245.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SeriallyCrime/playlist.m3u8"
-      },
-      {
-        "name": "Soap Latino",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8"
-      },
-      {
-        "name": "Soap Turco",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8"
-      },
-      {
-        "name": "Risate dal Sud",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://ea65571e3aa748d1a0c2a15a8ab8b07a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RisatealSud/playlist.m3u8"
-      },
-      {
-        "name": "BBC Drama",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Rakuten VIKI",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
-      },
-      {
-        "name": "Top Gear",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitaly-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Inazuma Eleven Collection",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/playlist.m3u8"
-      },
-      {
-        "name": "Inuyasha",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg17293-dynit-amg17293c1-rakuten-it-9739.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17293-dynitsrl-bleach-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Yu-Gi-Oh!",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Mr. Bean",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Mr. Bean - Live Action",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
-      },
-      {
-        "name": "Guardia Costiera",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://86c4bfd09c6044e4b68289bb367f7681.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GuardiaCostiera/playlist.m3u8"
-      },
-      {
-        "name": "Squadra Speciale Lipsia",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "programmi_tv",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://4ede4e2e52be4ac280c54ec711b428fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SquadraSpecialeLipsia/playlist.m3u8"
-      }
-    ],
-    "intrattenimento": [
-      {
-        "name": "The Pet Collective",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "intrattenimento",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
-      },
-      {
-        "name": "People Are Awesome",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "intrattenimento",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8"
-      },
-      {
-        "name": "Revry",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "intrattenimento",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "Fail Army",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "intrattenimento",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
-      }
-    ],
-    "sport": [
-      {
-        "name": "TOP Barça",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
-      },
-      {
-        "name": "FIFA+",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "INTER 24/7",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8"
-      },
-      {
-        "name": "FUEL TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
-      },
-      {
-        "name": "World Billiards TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
-      },
-      {
-        "name": "GLORY Kickboxing",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
-      },
-      {
-        "name": "World Poker Tour",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8"
-      },
-      {
-        "name": "Sport Italia",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
-      },
-      {
-        "name": "PFL MMA",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "Motorsport.tv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "RACER International",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
-      },
-      {
-        "name": "Golf Television",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c1-amgplt0165/playlist.m3u8"
-      },
-      {
-        "name": "Red Bull TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "MOTORVISION.TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv.m3u8"
-      },
-      {
-        "name": "Motoretrò",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8"
-      },
-      {
-        "name": "Tennis+",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "sport",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8"
-      }
-    ],
-    "lifestyle": [
-      {
-        "name": "Fashion TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "lifestyle",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8"
-      },
-      {
-        "name": "The Design Network",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "lifestyle",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
-      },
-      {
-        "name": "Per Caso TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "lifestyle",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://5ed3b27b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1BlckNhc29Udl9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "Travelxp",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "lifestyle",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8"
-      },
-      {
-        "name": "Daystar Español",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "lifestyle",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00405-amg00405c2-amgplt0165.playout.now3.amagi.tv/web/v2a5w28m3/playlist.m3u8"
-      },
-      {
-        "name": "Daystar TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "lifestyle",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00405-amg00405c1-amgplt0165.playout.now3.amagi.tv/web/y09w8o7mr/playlist.m3u8"
-      }
-    ],
-    "cucina": [
-      {
-        "name": "Gusto TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "cucina",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8"
-      },
-      {
-        "name": "Gambero Rosso",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "cucina",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c3-amgplt0165/playlist.m3u8"
-      }
-    ],
-    "musica": [
-      {
-        "name": "Metal.Rocks",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8"
-      },
-      {
-        "name": "Qwest TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
-      },
-      {
-        "name": "Radio Italia Live",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
-      },
-      {
-        "name": "Deluxe Lounge HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8"
-      },
-      {
-        "name": "NOW 70s",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
-      },
-      {
-        "name": "NOW 80s",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
-      },
-      {
-        "name": "NOW Rock",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
-      },
-      {
-        "name": "Trace Urban",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8"
-      },
-      {
-        "name": "Vevo Pop",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Vevo '90s & '00s",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "NOW 90s00s",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "musica",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
-      }
-    ],
-    "bambini": [
-      {
-        "name": "Baby Shark TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "bambini",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
-      },
-      {
-        "name": "Bernard L'Orso",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "bambini",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8"
-      }
-    ],
-    "reality": [
-      {
-        "name": "Hell's Kitchen",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "reality",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitalyrakuten-rakutenit/playlist.m3u8"
-      }
-    ],
-    "documentari": [
-      {
-        "name": "Weather Spy",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "documentari",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8"
-      },
-      {
-        "name": "Nature Time",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "documentari",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01576-amg01576c6-rakuten-it-10716.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaaudioita-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "wedo Big Stories",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "documentari",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8"
-      },
-      {
-        "name": "CGTN Documentary",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "documentari",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
-      },
-      {
-        "name": "Mayday: Disastro Aereo",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "documentari",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "80 Anni - 2a Guerra Mondiale",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "documentari",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8"
-      }
-    ],
-    "notizie": [
-      {
-        "name": "Euronews IN DIRETTA",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiOTQ4ZGI5ZDEtMjlmMC00OGNhLWE2MjEtYzE0OWNhMWJhNWFmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
-      },
-      {
-        "name": "The Reuters 60",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8"
-      },
-      {
-        "name": "Urania News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg14891-amg14891c4-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c4-amgplt0165/playlist.m3u8"
-      },
-      {
-        "name": "Revry News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8"
-      },
-      {
-        "name": "Bloomberg Originals",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8"
-      },
-      {
-        "name": "Bloomberg TV+",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8"
-      },
-      {
-        "name": "Africanews",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYmVmZTM5OWItNDMyOC00M2M5LWE2ZmEtMTlkMWIzZmZmYjQxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
-      },
-      {
-        "name": "CGTN",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
-      },
-      {
-        "name": "NewsWorld",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworlditaly-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "France 24 FAST English",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "notizie",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8"
       }
     ],
     "Entertainment": [
