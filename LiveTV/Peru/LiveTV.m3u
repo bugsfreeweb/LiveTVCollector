@@ -523,6 +523,8 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://video2.lhdserver.es/uraniotv/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",24 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",24.1 | CNC |
+https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/BellaAbanquina.jpg" group-title="TV PERU",25 | BELLA ABANQUINA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",28 | OVACION TV |
@@ -707,6 +709,12 @@ https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 https://play.agenciastreaming.com:8081/agenciaandinartv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsLPNr3.jpeg" group-title="TV PERU",149 | KBO TV ᴴᴰ |
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="TV PERU",150 | RIKU TV ᴴᴰ |
+https://server.fillkatv.com/rikutv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="TV PERU",151 | UNICENTRO TV |
+https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="TV PERU",152 | ECO TV |
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",1 | TVE TV ᴴᴰ |
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV ESPANA",2 | 24HORAS ᴴᴰ |
@@ -907,12 +915,12 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NMlwrm.jpeg" group-title="ESPERA",01 | WILLAX |
 http://38.183.182.166:8000/play/a0zn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="ESPERA",03 | RPP TV |
-http://38.183.182.166:8000/play/a13g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg" group-title="ESPERA",04 | AMERICA TV ᴴᴰ |
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TYRevMg.jpeg" group-title="ESPERA",05 | PANAMERICANA TV ᴴᴰ |
 http://38.183.182.166:8000/play/a0ii/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ESPERA",06 | NHK World |
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg" group-title="ESPERA",07 | TV PERU |
 http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FjOT9LP.jpeg" group-title="ESPERA",10 | PBO |

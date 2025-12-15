@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-14 21:52:55",
+  "date": "2025-12-15 07:14:00",
   "channels": {
     "Music": [
       {
@@ -1909,6 +1909,13 @@
         "url": "https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8"
       },
       {
+        "name": "24.1 | CNC |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "25 | BELLA ABANQUINA TV |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/BellaAbanquina.jpg",
         "group": "TV PERU",
@@ -2551,6 +2558,27 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://7.innovatestream.pe:19360/kbo/kbo.m3u8"
+      },
+      {
+        "name": "150 | RIKU TV ᴴᴰ |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://server.fillkatv.com/rikutv/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "151 | UNICENTRO TV |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8"
+      },
+      {
+        "name": "152 | ECO TV |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
       }
     ],
     "TV ESPANA": [
@@ -3265,13 +3293,6 @@
         "url": "http://38.183.182.166:8000/play/a0zn/index.m3u8"
       },
       {
-        "name": "03 | RPP TV |",
-        "logo": "https://i.imgur.com/XfRqKoI.jpeg",
-        "group": "ESPERA",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "http://38.183.182.166:8000/play/a13g/index.m3u8"
-      },
-      {
         "name": "04 | AMERICA TV ᴴᴰ |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg",
         "group": "ESPERA",
@@ -3284,6 +3305,13 @@
         "group": "ESPERA",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "http://38.183.182.166:8000/play/a0ii/index.m3u8"
+      },
+      {
+        "name": "06 | NHK World |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPERA",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8"
       },
       {
         "name": "07 | TV PERU |",
