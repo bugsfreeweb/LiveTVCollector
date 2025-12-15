@@ -216,12 +216,6 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
-    "name": "Live Sports",
-    "type": "Live Sports",
-    "url": "https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
-  },
-  {
     "name": "SkySports premier League",
     "type": "Live Sports",
     "url": "https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8",
@@ -466,6 +460,12 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -882,12 +882,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "KHL Prime",
-    "type": "Sports",
-    "url": "http://194.143.148.28:8080/KHL_HD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "L'Equipe (1080p)",
     "type": "Sports",
     "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
@@ -915,12 +909,6 @@
     "name": "Monterrico TV (1080p) [Not 24/7]",
     "type": "Sports",
     "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Multivisión Sports (720p) [Not 24/7]",
-    "type": "Sports",
-    "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1306,12 +1294,6 @@
     "type": "Information",
     "url": "http://119.152.240.15:8000/play/a0i2/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
-  },
-  {
-    "name": "Sony BBC Earth",
-    "type": "Information",
-    "url": "https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"
   },
   {
     "name": "BBC Earth",
@@ -1710,6 +1692,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ILT20 🎯 📡 ⚙️",
+    "type": "Cricket 🏏",
+    "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "A SPORT HD 🇵🇰 🎯 📡 ⚙️",
     "type": "Cricket 🏏",
     "url": "https://m.xigzo.store/live/api/190767.m3u8",
@@ -1788,6 +1776,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Willow-Sports-HD 📺 🇧🇩",
+    "type": "Cricket 🏏",
+    "url": "http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🏏 Sandbrix 📺",
+    "type": "Cricket 🏏",
+    "url": "http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Sandbrix 📺",
     "type": "Cricket 🏏",
     "url": "https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8",
@@ -1797,6 +1797,12 @@
     "name": "DD SPORTS",
     "type": "Cricket 🏏",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Lemar TV AFG",
+    "type": "Cricket 🏏",
+    "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1845,12 +1851,6 @@
     "name": "Bein Sports 1🎯",
     "type": "Football",
     "url": "https://m.xigzo.store/live/api/683620.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sharjah Sports 🎯",
-    "type": "Football",
-    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2130,6 +2130,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Cartoon Network",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Duck TV",
     "type": "Kids",
     "url": "https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8",
@@ -2206,6 +2212,12 @@
     "type": "Kids",
     "url": "http://87.255.35.150:18249",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png"
+  },
+  {
+    "name": "মক্কা টিভি হজের জন্য",
+    "type": "ISLAMIC CHANNELS",
+    "url": "http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Destination America",
