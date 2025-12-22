@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-22 07:33:54",
+  "date": "2025-12-22 14:05:37",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -544,13 +544,6 @@
     ],
     "Bangla Music": [
       {
-        "name": "ATN Music",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",
-        "group": "Bangla Music",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-      },
-      {
         "name": "RTV Music",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Bangla Music",
@@ -579,6 +572,13 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
+      },
+      {
+        "name": "Peace TV Urdu",
+        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "Madani TV",
@@ -1764,13 +1764,6 @@
         "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
       },
       {
-        "name": "US-BD Journal 24 TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://208.86.19.13:81/510.stream/index.m3u8?"
-      },
-      {
         "name": "Histoire HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1902,6 +1895,13 @@
       }
     ],
     "Live Tv": [
+      {
+        "name": "Peace Tv Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+      },
       {
         "name": "BTV",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",
@@ -2084,11 +2084,25 @@
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
+        "name": "Live Cricket 🎯 📡",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.140.254.2:3500/live/551.m3u8"
+      },
+      {
         "name": "BBL Live Tapmad 🎯 📡",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-137/105w-08hq/chunklist.m3u8"
+      },
+      {
+        "name": "T SPORT HD 🎯 📡 ⚙️",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8"
       },
       {
         "name": "সনি টেন ৫ 🎯 📡",
@@ -2112,13 +2126,6 @@
         "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       },
       {
-        "name": "T SPORT HD 🎯 📡 ⚙️",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8"
-      },
-      {
         "name": "ILT20 🎯 📡 ⚙️",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -2131,20 +2138,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tvsen6.aynaott.com/asports/index.m3u8"
-      },
-      {
-        "name": "BT SPORT 2 HD  🎯 📡 ⚙️",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/btSport2/index.m3u8"
-      },
-      {
-        "name": "BT SPORT 1 HD 🎯 📡 ⚙️",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/btSport1/index.m3u8"
       },
       {
         "name": "T SPORT HD 🎯 📡 ⚙️",
@@ -2208,13 +2201,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tvsen7.aynaott.com/ssps2hd/index.m3u8"
-      },
-      {
-        "name": "Willow-Sports-HD 📺 🇧🇩",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8"
       },
       {
         "name": "Star Sports 1 HD 🇮🇳📺",
@@ -2343,6 +2329,13 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://cdntv.online/low/9mlxywika2/56.m3u8"
+      },
+      {
+        "name": "Russia Football 3 HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://cdntv.online/low/9mlxywika2/57.m3u8"
       },
       {
         "name": "Real Madrid tv Football",
@@ -2580,15 +2573,6 @@
         "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
       }
     ],
-    "ISLAMIC CHANNELS": [
-      {
-        "name": "Peace Tv English",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ISLAMIC CHANNELS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-      }
-    ],
     "Infotainment Channels": [
       {
         "name": "Destination America",
@@ -2689,6 +2673,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+      },
+      {
+        "name": "BBC News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
@@ -5891,13 +5882,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
-      },
-      {
-        "name": "Peace TV Urdu (1080p)",
-        "logo": "https://i.postimg.cc/cLCfzgqB/peacetvurdu.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "PTC Simran (720p)",
