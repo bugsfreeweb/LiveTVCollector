@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-23 21:47:00",
+  "date": "2025-12-24 06:30:51",
   "channels": {
     "General": [
       {
@@ -49,14 +49,16 @@
         "url": "http://ktvlive.ekantipur.com/2436ea84aec1e4993c0f963f58188467/maxhd/hls_maxhd/index.m3u8"
       }
     ],
-    "Entertainment": [
+    "Documentary": [
       {
-        "name": "MTV (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
-        "group": "Entertainment",
+        "name": "National Geographic Wild HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://87.255.35.150:18901"
-      },
+        "url": "http://66.102.120.18:8000/play/a01d/index.m3u8"
+      }
+    ],
+    "Entertainment": [
       {
         "name": "Nepal 1 (576p)",
         "logo": "https://i.imgur.com/Pgg8dQ2.png",
@@ -67,11 +69,18 @@
     ],
     "Kids": [
       {
+        "name": "Nick Jr. (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://66.102.120.18:8000/play/a00m/index.m3u8"
+      },
+      {
         "name": "Nickelodeon (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://87.255.35.150:18249"
+        "url": "http://66.102.120.18:8000/play/a00w/index.m3u8"
       },
       {
         "name": "Nickelodeon Sonic Hindi (1080p)",
