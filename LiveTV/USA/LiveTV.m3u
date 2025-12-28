@@ -305,8 +305,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
 https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="General",Access Sacramento Channel 17
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0pbtcvp.png" group-title="General",Access Sacramento Channel 18
-https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="General",Access Tuolumne (Tuolumne County CA) (720p)
 https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="General",AccessVision Channel 16
@@ -949,8 +947,8 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Sports",MSG
-https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Sports",MSG (720p)
+https://fl1.moveonjoy.com/MSG/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Sports",MSG Plus (720p) [Not 24/7]
 https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (1080p) [Geo-blocked]
@@ -976,7 +974,7 @@ http://fl1.moveonjoy.com/NHL_13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",NHL Center Ice 14 (720p)
 http://fl1.moveonjoy.com/NHL_14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL Network (720p)
-https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/NHL_NETWORK/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV (720p)
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Nitro Circus (1080p)
@@ -6361,6 +6359,8 @@ https://livestream.telvue.com/concordtvnh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 https://livestream.telvue.com/concordtvnh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Local Public Access",Concord TV Public Channel (Concord CA)
 https://livestream.telvue.com/concordtvnh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Local Public Access",Access Sacramento Channel 18
+https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Local Public Access",Public Access Channel 3 (San Dimas CA)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/sandimas/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Local Public Access",City of Las Vegas (Las Vegas NV)

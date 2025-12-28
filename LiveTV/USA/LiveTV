@@ -918,12 +918,6 @@
     "img": "https://i.imgur.com/j0UC4ke.png"
   },
   {
-    "name": "Access Sacramento Channel 18",
-    "type": "General",
-    "url": "https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8",
-    "img": "https://i.imgur.com/0pbtcvp.png"
-  },
-  {
     "name": "Access Tuolumne (Tuolumne County CA) (720p)",
     "type": "General",
     "url": "https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8",
@@ -2850,9 +2844,9 @@
     "img": "https://i.imgur.com/sA5V39D.png"
   },
   {
-    "name": "MSG",
+    "name": "MSG (720p)",
     "type": "Sports",
-    "url": "https://fl1.moveonjoy.com/MSG/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/MSG/mpegts",
     "img": "https://i.imgur.com/SEQFh0P.png"
   },
   {
@@ -2930,7 +2924,7 @@
   {
     "name": "NHL Network (720p)",
     "type": "Sports",
-    "url": "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/NHL_NETWORK/mpegts",
     "img": "https://i.imgur.com/UNZ8bef.png"
   },
   {
@@ -19083,6 +19077,12 @@
     "name": "Concord TV Public Channel (Concord CA)",
     "type": "Local Public Access",
     "url": "https://livestream.telvue.com/concordtvnh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Access Sacramento Channel 18",
+    "type": "Local Public Access",
+    "url": "https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

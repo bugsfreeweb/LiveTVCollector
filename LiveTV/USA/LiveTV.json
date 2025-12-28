@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-27 21:56:07",
+  "date": "2025-12-28 07:27:52",
   "channels": {
     "Religious": [
       {
@@ -1078,13 +1078,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8"
-      },
-      {
-        "name": "Access Sacramento Channel 18",
-        "logo": "https://i.imgur.com/0pbtcvp.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8"
       },
       {
         "name": "Access Tuolumne (Tuolumne County CA) (720p)",
@@ -3342,11 +3335,11 @@
         "url": "https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8"
       },
       {
-        "name": "MSG",
+        "name": "MSG (720p)",
         "logo": "https://i.imgur.com/SEQFh0P.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fl1.moveonjoy.com/MSG/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/MSG/mpegts"
       },
       {
         "name": "MSG Plus (720p) [Not 24/7]",
@@ -3437,7 +3430,7 @@
         "logo": "https://i.imgur.com/UNZ8bef.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/NHL_NETWORK/mpegts"
       },
       {
         "name": "NHRA TV (720p)",
@@ -22444,6 +22437,13 @@
         "group": "Local Public Access",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://livestream.telvue.com/concordtvnh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Access Sacramento Channel 18",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Local Public Access",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8"
       },
       {
         "name": "Public Access Channel 3 (San Dimas CA)",
