@@ -308,11 +308,6 @@ URL: http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8
 Logo: https://i.imgur.com/CERPj3J.png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
-Name: Sharjah Radio (1080p)
-URL: https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
-Logo: https://i.imgur.com/q7GGALe.png
-Source: https://iptv-org.github.io/iptv/languages/ara.m3u
---------------------------------------------------
 Name: Tanasuh TV (1080p)
 URL: https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
 Logo: https://i.imgur.com/iBAhM2v.png
@@ -1100,11 +1095,6 @@ URL: https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 Logo: https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
-Name: Sharjah Radio Quran (1080p)
-URL: https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-Logo: https://i.imgur.com/MxZlOvc.png
-Source: https://iptv-org.github.io/iptv/languages/ara.m3u
---------------------------------------------------
 Name: Sharjah TV (1080p)
 URL: https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 Logo: https://i.imgur.com/Oz2bPOt.png
@@ -1322,7 +1312,7 @@ Logo: https://sbauae.faulio.com/storage/mediagallery/f5/3e/small_d83f05132cd8c44
 Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
 Name: الشارقة الرياضية 2
-URL: https://maraya.sba.net.ae/live/14
+URL: https://live.kwikmotion.com/smc4sports2live/sports2.smil/smc4sports2publish/sports2_source/hdntl=exp=1767179243~acl=%2fsmc4sports2live%2fsports2.smil%2f*~data=hdntl~hmac=fd25528c8ce87b4a2a7725499036460eda724d9adc5722feb437318da1280dff/chunks.m3u8
 Logo: https://sbauae.faulio.com/storage/mediagallery/f5/3e/small_d83f05132cd8c44b47acc7062711d27c20a5ddc4.png
 Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
@@ -1334,6 +1324,21 @@ Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 Name: الوسطى
 URL: https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 Logo: https://sbauae.faulio.com/storage/mediagallery/30/fe/small_6c7cc30ed71e6b6c0267aa163952a5d9052cd166.png
+Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
+--------------------------------------------------
+Name: مرايا أطفال
+URL: https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
+--------------------------------------------------
+Name: إذاعة الشّارقة
+URL: https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+Logo: https://sbauae.faulio.com/storage/mediagallery/48/be/small_223c9d3f25bb2a817af17d3c1b3eabe6d6bdcfdf.png
+Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
+--------------------------------------------------
+Name: إذاعة الشّارقة قرآن كريم
+URL: https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
 Name: الظّفرة
@@ -1358,7 +1363,7 @@ Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
 Name: البحرين
 URL: https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-Logo: https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636854244051420459055c8727-b18f-43dd-9a3f-b4cc73ca297e.png
+Logo: https://cdn.countryflags.com/thumbs/bahrain/flag-round-250.png
 Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
 Name: البحرين الدولية
@@ -2263,7 +2268,7 @@ Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
 Name: الموريتانية 1
 URL: https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
-Logo: https://tvm.mr/ar/wp-content/uploads/2022/10/cropped-LOGO-FACEBOOK.png
+Logo: https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png
 Source: https://raw.githubusercontent.com/ARAB-IPTV/ARAB-IPTV/main/ARABIPTV.m3u
 --------------------------------------------------
 Name: صحراء 24
