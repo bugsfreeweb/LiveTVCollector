@@ -335,13 +335,6 @@ Logo: https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
-Group: Animation;Entertainment
-Name: Game One (1080p)
-URL: https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
-Logo: https://i.imgur.com/UHkaObv.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-
 Group: Business;News
 Name: BFM Business (576p)
 URL: https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
@@ -702,7 +695,7 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: MTV (1080p)
 URL: https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: RTL9
@@ -1052,6 +1045,11 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
 Group: Lifestyle
+Name: Fashion TV Paris (144p)
+URL: https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Fashion TV PG16 (144p)
 URL: https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 Logo: https://i.imgur.com/GFTAN5Q.png
@@ -2110,12 +2108,12 @@ Logo: https://i.ibb.co/Zfcrrr1/lci.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1_
-URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjcyOTUwOTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY3MjgwNjk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.LBYg1cmPi2KI77dCAb89BbRcy6gGV9elZX9pbp6sNRI/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjczMjAyOTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY3MzA1ODk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.QkTtMv0iKphtJbsZjLCXXMnCPLBeHEps_oXXgrncKic/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1-
-URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjcyOTMxODIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2NzI3ODc4MiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.xweJNszi-Vaf-2B2OQKs_d4WrjPBM4v4h06S8ZljOd4/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjczMjU0NTAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2NzMxMTA1MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.5z_lWEUpc8IluU-d5vGC8AoqCkvqXD9BqnJpd39FxuU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -2970,7 +2968,7 @@ Logo: https://i.ibb.co/LYbF1Wt/fashionok.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: FASHION TV
-URL: https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+URL: https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 Logo: https://i.ibb.co/LYbF1Wt/fashionok.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3161,6 +3159,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: MOTORVISION FR
 URL: https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+Logo: https://i.ibb.co/0YKFn02/motorvisionfrs.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MOTORVISION
+URL: https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 Logo: https://i.ibb.co/0YKFn02/motorvisionfrs.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -4735,12 +4738,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=6lAsLLssG-iJzTnLjorjWQ&e=1767295521
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=C8Pw6Mfm-wT6Q4SDz9grPA&e=1767316844
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=6lAsLLssG-iJzTnLjorjWQ&e=1767295521
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=C8Pw6Mfm-wT6Q4SDz9grPA&e=1767316844
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -8185,6 +8188,11 @@ Logo: https://i.ibb.co/fk0Vttj/tracebraz.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TRACE BRAZUCA
+URL: https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+Logo: https://i.ibb.co/fk0Vttj/tracebraz.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRACE BRAZUCA
 URL: https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
 Logo: https://i.ibb.co/fk0Vttj/tracebraz.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
@@ -11439,6 +11447,16 @@ URL: https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 Logo: https://i.ibb.co/zGS6X8G/ssad.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: KARBALA QURAN
+URL: https://ktvlive.online/stream/hls/ch1.m3u8
+Logo: https://i.ibb.co/DPGRRm1b/karbala-quran.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KARBALA DOC
+URL: https://ktvlive.online/stream/hls/ch3.m3u8
+Logo: https://i.ibb.co/g1D49g3/karbala-doc.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: ISHTAR ASSYRIAN GLOBAL
 URL: https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8
 Logo: https://i.ibb.co/ZNQPS3x/Ishtar.jpg
@@ -13714,6 +13732,21 @@ URL: https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
 Logo: https://i.ibb.co/46QnrG9/tvp1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: TVP 1
+URL: https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+Logo: https://i.ibb.co/46QnrG9/tvp1.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TVP 1
+URL: https://cdndai.pl/tvp1hd/index.m3u8
+Logo: https://i.ibb.co/46QnrG9/tvp1.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TVP 2
+URL: https://cdndai.pl/tvp2hd/index.m3u8
+Logo: https://i.ibb.co/23wHr2St/tvp2.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: TVP 2
 URL: https://live002.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8
 Logo: https://i.ibb.co/23wHr2St/tvp2.png
@@ -13737,6 +13770,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: TVP3 WARSZAWA
 URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp3warszawa.m3u8
 Logo: https://i.ibb.co/CpvvBMmp/tvp3.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: POLSAT
+URL: https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+Logo: https://i.ibb.co/xq4QJzvk/polsatpl.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: POLSAT NEWS
