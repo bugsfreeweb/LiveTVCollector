@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-06 21:53:14",
+  "date": "2026-01-07 06:51:20",
   "channels": {
     "": [
       {
@@ -1785,6 +1785,13 @@
         "url": "http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8"
       },
       {
+        "name": "Al Aoula (480p)",
+        "logo": "https://i.imgur.com/nq53d2N.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://xddrts.alwaysdata.net/maroo44/maaloula.php?m3u8"
+      },
+      {
         "name": "Al Aqsa Channel (416p) [Not 24/7]",
         "logo": "https://i.imgur.com/Z2rfrQ8.png",
         "group": "General",
@@ -1925,6 +1932,13 @@
         "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
       },
       {
+        "name": "LaayouneTV (480p)",
+        "logo": "https://www.snrt.ma/sites/default/files/2023-04/laayoune.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://oppomu.serv00.net/maroo44/malaayoune.php?m3u8"
+      },
+      {
         "name": "LBC (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/whyZXzW.png",
         "group": "General",
@@ -2014,6 +2028,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8"
+      },
+      {
+        "name": "Tamazight TV (480p)",
+        "logo": "https://i.imgur.com/fm6S7we.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://cdnet.alwaysdata.net/maroo44/matamaz.php?m3u8"
       },
       {
         "name": "Tanasuh TV (1080p)",
@@ -2433,6 +2454,13 @@
         "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8"
       },
       {
+        "name": "Assadissa (480p)",
+        "logo": "https://freebox.cdn.scw.iliad.fr/medium_Assadissa_f8b25de821.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://xddrts.alwaysdata.net/maroo44/maassadi.php?m3u8"
+      },
+      {
         "name": "Assirat TV (576p)",
         "logo": "https://i.postimg.cc/s2NY6ZrF/assirattv.png",
         "group": "Religious",
@@ -2846,6 +2874,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8"
+      },
+      {
+        "name": "Halab Today TV (1080p)",
+        "logo": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
       },
       {
         "name": "I24 News Arabic (720p)",
@@ -3322,6 +3357,13 @@
         "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
       },
       {
+        "name": "Arryadia (480p)",
+        "logo": "https://i.imgur.com/XjzK3gZ.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://oppomu.serv00.net/maroo44/maarry.php?m3u8"
+      },
+      {
         "name": "Dubai Racing (1080p)",
         "logo": "https://i.imgur.com/CJ1dagP.png",
         "group": "Sports",
@@ -3389,6 +3431,29 @@
         "group": "Business;News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "Athaqafia (480p)",
+        "logo": "https://freebox.cdn.scw.iliad.fr/medium_Athaqafia_fdc90e055e.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://oppomu.serv00.net/maroo44/maarrabia.php?m3u8"
+      },
+      {
+        "name": "Saudi Thaqafiya TV (1080p)",
+        "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
+      },
+      {
+        "name": "StoryChannel TV (720p)",
+        "logo": "https://i.imgur.com/ZBV6xph.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://136044159.r.cdnsun.net/storychannel.m3u8"
       }
     ],
     "Series": [
@@ -3506,22 +3571,6 @@
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8"
-      }
-    ],
-    "Culture": [
-      {
-        "name": "Saudi Thaqafiya TV (1080p)",
-        "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
-      },
-      {
-        "name": "StoryChannel TV (720p)",
-        "logo": "https://i.imgur.com/ZBV6xph.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://136044159.r.cdnsun.net/storychannel.m3u8"
       }
     ],
     "Animation;Kids": [
