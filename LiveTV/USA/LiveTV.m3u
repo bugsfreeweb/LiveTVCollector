@@ -1653,6 +1653,8 @@ http://143.244.60.30/CBSEAST/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61e71d5931746f0007ca3e68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1029-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7473f3ad-8ef5-46e9-98b7-8a551289db64
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",WFTS-DT1 (720p)
 http://143.244.60.30/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="News",WGGS-DT2 (720p)
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News",WJBK-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",WLS ABC 7 News (Chicago IL) (720p)
@@ -1671,6 +1673,8 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="Lifestyle",30A Luxe Life Discovered
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Lifestyle",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="Lifestyle",Better Health TV (480p)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaNXOnO.png" group-title="Lifestyle",Biz TV (1080p)
@@ -2395,16 +2399,18 @@ http://rfcm.streamguys1.com/mixlitpremium-mp3
 http://rfcm.streamguys1.com/sailingpremium-mp3
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",TuneIn Smooth Jazz
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Hit List (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/47978.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Today's Hits "Hit List" (Audio Channel)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42072.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Music Choice Max (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/48002.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38042.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Dance
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42086.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Dance EDM
-http://kstv.us:8080/live/N427DpynGE/7049166651/47958.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42082.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classic Dance
 http://kstv.us:8080/live/N427DpynGE/7049166651/47944.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237626.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42073.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Hip-Hop And R&B (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47975.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Rap (Audio Channel)
@@ -2416,13 +2422,15 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/48049.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Hip-Hop Classics
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237628.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Hip-Hop Classics (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/47976.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647292.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Throwback Jams
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237629.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Throwback Jams (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/48044.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42087.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Funk (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47970.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | R&B Hits (Audio Channel)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42079.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | R&B Groove (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260729.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | R&B Soul (Audio Channel)
@@ -2432,11 +2440,11 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260730.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | R&B Classics
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237630.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | R&B Classics (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260722.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647293.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | ALT R&B (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260731.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Today's R&B
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237631.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42081.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Freestyle (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260728.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Gospel
@@ -2460,23 +2468,27 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260755.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classic Alternative (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260753.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Rock
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237634.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42080.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Rock Hits (Audio Channel)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647297.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classic Rock
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237639.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647298.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classic Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260747.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Soft Rock
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237640.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647299.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Soft Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260703.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Yacht Rock
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237635.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Yacht Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260700.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Mellow Hits
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42092.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Love Songs (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260705.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Pop Hits
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237642.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42076.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Pop Hits (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260673.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Party Favorites (Audio Channel)
@@ -2494,7 +2506,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237624.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Malt Shop Favorites (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260706.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Solid Gold Oldies
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237651.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647316.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Solid Gold Oldies (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260692.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '60s Generation
@@ -2508,7 +2520,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260743.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '70s
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237649.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '70s (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260693.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647315.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '70s Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260745.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '70s Soul (Audio Channel)
@@ -2516,15 +2528,15 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260717.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '70s & '80s Favorites
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237646.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '80s
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237648.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42078.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '80s (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260701.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647314.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '80s One Hit Wonders (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260696.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '80s Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260749.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '90s
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237647.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42083.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '90s (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260674.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | '90s Club Hits (Audio Channel)
@@ -2538,7 +2550,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260746.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Y2K (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260699.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Y2K Rap (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260725.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42088.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Y2K R&B (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260726.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | 2010s (Audio Channel)
@@ -2548,13 +2560,15 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237670.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classic Christmas (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260776.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Pop And Country
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237652.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42077.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Pop And Country (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260660.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Today's Country
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237653.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647318.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Today's Country (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260672.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Country Hits
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647319.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Country Hits (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260708.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classic Country
@@ -2567,8 +2581,12 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237633.ts
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260765.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Pop Latino (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260735.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Musica Urbana
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38043.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Musica Urbana (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260736.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Mexicana
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42090.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Mexicana (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260739.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Tropicales
@@ -2587,12 +2605,14 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237671.ts
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260777.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Stage And Screen (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260781.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Smooth Jazz
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647326.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Smooth Jazz (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260663.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Choice Blues
 http://kstv.us:8080/live/N427DpynGE/7049166651/47934.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Easy Listening
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237669.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647335.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Easy Listening (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260691.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",MC (Music Choice) | Classical Masterpieces (Audio Channel)
@@ -2679,8 +2699,6 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Comedy",KSHB-DT3 (720p)
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Comedy",Laff (480p)
-http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Comedy",LOL Network (1080p)
 https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mbhOEo.png" group-title="Comedy",More TV Sitcoms
@@ -3521,6 +3539,12 @@ https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwdOtV.png" group-title="Undefined",UALR TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Undefined",UniMas West (1080p)
+https://d162h6qqsk8wvl.cloudfront.net/78cf0d65-af0f-4d9f-a53b-1ba80dd13d10/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined",Univision (1080p)
+https://d162h6qqsk8wvl.cloudfront.net/5e0e1258-ebdb-4049-bc2c-56dd474b1ed5/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined",Univision West (1080p)
+https://d162h6qqsk8wvl.cloudfront.net/4c23aa6f-4101-4ba6-9a3b-6f5ea9bbce4a/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",USA Network (720p)
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="Undefined",Vice News (1080p)
@@ -4245,10 +4269,8 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="General;Religious",BX Inspire (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="Culture;Education",Ayeneh TV
-https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Culture;Education",MCN6 Arts Channel (1080p) [Not 24/7]
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Documentary",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qcTNvNU.png" group-title="Documentary",Backstage [Geo-blocked]
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p) [Geo-blocked]
@@ -4299,10 +4321,12 @@ https://fl1.moveonjoy.com/REELZ/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="Documentary",Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3f05505e621000783df2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d811-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed84458b-d963-4758-88f3-5745e78c08a4
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="Documentary",Terra Mater WILD English (1080p)
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3826.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (East)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3718.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3629.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2661.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
@@ -4441,6 +4465,10 @@ https://mst3k-ts-zype.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-ts-zype/CDN/pl
 https://dtqutq7lmcchv.cloudfront.net/10001/99991367/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991367
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",FilmRise Untold Stories of the ER
 https://dbrb49pjoymg4.cloudfront.net/10001/99951341/hls/master.m3u8?ads.xumo_channelId=99951341
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="Culture;Education",Ayeneh TV
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Culture;Education",MCN6 Arts Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJjfSWi.png" group-title="Travel",Beach TV CSULB (160p) [Not 24/7]
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/weypM9C.png" group-title="Travel",Beach TV Florida & Alabama (720p)
@@ -5110,7 +5138,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2695.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WGN-TV CW 9 (Chicago IL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/85340.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/WCIU_the_U_logo_2024.png/1280px-WCIU_the_U_logo_2024.png" group-title="Local Channels (Not 24/7)",WCIU-TV CW/Ind. (TheU) 26 (Chicago IL)
-http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/769995.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117146.ts
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFLD-TV FOX 32 (Chicago IL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2567.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
@@ -6263,7 +6291,7 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/725062.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV PBS 5 (Reno NV)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/33699.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24.1 (San Bernardino/Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
 http://vocotv.pro:80/live/10/12345/2128.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
 http://vocotv.pro:80/live/10/12345/2122.ts
@@ -7010,11 +7038,11 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4209.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Discovery en Español
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40625.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Discovery Turbo en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/46583.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/1631.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Discovery Home and Health en Español
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4208.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Discovery Familia
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40631.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2599.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Discovery Theater en Español
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4211.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Discovery World en Español
@@ -7030,7 +7058,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649401.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Nat Geo Mundo
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40637.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Nat Geo Wild en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/46651.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/46650.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",HITN
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649414.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Taste Made en Español
@@ -7478,13 +7506,13 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47114.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN Deportes
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21591.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47107.ts
+http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN 2 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47098.ts
+http://181.114.57.246:4000/play/Z5TWRUY3869wGRLG/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN 3 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47102.ts
+http://181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN 4 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
+http://181.80.15.131:8400/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN 5 en Español
 http://179.61.31.142:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ESPN 6 en Español
@@ -7892,7 +7920,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57968.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",MTV Classic (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57969.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://fl2.moveonjoy.com/MTV_LIVE/mpegts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",MTV Yo! (Pluto)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",OUTtv Proud
@@ -10734,7 +10762,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/59855.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",OMNI 2 (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40640.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",OWN (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40635.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57277.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Peachtree TV (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40632.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Showcase (Canada)
@@ -10819,6 +10847,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40629.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/40628.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",NBA TV (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40601.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",NFL Network (Canada)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3067.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Sportsnet 360 (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40618.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Sportsnet West (Canada)
@@ -10939,8 +10969,6 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47805.ts
 https://a1xs.vip/1000051
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Nick Jr. (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47796.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Nick Jr. 2 (UK)
-http://kstv.us:8080/live/N427DpynGE/7049166651/23275.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Nick Jr. Too (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47797.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Nicktoons (UK)
@@ -10955,6 +10983,8 @@ https://anym3u8player.com/youtube.php/id/692261f0eca60.m3u8
 http://kstv.us:8080/live/N427DpynGE/7049166651/47802.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Pop Max (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47803.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Tiny Pop (UK)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2162.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",U&Alibi (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47739.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",U&Drama (UK)
@@ -11025,8 +11055,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47746.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47804.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",True Crime (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47754.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",True Crime +1 (UK)
-http://kstv.us:8080/live/N427DpynGE/7049166651/47755.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",True Crime Xtra (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47753.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Sky Arts (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47811.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Sky Atlantic (UK)
@@ -11071,8 +11101,6 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3972.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3973.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",GOL TV (UK)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319489
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Sky Sports Football (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47866.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Sky Sports Premier League (UK)
@@ -11137,6 +11165,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47835.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47774.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Movie Spare (UK)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2151.ts
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Movie24 (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47791.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Sky Cinema Action (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47813.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UK Channels",Sky Cinema Animation (UK)
