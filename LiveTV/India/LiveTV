@@ -300,12 +300,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
   },
   {
-    "name": "METV",
-    "type": "Bangla",
-    "url": "http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel S UK HD",
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
@@ -429,6 +423,12 @@
     "name": "Makka live",
     "type": "Islamic",
     "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Movie Bangla",
+    "type": "Bangla Movies",
+    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -574,6 +574,12 @@
     "type": "Hindi Movies",
     "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Zee Anmol Cinema 2",
+    "type": "Hindi Movies",
+    "url": "http://110.39.27.47:8001/play/a03w/index.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954"
   },
   {
     "name": "B4U Movies",
@@ -744,12 +750,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
   },
   {
-    "name": "Animal Planet HD",
-    "type": "Information",
-    "url": "http://103.60.204.26:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
-  },
-  {
     "name": "Nat Geo HD",
     "type": "Information",
     "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
@@ -897,12 +897,6 @@
     "name": "YRF Music HD",
     "type": "",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Utsav Gold",
-    "type": "",
-    "url": "http://45.148.145.57/IN_STU/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1374,12 +1368,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
   },
   {
-    "name": "Movie Bangla",
-    "type": "",
-    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "US-BD Journal 24 TV",
     "type": "",
     "url": "http://208.86.19.13:81/510.stream/index.m3u8?",
@@ -1389,12 +1377,6 @@
     "name": "Histoire HD",
     "type": "",
     "url": "http://151.80.18.177:86/Histoire/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Hindi Hits HD",
-    "type": "Hindi Music",
-    "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2164,6 +2146,12 @@
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "22Scope News (1080p)",
+    "type": "News",
+    "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png"
   },
   {
     "name": "24 News (396p)",
@@ -3054,6 +3042,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png"
   },
   {
+    "name": "Salaam TV (720p)",
+    "type": "News",
+    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Samachar Plus (1080p)",
     "type": "News",
     "url": "https://samacharplus.livebox.co.in/samacharplushls/live.m3u8",
@@ -3630,12 +3624,6 @@
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Anandham-TV-logo_2000_X_1125_Transpharent.png"
   },
   {
-    "name": "Anmol Cinema 2 (576p)",
-    "type": "Movies",
-    "url": "http://110.39.27.47:8001/play/a03w/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
     "name": "B4U Bhojpuri (1080p)",
     "type": "Movies",
     "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
@@ -3874,12 +3862,6 @@
     "type": "Movies",
     "url": "https://stream.galaxyott.live/live/suriyantv/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png"
-  },
-  {
-    "name": "Tata Sky Bollywood Premiere (1080p)",
-    "type": "Movies",
-    "url": "http://103.178.78.151:7505/play/a1vu/index.m3u8",
-    "img": "https://i.imgur.com/VngCqQB.png"
   },
   {
     "name": "Thalaa TV (1080p)",
