@@ -292,8 +292,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 #EXTINF:-1 tvg-logo="https://www.althania.tv/themes/custom/althania/assets/images/logo-white.svg" group-title="Uncategorized",الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="Uncategorized",الـــيوم
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://ronahi.tv/ar/wp-content/uploads/2019/05/logoronahi.png" group-title="Uncategorized",روناهي
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+#EXTINF:-1 tvg-logo="https://ronahi.tv/wp-content/uploads/2025/08/logoronahi-4.png" group-title="Uncategorized",روناهي
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-logo="https://rojavatv.net/wp-content/uploads/2024/02/rojavalogonew.png" group-title="Uncategorized",روجافا
 https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
@@ -458,11 +458,11 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="Uncategorized",الجزيرة الوثائقية
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" group-title="Uncategorized",الجزيرة الإخبارية
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="Uncategorized",الجزيرة مباشر
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="Uncategorized",2الجزيرة مباشر
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" group-title="Uncategorized",العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sw6tV5W/alhadath.jpg" group-title="Uncategorized",العربية الحدث
@@ -474,7 +474,7 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6P5CKrZ/asharq.png" group-title="Uncategorized",الشرق
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75" group-title="Uncategorized",القاهرة الإخبارية
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+https://fastly.live.brightcove.com/1843520572297019367/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjA1NzIyOTcwMTkzNjcifQ.VDAy1TCwzlhiHq7touUEdjjhIJL8dl-x5KiSVpjOKWc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="Uncategorized",روسيا اليوم
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png" group-title="Uncategorized",الحـــوار
@@ -775,6 +775,12 @@ http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNsnZvcd/aljanoubtv.png" group-title="News",Al Janoub TV
 http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMCcIZ2.png" group-title="News",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJmi6G6.png" group-title="News",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="News",Al Mamlaka TV (1080p)
@@ -785,6 +791,8 @@ https://edge.fastpublish.me/live/index.m3u8
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Ncyv3p/alnujabatv.png" group-title="News",Al Nujaba
 http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="News",Al Yaum TV (1080p)
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al-Sharqiya News (1080p)
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTRZ1tQ9/alalamnewschannelsyria.png" group-title="News",Alalam News Channel Syria (1080p)
