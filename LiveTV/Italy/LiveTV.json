@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-14 14:02:01",
+  "date": "2026-01-14 22:02:30",
   "channels": {
     "Music": [
       {
@@ -6677,20 +6677,36 @@
         "url": "https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-62d7f6904d0067dd4d60d0de.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aBktaJghT8w_HWRJD12r"
       }
     ],
+    "lifestyle": [
+      {
+        "name": "Daystar Español",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
+        "url": "https://amg00405-amg00405c2-amgplt0165.playout.now3.amagi.tv/smarttv/64wj6m6d8/playlist_cmaf.m3u8"
+      },
+      {
+        "name": "Daystar TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
+        "url": "https://amg00405-amg00405c1-amgplt0165.playout.now3.amagi.tv/smarttv/g32odw73f/playlist_cmaf.m3u8"
+      }
+    ],
     "notizie": [
       {
         "name": "Euronews IN DIRETTA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMzhiMGI0NDMtNTEyOC00MDY1LWI0ZjgtNjllZGVhYTRkYmI4IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2E4NGY4MjQtYjZkMi00MmMyLThlNzEtOGFiMTMyNjU1NTlhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "Africanews",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYWRkZDgyYWMtNjQ0Yy00MjA1LTk0ZmMtNjAzN2YxZTI1Y2MzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZjFlYzFlNjktNGJkZS00MTE5LTkyNzItNDFmMjQ3MjhkMzAxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       }
     ],
     "Novità su Pluto TV": [
