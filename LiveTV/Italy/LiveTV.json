@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-19 14:04:23",
+  "date": "2026-01-19 22:00:39",
   "channels": {
     "Music": [
       {
@@ -6677,16 +6677,14 @@
         "url": "https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-62d7f6904d0067dd4d60d0de.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aBktaJghT8w_HWRJD12r"
       }
     ],
-    "film": [
-      {
-        "name": "Dramma - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://drama-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
-      }
-    ],
     "lifestyle": [
+      {
+        "name": "Moda TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c6-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c6-amgplt0148/playlist.m3u8"
+      },
       {
         "name": "Daystar Español",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -6708,14 +6706,28 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiODRhZGM3ODQtMjczNi00NDdmLWE4ZDItMDMzMmY3NzQzZmU5IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYzNiNzJhNWUtNmJhZi00MGRhLWI3NzItODZjNWMyM2YwMGQ3IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+      },
+      {
+        "name": "Il Sole 24 Ore TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c8-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c8-amgplt0165/playlist.m3u8"
+      },
+      {
+        "name": "Class CNBC",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c5-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c5-amgplt0148/playlist.m3u8"
       },
       {
         "name": "Africanews",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2M2ZWFmOTEtOGIyMi00NmFhLThjODUtYjNhYTllOTAzNTc3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMTk4MTBhOTgtYWE4Zi00OWFhLTk5NmUtNzliZWRkMmU3NDA3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       }
     ],
     "Novità su Pluto TV": [
