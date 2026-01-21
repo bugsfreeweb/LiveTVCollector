@@ -656,7 +656,7 @@
   {
     "name": "ULFN (Universal Living Faith Network)",
     "type": "Religious",
-    "url": "https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8",
+    "url": "https://live-api.vimeocdn.com/sessions/a32c1465-36ac-4f2a-9220-77f511090cd5/playlist/avc/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1768946400&~id=player&~sig=IbRH49GkL1psTG-BY7xsDjPD4u8qoJI8whZ9bdOUmfw",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -681,12 +681,6 @@
     "name": "GOD TV (UK)",
     "type": "Religious",
     "url": "https://ott.god.tv/live/uk/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "The Word Network",
-    "type": "Religious",
-    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -722,7 +716,7 @@
   {
     "name": "Faith World TV",
     "type": "Religious",
-    "url": "https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8",
+    "url": "https://faithworldtv.abs.tv/1826926230/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2691,7 +2685,7 @@
     "name": "beIN Sports USA",
     "type": "Sports",
     "url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png"
   },
   {
     "name": "BeIN SPORTS XTRA (1080p) [Geo-blocked]",
@@ -3084,6 +3078,12 @@
     "img": "https://i.imgur.com/D4mZ8ll.png"
   },
   {
+    "name": "Willow Sports (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png"
+  },
+  {
     "name": "World Poker Tour (1080p) [Not 24/7]",
     "type": "Sports",
     "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
@@ -3458,7 +3458,7 @@
   {
     "name": "Altitude Sports Denver",
     "type": "Sports",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48335.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/332892.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3501,12 +3501,6 @@
     "name": "Spectrum Sportsnet OC16",
     "type": "Sports",
     "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649399.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Root Sports",
-    "type": "Sports",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48334.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10830,9 +10824,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
   },
   {
-    "name": "WNJU-DT1",
+    "name": "WNJU-DT1 (1080p) [Not 24/7]",
     "type": "Undefined",
-    "url": "http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/1080/index.m3u8",
+    "url": "https://tvpass.org/live/TelemundoEast/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
   },
   {
@@ -10894,6 +10888,12 @@
     "type": "Undefined",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
     "img": "https://i.imgur.com/MNSBpDW.png"
+  },
+  {
+    "name": "WPXN-DT1",
+    "type": "Undefined",
+    "url": "http://143.244.60.30/ION_TV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"
   },
   {
     "name": "WPXN-DT7",
@@ -11026,6 +11026,12 @@
     "type": "Undefined",
     "url": "https://143.244.60.30/AL_Birmingham_NBC/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"
+  },
+  {
+    "name": "WWOR-DT1",
+    "type": "Undefined",
+    "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png"
   },
   {
     "name": "WXIX-DT1 (720p)",
@@ -23018,6 +23024,12 @@
   {
     "name": "QVC 7",
     "type": "Shopping",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 8",
+    "type": "Shopping",
     "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -30308,7 +30320,7 @@
   {
     "name": "Cartoon Network (Canada)",
     "type": "Canadian Channels",
-    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3127.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3248.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30320,13 +30332,13 @@
   {
     "name": "Télétoon French (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40604.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3134.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "TFO French (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40659.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3133.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30344,7 +30356,7 @@
   {
     "name": "APTN (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40774.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3214.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30386,7 +30398,7 @@
   {
     "name": "Magnolia Network (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40722.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3086.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30440,7 +30452,7 @@
   {
     "name": "AHC (American Heroes Channel) (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40777.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3213.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30486,9 +30498,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Investigation (Canada)",
+    "name": "ID (Investigation Discovery) (Canada)",
     "type": "Canadian Channels",
-    "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/57442.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88083.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30512,7 +30524,7 @@
   {
     "name": "YES TV (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40665.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3049.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30548,7 +30560,7 @@
   {
     "name": "Travel Escape (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40580.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3296.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

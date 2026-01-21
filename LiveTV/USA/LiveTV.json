@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-20 22:07:32",
+  "date": "2026-01-21 07:23:50",
   "channels": {
     "Religious": [
       {
@@ -770,7 +770,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religious",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8"
+        "url": "https://live-api.vimeocdn.com/sessions/a32c1465-36ac-4f2a-9220-77f511090cd5/playlist/avc/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1768946400&~id=player&~sig=IbRH49GkL1psTG-BY7xsDjPD4u8qoJI8whZ9bdOUmfw"
       },
       {
         "name": "Positiv",
@@ -799,13 +799,6 @@
         "group": "Religious",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://ott.god.tv/live/uk/master.m3u8"
-      },
-      {
-        "name": "The Word Network",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Religious",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.ts"
       },
       {
         "name": "CBN News",
@@ -847,7 +840,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religious",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8"
+        "url": "https://faithworldtv.abs.tv/1826926230/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Impact Network",
@@ -3154,7 +3147,7 @@
       },
       {
         "name": "beIN Sports USA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8"
@@ -3615,6 +3608,13 @@
         "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
       },
       {
+        "name": "Willow Sports (1080p) [Geo-blocked]",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "World Poker Tour (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/98kLMjj.png",
         "group": "Sports",
@@ -4053,7 +4053,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48335.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/332892.ts"
       },
       {
         "name": "Chicago Sports Network",
@@ -4103,13 +4103,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649399.ts"
-      },
-      {
-        "name": "Root Sports",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48334.ts"
       },
       {
         "name": "Sportsnet (4K)",
@@ -12678,11 +12671,11 @@
         "url": "https://e5.thetvapp.to/hls/WNET/index.m3u8"
       },
       {
-        "name": "WNJU-DT1",
+        "name": "WNJU-DT1 (1080p) [Not 24/7]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/1080/index.m3u8"
+        "url": "https://tvpass.org/live/TelemundoEast/hd"
       },
       {
         "name": "WNYW-DT1 (1080p)",
@@ -12753,6 +12746,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
+      },
+      {
+        "name": "WPXN-DT1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://143.244.60.30/ION_TV/index.m3u8"
       },
       {
         "name": "WPXN-DT7",
@@ -12907,6 +12907,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://143.244.60.30/AL_Birmingham_NBC/index.m3u8"
+      },
+      {
+        "name": "WWOR-DT1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
       },
       {
         "name": "WXIX-DT1 (720p)",
@@ -27007,6 +27014,13 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Shopping",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8"
+      },
+      {
+        "name": "QVC 8",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8"
       },
       {
@@ -35556,7 +35570,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3127.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3248.ts"
       },
       {
         "name": "Boomerang by Cartoon Network (Canada)",
@@ -35570,14 +35584,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40604.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3134.ts"
       },
       {
         "name": "TFO French (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40659.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3133.ts"
       },
       {
         "name": "Adult Swim (Canada)",
@@ -35598,7 +35612,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40774.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3214.ts"
       },
       {
         "name": "USA Network (Canada)",
@@ -35647,7 +35661,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40722.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3086.ts"
       },
       {
         "name": "Knowledge Network (Canada)",
@@ -35710,7 +35724,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40777.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3213.ts"
       },
       {
         "name": "BBC Earth (Canada)",
@@ -35762,11 +35776,11 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3148.ts"
       },
       {
-        "name": "Investigation (Canada)",
+        "name": "ID (Investigation Discovery) (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/57442.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88083.ts"
       },
       {
         "name": "TV Ontario (Canada)",
@@ -35794,7 +35808,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40665.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3049.ts"
       },
       {
         "name": "Super Channel Fuse (Canada)",
@@ -35836,7 +35850,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40580.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3296.ts"
       },
       {
         "name": "HPItv East (Canada)",
