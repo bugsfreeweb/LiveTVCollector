@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-23 22:06:02",
+  "date": "2026-01-24 07:29:15",
   "channels": {
     "siaranMy": [
       {
@@ -21,7 +21,7 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
+        "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8"
       },
       {
         "name": "Okey Tv",
@@ -42,7 +42,7 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd"
+        "url": "https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8"
       },
       {
         "name": "8TV",
@@ -56,7 +56,7 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv9.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd"
+        "url": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8"
       },
       {
         "name": "BERITA RTM",
@@ -105,7 +105,7 @@
         "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8"
+        "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd"
       },
       {
         "name": "Tv Alhijrah",
@@ -621,6 +621,13 @@
       }
     ],
     "MYTV": [
+      {
+        "name": "103 TV3 SD",
+        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
+        "group": "MYTV",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
+      },
       {
         "name": "103 TV3 HD TEST",
         "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
