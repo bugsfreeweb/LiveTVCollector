@@ -714,6 +714,12 @@
     "img": "https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png"
   },
   {
+    "name": "Cinemaworld",
+    "type": "Movies",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd",
+    "img": "https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png"
+  },
+  {
     "name": "Hits",
     "type": "Movies",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd",
@@ -854,20 +860,14 @@
   {
     "name": "HBO",
     "type": "Movies",
-    "url": "https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd",
     "img": "https://iili.io/Ju79f8g.png"
   },
   {
     "name": "HBO Hits",
     "type": "Movies",
-    "url": "https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd",
     "img": "https://iili.io/Ju79nwv.png"
-  },
-  {
-    "name": "HBO Signature",
-    "type": "Movies",
-    "url": "https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd",
-    "img": "https://iili.io/Ju79IMN.png"
   },
   {
     "name": "HBO Family",
@@ -876,9 +876,15 @@
     "img": "https://iili.io/Ju79otR.png"
   },
   {
+    "name": "HBO Signature",
+    "type": "Movies",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd",
+    "img": "https://iili.io/Ju79IMN.png"
+  },
+  {
     "name": "Cinemax",
     "type": "Movies",
-    "url": "https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd",
     "img": "https://iili.io/Ju79znp.png"
   },
   {
@@ -11268,12 +11274,6 @@
     "img": "https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13"
   },
   {
-    "name": "RCTI LIVE SPORTS",
-    "type": "TV Nasional Indonesia",
-    "url": "https://liveplus.rctiplus.id/RTMP-IN.m3u8",
-    "img": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true"
-  },
-  {
     "name": "INDOSIAR Liga 1",
     "type": "TV Nasional Indonesia",
     "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash",
@@ -11348,7 +11348,7 @@
   {
     "name": "Kompas TV",
     "type": "TV Nasional Indonesia",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_106.png"
   },
   {
@@ -11372,7 +11372,7 @@
   {
     "name": "DAAI TV",
     "type": "TV Nasional Indonesia",
-    "url": "http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd",
     "img": "https://github.com/eepunx/canlog/raw/refs/heads/main/daai.png"
   },
   {
@@ -12156,12 +12156,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png"
   },
   {
-    "name": "DAAI TV",
-    "type": "FMX",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd",
-    "img": "https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png"
-  },
-  {
     "name": "Kompas TV HD",
     "type": "FMX",
     "url": "https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd",
@@ -12600,6 +12594,12 @@
     "img": "https://i.imgur.com/0TDfyNw.jpeg"
   },
   {
+    "name": "Kompas TV 2 ON",
+    "type": "NASIONAL",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+    "img": "https://i.imgur.com/AE6rBhB.jpeg"
+  },
+  {
     "name": "TVRI 1 ON",
     "type": "NASIONAL",
     "url": "http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI",
@@ -12700,12 +12700,6 @@
     "type": "NASIONAL",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|eferrer=https://dens.tv/",
     "img": "https://i.ibb.co.com/bQP5St8/metrotv.png"
-  },
-  {
-    "name": "22.KOMPAS TV",
-    "type": "NASIONAL",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8",
-    "img": "https://i.ibb.co.com/sFFZLD7/kompas.png"
   },
   {
     "name": "25.RTV",
@@ -16762,6 +16756,12 @@
     "type": "No SignaL 📺",
     "url": "http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts",
     "img": "https://i.imgur.com/dLgQjem.jpg"
+  },
+  {
+    "name": "RCTI Live Sports 🔵",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://liveplus.rctiplus.id/RTMP-IN.m3u8",
+    "img": "https://www.visionplus.id/images/repository/426/173426-LOGO-m.png"
   },
   {
     "name": "SCTV DIGITAL",
