@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-11 22:25:08",
+  "date": "2026-02-12 06:49:01",
   "channels": {
     "General": [
       {
@@ -40,20 +40,13 @@
         "url": "http://live.divyadarshantv.com/hls/stream.m3u8"
       }
     ],
-    "Documentary": [
+    "Kids": [
       {
-        "name": "National Geographic HD (720p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png",
-        "group": "Documentary",
+        "name": "Nick Jr. (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png",
+        "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
-      },
-      {
-        "name": "National Geographic Wild HD (720p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8"
+        "url": "http://161.248.38.40:8000/play/a074/index.m3u8"
       }
     ]
   }
