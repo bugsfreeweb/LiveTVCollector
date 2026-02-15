@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15 14:11:06",
+  "date": "2026-02-15 22:09:16",
   "channels": {
     "film": [
       {
@@ -573,7 +573,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZWQ4MDFiNDktNTc5YS00NzVmLWIxYWEtY2UzNTc5YTc3NjFkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2Y1NDAyMmEtMmQ2MC00ZmUzLWE5OGMtN2Q3YWY4OTM4ODI5IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -608,7 +608,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMTIxYTliMzAtZTA3ZC00ZGY0LWJmYTMtMzE4YmQxNjMzNzdiIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTY1YWJiNjktNTc4OC00YjY4LWI0MmYtNzFlYTVlZTg3YjcxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -646,6 +646,13 @@
         "group": "STREAMING MEDIA",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://nocable.cc:8080/789588/114528/125814"
+      },
+      {
+        "name": "TV ASIA (USA)",
+        "logo": " ",
+        "group": "STREAMING MEDIA",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125819"
       },
       {
         "name": "SONY MAX 2 (USA)",
@@ -755,20 +762,6 @@
         "url": "https://mumt01.tangotv.in/RANG/index.m3u8"
       },
       {
-        "name": "PEAR TV (IND)",
-        "logo": " ",
-        "group": "TERRESTRIAL TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "https://mumt01.tangotv.in/PEARTV/index.m3u8"
-      },
-      {
-        "name": "UNIQUE TV (IND)",
-        "logo": " ",
-        "group": "TERRESTRIAL TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "https://mumt05.tangotv.in/UNIQUETV/index.m3u8"
-      },
-      {
         "name": "E24 (IND)",
         "logo": " ",
         "group": "TERRESTRIAL TV",
@@ -825,11 +818,25 @@
         "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8"
       },
       {
+        "name": "STAR PLUS (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://103.182.170.32:8888/play/a03o"
+      },
+      {
         "name": "SUN NEO (IND)",
         "logo": " ",
         "group": "TERRESTRIAL TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://103.78.149.54:8000/play/a00y/index.m3u8"
+      },
+      {
+        "name": "SONY HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://217.20.112.199:8888/sethd/index.m3u8"
       },
       {
         "name": "SONY SAB HD (IND)",
@@ -844,6 +851,27 @@
         "group": "TERRESTRIAL TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://217.20.112.199:8888/ColorsHD/index.m3u8"
+      },
+      {
+        "name": "STAR BHARAT HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://217.20.112.199:8888/lifeokhd/index.m3u8"
+      },
+      {
+        "name": "NAT GEO WILD HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://217.20.112.199:8888/natgeowild/index.m3u8"
+      },
+      {
+        "name": "ANIMAL PLANET HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://217.20.112.199:8888/animalplanet/index.m3u8"
       }
     ],
     "ADULT LIVE": [
@@ -2604,7 +2632,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://172.93.102.112:8080/get/u2MMOTivo8cQhX8HvQEWeWM1Y1NWbzB2RTV6a0kvcWMvaXVjSW9NTFRhM3pReGIwc25JYjFwTmJqMGxKeWQ4MWJLZHF5YjN1ck85OCtzSmZmOUFjRjZOVmxQejJMZXdTNWR5Z1NBPT0.m3u8"
+        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278986.m3u8"
       },
       {
         "name": "CNN CHILE",
@@ -2781,63 +2809,35 @@
         "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://newemma.xyz:8080/995243891/270223/88"
+        "url": "https://tvgolat.org:8443/vera001/29112023/191452.m3u8"
       },
       {
         "name": "TNT SPORTS PREMIUM 3",
         "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://104.238.205.28:25461/get/sT5WTOoI0wz0UYjbi83EH0xHdXdURmpRWWRUamtsMnBCMysyU3AvQ2hsb09WOThRbXRrUEFaRnF4NUFDZzh6R0p0K3E1UlloRjZNRlpRUDhiR1FzVWFxMWRubVl0TUI5VSs5b09RPT0.m3u8"
+        "url": "https://tvgolat.org:8443/vera001/29112023/262027.m3u8"
       },
       {
         "name": "TNT SPORTS PREMIUM 4",
         "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://195.66.210.10:80/MiguelArrieta/QKBVE/21961"
+        "url": "http://tv.diablotv.net:8080/carlosdelacruz/23aca1b26e6f/9923"
       },
       {
         "name": "TNT SPORTS PREMIUM 5",
         "logo": "https://i.ibb.co/qYD5XRN/tnt-sport-premium.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/248242.m3u8"
+        "url": "http://tv.diablotv.net:8080/carlosdelacruz/23aca1b26e6f/9925"
       },
       {
         "name": "TNT SPORTS PREMIUM 6",
         "logo": "https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/86.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 7",
-        "logo": "https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/87.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 8",
-        "logo": "https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 9",
-        "logo": "https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/89.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 10",
-        "logo": "https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278776.m3u8"
+        "url": "http://tv.diablotv.net:8080/carlosdelacruz/23aca1b26e6f/112997"
       },
       {
         "name": "TNT SPORTS 1",
@@ -2851,7 +2851,14 @@
         "logo": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8"
+        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278990.m3u8"
+      },
+      {
+        "name": "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\" group-title=\"DEPORTES\", TNT SPORTS ARGENTINA",
+        "logo": "data:image/png;base64,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",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278776.m3u8"
       },
       {
         "name": "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\" group-title=\"DEPORTES\", TNT SPORTS PREMIUM ARGENTINA",
@@ -4313,11 +4320,11 @@
         "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279026.m3u8"
       },
       {
-        "name": "Harry Potter",
-        "logo": "https://resize.elle.fr/portrait/var/plain_site/storage/images/loisirs/cinema/news/harry-potter-7-pourquoi-il-faut-le-voir-1650636/18604350-1-fre-FR/Harry-Potter-7-pourquoi-il-faut-le-voir.jpg",
+        "name": "LOS PINGUINOS DE MADAGASCAR",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "24/7",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525906.m3u8"
+        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/181397.m3u8"
       },
       {
         "name": "Bluey",
@@ -4368,14 +4375,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "+18 ►►",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279115.m3u8"
+        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279116.m3u8"
       },
       {
         "name": "PURE MATURE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "+18 ►►",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279118.m3u8"
+        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279271.m3u8"
       },
       {
         "name": "SWEET SENNER",
