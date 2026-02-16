@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15 21:48:40",
+  "date": "2026-02-16 06:48:02",
   "channels": {
     "General": [
       {
@@ -40,6 +40,15 @@
         "url": "http://live.divyadarshantv.com/hls/stream.m3u8"
       }
     ],
+    "Documentary": [
+      {
+        "name": "National Geographic Wild (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.229.254.25:7001/play/a06r/index.m3u8"
+      }
+    ],
     "Kids": [
       {
         "name": "Nick Jr. (576p)",
@@ -47,6 +56,20 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
         "url": "http://161.248.38.40:8000/play/a074/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.229.254.25:7001/play/a0cq/index.m3u8"
+      },
+      {
+        "name": "Sonic (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8"
       }
     ]
   }
