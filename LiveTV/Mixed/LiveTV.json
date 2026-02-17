@@ -1,28 +1,7 @@
 {
-  "date": "2026-02-17 14:26:08",
+  "date": "2026-02-17 22:34:15",
   "channels": {
     "film": [
-      {
-        "name": "Romance - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://romance-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
-      },
-      {
-        "name": "Film Asiatici - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
-      },
-      {
-        "name": "Fantascienza - Rakuten TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "film",
-        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
-      },
       {
         "name": "Bizzarro Movies",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -382,6 +361,13 @@
         "url": "https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8"
       },
       {
+        "name": "Moda TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "lifestyle",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c6-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c6-amgplt0148/playlist.m3u8"
+      },
+      {
         "name": "Daystar Español",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "lifestyle",
@@ -442,21 +428,21 @@
         "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8"
       },
       {
-        "name": "NOW 70s",
+        "name": "That's 70s",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "musica",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
         "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
       },
       {
-        "name": "NOW 80s",
+        "name": "That's 80s",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "musica",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
         "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
       },
       {
-        "name": "NOW Rock",
+        "name": "That's ROCK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "musica",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
@@ -484,7 +470,7 @@
         "url": "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8"
       },
       {
-        "name": "NOW 90s00s",
+        "name": "That's 90s00s",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "musica",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
@@ -573,7 +559,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYTk1YWQyZmQtOWIyMi00N2NhLTliNjAtZTI0Mjk0N2UxN2MwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNWE3MDAyMjgtZTkwZC00NGRiLWEzNjktMzcyY2ZlNjRlZDA0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -583,11 +569,25 @@
         "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8"
       },
       {
+        "name": "Il Sole 24 Ore TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c8-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c8-amgplt0165/playlist.m3u8"
+      },
+      {
         "name": "Urania News",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
         "url": "https://amg14891-amg14891c4-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c4-amgplt0165/playlist.m3u8"
+      },
+      {
+        "name": "Class CNBC",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "notizie",
+        "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
+        "url": "https://amg14891-amg14891c5-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c5-amgplt0148/playlist.m3u8"
       },
       {
         "name": "Bloomberg Originals",
@@ -608,7 +608,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzVmMzM4ZWUtMTY4Ny00YWJlLTlkMWYtN2Y0YWQ2MWVkZTNmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYTM4MjQyYjgtODkyMS00NTdhLTllYTMtNzU0MDQwNGY5YTM0IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -895,6 +895,27 @@
         "group": "ADULT LIVE",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215686"
+      },
+      {
+        "name": "EROLUXE GAYS (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://u.vipl.one/high/hc6s5fzmde/1691.m3u8"
+      },
+      {
+        "name": "EROLUXE BLOWJOB (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://u.vipl.one/high/hc6s5fzmde/1687.m3u8"
+      },
+      {
+        "name": "EROLUXE ORGY (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://u.vipl.one/high/hc6s5fzmde/1699.m3u8"
       }
     ],
     "NACIONAL": [
