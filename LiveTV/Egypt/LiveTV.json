@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-20 22:19:11",
+  "date": "2026-02-21 07:59:21",
   "channels": {
     "Uncategorized": [
       {
@@ -1237,6 +1237,13 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
       },
       {
+        "name": "CBC (576p)",
+        "logo": "https://i.imgur.com/8apNaLP.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://flu.systemnet.tv/CBC/index.m3u8"
+      },
+      {
         "name": "MBC 1 Egypt (1080p)",
         "logo": "https://i.imgur.com/CiA3plN.png",
         "group": "General",
@@ -1258,16 +1265,14 @@
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
       }
     ],
-    "Religious": [
-      {
-        "name": "Elbeshara GTV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/b0Wx7pE.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
-      }
-    ],
     "Series": [
+      {
+        "name": "CBC Drama (576p)",
+        "logo": "https://i.imgur.com/I8YdakH.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://flu.systemnet.tv/CBCDrama/index.m3u8"
+      },
       {
         "name": "MBC Masr Drama (1080p)",
         "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
@@ -1281,6 +1286,24 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=xdliEBYtdWS"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8"
+      }
+    ],
+    "Religious": [
+      {
+        "name": "Elbeshara GTV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/b0Wx7pE.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
       }
     ],
     "News": [
