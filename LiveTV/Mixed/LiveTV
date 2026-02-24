@@ -1,11 +1,5 @@
 [
   {
-    "name": "Cinema Italiano",
-    "type": "film",
-    "url": "https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CineWestern",
     "type": "film",
     "url": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8",
@@ -186,6 +180,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Rally.TV FAST+",
+    "type": "sport",
+    "url": "https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "FUEL TV",
     "type": "sport",
     "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
@@ -296,7 +296,7 @@
   {
     "name": "Med.TV",
     "type": "lifestyle",
-    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMzE3Zjk3ZjEtZTJhYy00MWI0LWExZjUtMDUwOWMwNjlmZGVkIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOiJ1bmtub3duIn0%3D/hls/main.m3u8",
+    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiOTQ4MTc0MjUtYTUzNS00NmQ5LTkwMTgtNDg1ZjQxY2Y5MWEyIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOiJ1bmtub3duIn0%3D/hls/main.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -458,7 +458,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiYmRhNWIyYjEtNjAxOC00YjJkLTg3MTUtNzNiYmYxYjI4Nzc5IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiOWI4ZDM5MjktMzQyYy00YmYxLTgxZmEtZmZlZjk3ODg4MjdhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -500,7 +500,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMGJhOTRiY2ItZmEwYy00ZWFkLWIwZmUtNzk0ZTM4NjMxM2ZjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMWYzOTI0ZjgtZWZjMi00ZjBlLTgxZTEtM2E0MzUxZmE2NTVjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6108,31 +6108,31 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB 1",
+    "name": "IRIB-TV1",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv1/live/playlist.m3u8",
+    "url": "https://live-azd1105.telewebion.ir/ek/tv1/live/480p/index.m3u8",
     "img": "https://i.ibb.co/tMV7LBL/irib1.png"
   },
   {
-    "name": "IRIB 2",
+    "name": "IRIB-TV2",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv2/live/playlist.m3u8",
+    "url": "https://live-azd1103.telewebion.ir/ek/tv2/live/480p/index.m3u8",
     "img": "https://i.ibb.co/6ndKkPM/irib2.png"
   },
   {
-    "name": "IRIB 3",
+    "name": "IRIB-TV3",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv3/live/playlist.m3u8",
+    "url": "https://live-azd1105.telewebion.ir/ek/tv3/live/480p/index.m3u8",
     "img": "https://i.ibb.co/4YQsfv9/irib3.png"
   },
   {
-    "name": "IRIB 4",
+    "name": "IRIB-TV4",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv4/live/playlist.m3u8",
+    "url": "https://live-azd1106.telewebion.ir/ek/tv4/live/576p/index.m3u8",
     "img": "https://i.ibb.co/D5S2Q2z/irib4.png"
   },
   {
-    "name": "IRIB5",
+    "name": "IRIB-Tehran (Amphoreus Regional Channel)",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -6140,85 +6140,73 @@
   {
     "name": "Nasim",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/nasim/live/playlist.m3u8",
+    "url": "https://live-azd1101.telewebion.ir/ek/nasim/live/480p/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB IRINN",
+    "name": "IRIB-TVIRINN",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Radio Iran",
+    "name": "IRIB-Radio Iran",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Radio Tehran",
+    "name": "IRIB-Radio Tehran",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w943934125.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB English Radio",
+    "name": "IRIB-English Radio",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8",
+    "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w856728011.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB World Service",
+    "name": "IRIB-World Service",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8",
+    "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w1579671261.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Arabic Radio",
+    "name": "IRIB-Arabic Radio",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w876142520.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Dari Radio",
+    "name": "IRIB-Dari Radio",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w1261939872.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Radio Varzesh",
+    "name": "IRIB-Radio Varzesh",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8",
+    "url": "https://s4.cdn3.iranseda.ir/liveedge/radio-varzesh/chunklist_w1052191659.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Women's Sport Radio",
+    "name": "IRIB-Women's Sport Radio",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w481123888.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Animax Kurdistan Radio",
+    "name": "IRIB-Quran Radio",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-quran/chunklist_w154455024.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRIB Radio Nama Tehran",
+    "name": "IRIB-Quran Radio 2",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Nama Iran",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Nama Varzesg",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-talavat/chunklist_w676584515.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
@@ -6354,19 +6342,13 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB World Radio (English)",
+    "name": "IRIB-TVWorld Radio (English)",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://s2.cdn1.iranseda.ir/liveedge/radio-english/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB Iran Radio",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "IRIB AlAlam News Network (Cyberdimension Neptunia 4GO)",
+    "name": "IRIB-TVAlAlam News Network (Cyberdimension Neptunia 4GO)",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
