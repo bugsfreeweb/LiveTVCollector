@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-28 21:51:22",
+  "date": "2026-03-01 07:26:48",
   "channels": {
     "General": [
       {
@@ -190,6 +190,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://dvrfl06.bozztv.com/astv-elousra/index.m3u8"
+      },
+      {
+        "name": "Elsharq TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/8vmfZb5.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
       },
       {
         "name": "ERi-TV 1 (576p)",
@@ -516,11 +523,11 @@
         "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
       },
       {
-        "name": "Aghani Aghani TV (1080p) [Not 24/7]",
+        "name": "Aghani Aghani TV (720p)",
         "logo": "https://i.imgur.com/o6HSfNg.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8"
+        "url": "http://77.42.253.43:9090/stream5/AGHANITV.m3u8"
       },
       {
         "name": "Arabica TV (720p)",
@@ -591,6 +598,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "Melody Hits",
+        "logo": "https://i.imgur.com/OOMkVrU.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8"
       },
       {
         "name": "Mohammed Abdo (1080p)",
@@ -1057,6 +1071,13 @@
         "url": "https://live.miracleonline.org/hls/miracle1.m3u8"
       },
       {
+        "name": "Mission Asia (1080p)",
+        "logo": "https://i.imgur.com/B5mKwF6.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
+      },
+      {
         "name": "MTA1 World (720p)",
         "logo": "https://i.imgur.com/bYiRfAg.png",
         "group": "Religious",
@@ -1486,6 +1507,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://starmenajo.com/hls/almahriah/index.m3u8"
+      },
+      {
+        "name": "Alqanat9 TV (1080p)",
+        "logo": "https://i.imgur.com/HC91Mho.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
       },
       {
         "name": "Altaghier TV (1080p)",
@@ -2491,6 +2519,15 @@
         "group": "Culture;Entertainment;News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8"
+      }
+    ],
+    "Entertainment;Series": [
+      {
+        "name": "Zee Alwan (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/OLuCox7.png",
+        "group": "Entertainment;Series",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8"
       }
     ]
   }
