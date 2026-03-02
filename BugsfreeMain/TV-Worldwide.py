@@ -258,12 +258,13 @@ def main():
     # Specific M3U sources (12 sources)
     source_urls = [
         "https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u",
+        "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
         "https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u",
         "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/international.m3u",
-    ]
+        ]
 
     # Set check_links=False for super speed, True for accuracy
     collector = M3UCollector(country="Worldwide", check_links=False)
