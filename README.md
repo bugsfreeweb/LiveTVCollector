@@ -12,7 +12,7 @@ A GitHub repository that automatically collects, filters, and exports live TV st
 <a href="https://pismarttv.netlify.app" target="_blank"><img src="https://pismarttv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
 <a href="https://hodliptv.netlify.app" target="_blank"><img src="https://hodliptv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
 <a href="https://pixstream.netlify.app" target="_blank"><img src="https://pixstream.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
-<a href="https://buddytv.netlify.app" target="_blank"><img src="https://buddytv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="BuddyTv"></a>
+<a href="https://buddytv.vercel.app" target="_blank"><img src="https://buddytv.vercel.app/img/logo.png" style="width:auto; height:60px" alt="BuddyTv"></a>
 <a href="https://m3ulinkchecker.vercel.app" target="_blank"><img src="https://m3ulinkchecker.vercel.app/img/logo.png" style="width:auto; height:60px" alt="M3U Checker"></a>
 <a href="https://birdseyetv.netlify.app" target="_blank"><img src="https://birdseyetv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="BirdseyeTV player"></a>
 <a href="https://circletv.netlify.app" target="_blank"><img src="https://circletv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="CircleTV player"></a>
