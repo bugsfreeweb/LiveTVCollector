@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 class M3UCollector:
     def __init__(self, country="Hollywood", base_dir="Movies"):
         self.channels = defaultdict(list)
-        self.default_logo = "https://buddytv.netlify.app/img/no-logo.png"
+        self.default_logo = "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
         self.seen_urls = set()
         self.output_dir = os.path.join(base_dir, country)
         self.lock = threading.Lock()
