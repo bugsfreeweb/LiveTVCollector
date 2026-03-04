@@ -15,7 +15,7 @@ A GitHub repository that automatically collects, filters, and exports live TV st
 <a href="https://buddytv.vercel.app" target="_blank"><img src="https://buddytv.vercel.app/img/logo.png" style="width:auto; height:60px" alt="BuddyTv"></a>
 <a href="https://m3ulinkchecker.vercel.app" target="_blank"><img src="https://m3ulinkchecker.vercel.app/img/logo.png" style="width:auto; height:60px" alt="M3U Checker"></a>
 <a href="https://birdseyetv.netlify.app" target="_blank"><img src="https://birdseyetv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="BirdseyeTV player"></a>
-<a href="https://circletv.netlify.app" target="_blank"><img src="https://circletv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="CircleTV player"></a>
+<a href="https://circletv.vercel.app" target="_blank"><img src="https://circletv.vercel.app/img/logo.png" style="width:auto; height:60px" alt="CircleTV player"></a>
 <a href="https://bugsfreeweb.github.io/iptv" target="_blank"><img src="https://bugsfreeweb.github.io/iptv/img/logo.png" style="width:auto; height:60px" alt="IPTV player"></a>
 <a href="https://m3ulinkeditor.vercel.app" target="_blank"><img src="https://m3ulinkeditor.vercel.app/img/logo.png" style="width:auto; height:60px" alt="M3U Editor"></a>
 <a href="https://bugsfreeweb.github.io/WebIPTV" target="_blank"><img src="https://bugsfreeweb.github.io/iptv/img/logo.png" style="width:auto; height:60px" alt="Web IPTV"></a>
