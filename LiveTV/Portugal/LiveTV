@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgNDoyMjozMCBQTSZoYXNoX3ZhbHVlPWtDeFM4UEZPSmM0YzRpeHJEZEI5VlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMWNmZTc3ZS05MzEyLTRmZjYtYjhiOC0wMWMyYzUyZDRkYTE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjYgMTI6NDE6MTQgQU0maGFzaF92YWx1ZT1wQk94KzZUWVZuMEV4QmFuWnYra1hBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjEyOWZiOTEtMWQxYS00MmViLWIzY2MtM2Q2NjNkMzIwNDA3/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgNDoyMjozMSBQTSZoYXNoX3ZhbHVlPUhML0toQWVGQW91WG1CdXd1VEkrUVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMjViMjczMi0yNTM3LTQ3NjItYTc0NC05YWU4N2Y5Y2JjZGU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjYgMTI6NDE6MTUgQU0maGFzaF92YWx1ZT0yd0J4ZXY3Z05sZzNnWCtrbXFkZGd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWRkMDkxYjQtNzM1NS00M2MzLTlhOGMtOTE3NDc4Mjk3OTFh/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgNDoyMjozMSBQTSZoYXNoX3ZhbHVlPWRZeVFsbHE1MzU5WVpwa3crOG1GT2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xOTk2Yjc2YS01MDg3LTQ0MjktYTZjZS00YjMzM2IzMDc0NzE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjYgMTI6NDE6MTYgQU0maGFzaF92YWx1ZT1lRzNSTFpncUxJSjJXcjYzOUZ6Q0dnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjVkZmQ3MGItZDZiZS00YzlmLThhOGMtMzdjMjgzZDAzMzc2/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -6096,6 +6096,12 @@
     "img": "https://i.imgur.com/8t9mdg9.png"
   },
   {
+    "name": "RTP Noticias (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/Bm2XEHH.png"
+  },
+  {
     "name": "SIC Notícias (1080p)",
     "type": "News",
     "url": "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8",
@@ -6266,7 +6272,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgMTozNTo0MiBQTSZoYXNoX3ZhbHVlPXhZeVlOYVM2M05ZNVpTQkZkcFdUSUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kMGIyOTY5Yy0wZTkwLTQ0M2ItOWQ1YS04NTE0M2RlY2UzM2I=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgODo1NDo0MiBQTSZoYXNoX3ZhbHVlPWNiUG5vMXN3ZHFBRFk5ekZjeEN4a2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xOTAyMzcwNi1iOTFhLTQ0ODktOTZkYS1jZDRmZDM3MjQzYmU=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -6278,7 +6284,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgMTozNTo0MiBQTSZoYXNoX3ZhbHVlPWFtRmtSTWxTYTRxNGJhc0owZW0rVlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NWNkOGEyZi01MjFhLTQ4NTUtYjgzZS1hNTFjZjM1NjRlNDk=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgODo1NDo0MCBQTSZoYXNoX3ZhbHVlPTMzSXFsbVZSNHFlanhVUU1XRm0zWEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZGY5OTNhNC1jZTEzLTRhNDUtOGQyMC0wNzRkY2RkOWRlM2E=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -6416,7 +6422,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgMTozNTo0MiBQTSZoYXNoX3ZhbHVlPVJ4STV3MWFOTHZrWFJnclFKZmxIeGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05Mjc5YjMzNy0wYWE4LTRlZGUtYmViYi1mYzU4NzA5NmY3MjA=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgODo1NDo0MSBQTSZoYXNoX3ZhbHVlPU5JbllxbVJ4aVRsYlpSUjJVeDVSS1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZWQ4MDQ4Zi04Mjk2LTQ1NmMtYjMyNC0xOWViMTBmYTlmNzY=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -6656,7 +6662,7 @@
   {
     "name": "Bloomberg tv+ 🇺🇸",
     "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61de991729cd4a00079f812b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=iprtlk&deviceDNT=1",
+    "url": "https://jmp2.uk/stvp-GBBA3300033C2",
     "img": "https://images.pluto.tv/channels/61de991729cd4a00079f812b/colorLogoPNG.png"
   },
   {
@@ -6672,16 +6678,16 @@
     "img": "https://logo.m3uassets.com/cnn.png"
   },
   {
+    "name": "CNN Internacional 🇺🇸",
+    "type": "World News 🌍",
+    "url": "https://jmp2.uk/stvp-GBBD8000016N",
+    "img": "https://logo.m3uassets.com/cnn.png"
+  },
+  {
     "name": "CNN Highlights 🇺🇸",
     "type": "World News 🌍",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8?wowzasessionid=@iprtlk",
     "img": "https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png"
-  },
-  {
-    "name": "CNN XPRESS 🇲🇽",
-    "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673248f9030a2c0008033af8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNNXpress_1920x1080_Logo.png"
   },
   {
     "name": "CNN Fast 🇺🇸",
@@ -6692,7 +6698,7 @@
   {
     "name": "60 Minutes 🇺🇸",
     "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1",
+    "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fnrb-l85CR7SIr-rGXqz4zA%2Fmaster.m3u8?wowzasessionid=@iprtlk&imafw_csid=desktop_web&imafw__fw_did=&ip_addr=195.179.200.80&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080",
     "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/60_minutes.png"
   },
   {
@@ -6704,7 +6710,7 @@
   {
     "name": "Sky News 🇺🇸",
     "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1",
+    "url": "https://jmp2.uk/stvp-USBB52000022Q",
     "img": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sky_news_us.png"
   },
   {
@@ -6724,12 +6730,6 @@
     "type": "World News 🌍",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8?wowzasessionid=@iprtlk",
     "img": "https://canvas-lb.tubitv.com/opts/VrF_zxymbLCTzg==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjVAAQ=="
-  },
-  {
-    "name": "FOX 11 Los Angeles 🇺🇸",
-    "type": "World News 🌍",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/667f2c7b22acab0008b7072b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5df26085-4618-11f0-a8d7-0ede5cc29e67",
-    "img": "https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ=="
   },
   {
     "name": "News12  New York 🇺🇸",
@@ -6756,22 +6756,10 @@
     "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_south_florida_news.png"
   },
   {
-    "name": "CBS News Bay Area 🇺🇸",
-    "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cbsbatarea.webp"
-  },
-  {
-    "name": "CBS News 🇺🇸",
-    "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY.png"
-  },
-  {
     "name": "CBS News 24/7 🇺🇸",
     "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoSVG.svg"
+    "url": "https://jmp2.uk/stvp-USBA370000104",
+    "img": "https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY.png"
   },
   {
     "name": "CBS News Boston 🇺🇸",
@@ -6840,12 +6828,6 @@
     "img": "https://i.imgur.com/0e1kSGX.png"
   },
   {
-    "name": "Global News Toronto",
-    "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png"
-  },
-  {
     "name": "ABC News Australia 🇦🇺",
     "type": "World News 🌍",
     "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8?wowzasessionid=@iprtlk",
@@ -6854,7 +6836,7 @@
   {
     "name": "ABC News Live 🇺🇸",
     "type": "World News 🌍",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=iprtlk&deviceDNT=1",
+    "url": "https://jmp2.uk/stvp-USBC39000171G",
     "img": "https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png"
   },
   {
@@ -6926,7 +6908,7 @@
   {
     "name": "Fox Weather 🇺🇸",
     "type": "Meteorology 🌎",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/640a68880e884c0009979cc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5df26085-4618-11f0-a8d7-0ede5cc29e67",
+    "url": "https://jmp2.uk/stvp-USBD700003L7",
     "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fox_weather_station_logo_16x9.png"
   },
   {
@@ -7380,24 +7362,6 @@
     "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PBS_Documentaries_Logo_Stacked_White2.png"
   },
   {
-    "name": "Smithsonian Channel (💬 🇧🇷)",
-    "type": "Documentaries 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png"
-  },
-  {
-    "name": "Pluto TV Documentários (💬 🇧🇷)",
-    "type": "Documentaries 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png"
-  },
-  {
-    "name": "KFood 🇧🇷",
-    "type": "Documentaries 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png"
-  },
-  {
     "name": "Drone TV",
     "type": "Documentaries 🌎",
     "url": "https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8?wowzasessionid=@iprtlk",
@@ -7444,12 +7408,6 @@
     "type": "Documentaries 🌎",
     "url": "https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8?wowzasessionid=@iprtlk",
     "img": "https://www.travelplustv.tv/wp-content/themes/travelplustv/img/TravelPlus_head.png"
-  },
-  {
-    "name": "Viagens 🇧🇷",
-    "type": "Documentaries 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=iprtlk&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png"
   },
   {
     "name": "Vambora Channel 🇧🇷",
@@ -7662,9 +7620,9 @@
     "img": "https://logo.m3uassets.com/animaux.png"
   },
   {
-    "name": "Love Nature 🇧🇷",
+    "name": "Love Nature 🇺🇸",
     "type": "Documentaries 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "url": "https://jmp2.uk/stvp-USBA3400003IP",
     "img": "https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png"
   },
   {
@@ -8852,20 +8810,20 @@
   {
     "name": "F1 tv 🇺🇸 🏎️",
     "type": "World Sports 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "url": "https://jmp2.uk/stvp-US600011Q2",
     "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png"
+  },
+  {
+    "name": "Rally.tv 🏎️",
+    "type": "World Sports 🌎",
+    "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
+    "img": "https://www.rally.tv/favicon.ico"
   },
   {
     "name": "Motorvision 🇧🇷🏎️",
     "type": "World Sports 🌎",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=758",
     "img": "https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png"
-  },
-  {
-    "name": "Racer Brasil 🇧🇷🏎️",
-    "type": "World Sports 🌎",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png"
   },
   {
     "name": "Garage TV 🇦🇷🏎️🏍",
@@ -9090,9 +9048,9 @@
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FS2.webp"
   },
   {
-    "name": "M. Liga de Campeones 🇪🇸",
+    "name": "M. Liga de Campeones 🇪🇸 (Acestream)",
     "type": "World Sports 🌎",
-    "url": "http://klaratv.com:80/play/live.php?mac=00:1A:79:24:15:C9&stream=1777911&extension=ts|User-Agent=Wink/1.31.1",
+    "url": "http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370",
     "img": "https://github.com/iprtl/p1/raw/master/logo/M%2BLigaCampeones.webp"
   },
   {
