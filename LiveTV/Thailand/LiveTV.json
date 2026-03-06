@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06 14:12:15",
+  "date": "2026-03-06 22:17:57",
   "channels": {
     "VTV": [
       {
@@ -229,6 +229,13 @@
         "group": "HTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "HTV5 Bchannel",
+        "logo": "https://vnepg.site/logos/85.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8"
       },
       {
         "name": "HTV7",
@@ -491,27 +498,6 @@
         "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
       },
       {
-        "name": "BTV1",
-        "logo": "https://i.imgur.com/Soe6MC8.png",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8"
-      },
-      {
-        "name": "BTV2",
-        "logo": "https://i.imgur.com/pEaPECX.png",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8"
-      },
-      {
-        "name": "BTV9 Bchannel",
-        "logo": "https://i.imgur.com/jeunb3Y.png",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8"
-      },
-      {
         "name": "CTV | TH Cà Mau",
         "logo": "https://i.imgur.com/ZKV1ok2.png",
         "group": "Địa phương",
@@ -523,21 +509,21 @@
         "logo": "https://i.imgur.com/0fGI8cJ.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.canthotv.vn/live/tv/playlist.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=47"
       },
       {
         "name": "THTPCT2 | TH Cần Thơ 2",
         "logo": "https://i.imgur.com/0fGI8cJ.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=61"
       },
       {
         "name": "THTPCT3 | TH Cần Thơ 3",
         "logo": "https://i.imgur.com/0fGI8cJ.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.canthotv.vn/live/cs3/playlist.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=84"
       },
       {
         "name": "ĐN1 | TH Đồng Nai 1",
@@ -569,24 +555,17 @@
       },
       {
         "name": "LTV1 | TH Lâm Đồng 1",
-        "logo": "https://github.com/kupjta/vuminhthanh12/blob/main/LTV1.png?raw=true",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8"
-      },
-      {
-        "name": "LTV2 | TH Lâm Đồng 2",
-        "logo": "https://github.com/kupjta/vuminhthanh12/blob/main/LTV2HD.png?raw=true",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=45"
-      },
-      {
-        "name": "LTV3 | TH Lâm Đồng 3",
-        "logo": "https://github.com/kupjta/vuminhthanh12/blob/main/LTV3HD.png?raw=true",
+        "logo": "https://vnepg.site/logos/111.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=50"
+      },
+      {
+        "name": "LTV2 | TH Lâm Đồng 2",
+        "logo": "https://vnepg.site/logos/112.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=45"
       },
       {
         "name": "TTV1 | TH Tây Ninh 1",
@@ -601,13 +580,6 @@
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=86"
-      },
-      {
-        "name": "BRT | TH Vũng Tàu",
-        "logo": "https://i.imgur.com/WEMfHas.png",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8"
       },
       {
         "name": "DNRT1 | TH Đà Nẵng 1",
@@ -659,8 +631,8 @@
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=76"
       },
       {
-        "name": "QNgTV | TH Quảng Ngãi",
-        "logo": "https://mediaptq.mediatech.vn/upload//files/logo/28_6_2025_logo_png.png",
+        "name": "QNgTV1 | TH Quảng Ngãi 1",
+        "logo": "https://vnepg.site/logos/119.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=81"
@@ -729,18 +701,11 @@
         "url": "https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8"
       },
       {
-        "name": "THP+ | TH Hải Phòng",
-        "logo": "https://i.imgur.com/ui0sjEz.png",
-        "group": "Địa phương",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
-      },
-      {
         "name": "THP3 | TH Hải Phòng 3",
         "logo": "https://i.imgur.com/iq9JLb9.png",
         "group": "Địa phương",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni"
+        "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
       },
       {
         "name": "PTV | TH Phú Thọ",
@@ -908,13 +873,6 @@
         "group": "Quốc tế",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8"
-      },
-      {
-        "name": "BBC Earth",
-        "logo": "https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg",
-        "group": "Quốc tế",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71995&extension=ts&play_token=mvpWiPu9Lp"
       },
       {
         "name": "HGTV",
