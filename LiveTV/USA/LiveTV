@@ -2820,9 +2820,9 @@
     "img": "https://i.imgur.com/EL9Bwtf.png"
   },
   {
-    "name": "like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\" group-title=\"News\",Fox News Channel (720p)",
+    "name": "Fox News Channel (720p) [Not 24/7]",
     "type": "News",
-    "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
+    "url": "https://tvpass.org/live/FoxNewsChannel/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"
   },
   {
@@ -7620,6 +7620,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
   },
   {
+    "name": "KXAS-DT1 (1080p)",
+    "type": "General",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KXAS_2023.svg/512px-KXAS_2023.svg.png"
+  },
+  {
     "name": "KYOU-DT2 (720p)",
     "type": "General",
     "url": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8",
@@ -7738,12 +7744,6 @@
     "type": "General",
     "url": "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"
-  },
-  {
-    "name": "NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]",
-    "type": "General",
-    "url": "https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KXAS_2023.svg/512px-KXAS_2023.svg.png"
   },
   {
     "name": "NBC 6 Santa Barbara CA (KSBY) (720p)",
@@ -9660,12 +9660,6 @@
     "img": "https://i.imgur.com/HC85eBq.png"
   },
   {
-    "name": "NBC 4 Washington DC (WRC) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/7JpMArM.png"
-  },
-  {
     "name": "NBC 5 Chicago Live News (1080p)",
     "type": "Undefined",
     "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI",
@@ -9676,18 +9670,6 @@
     "type": "Undefined",
     "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"
-  },
-  {
-    "name": "NBC 10 Boston NH (WBTS) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png"
-  },
-  {
-    "name": "NBC 10 Philadelphia PA (WCAU) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png"
   },
   {
     "name": "NBC 10 Providence MA (1080p)",
@@ -9706,12 +9688,6 @@
     "type": "Undefined",
     "url": "https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8",
     "img": "https://i.imgur.com/bzgfmRL.png"
-  },
-  {
-    "name": "NBC 30 West Hartford CT (WVIT) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png"
   },
   {
     "name": "PBS KET2 (720p)",
@@ -10026,10 +10002,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg"
   },
   {
+    "name": "WBTS-CD1 (1080p)",
+    "type": "Undefined",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png"
+  },
+  {
     "name": "WBTV-DT1 (720p)",
     "type": "Undefined",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"
+  },
+  {
+    "name": "WCAU-DT1 (1080p)",
+    "type": "Undefined",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png"
   },
   {
     "name": "WCBI (Columbus MI) (720p)",
@@ -10254,9 +10242,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png"
   },
   {
-    "name": "WNBC-DT1 (720p) [Not 24/7]",
+    "name": "WNBC-DT1 (1080p)",
     "type": "Undefined",
-    "url": "https://tvpass.org/live/WNBCDT1/hd",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png"
   },
   {
@@ -10318,6 +10306,12 @@
     "type": "Undefined",
     "url": "http://104.255.88.155/ion/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"
+  },
+  {
+    "name": "WRC-DT1 (1080p)",
+    "type": "Undefined",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS",
+    "img": "https://i.imgur.com/7JpMArM.png"
   },
   {
     "name": "WSB-DT1 (1080p)",
@@ -10402,6 +10396,12 @@
     "type": "Undefined",
     "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png"
+  },
+  {
+    "name": "WVIT-DT1 (1080p)",
+    "type": "Undefined",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png"
   },
   {
     "name": "WWOR-DT1",
