@@ -186,4 +186,3 @@ By using this repository or its generated files, you acknowledge and agree to th
 - DOGE: <b>DEtH2yFUjjUEBUyd3scjs38X7S1Z7ee7zD</b>
 - BTC Lightening: <b>bugsfree@speed.app</b>
 - SOL: <b>bugsfree.sol</b>
-- EVM: <b>bugsfree.bnb</b>
