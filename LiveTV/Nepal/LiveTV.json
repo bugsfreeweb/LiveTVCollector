@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07 21:47:35",
+  "date": "2026-03-08 06:46:48",
   "channels": {
     "General": [
       {
@@ -40,7 +40,30 @@
         "url": "http://live.divyadarshantv.com/hls/stream.m3u8"
       }
     ],
+    "Entertainment": [
+      {
+        "name": "MTV (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0397/master.m3u8"
+      },
+      {
+        "name": "Nepal 1 (396p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
+      }
+    ],
     "Documentary": [
+      {
+        "name": "National Geographic (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8"
+      },
       {
         "name": "National Geographic HD (1080p)",
         "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
@@ -61,15 +84,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
         "url": "http://103.113.103.202:8001/play/a02s/index.m3u8"
-      }
-    ],
-    "Entertainment": [
-      {
-        "name": "Nepal 1 (396p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
       }
     ],
     "Kids": [
