@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add LiveTV/Mixed/LiveTV.m3u LiveTV/Mixed/LiveTV.txt LiveTV/Mixed/LiveTV.json LiveTV/Mixed/LiveTV
+          git add LiveTV/Collection/LiveTV.m3u LiveTV/Collection/LiveTV.txt LiveTV/Collection/LiveTV.json LiveTV/Collection/LiveTV
           git commit -m "TV-Collection Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
           git pull --rebase origin main
           git push
