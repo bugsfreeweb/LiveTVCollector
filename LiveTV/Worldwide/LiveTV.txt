@@ -405,6 +405,11 @@ URL: https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n0
 Logo: https://i.imgur.com/FjKJyFG.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
+Name: LIVEE 2 USA
+URL: https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+Logo: https://i.imgur.com/FjKJyFG.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
 Name: LIVEE 2
 URL: https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 Logo: https://i.imgur.com/FjKJyFG.jpeg
@@ -833,11 +838,6 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
 Group: Channels 🇺🇸
-Name: Rock Entertainment (🔉🇬🇧)🇮🇩
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-Logo: https://www.visionplus.id/images/repository/644/644-LOGO-m.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: USA Network East (💬🇬🇧) 🇺🇸 ⚽️
 URL: https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/USANetwork.webp
@@ -928,8 +928,8 @@ URL: http://23.237.104.106:8080/USA_FXX/index.m3u8?wowzasessionid=@iprtlk
 Logo: https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fxx-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Fuse
-URL: http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/46701.ts
+Name: Fuse 🇺🇸
+URL: http://23.237.104.106:8080/USA_FUSE/index.m3u8
 Logo: https://logo.m3uassets.com/fuse.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -948,6 +948,21 @@ URL: http://origin.thetvapp.to/hls/FYIEast/index.m3u8?wowzasessionid=@iprtlk
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: SYFY 🇺🇸
+URL: http://23.237.104.106:8080/USA_SYFY/index.m3u8
+Logo: https://logo.m3uassets.com/syfy.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: TLC 🇺🇸
+URL: http://89.105.221.127/tlc/mpegts?token=test
+Logo: https://logo.m3uassets.com/tlc.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Vice tv 🇺🇸
+URL: http://23.237.104.106:8080/USA_VICETV/index.m3u8
+Logo: https://logo.m3uassets.com/vice.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: TBS East 🇺🇸
 URL: http://212.102.60.231:80/TBS/index.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png
@@ -963,9 +978,9 @@ URL: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Trutv East 🇺🇸
-URL: https://a1xs.vip/300002
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png
+Name: Bravo tv 🇺🇸
+URL: http://41.205.93.154/BRAVO/index.m3u8
+Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: ActionMAX East (🔉🇬🇧💬🇬🇧) 🇺🇸
@@ -989,7 +1004,7 @@ Logo: https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Cinemax East 🇺🇸
-URL: http://143.244.60.30/CINEMAX_EAST/index.m3u8
+URL: http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -999,7 +1014,7 @@ Logo: https://logo.m3uassets.com/starz.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Starz East 🇺🇸
-URL: http://fl2.moveonjoy.com/STARZ/index.m3u8
+URL: http://23.237.104.106:8080/USA_STARZ/index.m3u8
 Logo: https://logo.m3uassets.com/starz.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -1038,16 +1053,6 @@ URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.m3u8
 Logo: https://logo.m3uassets.com/screenpix.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Paramount+ with Showtime east
-URL: https://dtv.vingt.qzz.io/dtv/1968/master.m3u8
-Logo: https://dtv.vingt.qzz.io/logo/0bba36e4-7802-43c0-ad3f-cc0ff064a518
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: Paramount+ with Showtime west
-URL: https://dtv.vingt.qzz.io/dtv/8234/master.m3u8
-Logo: https://dtv.vingt.qzz.io/logo/a78c644e-08a0-47d7-ada2-9d0251f556e8
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: Showtime West 🇺🇸
 URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.m3u8
 Logo: https://logo.m3uassets.com/showtime.png
@@ -1073,9 +1078,9 @@ URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.m3u8
 Logo: https://logo.m3uassets.com/showtime2.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Showtime Extreme 🇺🇸
+Name: Showtime Extreme 🇺🇸🇲🇽
 URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.m3u8
-Logo: https://dtv.vingt.qzz.io/logo/a0652edf-0255-4cd0-b19a-3593673ea6f8
+Logo: https://logo.m3uassets.com/showtimeextreme.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Showtime Next 🇺🇸
@@ -1129,7 +1134,7 @@ Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HB
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: ❖HBO East (💬🇬🇧) 🇺🇸
-URL: http://143.244.60.30/HBO/index.m3u8
+URL: http://23.237.104.106:8080/USA_HBO/index.m3u8
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -1139,7 +1144,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO 2 (💬🇬🇧) 🇺🇸
-URL: http://143.244.60.30/HBO_2/index.m3u8
+URL: http://23.237.104.106:8080/USA_HBO2/index.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -1149,7 +1154,7 @@ Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hb
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO Comedy (💬🇬🇧) 🇺🇸
-URL: http://origin.thetvapp.to/hls/HBOComedyEast/index.m3u8?wowzasessionid=@iprtlk
+URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/101.m3u8
 Logo: https://logo.m3uassets.com/hbocomedy.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2509,8 +2514,13 @@ URL: http://45.167.1.136:8000/play/a066
 Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICR.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: Universal Crime 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
+URL: http://200.229.147.142:8000/play/a03u/index.m3u8
+Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICR.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: Universal Reality 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
-URL: http://200.92.227.238:8000/play/a0os/index.m3u8
+URL: http://200.229.147.142:8000/play/a03t/index.m3u8
 Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2644,6 +2654,11 @@ URL: https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd?wowz
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: Discovery h&h 🇧🇷
+URL: http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
+Logo: https://logo.m3uassets.com/discoveryh&h.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: Discovery Science 🇺🇸
 URL: http://origin.thetvapp.to/hls/Science/index.m3u8?wowzasessionid=@iprtlk
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png
@@ -2670,7 +2685,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Crime & Investigation 🇺🇸
-URL: http://origin.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8?wowzasessionid=@iprtlk
+URL: http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2679,18 +2694,8 @@ URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Crime & Investigation (🔉🇬🇧)🇮🇩
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: National Geographic 🇺🇸
 URL: http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8?wowzasessionid=@iprtlk
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/natgeographic.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: National Geographic 🇬🇧
-URL: http://178.33.239.54:8080/441/index.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/natgeographic.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2700,17 +2705,12 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/natgeographic.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Nat Geo Wild 🇺🇸
-URL: http://143.244.60.30/Nat_Geo_Wild/index.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: Nat Geo Wild 🇺🇸
 URL: http://origin.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8?wowzasessionid=@iprtlk
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Nat Geo Wild (🔉🇬🇧🇷🇺)
-URL: http://188.237.47.212:6005
+URL: http://tinyurl.com/TvZaTak37/Nat_Geo_Wild_SD/video.m3u8?token=freeportal&token=deooleg
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2725,17 +2725,12 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-s
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Animal Planet 🇺🇸
-URL: http://origin.thetvapp.to/hls/AnimalPlanetEast/index.m3u8
+URL: http://23.239.31.26:8989/animalplanet/index.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Animal Planet (🔉🇬🇧)🇮🇳
 URL: https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561803/index.mpd?wowzasessionid=@iprtlk
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: Animal Planet (🔉🇬🇧)🇵🇭
-URL: https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd?wowzasessionid=@iprtlk
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2826,7 +2821,7 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 
 Group: Entertainment 🌎
 Name: TNT Novelas 🇲🇽
-URL: http://51.79.81.69:8080/live/ff1bb2e6a4044117b3304befef31b640/29967f2f03d542fd94e5887578bd1acf/58.m3u8
+URL: http://200.229.147.142:8000/play/a01a/index.m3u8
 Logo: https://logo.m3uassets.com/tntnovelas.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2836,22 +2831,12 @@ Logo: https://logo.m3uassets.com/canal5.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Unimas East 🇺🇸🇲🇽⚽️
-URL: https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8
-Logo: https://logo.m3uassets.com/unimas.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: Unimas West 🇺🇸🇲🇽⚽️
-URL: https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+URL: http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/57969.ts
 Logo: https://logo.m3uassets.com/unimas.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Univision East 🇺🇸🇲🇽⚽️
-URL: https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
-Logo: https://logo.m3uassets.com/univision.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: Univision West 🇺🇸🇲🇽⚽️
-URL: https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+URL: http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/15336.ts
 Logo: https://logo.m3uassets.com/univision.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2870,7 +2855,7 @@ URL: http://45.167.1.136:8000/play/a063
 Logo: https://logo.m3uassets.com/universalpremiere.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Universal Cinema 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
+Name: Universal Cinema West 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
 URL: http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/33012
 Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICI.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
@@ -2881,12 +2866,12 @@ Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICI.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Universal Cinema 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
-URL: http://45.170.130.224:8000/play/a04o/index.m3u8
+URL: http://38.183.114.220:8000/play/a0s9
 Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICI.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Universal Comedy 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
-URL: http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32430.m3u8
+URL: http://200.229.147.142:8000/play/a03v/index.m3u8
 Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICO.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2895,19 +2880,24 @@ URL: http://45.167.1.136:8000/play/a067
 Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICO.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: Universal Comedy 🇺🇾(🔉🇪🇸🇬🇧💬🇪🇸)
+URL: http://38.183.114.220:8000/play/a0sa
+Logo: https://github.com/masterentertainment/listas/raw/main/logos/UNICO.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: Sony Cine 🇲🇽 (🔉🇪🇸🇬🇧💬🇪🇸)
 URL: http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32987.ts
+Logo: https://logo.m3uassets.com/cinesony.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Sony Channel 🇲🇽 (🔉🇪🇸🇬🇧💬🇪🇸)
+URL: http://179.63.6.12:9000/play/a01i
 Logo: https://logo.m3uassets.com/sonychannel.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Sony Movies 🇲🇽 (🔉🇪🇸🇬🇧💬🇪🇸)
 URL: http://45.167.1.136:8000/play/a05o
 Logo: https://i.imgur.com/ZhH7tLU.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: Sony Channel 🇲🇽 (🔉🇪🇸🇬🇧💬🇪🇸)
-URL: http://179.63.6.12:9000/play/a01i
-Logo: https://i.imgur.com/lyvKcFK.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: AXN (🔉🇪🇸🇬🇧💬🇪🇸)
@@ -2935,9 +2925,9 @@ URL: https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/en
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: HBO + (🔉🇪🇸🇬🇧💬🇪🇸)
+Name: HBO Mundi (🔉🇪🇸🇬🇧💬🇪🇸)
 URL: http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32435
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/hboplus.png
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/hbomundi.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO 2 (🔉🇪🇸🇬🇧💬🇪🇸)
@@ -2950,11 +2940,6 @@ URL: http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/hboXtreme.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: HBO Comedy (🔉🇪🇸🇬🇧💬🇪🇸)
-URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/101.m3u8
-Logo: https://logo.m3uassets.com/hbocomedy.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: HBO Zone (🔉🇪🇸🇬🇧💬🇪🇸)
 URL: http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.m3u8
 Logo: https://logo.m3uassets.com/hbozone.png
@@ -2965,19 +2950,24 @@ URL: https://a61aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Cinemax West (🔉🇪🇸🇬🇧💬🇬🇧)
+Name: Cinemax ₂ (🔉🇪🇸🇬🇧💬🇬🇧)
 URL: https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd?wowzasessionid=@iprtlk
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Cinemax (🔉🇪🇸🇬🇧💬🇬🇧)
+Name: Cinemax ₃ (🔉🇪🇸🇬🇧💬🇬🇧)
 URL: http://45.167.1.136:8000/play/a04m
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Cinemax (🔉🇪🇸🇬🇧💬🇬🇧)
+Name: Cinemax ₄ (🔉🇪🇸🇬🇧💬🇬🇧)
 URL: http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32869
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Rock Entertainment (🔉🇬🇧)🇮🇩
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+Logo: https://www.visionplus.id/images/repository/644/644-LOGO-m.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Rock Action (🔉🇬🇧) 🇮🇩
@@ -3244,6 +3234,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TVMatic Fight
 URL: http://cdn.tvmatic.net/fight.m3u8
 Logo: https://i.imgur.com/l5PBcKN.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: CazéTV
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514809/ei/2Vu1aeyjM8qR-LAPzu2P6QU/ip/138.117.222.166/id/qKUTlQSq0Ts.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AVNa5-xeL4OBGbDeDOhbHAuohRgvFA8xhTK3nDcOeOkM6Vd63xIh7s0am1SCeoIAEBxO6m_GF8c_A5NC/spc/6dlaFB_UtNIMzzRqZCM-wD7tM_zOg5dYicQK0ReZamHuVv2UpF3FoWzb1mGlxA7qvkfAoQ/vprv/1/ns/rIlg43r2x2vOY0fpV4Ic4YcT/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2176250/met/1773493210,/mh/5i/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/24/rmhost/rr1---sn-n0hpjput-bpb6.googlevideo.com/rms/lva,lva/smhost/rr2---sn-n0hpjput-bpbl.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51514994,51565116,51565682,51791334/n/OtpsyQpWtaBVSmHizK7/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAIYm6xySTrS7uWdII_CKJ0FVFcWhSsaCp3WqCtdS-0GHAiBGHj35WB2hRiIQexLD-cRB4FjovBnmWqaYjNmlyegRkQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms,smhost/lsig/APaTxxMwRgIhAM8dq4DounGkRQ38tP5yYR4BaXWVCj0DTLi4TyDYTykhAiEA_9oig0c3PgnxkwPp7eEunGpqADwpzr-3sY2G8MXlKUY%3D/playlist/index.m3u8
+Logo: https://yt3.googleusercontent.com/4oHE9WPNm2O_OCXfv-z1ikfOHAWLe46KViKgZNwBGiRQKfLDPlHmnBQ9rbuXvWasG4YixvFA=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 
@@ -3726,22 +3721,22 @@ Logo: https://i.imgur.com/N1BUULh.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: PowerRangers TV
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496816/ei/kBW1aZr3EZePobIPze3s8AY/ip/138.117.222.166/id/Gtxmg62xFVg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-w91n8j_B0MKY1u1_eLthHH1Zz6hDFOeYiCf4oxay-QcEDGMz_JIGnfy7LnRqziECehBGNOyxZ5/spc/6dlaFJPmHNdLflqqHRPQkCs9BuR8q-NzOiTxcau3rUOgR_Gnq3qnAeAjDk5PF-e3X7mEbg/vprv/1/ns/3Cbymo7O1WeQldt6Tgv1IYET/reg/0/playlist_type/DVR/initcwndbps/1597500/met/1773475216,/mh/Tq/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/n/jJvyE_wu7t7Q0s19E3a/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRgIhALno0f1pyOHnsaAjfI9e7W7boeSaqbnyrNKmscI_XhD3AiEAhFYAYtRgTD3UkyV8UdHTIi0ozF1hsAs8jZ1OrbM9qVY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMMId0TmVvhDH44PPQq-kVCYr7jk4h6AVCRfsE5WQW24AiAYnCjcukUv4p8gAZhpITxAZe5CXLgwQIF9vSTGUkX9_Q%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514816/ei/4Fu1afjQMdPCobIPuc7OiQY/ip/138.117.222.166/id/XL9R5qXHUTU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-wFfP1gabpA8mDsnwmPJT8meuUtlZaclhCpOFLl3X_gBABDPDQEt39Uf4w3hmYsK4ixjnrhuf2E/spc/6dlaFPuWY0qNcBLvOOr798-OMHIawQ2rge_29MMyUpYXf0Pf-ImNATQNPFgW-kPRTvBN0Q/vprv/1/ns/S_RzWJeTSZLetCG8PrVcs7YT/reg/0/playlist_type/DVR/initcwndbps/2320000/met/1773493217,/mh/4j/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/n/YVfs35M0S_jegSbDdam/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRgIhAPTC-SzhJDfIBi3r87XccwHfaOTDc4LWM-51AXhIX6tcAiEAvgQrzCRyRtiTWyWk2hoi-lM3Vt2HBrKwTJ4frFZEehc%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPNJXXtVqOl_ldcHMu78Q98DhpDYR7JF51vJYpy2frKzAiEAgy4k5QuVn9Zp0fTAWazepU7ethWv4SbW7XhkpAjAD2w%3D/playlist/index.m3u8
 Logo: https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Cartoon Network Brasil
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496818/ei/khW1aa-ZEI-cobIPrJKLwQ4/ip/138.117.222.166/id/UmaDwbs4Ykc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-yeI-6JDP8_j2JYhypwV7y1BI15kyzMu4jIWCXUMgUBQbJkxFLUcM-iws6rTLJz7AKD_A42cdM0/spc/6dlaFGpwvl21dW4xnwvRqMSGjvKgHb9966hxme2Rg5gU6P-0Mu6rLfjso5Qo_fx1_P0igA/vprv/1/ns/2KmM-BVAJwSHfKIEy2NgVHsT/reg/0/playlist_type/DVR/initcwndbps/1462500/met/1773475219,/mh/fR/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/n/NY2xZsn9QwN0GEstn2s/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAKBHH7dzkNGdQO6Ry-tuao5Uh4Iiv9-Mr_b9FGeiLUVIAiAR5jX-I5XTjQMB_K41GcBuYw0Efu13feJR8XMIAHV_qg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgIt94e2r3hgPJ16UmvrnOV7MRTJJrf3HSQd2KYbHhucUCIG08EO_TaalbPDcdW00aindzS5W1N5HVd8QH_Pc0CvL4/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514819/ei/41u1advQBNKp1sQPzJuqiQo/ip/138.117.222.166/id/UmaDwbs4Ykc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-wL1b-_2MSH7vwQbcaLEbNtVAqPAQw0zCPcqmb7VxYwt9U-lIjVh2WVqrHk0RsmbrG0kUapefhm/spc/6dlaFE_NmO6HmucTunZqTeYQQEM_qI28-fJElgZfcpu0q55jynnJkOrOrz9DDuEew0028g/vprv/1/ns/H5k72yT-vTMUP0mIR90rE9ET/reg/0/playlist_type/DVR/initcwndbps/2166250/met/1773493219,/mh/fR/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/zRxywWgiy7jAscPwhXB/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRAIgMjWLJFzh2kKDSiJEaQrCDrXQaIHg-3j9ZcLpkhM12DkCIBhNNYKLQq9__IM2EMnFlF__RzRntIfQ1k1ZA05yVWAo/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgMbNqrjL5zP3oxoDdD7Rvbw2AnxYbRY3KlGBf44Do2IkCIDfsX9kyn2H_VwnkG7RBRtp5-NOidFfxlB720TmA6Y7t/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Pica-Pau
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496819/ei/kxW1aaSJEOSrobIP47e1yQU/ip/138.117.222.166/id/xIs3odCrjZs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-ww_IVQFwNwoOYFTWR_aZWWq-TXFGJiBGyvUJHwIc1VU1Jdkoq--hso6dN9dFvuDUrSNCT2jtk5/spc/6dlaFL2gNV8WSH_OxSPPbKpf3SerPNycxD75KTB93qt8W2jYey9wx0pL0R-sKkkgcjrDGQ/vprv/1/ns/tHMtufRvJF5fNZS_67t9_NsT/reg/0/playlist_type/DVR/initcwndbps/1485000/met/1773475220,/mh/HB/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/n/__LfjmcU_VNItBek5bb/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAIdcmDmbB8c6qk5-tD_Ab8jpND4GURAjvBbJoBWZIirVAiALfVwktD_2mCisA2u7EsEjHKienlukIaJJpFQI-miLIg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAISdaKnRuL0d1EVP1nF4EV4p5jn8OeRwyx5-Koyk2KWBAiB1Zm6nfm7EFo8Kj80PyvrX_wLIMZXi4hIV7eilhqzX_g%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514819/ei/41u1adGIMriU-LAPuI6E8AQ/ip/138.117.222.166/id/xIs3odCrjZs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-zSYmzLiWKwNvA3fwoMMCVgzxSTUBSms_x4TphwlvnjGiOitMrlcCg_SXKZdUgiABOipmFlXwEL/spc/6dlaFLRtl55DlPZuTO0KLupPn8OfhVHciK0jCtVKvDRQhmlMVeU5zIsnFaJhYvv1gxf2Uw/vprv/1/ns/ukcOfSmxOQiiK1pk6yIeQBkT/reg/0/playlist_type/DVR/initcwndbps/2320000/met/1773493220,/mh/HB/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/v1n792igw8Y3svKH7K3/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRAIgBUKyxV_Dc9cisLECrBsKXXs7RoX1y6XPxcIE-3QVXJQCIHz9pbnd3p2fb_hjNxhdPTmoMyE5O8rfL4O_SwzAUiQe/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgKfezxLk7zsDsZ-CLNzUD-u22kN8RVubxc5wgUw5QN5MCIQDsnBlydy46aekjHTgDaw3tfMOKnRzL0NaG-HOBPtdChA%3D%3D/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIdro_nRLIrnk2e7Ev0pytjw0wvvyh7cMFAWJbcqmM4167sanV8=s160-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Três Espiãs Demais
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496820/ei/lBW1acy-FLLm1sQPw5zAyA0/ip/138.117.222.166/id/I32BK21sJ5c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-wWYCmGdNm0By2RPPMLpiT9qs9-Nw1S35pM063QIbITnWBa3JRIcx7KhcXPEQr_YEx_tY6hnNuZ/spc/6dlaFFFzIuXCmFKizC0ZCeDHSu1B4o2F-DtBuFXMyER21faKKH0fz6m7aU6x-siiELyQ8g/vprv/1/ns/37k3f38JV07rQYhe-aJEFkYT/reg/0/playlist_type/DVR/initcwndbps/1625000/met/1773475221,/mh/6k/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/0KGprzHlyM27PmHEa2y/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhALobBq2i2alnKvSVk93xgm9Bm3y_0OYaHrEAzCX_nOsNAiAnvu2rpOjLKW71d5i03T3ik3KkXCrVTfVceuf_y53lHA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgffq7e2vFt_W4HMnPMzrnZwEYbjcEsEUusjpaZrlklXUCIQDjeOrKofpoEjrZ6qAiehhJFgIU1fBhck0NmGbFzpFmcQ%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514821/ei/5Fu1aY-EPPqi1sQP9czF0AU/ip/138.117.222.166/id/I32BK21sJ5c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-zTgNSRPwlFrO6Fdv65Z9fiztAKx1GDdL_v5yn8rqL2Tds6OmIIFu6jHIRPabnVf0qIKHRwta9u/spc/6dlaFGfEnqPgTHbnd6R_DqNgK__wRy1zeOF3-c0Hn8A6oN3MM_Oi6VVJLh-M9SVR72Ce2w/vprv/1/ns/jvCwj_0dCbTieQCS0wN4H0AT/reg/0/playlist_type/DVR/initcwndbps/2418750/met/1773493221,/mh/6k/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/n/JXABFFXRtIjIb8yyG4K/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIgKUhU7BWsj-2ljANtsFvcRAdeKKcwhPB2uUINX-3PqJ0CIQDXLDWU-yrsZhkqezOa1ny4tWXnCb-H0XpOl48x0doOpg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAO8JS-X7POIUcGsvBVKyfyirbXaaeoSt5vyLOVGKbzKKAiEAp1POCOIUgPDcFRZ6pxJ87ha8iBUtPHRucfJLITKrfUE%3D/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/poEx3Ox0WYwoFpt1zEtAypOl5WM1ksroVPZSKce079yElvwxbjEkn41Eq_Z7qsdTomO8yLc0=s160-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -4598,7 +4593,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI2IDU6Mjg6NDEgQU0maGFzaF92YWx1ZT1lRmc1YzlOays2VWJaajN1SjMvSmtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTEwZjFjMzAtZWFiYy00MWUzLWIyZDEtMDU5ZGQxODhmZmJj/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo0OSBQTSZoYXNoX3ZhbHVlPURNeXFaYTlidFpTKzlUTXFmUTBuL1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNjA1NWRhZS04ZDUxLTQwZGQtYTkzMi0wMDY3YWU2NzdmYTU=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4770,17 +4765,17 @@ Logo: https://i.imgur.com/t5oUK3C.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Jovem Pan Live
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496814/ei/jhW1abTtD6mU-LAPmYC5aQ/ip/138.117.222.166/id/eTz4XgOQaAE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-wUgtVKoY1TuaZbyEMdHskPZ-BjstTDSFJkM5_3otEOQlgrGYgpX3jBRCWkdnD7_ojp2J6G-NSa/spc/6dlaFMfe5doEFS-sbwQThBGuFIJDUrR71nHLen-N9Kzm_dfZBevI1N3kUUxH6JISf8AmDg/vprv/1/ns/sGHQiJRoNZxaYRKjwSwpj5QT/reg/0/playlist_type/DVR/initcwndbps/1261250/met/1773475215,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/WUZkAq4eVH_7vZIoLdH/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAIJrZE-cvkZN3zgWUw9TtOOAhwFSy3YNfoT6GtdbXLHdAiAZMXKR4nIazbpFuH75dYOdIqfXQEgcZu9u1Ci0fc6EgA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAP8k0Q6YwuvwGShxJ-DRwApSbhZlbZ_7RlMC1tU-fYHdAiEA_D_eKoft7Kw230ukLunXFieGwjRPD7KS0J-803zoCyE%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514814/ei/3lu1acHyFLWPobIPttudyA4/ip/138.117.222.166/id/eTz4XgOQaAE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-zZBkoPzeANRvIzuXbTlBrZTqeYxmAs35byopW_5XblgsXpzKNg8KJ66upWpMLrLTlXmxlavsF7/spc/6dlaFN77tN4O6MzEgP4XF9j0CaJxPBKKKPcRl7ej5wz9NhXp35IwAw3M_evjTA7FwYYi-g/vprv/1/ns/-aw1x06EWqWgQobaCUgT27ET/reg/0/playlist_type/DVR/initcwndbps/2152500/met/1773493215,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/iyGPuisG9Wb8klLXBWt/mt/1773492998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIgBLBki7UEbevNMuDztnura8B5qzHkhpFu6ozBi-tOh5cCIQCu_-ucZzFXL7Ha0fEX1axmQbuRZ03gSxrsG9IHusuEuw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgf6SSSnEsuHxXOO9nrKo_TYBjkrXbAvxDC2LmXsTVLlkCICusg_QbY5fdCzABxuRU26K0YGRWD-1cEzPZcl729n2y/playlist/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Record News Live
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496815/ei/jxW1aZPvHfmXobIPqNST2A4/ip/138.117.222.166/id/-JpqLM0ACsw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-xoiC79TjfkHCriykmYIkWpow7eG-kNxM8iC9bgw0bqn2do-FNgvW0lPi_y9ek9P--7rBw9B_XA/spc/6dlaFNSI81PdnBWROho1WBJUSs4jde-ozfhGjQW_3x6FkviMIG84PTvEx2caihzVaRwSBw/vprv/1/ns/nZ5DtEL-LPSp3TOvw-rQ-rcT/reg/0/playlist_type/DVR/initcwndbps/1485000/met/1773475216,/mh/f1/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/n/v0F2InTXQV4n4u-QPEc/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRgIhAL-PH5sofeRhfP4jECl5bYQeFrplY-rA6HLGcD1Zi17XAiEAr4mX18GcsQnyEce7sbjX3kqjSJumY21BbhmwWVO8I9w%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhANWsM-IvL7JEBOpnChjie3DjTxI_F8U0Cu7Qwiy5g8QwAiEAgcjzhbIYwD64OrL9HPm6Ij1GpFrzFWZy9-5-cUYyrNo%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514815/ei/31u1aafOIILt1sQPkdCv0AU/ip/138.117.222.166/id/-JpqLM0ACsw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-wPFIp1C6dcCyzU3Lr0XKENa5mKAlEQK9VWzrL9OZKVTom2GfwflH5FYxZwnxum2kJDa1W6Dl5e/spc/6dlaFOADfR3dtnxcRpnFvfwVd45JKE-MVZWJodjZKkW4m3JurLuBhSl7GeiED_y49g_llA/vprv/1/ns/DpqwoUDNXT1TFs1NJTElpRMT/reg/0/playlist_type/DVR/initcwndbps/2320000/met/1773493216,/mh/f1/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/n/mNPQXKJ1Nt55nbQeWum/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIgFURDLBfNhOxhkF8xLXkuAGdKsjwzs9byfv8srFzLu-sCIQDcpRiks38iwahD9LAMU9OixaPtNHAqGJ0BK4spB4kfIQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIJN2NpxAsoV9Saw_W2y4sIEKJ_AJzH-zLMKm8ft2IHIAiEA62CNzYoY-XIQ6ExIhapwA24834xEAvKWit9FHI03o58%3D/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: CNN Brasil
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496821/ei/lRW1aa6-M5ePobIPze3s8AY/ip/138.117.222.166/id/rcGraQfD5_U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AVNa5-zGIkbuuTS0bR_1EwKC3QAInO9QWEpatdaLzp5bsK4oD0Xs0Z1-p_rpp5uSXdyoYgTMrzTcYz-9/spc/6dlaFMeBV1HyV6SHDzf6FHZ5kOKTLbRDGU-lrMTROugu6yiGJXmacvX9fnFF25x_uxOlNA/vprv/1/ns/EicxZNZWLYL1oOoetieFT5sT/reg/0/playlist_type/DVR/initcwndbps/1462500/met/1773475222,/mh/Vu/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/kv02dPx4nfgSSlSc4mO/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAJpK31AqaZb7qLl_2_EmW5WQzpj_qLAWhpeRkqtI2HQvAiBVRIuhWWJIFQSkXSFm9VRUs0F8qgCdgY5bObUIbx2zwA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgd7HICTPWhGt6lYjqPhlKqFmDwyZvqnP2F2xeUtRLI6wCIQD16M4ZSAId9XbU-CkT3M97-88V0_Uj_epF8bz1EfdUIQ%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514821/ei/5Vu1aYfzNrWPobIPx6-GyQ4/ip/138.117.222.166/id/XuvN0mS8Tr8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AVNa5-xDXQq0W0UXGflXf8FZhtq3H_1DFWrsIush1XpDQI_I-un91x0g6-VFgXls2Ze5f7sWXDngRsty/spc/6dlaFA1UnZzaM_Fuix3UhBEqJ_aO-7DtetilL5FfP_7ln8EOihDXSFe6WomdorvnA7W8eg/vprv/1/ns/srZEOD96dOPhC8iVhp3TgLUT/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/2418750/met/1773493223,/mh/Zf/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rmhost/rr1---sn-n0hpjput-bpbs.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/n/KK3zj48GjP-BluUUN5S/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRgIhALGg0vIcWD0-lWJkV4DikCtIbtsbyrZ8V_wynCvpcqiUAiEAjvSB_aQ4SklAJTjY5Lr3rLrwrpvHcVoGRiWg9OOnblc%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRAIgbft4IVn0_ZoXT3C0gkoublqxw57zbbJdH_Cg56zddgcCIBM2Q9SQ_a-sTaVfVEcgyhboQsInnh9vDUl21CgycK2h/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIf8zZQb7MP1UvjN4CnJ9tEyGeQM0btuJejf1PQekJlmog=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -5544,7 +5539,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI2IDU6Mjg6NDEgQU0maGFzaF92YWx1ZT1KdFJyeEJNbFo1a3pvVkxFOTZ2YkRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWQ0M2FhMmItNTViNy00ZTZlLWEzMjctNTI3OGQxOGI4MjFj/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo1MCBQTSZoYXNoX3ZhbHVlPWJJVTZPUWhnekxaUzhHMkUvNXBXZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YjkzN2E4Zi0xMmU0LTRhNDEtODg5Mi03MDc3ZGUwNTZlMjc=/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -5554,7 +5549,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI2IDU6Mjg6NDAgQU0maGFzaF92YWx1ZT1NUk4xZ0dMSE5CS0FncFRsS1NOaUtRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGZlZDY4YzYtOWI0Ny00OWE3LWFiNWMtNTRhNzI0ZTE2MmQ4/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo0OCBQTSZoYXNoX3ZhbHVlPXprRFFUWEpxcVFqMFBoVTc0cG82cmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZDBhZTI4Yy0xNDAwLTRlNGEtYTU0My1lZjUyNjU3OGIwMGQ=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -5948,7 +5943,7 @@ Logo: https://i.imgur.com/TIsk5zN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Santuário Nacional de Aparecida
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496823/ei/lxW1adWfC7mpobIP-uL20AU/ip/138.117.222.166/id/juUt-rN5CVo.27~45753339/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-yR0sX8w56McDKBClg7ES68xyz2_wLGfeD8rr6F8o53dLnpbj9b41K2vj7t3h7CQHsBH35RRsw-/spc/6dlaFM9Qvh5uxoEQ9c7LRfwjh-PVsqgBvIMbsEOxP_pxFG4UbXVeU-rgbEc9Zs7Z4wntkQ/vprv/1/ns/-6v1tNWXjBM6TQ-UFusgZ18T/reg/0/playlist_type/LIVE/initcwndbps/1485000/met/1773475223,/mh/94/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/F_Gr24p0KIxo0mnyry-/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRAIgHY-Y5rRuCCpt9K3XrwbJsgGB7W9JnjHEmczcMLDXpuMCIH4cAApWVk2jND6lyQJDWlhkObpmiaFn467f20OWQevX/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAN9ywSohMMCmqAICRayJUt-f6sgeg9put18w1CV6YLTNAiEA9fLFUOFxfLqQy2w3ozTpv0S3gY2wrsLPkL16QMoUQ_A%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514823/ei/51u1acGqE8uP-LAP_ML88AQ/ip/138.117.222.166/id/juUt-rN5CVo.27~45753339/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-xiZt_8c4N2J3HT-pVViVwaEMCOKXqWOYKoUSd_yNlySY8CX5BfhxNHDPXdiot80KMfFckqNjat/spc/6dlaFI0_HUmHeizD9p0b17WNExxniUjQnXineoh01evzlBH41bczETxslfTfEqK752bnrg/vprv/1/ns/H1OT9kDCuIkMMijIThKH3fAT/reg/0/playlist_type/LIVE/initcwndbps/2161250/met/1773493224,/mh/94/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/k1MOGfwzebfHWZcNJtg/mt/1773492998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhANmXbSF5nuOQjI7d93MtX-0VnHg7kTi7rdKJAz8m51KbAiApS1i1XkbJWGkaMS-l5mJN1WOPj_ncWmm9arlmdbz5dQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhANkASLDNdSy55B04Ciicr-TA6InWBmsBnOxWREV9rOlrAiEAgzqNrDStyXGX6Ak7S3Yz-jcKnjCQTBLqDmYpvitsaSQ%3D/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/lJKcikNIOAxJwt56fCFkY-pc57H0TQgZtt0h8xPBlijST3FE_2AOZhqS4_D8afZaDjHKqKOVeA=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -5987,12 +5982,12 @@ Logo: https://i.imgur.com/Ff5mj0o.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Classic Mr Bean
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496826/ei/mhW1aYa3LZCf-LAPxOeKqQU/ip/138.117.222.166/id/NL9oSLJxAlw.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-xj54fJGqHtuGY4yMVWAjFauIa1q9DqugaTJ_S0ugOSmloKqEHGWYtZ42ZknjumZ25TVi3DV_Nc/spc/6dlaFGgqLQTZY_baJuqqZuYknxvhbb0vMc0q9QYMv9sactazZq1aeW7iXITp3tr2oEtyEQ/vprv/1/ns/Mjol1PoenH1UT7X7r_RQ0uYT/reg/0/playlist_type/DVR/initcwndbps/1462500/met/1773475227,/mh/kY/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/nz2LGXd-aLVV2SRZZ6b/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRAIgfQr103mMnecvvWAkxK8XTK_z2onLxS4FIgOL-w1pQOoCICRhn2mZfdlCwDmz4eh1SN3cC4iuUZhOKbFCdSNVTizj/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgb74XA6JBUO-ZePFPiljOPVjkFHDJQzQsuLemYr40xFsCIQDB24FIimcprgwmHROloIjjSbcE9WkC8QsBNaUIPRkuHA%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514827/ei/61u1aeypCIfBnOAPxpONuQY/ip/138.117.222.166/id/NL9oSLJxAlw.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-yBI-X1CJ0LYAOZNcwb2cVT6sO9HlXY-ypS42McosWf9n9jLWdnyGY2v7qFKHHBg4SrEbXnK0Zh/spc/6dlaFHVUq_2PwSiBlEdFozkjDA9ekaTxYZLVMBmmWUuKvjNkGWq0v7U-nqeLEV5qr5sbPw/vprv/1/ns/PSu76y8XdfCJBtgm54I91ikT/reg/0/playlist_type/DVR/initcwndbps/2166250/met/1773493228,/mh/kY/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/IzGe2jOnvNFGrL5_Wn8/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRgIhAJitTdt6Mf_d-h_J7xse5kArnjqIKwnsZSDv8bQV7wTAAiEAjN03ced0PQ5EZZai1rhFHrd5g0WrkSFMo1OybbOn-qE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgXqkoF1jZcyt30bQq6JlxXuhs9lw_c0xbnCUoc1QfekYCIFKMNMNggC-bhJbMk1GWMXi67eoDaivL6iPqu2oVe1x3/playlist/index.m3u8
 Logo: https://yt3.ggpht.com/er0IYBx2fOrUdTheL_zI5MRTBuAJPpBqBWqsQxvX-X3h71gjISb6K0Hp02PkE083hiN2qCRw=s88-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Chaves 24H
-URL: https://sae12.playlist.live-video.net/v1/playlist/CrAFpTpD5SwyVllzoCyCTov588LHWdz3zR92qb4zxcU9M-2KzF_gJlT-0A6WefSOI9k9snrn-ZeG_Ws2cvzkG6mMX-vdgmfAHM-C6LjGlWXbFcej8ukYFvpCt0rFIKnzqDzKPliALMst6uZBJTHB17t0PA0sfzQFCNnBZzzLFOdHTQ5Fumk48mnlPg-gqUknZIU54B2fW4F8aJJvQOnEyV4Q79iOilEQxwdeNyoNyXmOe0s-SVrKb-JuBBg46ZxJjOgOXSESUdDOSl9I905AQQviaDo70gdsesvyfVA08RJbff2a_tiBJvwLacxfOcPsIDarbLhq3XMAd_0VsTL9l2stmYGxoSNFDxJlQ5QONbr-S2BfoOYf7LgjDyrjXuQcMdZ6nuZPQqEapD9QFLNwUAEpCGb0QDvXHrwReXFLARBqkVGpDNA1P4BlsqbghHENL_ltWv1tdUS_YQ2LoHu4DTpdABwrXlQbVQtAm-xKyDJ2Z-EkkHkE7U78b6Z9pPwOQyG4WJ4O6Zjh1iEsoJYVjSJGgcNWcbN_86Cyv1CFViVWNcAYgU3jK4mNGFyISjwh9dpgKbDAVxZEfOSwBmnsySoZUs5Ow8RsB8JsB85_pA8mfhI5zrscNOK2kHK1yhwxuLM4XQWdhXEx_SfhOIVTu9Ov2Zbsy1gLgJxnSCalHbKaJs-Thm0lLV1p93tGHHC8Cg4OwoFcSfYcpZYtf4Q73tLn43V5DE4RKWLxcGSaiqezycRIM1FiwXI_emFXCTlV2oe0yv7_Jg5IYiGmVWP2b5QRQFf-qA_lR6QMuko2QafDZUf5SvToY0cCQUEnGeMOyN_7yDIdi4XTb2C9tsJe09r61O62q1OJa-hgP-J3vmvDTYblWbjJwv_GYWn2vRbDy_WjbqHMX4TtCioVB9V5YCJx3hoMRgxLyq_putCUuC-3IAEqCXVzLWVhc3QtMjDRDg.m3u8
+URL: https://sae12.playlist.live-video.net/v1/playlist/CrAFqwsiyd_iGxEUIFQ8B3Tz0dclwS4nBVzZxZe7XZ8uBjfmNrNRTJLDN-wtYAzZRniEdsPfxSGXXE5_Y-MXz8eqgrBnSn8YMP0IsdtoALvI2nmaIMq9GG0DfozppEi3kvFUMFgiierSzP0H664Yov-C3res54nV4X-AbBqdXOqASFSvLarUjXUnWa3zUeHQcSw8BjHvPmWvG3ns5IiVK1Jigujpak68buvDw3VvmWECeHXUGXee1dXE8HDTFLyn8sEx6vq6xHj2CDixcxrKGMM50vtX8MfrqSoqdMCM-bUd8aZeNMyDEspMxawzGUJfgHQnEpyegaiJWDW6bHSU1RaRBZj0L7symVUW7vT0fpo7tkuwrj_3l1Vbx_Oydk_Mgv-oTqJfgppuZYslP5pIpC_g_729C1DrJHrfYrLvLSM1cSNyCRpVcT61Trh0BqYuVcXY72UR9KzkU5espt7_MsJMGLcxnUoSHVyu20uQGFeEP0CIsO4XCs_-CdNCMkDqxjJ2VgPG8Tb5UHauIuIz6jqNWtaKIrUA59-vOGe15Exx08E4oH1Z7gDU15sxxtAIIdmO9m1MPVLaZzQy1VwKsxcQeTyteBsO-yIwcZBACxR5SE3lgWo2PnTfxukPEnnkmyAMKUl473VR577AOD8U9FTuLNZwPixypaJiPWWRTKv26Ow9u308x3EgOTJXzdQl3AZeeH3VQCtr0vXPSxU4ax13UWe_jdVfA00c6XtPT_W5iTtomR7UDPugTyBJe8wsP7K1t1uWdAoQn7UPcsGCtiVTXHuMcwUZzYkMFSgDB3dO2gh_NZS26Zb9v5-OG95Aj-UZ_PIiTgmIR0L6ai1zQ7GidkEIrrnVEuWmZ9_JYIlWsDgNXv0qL73IFbvFy743GR6Qw-smY2_Sfq5fBk-5wTJ3HRoMPu3VgpYZNHQLjS0JIAEqCXVzLWVhc3QtMjDRDg.m3u8
 Logo: https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -6004,17 +5999,15 @@ Logo: https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
-Group: Tennis🎾
-Name: Supertennis 🇮🇹
-URL: https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-Logo: https://logo.m3uassets.com/supertennis.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-
 Group: Uncategorized
 Name: Caras tv 🇧🇷
 URL: https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8?wowzasessionid=@iprtlk
 Logo: https://tvcaras.com.br/wp-content/themes/perfil-revistas/assets/dist/img/tvcaras.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: WIN Sports+ 🇨🇴
+URL: http://38.252.213.12:8000/play/a06r
+Logo: https://iptvboss.xyz/logos/Colombia/WinSports.co.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: OLAHRAGA POPULER
@@ -6902,22 +6895,22 @@ Logo: https://i.imgur.com/TxHWAeD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: SBT Central Live
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496812/ei/jBW1aYS6CJX11sQPhJ3S4QU/ip/138.117.222.166/id/FQYP9nP8BEM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-wXp29iI9rYcJT5LcIo-modWwXhaMK9q-D8793u03wLcL-1edCvfkzBFfc2IWdN_c1BKM1-Z-Nm/spc/6dlaFGAsPhbFienH8bRCREcmI05go48s3PjgzmN4p8Ea853Iui_UirjjKawBp6x6j-kpaw/vprv/1/ns/1LirsTsyRMFSWJdJ4Tv0yAsT/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1485000/met/1773475213,/mh/XZ/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/smhost/rr3---sn-n0hpjput-bpb6.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/n/qYFLRlxlTqM5qdkIYS8/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIgAZBDyuJ3WffKWBRdrsl0hWGnjqRoX8-07e8u5MDA2cICIQDahdMXefNBeGXP0ouK4oTJrUFYqJRaWozbkiX9dlma2A%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms,smhost/lsig/APaTxxMwRgIhAOdQTLUAOaoeiFTTKiNVrJN6ZF2WVstqDla6rUm4lphlAiEAp0Ifq_FmMDCHRfqonFF_WKBkGjuryf3V0fcX54G4cYw%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514812/ei/3Fu1aad199TWxA_f6a8x/ip/138.117.222.166/id/FQYP9nP8BEM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-ySN4spR7pgWJx8vo7TnZ_etlGa6YgbnctfFCDvnoRni2DFeFsns-wP-Wprpf9eKJba9_N9DaW0/spc/6dlaFMmj_Hue1kFm2HOqwnu4XdjrsiibA6_qtCefAJiM_z3jKjErtj6G5uFjf4VhRvgmuw/vprv/1/ns/PObCC8JLNZ5VVggUSfg60T0T/reg/0/playlist_type/DVR/initcwndbps/2176250/met/1773493213,/mh/XZ/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/n/zCWu5WUREdoOCkiFXq4/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhANeziPlR-AAM2cezrcFWHtLTCtcqSzWXQlTtba1QrutOAiAuyW0B1DUrlAGapbR0bitjcObM875RCIhpCqRQCodjrQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhANV2NQ49gSKovhZQLr2EbLDVysCqN07LScZUTLx_yZZLAiEAym5CiKvJO7NzJ1oi1r8zy2g4HkbOFMqsOjg6Tqvggog%3D/playlist/index.m3u8
 Logo: https://cdn.mitvstatic.com/channels/br_sbt_m.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: SBT - YouTube
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496813/ei/jRW1ad7UDJ6Q-LAP9KbZSA/ip/138.117.222.166/id/LLpNUqHVam8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-wp49H7eLuZpn3d-MfiiAZ50xUC2yfmDpo3qRJ2G25m23rVDCIwtNqOjrHi7OsoYPC5fIlG7rgZ/spc/6dlaFPk_Yh18uSSs-XQDJa4Tmt913Jal6ZOSYvAfsOdpqnb8T0QNw3foyFWJnnXgzgsQaQ/vprv/1/ns/n9lA2zEKRpDqigRYyt4d_QcT/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1398750/met/1773475214,/mh/pR/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/smhost/rr2---sn-n0hpjput-bpb6.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/MCv8XKQOgrG3B3UZ0k3/mt/1773474998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAOjdtZ_mf42SXewPxbbv5FtxK0XWzHUuUl0md2WpspeaAiAAq6VuGmAImCngfKFoZTvyLYI840w14HOPaW0R2uqYNg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms,smhost/lsig/APaTxxMwRQIgWelTBXciWzz_ZCsjxRoyEjypkj5PyXHEAz2cTWWxkAkCIQDvx61NfBnFxiApsItaItPeQtRuaJSVrd1GY-9ERO1y6w%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514813/ei/3Vu1adGpDviJ1sQPmrS8mA0/ip/138.117.222.166/id/LLpNUqHVam8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AVNa5-wrGp95aBcDEimVk6RsNlznYrzQpaHavmnFUGJJGP1-9h8n48TXyk52gDPfdAfbKvx8aRCEqYdY/spc/6dlaFAi_BlSdDsFlxWx_8raPz-xt74Bg5X-artPDG4iUQxSwAAc4AERx72za4pcxOv6FtQ/vprv/1/ns/N8tv-QLLdgTd9YEJWg2D-bsT/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/2176250/met/1773493214,/mh/pR/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pl/24/rmhost/rr2---sn-n0hpjput-bpb6.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/iQHAlj20dj229HKrJku/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAKjEiQdK2I_TutIvXb8s2XdcngTSC_k_89SWBV-SoJtAAiAzZCful0apymFfDYwI10brrqnyjBY2WgQX1VjNioMXnw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRgIhAPLZiMebxPRDu7vpS8tXFFr_sX7pspA4LKFgMhTh6oKVAiEAwcL3MWcUll-4kx2rBZy9d2l7pCbGaZBIDIcMZia-3nM%3D/playlist/index.m3u8
 Logo: https://cdn.mitvstatic.com/channels/br_sbt_m.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Diário TV Teresópolis
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496817/ei/kRW1aY4XypX4sA-n4IzpCQ/ip/138.117.222.166/id/8l7w8mNRYOA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-wn51RYT8jNmKZKl6YObs_2Rkr8NMR5uH0CoMXZb6xzjyc5BZzIW9H6RsRWE7JV7N8cdyRGRK75/spc/6dlaFPApqJd27W5SFxAs552weUN7qyx0MSOXvmXwbYZschCRTDwOD4MznJlqX05R6BXoeQ/vprv/1/ns/muYzkHJuUuQvmjixkHiex5IT/reg/0/playlist_type/DVR/initcwndbps/1625000/met/1773475218,/mh/OW/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/n/pocClknmk8SDHDeAULk/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhALQnPxJL5JL7mhHs8qeqz6q6krweSDwAogAGmmFahpRXAiAciomyuZjScvgomObrwSY9tiftLCOD8TbiGFq_KXcs1w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJudvWm9huEw9AtoasXBuHk5UfYj9wtnZizyIQNrG1dpAiEA6PJ26ZXqigpuiOfuqnRpZdY-B1itdOKbGp4XSWKFRAk%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514817/ei/4Vu1aba0O4bK1sQP7Z64AQ/ip/138.117.222.166/id/8l7w8mNRYOA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-woxc0PrYCjFEAiIT0EJ8kcbR8NS2UcqTAAqHtndR0fC5thlneTLdbg9pF67C5lathXB9ziYtDV/spc/6dlaFO1G4LYhOw4Cr4AkvXTcgQ757gd5CyynP7eLNz_7k91x8V4gWE_t5-gxvfUs89vr8Q/vprv/1/ns/EvcwnUYNiYpy2qnU5gLb0I4T/reg/0/playlist_type/DVR/initcwndbps/2236250/met/1773493218,/mh/OW/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/FZcYTh4LjQRtgnJjkbc/mt/1773492998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRgIhAPO0trVkIm0kMtZ4dEPVjUZ-Min_Qg9FfFkxZQSQRp-NAiEA_e4qzizXaVoPOVJaTPn9C26ux-L9o8-78GhUNHOlP6U%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgM-ZlTeoW-gGYyjIXK1TGetpWa_rV_J3_NqfzDCO8Be0CIE9vFN8EFnFEHRnCmubz12eOnjkfdRMhhFFYP1-tjr46/playlist/index.m3u8
 Logo: https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Correio da Manhã
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773496827/ei/mxW1ab-qKqrw1sQPkYPeuQU/ip/138.117.222.166/id/FDvEETLPNVs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-walbGzTqp3i5JiLCldfOTwxSx3CjMqFyVlocvyIDZ7HajSTZVcMXxp9FR_uLOo3QdrplPItijU/spc/6dlaFCAr43THu4EC22CkwqMXwx_tt6cF_ax9cofMkny9FwD9bhwXuorUd0V922ZRsxtYmw/vprv/1/ns/crU63GoWVNQwo9I1ijzFs9gT/reg/0/playlist_type/DVR/initcwndbps/1261250/met/1773475228,/mh/R9/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51791334/n/0Faf5T_v47atNGnPNvW/mt/1773474762/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAOTprIgxn56q9P6MWXZl5XR4bWIAJDVvHYIWGOh1BAq9AiA7SpTHmnwinQxSgGyu8_CvVZbZdZkpVA_MJ0EBBl1KWw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALPxd-tVVTBQL0f3xCWmNnXhnXaNMdO93OQxrVua6MueAiAHaxAZXfbUg_Q_mNf-zpkC_lO2cTs4H547WHGd1kIdyA%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773514828/ei/7Fu1abfOD4iR-LAP7LLkoAU/ip/138.117.222.166/id/FDvEETLPNVs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-ydW8Nitprda2Fwd2e4yunZA0m_UmYlo5D6Y5rvv62UHlP6v0m_x9bhU1N4tZs4_RpQerCFFEJw/spc/6dlaFNnLUfFuXprFlu9q3ZVPP6N8oLuOAvclF0u4Q78w15Z3Au978mpeAdGFxbw5rj4RCQ/vprv/1/ns/PGsp1GS3aHaTrlAmFv1q2jIT/reg/0/playlist_type/DVR/initcwndbps/2141250/met/1773493229,/mh/R9/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/n/nfss-MWB3ItKkrOhl9V/mt/1773492757/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIhAJatR3gg7xuUx114jDWpIW_vEfKrylFozb1oe-sq-qogAiA82RDph8qkRle3kL8fzcRtAhq7NdhWT4tJBx80lwY49Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgIymcpTkCyP8WbeLIwiTUJ74RxppacAmjcdYzRjL3ncgCIQDIrMv9aYDlLayLiFXn6BdF3EEDQSMmtG55qNlyXocYJA%3D%3D/playlist/index.m3u8
 Logo: https://yt3.ggpht.com/ygMbu6lhpO4HV0hqceunzUNG_dqkdyOIrmr1VrtZfC8F48pyK8NFBw3Vn6P3YFmDJDq24YjFHA=s88-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -7310,6 +7303,11 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Sky Sport F1 🇮🇹 🏎️
+URL: https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Sky Sport F1 🇬🇧 🏎️
 URL: http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/53704.ts
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
@@ -7339,6 +7337,26 @@ URL: https://30a-tv.com/feeds/vidaa/cars.m3u8?wowzasessionid=@iprtlk
 Logo: https://30a-tv.com/wp-content/uploads/2024/06/user-profile-30atv-2024.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: Live Events 🇬🇧
+URL: https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS81L2luZGV4Lm0zdTg
+Logo: https://github.com/iprtl/p1/raw/master/logo/LiveEvents.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Live Events² 🇬🇧
+URL: https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS82L2luZGV4Lm0zdTg
+Logo: https://github.com/iprtl/p1/raw/master/logo/LiveEvents.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Live Events³ 🇬🇧
+URL: https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS8yL2luZGV4Lm0zdTg
+Logo: https://github.com/iprtl/p1/raw/master/logo/LiveEvents.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Live Events⁴ 🇬🇧
+URL: https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS8yNC9pbmRleC5tM3U4
+Logo: https://github.com/iprtl/p1/raw/master/logo/LiveEvents.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: Старт
 URL: http://iptv.tvzatak.uk:80/live/HxnSbJgDPX/bhYQUR31B/888.ts
 Logo: https://static.wikia.nocookie.net/logopedia/images/c/cc/Start_Russia.png
@@ -7355,7 +7373,12 @@ Logo: https://i.imgur.com/8KiZkJF.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Tivibu Spor 1 🇹🇷
-URL: https://github.com/B-inal-123/s-eropa/raw/inal-22/Tivibu1.m3u8
+URL: https://biraz.1386503.xyz/checklist/androstreamlivets1.m3u8
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Tivibu Spor 1 🇹🇷
+URL: https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7365,22 +7388,27 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Tivibu Spor 2 🇹🇷
-URL: https://github.com/B-inal-123/s-eropa/raw/inal-22/Tivibu2.m3u8
+URL: https://biraz.1386503.xyz/checklist/androstreamlivets2.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Tivibu Spor 2 🇹🇷
-URL: http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=913372&extension=ts|User-Agent=Wink/1.31.1
+URL: https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Tivibu Spor 3 🇹🇷
-URL: https://github.com/B-inal-123/s-eropa/raw/inal-22/Tivibu3.m3u8
+URL: https://biraz.1386503.xyz/checklist/androstreamlivets3.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Tivibu Spor 3 🇹🇷
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19076/index.m3u8
+URL: https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets3.m3u8
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Tivibu Spor 4 🇹🇷
+URL: https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7434,6 +7462,11 @@ URL: http://212.102.60.231:80/NBA_TV/index.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: NBC Sports California 🇺🇸
+URL: https://602.xn--1000-ugoa0hsb9a0hb.com/mlb4.m3u8
+Logo: https://media.nbcsportsbayarea.com/2023/11/NBCSBA-CA-header-logo@2x.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: ESPN 🇺🇸
 URL: https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/espnwhite.png
@@ -7476,6 +7509,11 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CBS Sports 🇺🇸
 URL: https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+Logo: https://logo.m3uassets.com/cbssportsnetwork.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: CBS Sports 🇺🇸
+URL: http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 Logo: https://logo.m3uassets.com/cbssportsnetwork.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7580,7 +7618,7 @@ Logo: http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-URL: http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1311899&extension=ts&play_token=DesCTrKj00
+URL: http://195.178.110.37/hls/hjjj.m3u8
 Logo: http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7590,7 +7628,7 @@ Logo: http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TNT Sports 2 🇬🇧⚽️🐴🎱
-URL: http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1311900&extension=ts&play_token=CT1XFRNEJf
+URL: http://195.178.110.37/hls/BEEEE.m3u8
 Logo: http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7959,6 +7997,11 @@ URL: http://38.252.213.12:8000/play/a02r
 Logo: https://logo.m3uassets.com/espnpremium.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: ESPN Premium 🇨🇱
+URL: http://179.63.6.12:9000/play/a02r
+Logo: https://logo.m3uassets.com/espnpremium.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: ESPN 🇨🇴⚽️
 URL: http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32778.ts
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png
@@ -7967,6 +8010,11 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 Name: ESPN 🇨🇴
 URL: http://45.167.1.136:8000/play/a03l
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: ESPN 2 🇨🇴⚽️
+URL: http://179.63.6.12:9000/play/a05z
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/espn2white.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 2 🇨🇴
@@ -8040,7 +8088,7 @@ Logo: https://logo.m3uassets.com/tntsportspremium.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TNT Sports Premium
-URL: http://45.173.75.4:2061/play/a06p
+URL: http://38.252.213.12:8000/play/a06w
 Logo: https://logo.m3uassets.com/tntsportspremium.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -8085,7 +8133,7 @@ Logo: https://logo.m3uassets.com/clarosports.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Claro Sports 🇺🇾
-URL: http://200.229.147.142:8000/play/a06o/index.m3u8
+URL: http://179.63.6.12:9000/play/a06r
 Logo: https://logo.m3uassets.com/clarosports.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -8094,9 +8142,9 @@ URL: http://8.243.126.131:8000/play/a0ih/index.m3u8
 Logo: https://logo.m3uassets.com/tigosports.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Tigo Sports 🇨🇷🇬🇹
-URL: http://200.125.170.122:8000/play/a04f/index.m3u8
-Logo: https://logo.m3uassets.com/tigosports.png
+Name: DSports 🇨🇷🇬🇹
+URL: http://179.63.6.12:9000/play/a01k
+Logo: https://logo.m3uassets.com/dsports.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVP Sport 🇨🇿
@@ -8205,13 +8253,28 @@ Logo: https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Bein Sports 3 🇹🇷
-URL: https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+URL: https://biraz.1386503.xyz/checklist/androstreamlivebs3.m3u8
 Logo: https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Bein Sports 4 🇹🇷
 URL: https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 Logo: https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Bein Sports 5 🇹🇷
+URL: https://api.codetabs.com/v1/proxy/?quest=https://biraz.1386503.xyz/checklist/androstreamlivebs5.m3u8
+Logo: https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Bein Sports 1 🇹🇭🇵🇭
+URL: https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS8yNS9pbmRleC5tM3U4
+Logo: https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Bein Sports 3 🇹🇭🇵🇭
+URL: https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS8zL2luZGV4Lm0zdTg
+Logo: https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Bein Sports 1 🇫🇷⚽️🏉🏀
@@ -8389,26 +8452,6 @@ URL: https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: PSN 1 Sports 🇲🇳
-URL: https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-Logo: https://github.com/iprtl/p1/raw/master/logo/PSN1.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: PSN 2 Sports 🇲🇳
-URL: https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-Logo: https://github.com/iprtl/p1/raw/master/logo/PSN2.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: PSN 4 Sports 🇲🇳
-URL: https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-Logo: https://github.com/iprtl/p1/raw/master/logo/PSN4.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: PSN 5 Sports 🇲🇳
-URL: https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-Logo: https://github.com/iprtl/p1/raw/master/logo/PSN5.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: Nova Sport 1 🇸🇰
 URL: https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
 Logo: https://logo.m3uassets.com/novasport1.png
@@ -8452,6 +8495,16 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 Name: Digi Sport 4 🇷🇴⚽️🤾‍
 URL: https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 Logo: https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: S Sport 🇹🇷
+URL: https://biraz.1386503.xyz/checklist/androstreamlivess1.m3u8
+Logo: https://logo.m3uassets.com/ssport.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
+Name: Tring Sport 2 🇹🇷
+URL: https://biraz.1386503.xyz/checklist/androstreamlivess2.m3u8
+Logo: https://logo.m3uassets.com/ssport2.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
@@ -8558,6 +8611,11 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
 Group: World Sports 🌎;Tennis🎾
+Name: Supertennis 🇮🇹
+URL: https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+Logo: https://logo.m3uassets.com/supertennis.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: Sky Sport 4 🇳🇱⚽️🏌🏏
 URL: https://7pal.short.gy/skyspt4nz
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png
@@ -8807,16 +8865,6 @@ Source: https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 Name: Fox Sports 2
 URL: http://mytvstream.net:8080/live/30550113/30550113/1847.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png
-Source: https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
---------------------------------------------------
-Name: HBO
-URL: http://23.237.104.106:8080/USA_HBO/index.m3u8
-Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
-Source: https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
---------------------------------------------------
-Name: HBO 2
-URL: http://23.237.104.106:8080/USA_HBO2/index.m3u8
-Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 --------------------------------------------------
 Name: ION TV
