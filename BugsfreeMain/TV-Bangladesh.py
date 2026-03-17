@@ -262,6 +262,7 @@ def main():
         "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/New_Bdix.m3u",
         "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u",
         "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Bangla%20Channel.m3u",
+        "https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/all.m3u",
         "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/refs/heads/main/playlist.m3u",
         "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
         "https://raw.githubusercontent.com/mhmimxl/filoox-bdix-selected/main/playlist.m3u",
