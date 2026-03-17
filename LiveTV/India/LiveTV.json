@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-16 22:36:01",
+  "date": "2026-03-17 08:01:41",
   "channels": {
     "Promo": [
       {
@@ -158,6 +158,13 @@
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
       },
       {
+        "name": "Makkah TV",
+        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
+      },
+      {
         "name": "AL Sunnah TV",
         "logo": "https://i.ibb.co/rtkWYHV/20240827-092043.png",
         "group": "Relagion Channel",
@@ -193,6 +200,13 @@
         "group": "Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+      },
+      {
+        "name": "Amar Bangla",
+        "logo": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png",
+        "group": "Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
       }
     ],
     "Kolkata Bangla": [
@@ -232,13 +246,15 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
-      },
+      }
+    ],
+    "Kolkata Bangla Music": [
       {
-        "name": "Bangla Movies",
+        "name": "Dhoom Music",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Kolkata Bangla Movies",
+        "group": "Kolkata Bangla Music",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
+        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8"
       }
     ],
     "Indian Bangla News": [
@@ -394,13 +410,6 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.161.153.165:8000/play/a01k/index.m3u8"
-      },
-      {
-        "name": "Sony Max 2 HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8"
       },
       {
         "name": "Zee Cinema HD",
@@ -613,34 +622,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8"
-      },
-      {
-        "name": "Star Sports 1 (576p)",
-        "logo": "https://i.imgur.com/E5jjKHI.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8"
-      },
-      {
-        "name": "Star Sports 1 HD (1080p)",
-        "logo": "https://i.imgur.com/E5jjKHI.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8"
-      },
-      {
-        "name": "Star Sports 1 Hindi (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8"
-      },
-      {
-        "name": "Star Sports 1 Hindi HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8"
       },
       {
         "name": "Star Sports 1 Kannada (576p)",
@@ -1232,13 +1213,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8"
-      },
-      {
-        "name": "Sony-Ten-Cricket HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "STAR SL 1",
@@ -2173,13 +2147,6 @@
         "url": "http://103.182.170.32:8888/play/a04g"
       },
       {
-        "name": "Disney Channel HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8"
-      },
-      {
         "name": "Disney Junior (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
         "group": "Kids",
@@ -2415,13 +2382,6 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8"
-      },
-      {
-        "name": "Aamar Bangla (720p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
       },
       {
         "name": "Adithya TV (576p)",
