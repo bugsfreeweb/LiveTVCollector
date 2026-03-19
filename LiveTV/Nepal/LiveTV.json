@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-18 22:20:33",
+  "date": "2026-03-19 06:51:00",
   "channels": {
     "General": [
       {
@@ -40,36 +40,13 @@
         "url": "http://live.divyadarshantv.com/hls/stream.m3u8"
       }
     ],
-    "Entertainment": [
-      {
-        "name": "MTV (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0397/master.m3u8"
-      },
-      {
-        "name": "Nepal 1 (396p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
-      }
-    ],
     "Documentary": [
       {
-        "name": "National Geographic (576p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8"
-      },
-      {
-        "name": "National Geographic HD (1080p)",
+        "name": "National Geographic HD",
         "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8"
+        "url": "http://116.90.120.151:8000/play/a0in/index.m3u8"
       },
       {
         "name": "National Geographic Wild (576p)",
@@ -83,7 +60,16 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8"
+        "url": "http://116.90.120.151:8000/play/a0ie/index.m3u8"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Nepal 1 (396p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
       }
     ],
     "Kids": [
@@ -92,14 +78,14 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8"
+        "url": "http://116.90.120.151:8000/play/a0h5/index.m3u8"
       },
       {
         "name": "Nickelodeon (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://103.229.254.25:7001/play/a0cq/index.m3u8"
+        "url": "http://116.90.120.151:8000/play/a0hj/index.m3u8"
       },
       {
         "name": "Sonic (576p)",
