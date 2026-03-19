@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-18 22:25:16",
+  "date": "2026-03-19 07:23:16",
   "channels": {
     "Music": [
       {
@@ -82,6 +82,13 @@
         "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
       },
       {
+        "name": "Geo News (576p)",
+        "logo": "https://i.imgur.com/Op4EsaB.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://116.90.120.151:8000/play/a020/index.m3u8"
+      },
+      {
         "name": "Geo Tez (576i)",
         "logo": "https://geotez.tv/assets/front/images/tez_logo.png",
         "group": "News",
@@ -89,18 +96,11 @@
         "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
       },
       {
-        "name": "Gourmet News Network (1080p)",
-        "logo": "https://i.imgur.com/VXVnXXi.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://103.250.28.74:8000/play/a01c/index.m3u8"
-      },
-      {
         "name": "Hum News (1080p)",
         "logo": "https://i.imgur.com/9OroocT.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://103.250.28.74:8000/play/a02w/index.m3u8"
+        "url": "http://116.90.120.151:8000/play/a024/index.m3u8"
       },
       {
         "name": "Humraaz TV [Not 24/7]",
@@ -257,6 +257,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://115.42.65.142:9981/stream/channelid/1380586642"
+      },
+      {
+        "name": "Geo Kahani (576p)",
+        "logo": "https://i.imgur.com/uKYH0IM.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://116.90.120.151:8000/play/a023/index.m3u8"
       },
       {
         "name": "Hum Sitaray (576p)",
@@ -534,6 +541,15 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8"
+      }
+    ],
+    "Education;Religious": [
+      {
+        "name": "Paighan TV (1080p)",
+        "logo": "https://i.imgur.com/zokC3gO.png",
+        "group": "Education;Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://116.90.120.151:8000/play/a00h/index.m3u8"
       }
     ],
     "Undefined": [
