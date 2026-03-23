@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-22 21:55:44",
+  "date": "2026-03-23 07:26:54",
   "channels": {
     "Uncategorized": [
       {
@@ -3119,6 +3119,13 @@
         "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
       },
       {
+        "name": "One Piece",
+        "logo": "https://i.imgur.com/XsvbAWR.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+      },
+      {
         "name": "Pluto TV Anime",
         "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
         "group": "Animation",
@@ -3177,6 +3184,15 @@
         "group": "Animation;Kids;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "NickOnline (576p)",
+        "logo": "https://x1co.com.br/logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://x1co.com.br:8080/hls/stream.m3u8"
       }
     ],
     "Documentary": [
@@ -3267,11 +3283,11 @@
         "url": "http://200.189.113.201/hls/tve.m3u8"
       }
     ],
-    "Science": [
+    "Culture;Education;Public": [
       {
         "name": "TV UFOP (1080p)",
         "logo": "https://i.imgur.com/6bRyqmj.png",
-        "group": "Science",
+        "group": "Culture;Education;Public",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
       }
