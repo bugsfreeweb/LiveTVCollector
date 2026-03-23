@@ -64,13 +64,17 @@ http://103.250.28.74:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="Entertainment",A-Plus TV (576p)
 http://115.42.65.142:9981/stream/channelid/113328724
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK5Cqap.png" group-title="Entertainment",Aaj Entertainment (1080p)
-http://115.42.65.142:9981/stream/channelid/1435007953
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Entertainment",ARY Zindagi (576p)
 http://115.42.65.142:9981/stream/channelid/1064070262
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Entertainment",ATV (1080p)
 http://115.42.65.142:9981/stream/channelid/299762256
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqkABWT.png" group-title="Entertainment",AVT Khyber (1080p)
 http://115.42.65.142:9981/stream/channelid/1380586642
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment",Bol Entertainment (1080p)
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment (1080p)
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Entertainment",Geo Kahani (576p)
 http://116.90.120.151:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0A0eUJ.png" group-title="Entertainment",Hum Sitaray (576p)
@@ -80,7 +84,7 @@ http://103.250.28.74:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnNNDrE.png" group-title="Entertainment",Play Entertainment (576p)
 http://103.250.28.74:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hC7Sidr.png" group-title="Entertainment",SAB TV (1080p)
-http://103.250.28.74:8000/play/a04w/index.m3u8
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Religious",ABN Urdu (540p)
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious",Fazal TV (1080p)
@@ -135,8 +139,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 http://103.250.28.74:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJWBVH1.png" group-title="Kids",Kids Zone (720p)
 http://103.250.28.74:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",Minimax (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",Minimax (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n4CenYn.png" group-title="Family",LTN Family (576p)
 http://103.250.28.74:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="Cooking",Masala TV (576p)
