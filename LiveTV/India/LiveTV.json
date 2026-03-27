@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-27 08:16:28",
+  "date": "2026-03-27 14:28:46",
   "channels": {
     "Promo": [
       {
@@ -114,13 +114,6 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
-      },
-      {
-        "name": "Makkah TV",
-        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
       },
       {
         "name": "AL Sunnah TV",
@@ -291,6 +284,13 @@
         "url": "http://103.229.254.25:7001/play/a09z/index.m3u8"
       },
       {
+        "name": "Zee TV HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",
+        "group": "Hindi",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8"
+      },
+      {
         "name": "Big Magic",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Hindi",
@@ -447,6 +447,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8"
+      },
+      {
+        "name": "Star Sports 1 HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
       },
       {
         "name": "Star Sports 2 HD Hindi",
@@ -1664,6 +1671,20 @@
     ],
     "Kids": [
       {
+        "name": "BBC Cbeebies",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
+      },
+      {
+        "name": "Cartoon Network",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
+      },
+      {
         "name": "PBS Kids",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Kids",
@@ -1742,13 +1763,6 @@
       }
     ],
     "ISLAMIC CHANNELS": [
-      {
-        "name": "Peace tv Bangla",
-        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
-        "group": "ISLAMIC CHANNELS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
-      },
       {
         "name": "Noor Tv",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
@@ -2526,6 +2540,13 @@
         "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
       },
       {
+        "name": "Press TV Iran",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "NEWS INTERNASIONAL TV",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+      },
+      {
         "name": "France News 24",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "NEWS INTERNASIONAL TV",
@@ -2568,6 +2589,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://45.148.145.57/IN_BN/index.m3u8"
+      },
+      {
+        "name": "BBC News",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
