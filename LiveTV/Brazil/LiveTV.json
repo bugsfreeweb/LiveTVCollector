@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-12 22:04:04",
+  "date": "2026-04-13 07:53:23",
   "channels": {
     "Uncategorized": [
       {
@@ -1939,6 +1939,13 @@
         "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8"
       },
       {
+        "name": "SBT Cuiaba",
+        "logo": "https://i.imgur.com/EZJWQ3i.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
+      },
+      {
         "name": "SBT Interior (720p)",
         "logo": "https://i.imgur.com/IkZfa4j.png",
         "group": "General",
@@ -2077,6 +2084,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
+      },
+      {
+        "name": "TV Pampa",
+        "logo": "https://i.imgur.com/Cnc1Mqo.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8"
       },
       {
         "name": "TV Passo Fundo (720p)",
@@ -3202,18 +3216,11 @@
     ],
     "Animation;Kids": [
       {
-        "name": "NickOnline (576p)",
+        "name": "NickOnline (720p)",
         "logo": "https://x1co.com.br:8443/logo.png",
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://x1co.com.br:8443/hls/stream.m3u8"
-      },
-      {
-        "name": "NickOnline Feed 2 (576p) [Not 24/7]",
-        "logo": "https://x1co.com.br:8443/logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://x1co.com.br:2083/hls/stream.m3u8"
+        "url": "https://x1co.com.br/hls/stream.m3u8"
       }
     ],
     "Documentary": [
