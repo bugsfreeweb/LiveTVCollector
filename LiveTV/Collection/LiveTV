@@ -1500,42 +1500,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "QUEST HD",
-    "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/quest.png"
-  },
-  {
-    "name": "Al Arabiya HD",
-    "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8",
-    "img": "https://picserve.netplus.ch/channels/alarabiya.png"
-  },
-  {
-    "name": "Al Masriyah HD",
-    "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
-    "img": "https://picserve.netplus.ch/channels/almasriyah.png"
-  },
-  {
-    "name": "RTK1 SAT HD",
-    "type": "Uncategorized",
-    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8",
-    "img": "https://picserve.netplus.ch/channels/rtk1.png"
-  },
-  {
-    "name": "2M Maroc FHD",
-    "type": "Uncategorized",
-    "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
-    "img": "https://picserve.netplus.ch/channels/2mmaroc.png"
-  },
-  {
-    "name": "Canal Algerie2",
-    "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
-    "img": "https://picserve.netplus.ch/channels/canalalgerie.png"
-  },
-  {
     "name": "RTS Info HD",
     "type": "news",
     "url": "https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8",
@@ -1860,7 +1824,7 @@
     "img": "https://i.postimg.cc/SQzVnq0S/dokusat.png"
   },
   {
-    "name": "Unnamed Channel",
+    "name": "BBC Earth HD",
     "type": "documentary",
     "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
     "img": "https://static.epg.best/uk/bbcearth.uk.png"
@@ -1902,7 +1866,7 @@
     "img": "https://picserve.netplus.ch/channels/tvm3.png"
   },
   {
-    "name": "Unnamed Channel",
+    "name": "GB News HD",
     "type": "UK News",
     "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
     "img": "https://static.epg.best/gb/gbnews.gb.png"
@@ -2008,5 +1972,41 @@
     "type": "UK news",
     "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8",
     "img": "https://picserve.netplus.ch/channels/skynews.png"
+  },
+  {
+    "name": "QUEST HD",
+    "type": "UK generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8",
+    "img": "https://picserve.netplus.ch/channels/quest.png"
+  },
+  {
+    "name": "Al Arabiya HD",
+    "type": "UA generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8",
+    "img": "https://picserve.netplus.ch/channels/alarabiya.png"
+  },
+  {
+    "name": "Al Masriyah HD",
+    "type": "EG generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
+    "img": "https://picserve.netplus.ch/channels/almasriyah.png"
+  },
+  {
+    "name": "RTK1 SAT HD",
+    "type": "AL generalist",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8",
+    "img": "https://picserve.netplus.ch/channels/rtk1.png"
+  },
+  {
+    "name": "2M Maroc FHD",
+    "type": "MA generalist",
+    "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+    "img": "https://picserve.netplus.ch/channels/2mmaroc.png"
+  },
+  {
+    "name": "Canal Algerie2",
+    "type": "DZ generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
+    "img": "https://picserve.netplus.ch/channels/canalalgerie.png"
   }
 ]

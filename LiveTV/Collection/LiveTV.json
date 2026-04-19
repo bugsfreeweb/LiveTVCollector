@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-19 14:15:38",
+  "date": "2026-04-19 22:02:54",
   "channels": {
     "Uncategorized": [
       {
@@ -1751,48 +1751,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8"
-      },
-      {
-        "name": "QUEST HD",
-        "logo": "https://picserve.netplus.ch/channels/quest.png",
-        "group": "Uncategorized",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8"
-      },
-      {
-        "name": "Al Arabiya HD",
-        "logo": "https://picserve.netplus.ch/channels/alarabiya.png",
-        "group": "Uncategorized",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8"
-      },
-      {
-        "name": "Al Masriyah HD",
-        "logo": "https://picserve.netplus.ch/channels/almasriyah.png",
-        "group": "Uncategorized",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
-      },
-      {
-        "name": "RTK1 SAT HD",
-        "logo": "https://picserve.netplus.ch/channels/rtk1.png",
-        "group": "Uncategorized",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8"
-      },
-      {
-        "name": "2M Maroc FHD",
-        "logo": "https://picserve.netplus.ch/channels/2mmaroc.png",
-        "group": "Uncategorized",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
-      },
-      {
-        "name": "Canal Algerie2",
-        "logo": "https://picserve.netplus.ch/channels/canalalgerie.png",
-        "group": "Uncategorized",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd"
       }
     ],
     "news": [
@@ -2203,7 +2161,7 @@
         "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
       },
       {
-        "name": "Unnamed Channel",
+        "name": "BBC Earth HD",
         "logo": "https://static.epg.best/uk/bbcearth.uk.png",
         "group": "documentary",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -2258,7 +2216,7 @@
     ],
     "UK News": [
       {
-        "name": "Unnamed Channel",
+        "name": "GB News HD",
         "logo": "https://static.epg.best/gb/gbnews.gb.png",
         "group": "UK News",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -2400,6 +2358,60 @@
         "group": "UK news",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8"
+      }
+    ],
+    "UK generalist": [
+      {
+        "name": "QUEST HD",
+        "logo": "https://picserve.netplus.ch/channels/quest.png",
+        "group": "UK generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8"
+      }
+    ],
+    "UA generalist": [
+      {
+        "name": "Al Arabiya HD",
+        "logo": "https://picserve.netplus.ch/channels/alarabiya.png",
+        "group": "UA generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8"
+      }
+    ],
+    "EG generalist": [
+      {
+        "name": "Al Masriyah HD",
+        "logo": "https://picserve.netplus.ch/channels/almasriyah.png",
+        "group": "EG generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
+      }
+    ],
+    "AL generalist": [
+      {
+        "name": "RTK1 SAT HD",
+        "logo": "https://picserve.netplus.ch/channels/rtk1.png",
+        "group": "AL generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8"
+      }
+    ],
+    "MA generalist": [
+      {
+        "name": "2M Maroc FHD",
+        "logo": "https://picserve.netplus.ch/channels/2mmaroc.png",
+        "group": "MA generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+      }
+    ],
+    "DZ generalist": [
+      {
+        "name": "Canal Algerie2",
+        "logo": "https://picserve.netplus.ch/channels/canalalgerie.png",
+        "group": "DZ generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd"
       }
     ]
   }

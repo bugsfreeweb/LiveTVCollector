@@ -10,6 +10,13 @@ Logo: https://static.epg.best/bj/ORTB.bj.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
+Group: AL generalist
+Name: RTK1 SAT HD
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
+Logo: https://picserve.netplus.ch/channels/rtk1.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: CH Regional
 Name: Canal9 FHD
 URL: https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
@@ -131,6 +138,13 @@ Logo: https://picserve.netplus.ch/channels/deluxemusic.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
+Group: DZ generalist
+Name: Canal Algerie2
+URL: https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+Logo: https://picserve.netplus.ch/channels/canalalgerie.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: Divertissement
 Name: Y'a que la vérité qui compte
 URL: https://jmp2.uk/stvp-FRBC900003KP
@@ -165,10 +179,24 @@ Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
+Group: EG generalist
+Name: Al Masriyah HD
+URL: https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
+Logo: https://picserve.netplus.ch/channels/almasriyah.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: FR regional
 Name: 8Mont-Blanc
 URL: https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
 Logo: https://picserve.netplus.ch/channels/tv8montblanc.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
+Group: MA generalist
+Name: 2M Maroc FHD
+URL: https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+Logo: https://picserve.netplus.ch/channels/2mmaroc.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
@@ -252,11 +280,25 @@ Logo: https://i.ibb.co/MMpFXQL/gong.jpg
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
+Group: UA generalist
+Name: Al Arabiya HD
+URL: https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
+Logo: https://picserve.netplus.ch/channels/alarabiya.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: UK News
-Name: Unnamed Channel
+Name: GB News HD
 URL: https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 Logo: https://static.epg.best/gb/gbnews.gb.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: UK generalist
+Name: QUEST HD
+URL: https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
+Logo: https://picserve.netplus.ch/channels/quest.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: UK news
@@ -1522,36 +1564,6 @@ URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xia
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: QUEST HD
-URL: https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
-Logo: https://picserve.netplus.ch/channels/quest.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: Al Arabiya HD
-URL: https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
-Logo: https://picserve.netplus.ch/channels/alarabiya.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: Al Masriyah HD
-URL: https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-Logo: https://picserve.netplus.ch/channels/almasriyah.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: RTK1 SAT HD
-URL: https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
-Logo: https://picserve.netplus.ch/channels/rtk1.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: 2M Maroc FHD
-URL: https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-Logo: https://picserve.netplus.ch/channels/2mmaroc.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: Canal Algerie2
-URL: https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-Logo: https://picserve.netplus.ch/channels/canalalgerie.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
 
 Group: Voyages et Gastronomie
 Name: TV5 Monde Voyage
@@ -1566,7 +1578,7 @@ URL: https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 Logo: https://i.postimg.cc/SQzVnq0S/dokusat.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Unnamed Channel
+Name: BBC Earth HD
 URL: https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 Logo: https://static.epg.best/uk/bbcearth.uk.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
