@@ -1,13 +1,13 @@
 {
-  "date": "2026-04-19 21:59:05",
+  "date": "2026-04-20 07:21:41",
   "channels": {
     "General": [
       {
-        "name": "AP1 TV",
+        "name": "AP1 TV (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8"
       },
       {
         "name": "Capital TV (1080p)",
@@ -15,6 +15,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
         "url": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+      },
+      {
+        "name": "City One Television (1080p)",
+        "logo": "https://i.imgur.com/AxBreI5.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8"
       },
       {
         "name": "Indigenous Television (720p)",
@@ -47,6 +54,31 @@
         "url": "http://live.divyadarshantv.com/hls/stream.m3u8"
       }
     ],
+    "Music": [
+      {
+        "name": "J Music TV (480p)",
+        "logo": "https://i.imgur.com/57dVOP5.jpg",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "METV HD (1080p)",
+        "logo": "https://i.imgur.com/Zud862h.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8"
+      },
+      {
+        "name": "Nepal 1 (396p)",
+        "logo": "https://i.imgur.com/Xr4FjC8.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
+      }
+    ],
     "Documentary": [
       {
         "name": "National Geographic HD (1080p)",
@@ -63,13 +95,13 @@
         "url": "http://103.157.248.140:8000/play/a010/index.m3u8"
       }
     ],
-    "Entertainment": [
+    "News": [
       {
-        "name": "Nepal 1 (396p)",
-        "logo": "https://i.imgur.com/Xr4FjC8.png",
-        "group": "Entertainment",
+        "name": "News 24 (1080p)",
+        "logo": "https://i.imgur.com/7PgAPMU.png",
+        "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8"
       }
     ],
     "Kids": [
@@ -78,14 +110,14 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://103.157.248.140:8000/play/a00k/index.m3u8"
+        "url": "http://103.154.3.101:5001/live/544.m3u8"
       },
       {
         "name": "Nickelodeon (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://103.157.248.140:8000/play/a01n/index.m3u8"
+        "url": "http://103.154.3.101:5001/live/545.m3u8"
       },
       {
         "name": "Sonic (576p)",
