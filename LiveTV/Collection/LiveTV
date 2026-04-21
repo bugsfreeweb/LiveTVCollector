@@ -14,7 +14,7 @@
   {
     "name": "RTS Couleur3 TV",
     "type": "Uncategorized",
-    "url": "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8",
+    "url": "https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1236,12 +1236,6 @@
     "img": "https://picserve.netplus.ch/channels/fast_lessecretsdenosregions.png"
   },
   {
-    "name": "QS24.tv HD",
-    "type": "Uncategorized",
-    "url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/manifest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/qs24.png"
-  },
-  {
     "name": "Die Neue Zeit TV",
     "type": "Uncategorized",
     "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/manifest.m3u8",
@@ -1436,14 +1430,8 @@
   {
     "name": "ICI Television Québec HD",
     "type": "Uncategorized",
-    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8",
+    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "rtb3 HD",
-    "type": "Uncategorized",
-    "url": "https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
-    "img": "rtb3.bf"
   },
   {
     "name": "SPORTDIGITAL FREE HD",
@@ -1482,21 +1470,9 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "DELUXE LOUNGE HD",
-    "type": "Uncategorized",
-    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/66f05a9c-a09d-4fd3-91da-3fd23162d320/0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Just COOKING deutsch HD",
     "type": "Uncategorized",
     "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/332e7648-7a68-4f2e-a4d0-684758925fc2/0.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "TRACE BRASIL HD",
-    "type": "Uncategorized",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1860,6 +1836,18 @@
     "img": "https://static.elektamedia.com/ch/tmc_00s.png"
   },
   {
+    "name": "DELUXE LOUNGE HD",
+    "type": "music",
+    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/66f05a9c-a09d-4fd3-91da-3fd23162d320/0.m3u8",
+    "img": "https://static.epg.best/br/deluxelounge.br.png"
+  },
+  {
+    "name": "TRACE BRASIL HD",
+    "type": "music",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
+    "img": "https://static.epg.best/br/tracebrasil.br.png"
+  },
+  {
     "name": "tvm3 HD",
     "type": "music",
     "url": "https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8",
@@ -1870,6 +1858,12 @@
     "type": "UK News",
     "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
     "img": "https://static.epg.best/gb/gbnews.gb.png"
+  },
+  {
+    "name": "ICI Télé - Radio Canada HD",
+    "type": "CA generalist",
+    "url": "https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8",
+    "img": "https://static.epg.best/ca/icitele.ca.png"
   },
   {
     "name": "Canal9 FHD",
