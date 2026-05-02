@@ -314,6 +314,11 @@ URL: https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u
 Logo: https://picserve.netplus.ch/channels/bbcworld.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
+Name: sky news
+URL: https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+Logo: https://picserve.netplus.ch/channels/skynews.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: Uncategorized
 Name: RTS 1 HD 1080p
@@ -771,11 +776,6 @@ URL: https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: BBC ONE HD ?
-URL: https://viamotionhsi.netplus.ch/live/eds/bbc/browser-HLS8/bbc.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: BBC TWO HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -788,11 +788,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: BBC CBeebies HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: itv1 HD ?
-URL: https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -971,11 +966,6 @@ URL: https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: puls acht ?
-URL: https://viamotionhsi.netplus.ch/live/eds/pulsacht/browser-HLS8/pulsacht.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: comedy central D HD
 URL: https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -983,11 +973,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: comedy central+1 D
 URL: https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: 7MAXX ?
-URL: https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1422,7 +1407,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: TELENORD
-URL: https://64b16f23efbee.streamlock.net/telenord/telenord/chunklist.m3u8
+URL: https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1551,7 +1536,7 @@ URL: https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: NAUTICAL CHANNEL
+Name: NAUTICAL CHANNEL HD
 URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1696,7 +1681,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: sky news HD
-URL: https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+URL: https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_720_30/Live/channel(skynews)/index_mob.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
