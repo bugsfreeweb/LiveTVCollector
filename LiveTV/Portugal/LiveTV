@@ -420,12 +420,6 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png"
   },
   {
-    "name": "NTD News",
-    "type": "TV",
-    "url": "https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8",
-    "img": "https://www.ntd.com/images/ENTD180.jpeg"
-  },
-  {
     "name": "Bloomberg TV Europe",
     "type": "TV",
     "url": "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8",
@@ -454,6 +448,18 @@
     "type": "TV",
     "url": "https://liveh12.vtvprime.vn/hls/KBS/index.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png"
+  },
+  {
+    "name": "CNA International",
+    "type": "TV",
+    "url": "https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8",
+    "img": "https://i.imgur.com/xWglicB.png"
+  },
+  {
+    "name": "NTD News",
+    "type": "TV",
+    "url": "https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8",
+    "img": "https://www.ntd.com/images/ENTD180.jpeg"
   },
   {
     "name": "Deutsche Welle",
@@ -634,6 +640,12 @@
     "type": "TV",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png"
+  },
+  {
+    "name": "Trace UK",
+    "type": "TV",
+    "url": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
+    "img": "https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png"
   },
   {
     "name": "XITE",
@@ -6362,7 +6374,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgNzo0OjE4IEFNJmhhc2hfdmFsdWU9dFhEc0w4ZlNlOVhHYWJ4YS8vUGpodz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI2NTQ3NTAxLTY3MjItNDJhMC05NWIyLTc5NDMyYzhkNjgxOA==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgMTo1MjoyOCBQTSZoYXNoX3ZhbHVlPW5ueXp3UHNIcjdxaDloOEpYSms2c1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05MWJmZWEyMy0yYzBhLTQ0ZGUtOTNmNi1iMTY1Y2ZlODI4MWM=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -6374,7 +6386,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgNzo0OjE3IEFNJmhhc2hfdmFsdWU9M3hHbWVlRTNyQzdlaVovamFwM3NFUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJiMzRjN2U1LTEzYTQtNDRmNi04MDE0LThmY2NjMDRkYmZkNg==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgMTo1MjoyNyBQTSZoYXNoX3ZhbHVlPXdRRHlvVkx0bU5QbkZpbkZzdXJ2VGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iNTM1MmI0Mi00YzlmLTQ1Y2ItYjUxNS1hMGEzZjBiMzFkNDI=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -6482,7 +6494,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgNzo0OjE3IEFNJmhhc2hfdmFsdWU9YzNVYStDUm0xVmxldlVCRnFmcTFIZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE4MTk5YzJiLTE4NjAtNGJlNi05YzNmLWNhMjhiZjQ4MmI0ZA==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgMTo1MjoyNyBQTSZoYXNoX3ZhbHVlPTYrSGM2bkdtTHIrNnlTcy9xNWZNNlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xYjM3OGY1OC1mYmNjLTQwZGYtOGM3Yy0zMmU1NGM2ODc1MmE=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -7840,24 +7852,6 @@
     "type": "All Sports 🌎",
     "url": "https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd",
     "img": "https://logo.m3uassets.com/novasport2.png"
-  },
-  {
-    "name": "Digi Sport 1 🇷🇴⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8",
-    "img": "https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png"
-  },
-  {
-    "name": "Digi Sport 3 🇷🇴⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8",
-    "img": "https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png"
-  },
-  {
-    "name": "Digi Sport 4 🇷🇴⚽️🤾‍",
-    "type": "All Sports 🌎",
-    "url": "https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8",
-    "img": "https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png"
   },
   {
     "name": "Spotv 🇮🇳 🏍🏎️",
