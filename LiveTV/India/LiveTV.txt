@@ -158,6 +158,11 @@ URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=11320
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: pcv
+URL: https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Deepto TV
 URL: https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -754,11 +759,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: English Movies
-Name: Lotus
-URL: https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Action Hollywood Movies
 URL: https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg
@@ -878,11 +878,6 @@ URL: https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Colors (576p)
-URL: http://103.229.254.25:7001/play/a077/index.m3u8
-Logo: https://i.imgur.com/M8uCJ0D.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Colors Bangla (576p)
 URL: http://103.72.101.252:8080/live/1369.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png
@@ -905,11 +900,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Infinity (576p)
 URL: http://103.72.101.252:8080/live/1325.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Colors Infinity HD (1080p)
-URL: http://103.229.254.25:7001/play/a0du/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1263,11 +1253,6 @@ URL: https://peaky.techcoder40.workers.dev/776.m3u8
 Logo: https://i.imgur.com/dZtJHAe.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: StarPlus HD (1080p)
-URL: http://103.229.254.25:7001/play/a09z/index.m3u8
-Logo: https://i.imgur.com/xWxNy3L.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Studio Yuva (576p)
 URL: https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
 Logo: https://i.imgur.com/BOhgz2T.png
@@ -1366,11 +1351,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Zee Telugu HD (1080p)
 URL: https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Zee TV (1080p)
-URL: http://103.229.254.25:7001/play/a0cs/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee TV HD (1080p)
@@ -1730,6 +1710,21 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Hindi
+Name: Star Plus
+URL: http://103.229.254.25:7001/play/a09z/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Colors
+URL: http://103.229.254.25:7001/play/a077/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Zee TV HD
+URL: http://103.229.254.25:7001/play/a0cs/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Big Magic
 URL: http://103.175.73.12:8080/live/13/13_0.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -1752,13 +1747,18 @@ URL: http://103.175.73.12:8080/live/270/270_0.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: B4U Movies
-URL: https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png
+Name: Star Gold Select HD
+URL: http://103.229.254.25:7001/play/a032/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: B4U Kadak
-URL: https://cdn-2.pishow.tv/live/227/master.m3u8
+Name: And Pictures HD
+URL: http://103.229.254.25:7001/play/a033/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: B4U Movies
+URL: https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1772,23 +1772,8 @@ URL: https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Goldmines
-URL: https://cdn-2.pishow.tv/live/1459/master.m3u8
-Logo: https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Goldmines Bollywood
 URL: http://103.175.73.12:8080/live/52/52_0.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Goldmines Movies
-URL: https://cdn-2.pishow.tv/live/1461/master.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Goldmines Movies 2
-URL: https://cdn-2.pishow.tv/live/1460/master.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1956,6 +1941,11 @@ Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.pn
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Nat Geo HD
+URL: http://103.229.254.25:7001/play/a038/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Nat Geo HD
 URL: http://202.70.146.135:8000/play/a05o/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -1968,6 +1958,16 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: BBC Earth
 URL: https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Colors Infinity HD
+URL: http://103.229.254.25:7001/play/a0du/index.m3u8
+Logo: https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: History TV 18
+URL: http://103.229.254.25:7001/play/a02z/index.m3u8
+Logo: https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Travel XP English EU
@@ -2619,6 +2619,16 @@ URL: https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7ae
 Logo: https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Goldmines (576p)
+URL: https://cdn-2.pishow.tv/live/1459/master.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Goldmines 2 (576p)
+URL: https://cdn-2.pishow.tv/live/1460/master.m3u8
+Logo: https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Goldmines Movies (720p)
 URL: http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 Logo: https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540
@@ -2767,11 +2777,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Gold Romance (576p)
 URL: http://103.253.18.58:8000/play/a017
 Logo: https://i.imgur.com/gSWv9U3.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Star Gold Select HD (1080p)
-URL: http://103.229.254.25:7001/play/a032/index.m3u8
-Logo: https://i.imgur.com/U7eiuqv.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold Thrills (576p)
@@ -3174,11 +3179,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: BBC News
-URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -4914,6 +4914,13 @@ Name: Travelxp Tamil (576p)
 URL: http://103.72.101.252:8080/live/814.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+
+Group: Uncategorized
+Name: Sony Pal
+URL: http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 
 Group: Undefined
