@@ -139,8 +139,8 @@ Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netpl
 --------------------------------------------------
 
 Group: DE music
-Name: DELUXE MUSIC
-URL: https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+Name: DELUXE MUSIC HD
+URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 Logo: https://picserve.netplus.ch/channels/deluxemusic.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
@@ -193,8 +193,15 @@ Logo: https://picserve.netplus.ch/channels/almasriyah.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
+Group: FR Religion
+Name: DieuTV HD
+URL: https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8
+Logo: https://picserve.netplus.ch/channels/maxtv.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: FR regional
-Name: 8Mont-Blanc
+Name: 8Mont-Blanc HD
 URL: https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
 Logo: https://picserve.netplus.ch/channels/tv8montblanc.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
@@ -239,6 +246,13 @@ Name: CLUBBING TV
 URL: https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 Logo: https://freebox.cdn.scw.iliad.fr/274_8e77a87554.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: RO generalist
+Name: TVRomania int HD
+URL: https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b3096000.m3u8.m3u8
+Logo: https://picserve.netplus.ch/channels/tvrinternational.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: Religious
@@ -993,6 +1007,11 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: DELUXE MUSIC HD
 URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: DELUXE RAP HD
+URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------

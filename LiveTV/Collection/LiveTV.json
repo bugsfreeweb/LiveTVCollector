@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-07 23:13:32",
+  "date": "2026-05-08 08:01:07",
   "channels": {
     "Uncategorized": [
       {
@@ -946,6 +946,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      },
+      {
+        "name": "DELUXE RAP HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
       },
       {
         "name": "rbb HD",
@@ -2284,9 +2291,18 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
       }
     ],
+    "FR Religion": [
+      {
+        "name": "DieuTV HD",
+        "logo": "https://picserve.netplus.ch/channels/maxtv.png",
+        "group": "FR Religion",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8"
+      }
+    ],
     "FR regional": [
       {
-        "name": "8Mont-Blanc",
+        "name": "8Mont-Blanc HD",
         "logo": "https://picserve.netplus.ch/channels/tv8montblanc.png",
         "group": "FR regional",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
@@ -2311,11 +2327,11 @@
     ],
     "DE music": [
       {
-        "name": "DELUXE MUSIC",
+        "name": "DELUXE MUSIC HD",
         "logo": "https://picserve.netplus.ch/channels/deluxemusic.png",
         "group": "DE music",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8"
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
       }
     ],
     "UK news": [
@@ -2359,6 +2375,15 @@
         "group": "EG generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
+      }
+    ],
+    "RO generalist": [
+      {
+        "name": "TVRomania int HD",
+        "logo": "https://picserve.netplus.ch/channels/tvrinternational.png",
+        "group": "RO generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b3096000.m3u8.m3u8"
       }
     ],
     "AL generalist": [
