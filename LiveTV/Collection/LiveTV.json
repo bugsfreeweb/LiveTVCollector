@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09 22:14:49",
+  "date": "2026-05-10 07:56:36",
   "channels": {
     "Uncategorized": [
       {
@@ -395,11 +395,11 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8"
       },
       {
-        "name": "ARD Das Erste  HD",
+        "name": "ARD Das Erste HD",
         "logo": "https://picserve.netplus.ch/channels/daserste.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8"
+        "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
       },
       {
         "name": "ZDF HD 720p",
@@ -836,6 +836,13 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8"
       },
       {
+        "name": "NDR HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8"
+      },
+      {
         "name": "hr HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -945,7 +952,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
       },
       {
         "name": "DELUXE RAP HD",
@@ -1846,7 +1853,7 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8"
       },
       {
-        "name": "tagesschau24",
+        "name": "tagesschau24 HD",
         "logo": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png",
         "group": "news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -2323,15 +2330,6 @@
         "group": "DE generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
-      }
-    ],
-    "DE music": [
-      {
-        "name": "DELUXE MUSIC HD",
-        "logo": "https://picserve.netplus.ch/channels/deluxemusic.png",
-        "group": "DE music",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
       }
     ],
     "UK news": [
