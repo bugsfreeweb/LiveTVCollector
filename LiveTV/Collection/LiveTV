@@ -720,7 +720,7 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "hr HD",
+    "name": "ARD hr HD",
     "type": "Uncategorized",
     "url": "https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
@@ -750,9 +750,9 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "WeLT",
+    "name": "WeLT HD",
     "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8",
+    "url": "https://welt.personalstream.tv/v1/master.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -804,15 +804,21 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "ARD alpha",
+    "name": "ARD alpha HD",
     "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
+    "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "DELUXE MUSIC HD",
     "type": "Uncategorized",
     "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DELUXE DANCE HD",
+    "type": "Uncategorized",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1476,6 +1482,42 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "N24 Doku HD",
+    "type": "Uncategorized",
+    "url": "https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Bild TV HD",
+    "type": "Uncategorized",
+    "url": "https://bild.personalstream.tv/v1/master.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Auto Bild HD",
+    "type": "Uncategorized",
+    "url": "https://auto-bild.personalstream.tv/v1/bildde/master.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Welt der Wunder HD",
+    "type": "Uncategorized",
+    "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "lilo.TV HD",
+    "type": "Uncategorized",
+    "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "SWR DASDING HD",
+    "type": "Uncategorized",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "RTS Info HD",
     "type": "news",
     "url": "https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8",
@@ -1794,7 +1836,7 @@
     "img": "https://i.ibb.co/ByN83p3/funradtv.png"
   },
   {
-    "name": "Dokusat",
+    "name": "Dokusat HD",
     "type": "documentary",
     "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
     "img": "https://i.postimg.cc/SQzVnq0S/dokusat.png"
@@ -1948,6 +1990,18 @@
     "type": "DE generalist",
     "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/mdr.png"
+  },
+  {
+    "name": "ARD alpha HD",
+    "type": "DE generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
+    "img": "https://picserve.netplus.ch/channels/bralpha.png"
+  },
+  {
+    "name": "WeLT",
+    "type": "DE news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8",
+    "img": "https://picserve.netplus.ch/channels/n24.png"
   },
   {
     "name": "BBC NEWS HD",

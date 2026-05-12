@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-11 23:20:51",
+  "date": "2026-05-12 07:58:59",
   "channels": {
     "Uncategorized": [
       {
@@ -843,7 +843,7 @@
         "url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8"
       },
       {
-        "name": "hr HD",
+        "name": "ARD hr HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -878,11 +878,11 @@
         "url": "https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8"
       },
       {
-        "name": "WeLT",
+        "name": "WeLT HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8"
+        "url": "https://welt.personalstream.tv/v1/master.m3u8"
       },
       {
         "name": "ntv",
@@ -941,11 +941,11 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8"
       },
       {
-        "name": "ARD alpha",
+        "name": "ARD alpha HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
+        "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"
       },
       {
         "name": "DELUXE MUSIC HD",
@@ -953,6 +953,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
+      },
+      {
+        "name": "DELUXE DANCE HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
       },
       {
         "name": "DELUXE RAP HD",
@@ -1723,6 +1730,48 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8"
+      },
+      {
+        "name": "N24 Doku HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8"
+      },
+      {
+        "name": "Bild TV HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://bild.personalstream.tv/v1/master.m3u8"
+      },
+      {
+        "name": "Auto Bild HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://auto-bild.personalstream.tv/v1/bildde/master.m3u8"
+      },
+      {
+        "name": "Welt der Wunder HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8"
+      },
+      {
+        "name": "lilo.TV HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8"
+      },
+      {
+        "name": "SWR DASDING HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
       }
     ],
     "news": [
@@ -2126,7 +2175,7 @@
     ],
     "documentary": [
       {
-        "name": "Dokusat",
+        "name": "Dokusat HD",
         "logo": "https://i.postimg.cc/SQzVnq0S/dokusat.png",
         "group": "documentary",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -2330,6 +2379,22 @@
         "group": "DE generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
+      },
+      {
+        "name": "ARD alpha HD",
+        "logo": "https://picserve.netplus.ch/channels/bralpha.png",
+        "group": "DE generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
+      }
+    ],
+    "DE news": [
+      {
+        "name": "WeLT",
+        "logo": "https://picserve.netplus.ch/channels/n24.png",
+        "group": "DE news",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8"
       }
     ],
     "UK news": [

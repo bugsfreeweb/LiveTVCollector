@@ -137,6 +137,18 @@ URL: https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
 Logo: https://picserve.netplus.ch/channels/mdr.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
+Name: ARD alpha HD
+URL: https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+Logo: https://picserve.netplus.ch/channels/bralpha.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
+Group: DE news
+Name: WeLT
+URL: https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+Logo: https://picserve.netplus.ch/channels/n24.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: DZ generalist
 Name: Canal Algerie2
@@ -928,7 +940,7 @@ URL: https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: hr HD
+Name: ARD hr HD
 URL: https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -953,8 +965,8 @@ URL: https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: WeLT
-URL: https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+Name: WeLT HD
+URL: https://welt.personalstream.tv/v1/master.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -998,13 +1010,18 @@ URL: https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: ARD alpha
-URL: https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+Name: ARD alpha HD
+URL: https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: DELUXE MUSIC HD
 URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: DELUXE DANCE HD
+URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1558,6 +1575,36 @@ URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca141345377
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: N24 Doku HD
+URL: https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Bild TV HD
+URL: https://bild.personalstream.tv/v1/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Auto Bild HD
+URL: https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Welt der Wunder HD
+URL: https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: lilo.TV HD
+URL: https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: SWR DASDING HD
+URL: https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 
 Group: Voyages et Gastronomie
 Name: TV5 Monde Voyage
@@ -1567,7 +1614,7 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: documentary
-Name: Dokusat
+Name: Dokusat HD
 URL: https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 Logo: https://i.postimg.cc/SQzVnq0S/dokusat.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
