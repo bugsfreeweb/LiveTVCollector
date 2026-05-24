@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-23 22:30:02",
+  "date": "2026-05-24 09:11:55",
   "channels": {
     "Religious": [
       {
@@ -6723,7 +6723,7 @@
         "logo": "https://i.imgur.com/HjVEVMJ.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8"
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8"
       },
       {
         "name": "LOL Network (1080p)",
@@ -11600,7 +11600,7 @@
         "logo": "https://i.imgur.com/Kkcp9Bk.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8"
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8"
       },
       {
         "name": "Camp Spoopy (576p)",
@@ -12380,25 +12380,14 @@
         "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8"
       }
     ],
-    "General;Legislative": [
-      {
-        "name": "ATXN2 (1080p)",
-        "logo": "https://i.imgur.com/tSMtDlz.png",
-        "group": "General;Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
-      }
-    ],
-    "Culture;General": [
-      {
-        "name": "ATXN3 (1080p)",
-        "logo": "https://i.imgur.com/tSMtDlz.png",
-        "group": "Culture;General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8"
-      }
-    ],
     "Documentary": [
+      {
+        "name": "Atlas (480p)",
+        "logo": "https://whiplash.cc/assets/img/channels/atlas.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8"
+      },
       {
         "name": "Autentic History (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
@@ -13133,6 +13122,24 @@
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951341/hls/master.m3u8?ads.xumo_channelId=99951341"
+      }
+    ],
+    "General;Legislative": [
+      {
+        "name": "ATXN2 (1080p)",
+        "logo": "https://i.imgur.com/tSMtDlz.png",
+        "group": "General;Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
+      }
+    ],
+    "Culture;General": [
+      {
+        "name": "ATXN3 (1080p)",
+        "logo": "https://i.imgur.com/tSMtDlz.png",
+        "group": "Culture;General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8"
       }
     ],
     "Culture;Education": [
@@ -20885,6 +20892,13 @@
         "url": "http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8&redirect=true&redirect=true"
       },
       {
+        "name": "Azteca TV Click",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://38.194.226.190:8000/play/a022/index.m3u8?hls"
+      },
+      {
         "name": "Cinema Azteca",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
@@ -20896,7 +20910,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://channel1-tva.duin.dev/tv/streaming/stream.m3u8"
+        "url": "http://179.60.224.196:8000/play/a0dw/index.m3u8?hls"
       },
       {
         "name": "TV Azteca Honduras",
@@ -21197,7 +21211,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://38.194.226.190:8000/play/a01d/index.m3u8?hls"
+        "url": "http://201.77.60.62:8002/play/a0p5/index.m3u8?hls"
       },
       {
         "name": "Studio Universal",
@@ -21477,7 +21491,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://cdnbarinas.tvzamora.com/history2/index.m3u8"
+        "url": "http://38.134.250.110:8000/play/a00p/index.m3u8?hls"
       },
       {
         "name": "Historia",
@@ -21949,6 +21963,41 @@
         "url": "http://103.111.42.4:9999/play/a009/index.m3u8?hls"
       },
       {
+        "name": "Canal ViX",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix-audio_eng=128000-video=6000000.m3u8"
+      },
+      {
+        "name": "ViX Novelas en Familia",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8"
+      },
+      {
+        "name": "ViX Novelas De Oro",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8"
+      },
+      {
+        "name": "ViX Novelas De Romance",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8"
+      },
+      {
+        "name": "ViX Villanos de Novela",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8"
+      },
+      {
         "name": "Novelas Channel",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
@@ -21989,41 +22038,6 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8"
-      },
-      {
-        "name": "Canal ViX",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Latino (Spanish)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix-audio_eng=128000-video=6000000.m3u8"
-      },
-      {
-        "name": "ViX Novelas en Familia",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Latino (Spanish)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8"
-      },
-      {
-        "name": "ViX Novelas De Oro",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Latino (Spanish)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8"
-      },
-      {
-        "name": "ViX Novelas De Romance",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Latino (Spanish)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8"
-      },
-      {
-        "name": "ViX Villanos de Novela",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Latino (Spanish)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8"
       },
       {
         "name": "Canela.TV Novelisima",
@@ -22093,7 +22107,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://cdnbarinas.tvzamora.com/sonymovies/index.m3u8"
+        "url": "http://38.134.250.110:8000/play/a023/index.m3u8?hls"
       },
       {
         "name": "Cine EstrellaTV",
@@ -22121,7 +22135,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://103.111.42.4:9999/play/a005/index.m3u8?hls"
+        "url": "http://38.134.250.110:8000/play/a01g/index.m3u8?hls"
       },
       {
         "name": "Cine Latino",
