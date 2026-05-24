@@ -19,7 +19,7 @@ Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netpl
 
 Group: CA generalist
 Name: ICI Télé - Radio Canada HD
-URL: https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 Logo: https://static.epg.best/ca/icitele.ca.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -127,6 +127,11 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: DE generalist
+Name: ARD1 Das Erste HD
+URL: https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+Logo: https://picserve.netplus.ch/channels/daserstehd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 Name: ndr HD
 URL: https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
 Logo: https://picserve.netplus.ch/channels/ndr.png
@@ -355,107 +360,107 @@ URL: https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TF1 HD 720p
+Name: TF1 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: France2 HD 720p
+Name: France2 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: France3 HD 720p
+Name: France3 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: France4 HD 720p
+Name: France4 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: France5 HD 720p
+Name: France5 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: M6 HD 720p
+Name: M6 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Canal9 HD 720p
+Name: Canal9 HD
 URL: https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Léman bleu HD 720p
+Name: Léman bleu HD
 URL: https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: LA TELE HD 720p
+Name: LA TELE HD
 URL: https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Canal Alpha JU HD 720p
+Name: Canal Alpha JU HD
 URL: https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Canal Alpha NE HD 720p
+Name: Canal Alpha NE HD
 URL: https://canalalphane.vedge.infomaniak.com/livecast/ik:canalalphane/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TMC HD 720p
+Name: TMC HD
 URL: https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: W9 HD 720p
+Name: W9 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TFX HD 720p
+Name: TFX HD
 URL: https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: T18 HD 720p
+Name: T18 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: CSTAR HD 720p
+Name: CSTAR HD
 URL: https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: RTL9 HD 720p
+Name: RTL9 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TF1 Series Films HD 720p
+Name: TF1 Series Films HD
 URL: https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: 6ter HD 720p
+Name: 6ter HD
 URL: https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: RMC LIFE HD 720p
+Name: RMC LIFE HD
 URL: https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: NOVO19 HD 720p
+Name: NOVO19 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 Logo: https://picserve.netplus.ch/channels/novo19.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -465,27 +470,27 @@ URL: https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: RMC STORY HD 720p
+Name: RMC STORY HD
 URL: https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: blue zoom F HD 720p
+Name: blue zoom F HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 Logo: https://picserve.netplus.ch/channels/bluezoomfr.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: L'EQUIPE 720p
+Name: L'EQUIPE
 URL: https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: AB1 720p
+Name: AB1
 URL: https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: AB3 720p
+Name: AB3
 URL: https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -495,47 +500,47 @@ URL: https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: CARTOON NETWORK 720p
+Name: CARTOON NETWORK
 URL: https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: gulli 720p
+Name: gulli
 URL: https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: RMC DECOUVERTE HD 720p
+Name: RMC DECOUVERTE HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: PLANETE+ HD 720p
+Name: PLANETE+ HD
 URL: https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: ANIMAUX HD 720p
+Name: ANIMAUX HD
 URL: https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TREK HD 720p
+Name: TREK HD
 URL: https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: arte HD 720p
+Name: arte HD
 URL: https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TV5 MONDE FBSM HD 720p
+Name: TV5 MONDE FBSM HD
 URL: https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: mezzo HD 720p
+Name: mezzo HD
 URL: https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -555,7 +560,7 @@ URL: https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: MTV France HD 720p
+Name: MTV France HD
 URL: https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -585,7 +590,7 @@ URL: https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: nrtv HD 720p
+Name: nrtv HD
 URL: https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -621,21 +626,21 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: ARD Das Erste HD
-URL: https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+URL: https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 Logo: https://picserve.netplus.ch/channels/daserste.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: ZDF HD 720p
+Name: ZDF HD
 URL: https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: ORF1 HD 720p
+Name: ORF1 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: ORF2 HD 720p
+Name: ORF2 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -695,7 +700,7 @@ URL: https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: kanal9 HD 720p
+Name: kanal9 HD
 URL: https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -715,32 +720,32 @@ URL: https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: blue zoom D HD 720p
+Name: blue zoom D HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 Logo: https://picserve.netplus.ch/channels/bluezoomde.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: RSI La 1 HD 720p
+Name: RSI La 1 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: RSI La 2 HD 720p
+Name: RSI La 2 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Rai 1 HD 720p
+Name: Rai 1 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Rai 2 HD 720p
+Name: Rai 2 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Rai 3 HD 720p
+Name: Rai 3 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -750,7 +755,7 @@ URL: https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Rai Scuola HD 720p
+Name: Rai Scuola HD
 URL: https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -765,17 +770,17 @@ URL: https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: canale5 HD 720p
+Name: canale5 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: LA7 HD 720p
+Name: LA7 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Rai Gulp HD 720p
+Name: Rai Gulp HD
 URL: https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -785,13 +790,18 @@ URL: https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: LA7 CINEMA HD 720p
+Name: LA7 CINEMA HD
 URL: https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: CANALE Italia
 URL: https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: BBC ONE HD
+URL: http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -986,7 +996,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: kabel eins DOKU
-URL: https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
+URL: https://s6.hopslan.com/dokuX/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1105,12 +1115,12 @@ URL: https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: DMAX Italia HD 720p
+Name: DMAX Italia HD
 URL: https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: nove HD 720p
+Name: nove HD
 URL: https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1130,7 +1140,7 @@ URL: https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: PTC CBET HD 720p
+Name: PTC CBET HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1191,17 +1201,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: Just for laughs HD
-URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/44084380-d002-4590-b1e2-2dfce0bc4a42/2.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/cb6e197e-fdf9-4dcd-860d-b8c519ef288f/1.m3u8
+Logo: https://picserve.netplus.ch/channels/fast_justforlaughs.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: Nautical Channel HD
-URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/21be0e92-f6ac-4bed-bc5f-51b707870ac7/2.m3u8
+URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/1.m3u8
 Logo: https://picserve.netplus.ch/channels/fast_nauticalchannel.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: AUTOMOTION FHD
-URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
+URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/1.m3u8
 Logo: https://picserve.netplus.ch/channels/automotion.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1471,7 +1481,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: Euronews. english HD
-URL: https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+URL: https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1515,12 +1525,12 @@ URL: https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/2
 Logo: https://i.ibb.co/Qb7LPVN/andartv.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: arte d HD 720p
+Name: arte d HD
 URL: https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: arirang korea HD 720p
+Name: arirang korea HD
 URL: https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1562,11 +1572,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: auto motor sport HD
 URL: https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c9a20a06-f601-4af9-b4f5-c6b256b1a5c2/0.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: NAUTICAL CHANNEL HD
-URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1704,47 +1709,47 @@ URL: https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/ind
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: BFM TV HD 720p
+Name: BFM TV HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: France24 HD 720p
+Name: France24 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: euronews F HD 720p
+Name: euronews F HD
 URL: https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: CNEWS HD 720p
+Name: CNEWS HD
 URL: https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: LCI HD 720p
+Name: LCI HD
 URL: https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: BFM BUSINESS HD 720p
+Name: BFM BUSINESS HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: LCP Public Senat HD 720p
+Name: LCP Public Senat HD
 URL: https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Franceinfo HD 720p
+Name: Franceinfo HD
 URL: https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: SRF info HD 720p
+Name: SRF info HD
 URL: https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1769,7 +1774,7 @@ URL: https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: CNBC 720p
+Name: CNBC
 URL: https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
