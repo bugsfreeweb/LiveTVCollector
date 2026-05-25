@@ -302,7 +302,7 @@
   {
     "name": "Med.TV",
     "type": "lifestyle",
-    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNjllMWEwNTYtZTYwMi00Nzg2LTkyNjgtMGU2YThlMzJhYjE5IiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
+    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNjBiMWM0NGMtOWFkNC00NzliLWE0OTAtNGU0YTMwYjcwMzExIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -458,7 +458,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMWQ4Yzg0ZGMtMjI0NS00OWY5LWI0N2QtOGYwMDZlMzA4YWIxIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiODg0NDJhNmYtZjFhMi00NjE1LTllMzEtYmZiYWFkNTc5MjIzIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -500,7 +500,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNDUwODZjMjgtYmNlOC00OWY3LWFmZDAtZGQ1ZWYzZjQwOTMyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMjRlMTA4MWUtM2NmMC00YzUxLTliMTAtYWZiYjVkY2NhNTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -556,12 +556,6 @@
     "type": "NACIONAL",
     "url": "https://cdn-live.mundogo.cl/lared/lared.mpd",
     "img": "https://i.ibb.co/VNdDky3/la-red.png"
-  },
-  {
-    "name": "MEGA 2",
-    "type": "NACIONAL",
-    "url": "http://38.199.4.105:9999/play/a0t9/index.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/7/70/Mega_2_2022.svg/revision/latest/scale-to-width-down/200?cb=20230120022851&path-prefix=es"
   },
   {
     "name": "CNN CHILE",
@@ -852,10 +846,16 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg5Mhyv1ic0vowNu8DKcxwKvF0HrFRD2iqQ&s"
   },
   {
+    "name": "FOX DEPORTES USA",
+    "type": "DEPORTES",
+    "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+    "img": "https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png"
+  },
+  {
     "name": "L1",
     "type": "DEPORTES",
     "url": "http://38.226.49.253:8000/play/a0e2/index.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/2/23/Liga_1_logo_2018.svg/revision/latest?cb=20240224045821&path-prefix=es"
+    "img": "https://tmssl.akamaized.net//images/logo/header/tdea.png?lm=1579456471"
   },
   {
     "name": "L1MAX",
@@ -866,13 +866,13 @@
   {
     "name": "CLARO SPORTS 1",
     "type": "DEPORTES",
-    "url": "http://38.52.208.106:8000/play/a064/index.m3u8",
+    "url": "http://38.224.22.252:8000/play/a05c/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s"
   },
   {
     "name": "CLARO SPORTS 2",
     "type": "DEPORTES",
-    "url": "http://38.52.208.106:8000/play/a065/index.m3u8",
+    "url": "http://38.224.22.252:8000/play/a05d/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855"
   },
   {
@@ -902,7 +902,7 @@
   {
     "name": "FUTV",
     "type": "DEPORTES",
-    "url": "http://181.78.192.238:8000/play/a2ae/index.m3u8",
+    "url": "http://38.224.22.252:8000/play/a07j/index.m3u8",
     "img": "https://wpapi.larepublica.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/20200720191227.20200709160812futv.jpg.webp"
   },
   {
@@ -926,7 +926,7 @@
   {
     "name": "PXSPORTS",
     "type": "DEPORTES",
-    "url": "http://104.250.128.34/livehttpplay?channel_id=23543",
+    "url": "http://45.167.1.139:8000/play/a02m",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png"
   },
   {
@@ -950,7 +950,7 @@
   {
     "name": "SKY SPORTS LA LIGA",
     "type": "DEPORTES",
-    "url": "http://45.5.119.43:4000/play/a05r/index.m3u8",
+    "url": "http://45.5.118.152:8000/play/a08f/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s"
   },
   {
@@ -984,34 +984,22 @@
     "img": "https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png"
   },
   {
-    "name": "TENNIS CHANNEL",
-    "type": "DEPORTES",
-    "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8",
-    "img": "https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png"
-  },
-  {
-    "name": "NBA",
-    "type": "DEPORTES",
-    "url": "http://nor1live.win/livehttpplay?channel_id=23128",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMKHGeDkGIrrpwyUmTU3pVORNfUGE6JtR7A&s"
-  },
-  {
     "name": "GOLF CHANNEL",
     "type": "DEPORTES",
-    "url": "http://181.119.111.25:4000/play/a0cb/index.m3u8",
+    "url": "http://45.5.116.228:8000/play/a0h1/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/250px-Golf_Channel_logo_2025.svg.png"
+  },
+  {
+    "name": "ITV",
+    "type": "DEPORTES",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+    "img": "https://yt3.googleusercontent.com/hdd0DEFAdRpAM51UyOTfeB8wvH__2hTd4yZ0X8KoRkyR-nPEopxvgGXz57P1r8UQVx9_wPLURQ=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "TNT SPORTS PREMIUM 4",
     "type": "Uncategorized",
     "url": "http://38.224.175.2:8000/play/a0rb/index.m3u8",
     "img": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209"
-  },
-  {
-    "name": "El Mentalista 1",
-    "type": "Uncategorized",
-    "url": "http://domestipo1.online:80/FLAVIANAHOLA/afr45j123N7/737505.ts",
-    "img": "https://i.postimg.cc/9f3PyRQk/MV5BMTgw-ZWU1MWEt-Mz-U3ZC00ZGE4LTlh-Zm-Mt-Mm-Zk-Nj-Aw-NWFh-MDU3Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg"
   },
   {
     "name": "PUTERA PERLIS MULTIMEDIA",
@@ -1760,7 +1748,7 @@
   {
     "name": "LIFETIME",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://45.181.122.46:8090/play/a037",
+    "url": "http://45.167.2.101:8000/play/a0q4/index.m3u8",
     "img": "https://static.wikia.nocookie.net/tvcable/images/9/94/Lifetime_2020.png/revision/latest?cb=20220105140043&path-prefix=es"
   },
   {
@@ -1770,22 +1758,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
   },
   {
-    "name": "Super Campeones",
-    "type": "24/7",
-    "url": "http://ultrapremium.cloud:8080/live/21795972/349e8gyg8/778.m3u8",
-    "img": "https://elcomercio.pe/resizer/p7BOQ8XzTvlbNNNPXlD3VSnYdAw=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/HR3HL4BP4VGK3FWS54NBVHOCLM.jpg"
-  },
-  {
     "name": "DRAGON BALL",
     "type": "24/7",
-    "url": "http://186.194.160.110:9002/play/a0gv/index.m3u8",
+    "url": "http://181.79.86.130:8000/play/a06w/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s"
-  },
-  {
-    "name": "El Mentalista 24/7",
-    "type": "24/7",
-    "url": "http://domestipo1.online:80/FLAVIANAHOLA/afr45j123N7/737506.ts",
-    "img": "https://i.postimg.cc/ncCq5YjC/749ea02e-946e-11ee-a91d-02038fb3271b-host-wbd-images-prod-vod-h264.jpg"
   },
   {
     "name": "group-title=\"CANALES ADULTOS\", PLAYBOY",
