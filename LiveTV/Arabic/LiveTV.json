@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-31 22:31:21",
+  "date": "2026-06-01 09:05:50",
   "channels": {
     "General": [
       {
@@ -29,13 +29,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8"
-      },
-      {
-        "name": "Al Aqsa Channel (416p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Z2rfrQ8.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8"
       },
       {
         "name": "Al Iraqia (1080p)",
@@ -600,13 +593,6 @@
         "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
       },
       {
-        "name": "Melody Hits (576p)",
-        "logo": "https://i.imgur.com/OOMkVrU.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8"
-      },
-      {
         "name": "mfm (1080p)",
         "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
         "group": "Music",
@@ -924,13 +910,6 @@
         "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
       },
       {
-        "name": "Bayyinat TV (404p)",
-        "logo": "https://i.imgur.com/PVQKsjE.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
-      },
-      {
         "name": "BeitolAbbas TV Channel (720p)",
         "logo": "https://i.imgur.com/s8PfUQy.png",
         "group": "Religious",
@@ -943,6 +922,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8"
+      },
+      {
+        "name": "Ch4Teen Documentary (1080p)",
+        "logo": "https://i.imgur.com/pHpFGeg.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8"
       },
       {
         "name": "CharityTV (1080p) [Not 24/7]",
@@ -1381,13 +1367,6 @@
         "url": "https://starmenajo.com/hls/almahriah/index.m3u8"
       },
       {
-        "name": "Alqanat9 TV (1080p)",
-        "logo": "https://i.imgur.com/HC91Mho.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
-      },
-      {
         "name": "Altaghier TV (1080p)",
         "logo": "https://i.imgur.com/YTyCBvB.png",
         "group": "News",
@@ -1442,13 +1421,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8"
-      },
-      {
-        "name": "February Channel (1080p)",
-        "logo": "https://i.imgur.com/WdMIpsA.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8"
       },
       {
         "name": "France 24 Arabic (1080p)",
@@ -1957,21 +1929,7 @@
         "logo": "https://i.imgur.com/CsEElsJ.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
-      },
-      {
-        "name": "Thmanyah 1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://dflive.app.tc/20.m3u8"
-      },
-      {
-        "name": "Thmanyah 3 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://dflive.app.tc/61.m3u8"
+        "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8"
       }
     ],
     "Documentary": [
@@ -2032,13 +1990,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://live.asil.tv/asiltv/index.m3u8"
-      },
-      {
-        "name": "Bahry (1080p)",
-        "logo": "https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8"
       },
       {
         "name": "Big Time Plus (1080p)",
