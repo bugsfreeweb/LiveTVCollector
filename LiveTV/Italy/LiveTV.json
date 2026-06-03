@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-03 01:10:53",
+  "date": "2026-06-03 09:41:55",
   "channels": {
     "Music": [
       {
@@ -998,11 +998,11 @@
         "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
       },
       {
-        "name": "Sport Italia (1080p)",
+        "name": "Sportitalia (1080p)",
         "logo": "https://i.imgur.com/0CJGGgd.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
+        "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
       },
       {
         "name": "Sportitalia 24 (720p) [Geo-blocked]",
@@ -1024,6 +1024,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+      },
+      {
+        "name": "SuperTennis (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
       },
       {
         "name": "TR Sport (480p)",
@@ -3601,13 +3608,6 @@
         "url": "https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8"
       },
       {
-        "name": "SuperTennis",
-        "logo": "https://i.imgur.com/GzsPlbX.png",
-        "group": "DTV",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
-      },
-      {
         "name": "MAN-GA",
         "logo": "https://i.imgur.com/8a6WYU2.png",
         "group": "DTV",
@@ -4956,6 +4956,13 @@
         "group": "RAKUTEN - Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
         "url": "https://eed754f7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dvcmxkU3VyZkxlYWd1ZTI0N19ITFM/playlist.m3u8"
+      },
+      {
+        "name": "Sport Italia",
+        "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/92786494-7218-4eff-b1b4-a33be915cd58-sport-italia-1633528365.png",
+        "group": "RAKUTEN - Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
       },
       {
         "name": "World Poker Tour",
