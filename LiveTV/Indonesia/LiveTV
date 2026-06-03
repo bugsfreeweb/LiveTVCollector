@@ -8340,6 +8340,12 @@
     "img": "https://i.imgur.com/B5YiUIP.png"
   },
   {
+    "name": "MAX Kids",
+    "type": "Kids",
+    "url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
+    "img": "https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp"
+  },
+  {
     "name": "Nickelodeon Asia Indonesia (720p)",
     "type": "Kids",
     "url": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
@@ -10256,7 +10262,7 @@
   {
     "name": "BeritaSatu (1080p)",
     "type": "News",
-    "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
+    "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8",
     "img": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png"
   },
   {
@@ -10268,8 +10274,14 @@
   {
     "name": "BTV (1080p)",
     "type": "News",
-    "url": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
+    "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"
+  },
+  {
+    "name": "iNews (720p)",
+    "type": "News",
+    "url": "https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd",
+    "img": "https://i.imgur.com/M2R3lfg.png"
   },
   {
     "name": "Jakarta Globe News Channel (1080p)",
@@ -10666,6 +10678,12 @@
     "type": "Entertainment",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8",
     "img": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg"
+  },
+  {
+    "name": "MAX Streak",
+    "type": "Entertainment",
+    "url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
+    "img": "https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp"
   },
   {
     "name": "Asian Food Network",
@@ -11482,6 +11500,12 @@
     "type": "Music",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd",
     "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg"
+  },
+  {
+    "name": "Prambors",
+    "type": "Music",
+    "url": "https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd",
+    "img": "https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_xxhdpi.webp"
   },
   {
     "name": "Al Quran Al Kareem",
@@ -32124,6 +32148,12 @@
     "img": "https://i.imgur.com/rORKbGw.png"
   },
   {
+    "name": "Balikpapan TV (720p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/P3whqna.png"
+  },
+  {
     "name": "Batam TV (480p) [Not 24/7]",
     "type": "General",
     "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
@@ -32162,7 +32192,7 @@
   {
     "name": "GTV (720p)",
     "type": "General",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
+    "url": "https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd",
     "img": "https://i.imgur.com/jjuKnYs.png"
   },
   {
@@ -32170,12 +32200,6 @@
     "type": "General",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png"
-  },
-  {
-    "name": "Jambi TV (480p) [Not 24/7]",
-    "type": "General",
-    "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png"
   },
   {
     "name": "Jawa Pos TV (720p)",
@@ -32264,7 +32288,7 @@
   {
     "name": "MNCTV (720p)",
     "type": "General",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
+    "url": "https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd",
     "img": "https://i.imgur.com/SK8pjQy.png"
   },
   {
@@ -32282,7 +32306,7 @@
   {
     "name": "RCTI HD (720p)",
     "type": "General",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd",
+    "url": "https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd",
     "img": "https://i.imgur.com/iLFx8ia.png"
   },
   {
@@ -32508,6 +32532,12 @@
     "img": "https://i.imgur.com/xrNtabe.png"
   },
   {
+    "name": "MTA TV",
+    "type": "Religious",
+    "url": "https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd",
+    "img": "https://i.imgur.com/3kGs7k0.png"
+  },
+  {
     "name": "Nabawi TV (720p)",
     "type": "Religious",
     "url": "http://202.150.161.117:8000/play/NabawiTV",
@@ -32560,6 +32590,12 @@
     "type": "Undefined",
     "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png"
+  },
+  {
+    "name": "Jak TV (720p)",
+    "type": "Undefined",
+    "url": "https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd",
+    "img": "https://i.imgur.com/xyLLLOi.png"
   },
   {
     "name": "Matrix TV Yogyakarta (720p)",
@@ -32718,6 +32754,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png"
   },
   {
+    "name": "TV MUI",
+    "type": "Undefined",
+    "url": "https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd",
+    "img": "https://i.imgur.com/vWtViyC.png"
+  },
+  {
     "name": "tvOne (576i)",
     "type": "Undefined",
     "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
@@ -32730,12 +32772,6 @@
     "img": "https://i.imgur.com/qxkb0cy.png"
   },
   {
-    "name": "UBTV Brawijaya (480p)",
-    "type": "Undefined",
-    "url": "https://ubmedcom.siar.us/live/ubmedcom.m3u8",
-    "img": "https://i.imgur.com/BQIi7ko.png"
-  },
-  {
     "name": "AXN Asia Indonesia (1080p)",
     "type": "Movies;Series",
     "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
@@ -32746,6 +32782,18 @@
     "type": "Culture",
     "url": "https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd",
     "img": "https://i.imgur.com/uH1Szme.png"
+  },
+  {
+    "name": "IDX Channel (720p)",
+    "type": "Business",
+    "url": "https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd",
+    "img": "https://i.imgur.com/xPvrcsr.png"
+  },
+  {
+    "name": "MAX Eats",
+    "type": "Cooking",
+    "url": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
+    "img": "https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp"
   },
   {
     "name": "MBG TV (1080p)",
@@ -32776,11 +32824,5 @@
     "type": "Culture;Lifestyle",
     "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png"
-  },
-  {
-    "name": "Sin Po TV (540p)",
-    "type": "News;Sports",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png"
   }
 ]
