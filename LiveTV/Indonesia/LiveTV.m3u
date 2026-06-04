@@ -2249,6 +2249,8 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:2E:EE:1B&stream=2762&extension=
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium1.m3u8?raw=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPAlmra.jpg" group-title="Sports",ARENA PREMIUM 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium2.m3u8?raw=true
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp" group-title="Sports",MAX Sports
+https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV (720p)
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2 (1080p)
@@ -10923,6 +10925,8 @@ https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="Undefined",U Channel (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zee_Bioskop_(2025).svg/960px-Zee_Bioskop_(2025).svg.png" group-title="Undefined",Zee Bioskop
+https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies;Series",AXN Asia Indonesia (1080p)
 https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="Culture",Bali TV
@@ -10935,6 +10939,12 @@ https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Family",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Family",My Family [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp" group-title="Entertainment;Series",New TV Comprehensive
+https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp" group-title="Entertainment;Series",New TV Finance
+https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp" group-title="Entertainment;Series",New TV Variety
+https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9CCIpP.jpg" group-title="Culture;General;Music;News",Online TV Nusantara (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="Education",Rinjani TV
