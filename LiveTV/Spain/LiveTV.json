@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-05 23:12:34",
+  "date": "2026-06-06 07:18:24",
   "channels": {
     "General": [
       {
@@ -26214,6 +26214,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "http://92.176.119.180:2095/play/a17a"
+      },
+      {
+        "name": "ETB2 On (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://cdn1.etbon.eus/etb2on/index.m3u8"
       },
       {
         "name": "FDF (1080p)",
@@ -64066,13 +64073,6 @@
         "group": "Culture;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8"
-      },
-      {
-        "name": "ETB Basque (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/960px-ETB_Basque_2022_logo.svg.png",
-        "group": "Culture;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8"
       }
     ],
     "Public;Sports": [
@@ -64089,6 +64089,15 @@
         "group": "Public;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
+      }
+    ],
+    "Public": [
+      {
+        "name": "ETB1 On (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg",
+        "group": "Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://cdn1.etbon.eus/etb1on/index.m3u8"
       }
     ],
     "Outdoor;Sports": [
