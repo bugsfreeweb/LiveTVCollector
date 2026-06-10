@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-09 23:25:45",
+  "date": "2026-06-10 08:18:44",
   "channels": {
     "Uncategorized": [
       {
@@ -766,11 +766,11 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
       },
       {
-        "name": "rtk1",
+        "name": "RTK1 SAT",
         "logo": "https://picserve.netplus.ch/channels/rtk1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8"
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/manifest.m3u8"
       },
       {
         "name": "MNE HD",
@@ -808,11 +808,11 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
       },
       {
-        "name": "TVRi",
+        "name": "TVRi TV Romania international HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8"
+        "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/index.m3u8"
       },
       {
         "name": "Al Maghribia HD",
@@ -1786,6 +1786,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "TVR INFO TV Romania INFO HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8"
       }
     ],
     "news": [
@@ -2477,13 +2484,13 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
       }
     ],
-    "AL generalist": [
+    "RO generalist": [
       {
-        "name": "RTK1 SAT HD",
-        "logo": "https://picserve.netplus.ch/channels/rtk1.png",
-        "group": "AL generalist",
+        "name": "TVRomania int HD",
+        "logo": "https://picserve.netplus.ch/channels/tvrinternational.png",
+        "group": "RO generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8"
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8"
       }
     ],
     "MA generalist": [
