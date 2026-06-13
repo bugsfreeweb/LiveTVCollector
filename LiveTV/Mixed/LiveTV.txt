@@ -3278,6 +3278,11 @@ Logo: https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/he
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: TV OKEY
+URL: https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: TV OKEY
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
@@ -9574,6 +9579,11 @@ URL: https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53Wz
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: SUKAN RTM
+URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: TVRI SPORT
 URL: https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp
@@ -10565,29 +10575,19 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: WORLD CUP 2026
-Name: FIFA World Cup 2026 1
-URL: https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa1&provider=mytech
-Logo: https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png
+Name: RTM WORLD CUP 2026 1
+URL: https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
+Logo: https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: FIFA World Cup 2026 2
-URL: https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa2&provider=mytech
-Logo: https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png
+Name: RTM WORLD CUP 2026 2
+URL: https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+Logo: https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: FIFA World Cup 2026 3
-URL: https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa3&provider=mytech
-Logo: https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: SUKAN RTM
-URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: TV OKEY
-URL: https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-Logo: https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png
+Name: RTM WORLD CUP 2026 3
+URL: https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
+Logo: https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 
@@ -11378,7 +11378,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Med.TV
-URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiYWFiMWQ1NWItZDcwYS00MjM2LWE2ZGQtOTNmNDlhMmYxYWVkIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNDE1YTI4ZTUtOTkxMS00MTJkLTgwM2UtNzM1ZTY3M2Q3ODg4IiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
@@ -11457,7 +11457,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/o
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiZmZhYzhlYzQtMmQ5NC00YjNkLWE1YWUtYmVkMjdiMmU5OTM2IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
+URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiOWFjZjYxMTctYzYwOC00MGZjLTgwNWUtZjRmNTNjYzAzYTFlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
@@ -11492,7 +11492,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYTBiNWJhOTgtMDU1NC00YjlmLWFiZTUtZTQ0YTcwN2MyOGM3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMGI1ZWIyMGYtZmJmNi00MGNkLWFjNzUtMGJiNjI5NzU4MjFlIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
