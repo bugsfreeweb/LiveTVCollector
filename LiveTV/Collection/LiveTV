@@ -1136,7 +1136,7 @@
   {
     "name": "Haiti News HD",
     "type": "Uncategorized",
-    "url": "https://haititivi.com/website/haitinews/index.fmp4.m3u8",
+    "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
     "img": "https://picserve.netplus.ch/channels/haitinewstv.png"
   },
   {
@@ -1280,7 +1280,7 @@
   {
     "name": "CHADA TV HD",
     "type": "Uncategorized",
-    "url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8",
+    "url": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
     "img": "https://i.ibb.co/pdd2VqB/chada.jpg"
   },
   {
@@ -1758,6 +1758,12 @@
     "img": "https://i.postimg.cc/6qSJsv8k/vosgestv.png"
   },
   {
+    "name": "Bénin TV HD",
+    "type": "",
+    "url": "https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8",
+    "img": "https://static.epg.best/bj/ORTB.bj.png"
+  },
+  {
     "name": "TECH&CO",
     "type": "informations",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END",
@@ -1830,9 +1836,9 @@
     "img": "https://i.imgur.com/vXbAeD0.png"
   },
   {
-    "name": "EPT NEWS HD",
-    "type": "lifestyle",
-    "url": "https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.mpd",
+    "name": "ERT news HD EPT news HD",
+    "type": "GR news",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
     "img": "https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg"
   },
   {
@@ -1926,12 +1932,6 @@
     "img": "https://picserve.netplus.ch/channels/fast_wired2fish.png"
   },
   {
-    "name": "BéninTV HD",
-    "type": "BJ generalist",
-    "url": "https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8",
-    "img": "https://static.epg.best/bj/ORTB.bj.png"
-  },
-  {
     "name": "RTL Luxembourg HD",
     "type": "LU generalist",
     "url": "https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8",
@@ -1948,6 +1948,42 @@
     "type": "DE news sport",
     "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8",
     "img": "https://static.epg.best/de/automotorsport.de.png"
+  },
+  {
+    "name": "1+1 NEWS Ukrain",
+    "type": "UA news",
+    "url": "https://1936287162.rsc.cdn77.org/hls/54jCArWE/stream.m3u8",
+    "img": "https://static.epg.best/ua/1plus1.ua.png"
+  },
+  {
+    "name": "RTS1 Sénégal1",
+    "type": "SN generalist",
+    "url": "https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8",
+    "img": "https://static.epg.best/sn/rts1.sn.png"
+  },
+  {
+    "name": "just COOKING DE",
+    "type": "DE cooking",
+    "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/a4d767b0-82b8-92c2-62ef-945f929580f2/d/manifest.m3u8",
+    "img": "https://static.epg.best/de/justcooking.de.png"
+  },
+  {
+    "name": "One TERRA DE",
+    "type": "DE wild",
+    "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/d2b407bf-6d21-839b-f212-9cc563222254/d/manifest.m3u8",
+    "img": "https://static.epg.best/de/oneterra.de.png"
+  },
+  {
+    "name": "HOHENRAUSCH DE",
+    "type": "DE wild",
+    "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/2a615042-f13f-1e13-f9ea-7fa9da8953bf/d/manifest.m3u8",
+    "img": "https://static.epg.best/de/hohenrausch.de.png"
+  },
+  {
+    "name": "DELUXE DLX DEUTSCHPOP DE",
+    "type": "DE music",
+    "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/0154408e-ad77-745f-d252-bc7cc2ee3e3e/d/manifest.m3u8",
+    "img": "https://static.epg.best/de/dlxdeutschpop.de.png"
   },
   {
     "name": "Canal9 FHD",

@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-14 08:28:59",
+  "date": "2026-06-14 16:15:24",
   "channels": {
     "Uncategorized": [
       {
@@ -1330,7 +1330,7 @@
         "logo": "https://picserve.netplus.ch/channels/haitinewstv.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://haititivi.com/website/haitinews/index.fmp4.m3u8"
+        "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8"
       },
       {
         "name": "DBMTV HD Digital Black Music HD",
@@ -1498,7 +1498,7 @@
         "logo": "https://i.ibb.co/pdd2VqB/chada.jpg",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8"
+        "url": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"
       },
       {
         "name": "AFRICA24 ENGLISH HD",
@@ -2064,6 +2064,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
+      },
+      {
+        "name": "Bénin TV HD",
+        "logo": "https://static.epg.best/bj/ORTB.bj.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8"
       }
     ],
     "informations": [
@@ -2162,13 +2169,15 @@
         "group": "lifestyle",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
-      },
+      }
+    ],
+    "GR news": [
       {
-        "name": "EPT NEWS HD",
+        "name": "ERT news HD EPT news HD",
         "logo": "https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg",
-        "group": "lifestyle",
+        "group": "GR news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.mpd"
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
       }
     ],
     "MUSIQUE": [
@@ -2290,15 +2299,6 @@
         "url": "https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8"
       }
     ],
-    "BJ generalist": [
-      {
-        "name": "BéninTV HD",
-        "logo": "https://static.epg.best/bj/ORTB.bj.png",
-        "group": "BJ generalist",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8"
-      }
-    ],
     "LU generalist": [
       {
         "name": "RTL Luxembourg HD",
@@ -2324,6 +2324,58 @@
         "group": "DE news sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8"
+      }
+    ],
+    "UA news": [
+      {
+        "name": "1+1 NEWS Ukrain",
+        "logo": "https://static.epg.best/ua/1plus1.ua.png",
+        "group": "UA news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://1936287162.rsc.cdn77.org/hls/54jCArWE/stream.m3u8"
+      }
+    ],
+    "SN generalist": [
+      {
+        "name": "RTS1 Sénégal1",
+        "logo": "https://static.epg.best/sn/rts1.sn.png",
+        "group": "SN generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8"
+      }
+    ],
+    "DE cooking": [
+      {
+        "name": "just COOKING DE",
+        "logo": "https://static.epg.best/de/justcooking.de.png",
+        "group": "DE cooking",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/a4d767b0-82b8-92c2-62ef-945f929580f2/d/manifest.m3u8"
+      }
+    ],
+    "DE wild": [
+      {
+        "name": "One TERRA DE",
+        "logo": "https://static.epg.best/de/oneterra.de.png",
+        "group": "DE wild",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/d2b407bf-6d21-839b-f212-9cc563222254/d/manifest.m3u8"
+      },
+      {
+        "name": "HOHENRAUSCH DE",
+        "logo": "https://static.epg.best/de/hohenrausch.de.png",
+        "group": "DE wild",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/2a615042-f13f-1e13-f9ea-7fa9da8953bf/d/manifest.m3u8"
+      }
+    ],
+    "DE music": [
+      {
+        "name": "DELUXE DLX DEUTSCHPOP DE",
+        "logo": "https://static.epg.best/de/dlxdeutschpop.de.png",
+        "group": "DE music",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/0154408e-ad77-745f-d252-bc7cc2ee3e3e/d/manifest.m3u8"
       }
     ],
     "CH Regional": [
