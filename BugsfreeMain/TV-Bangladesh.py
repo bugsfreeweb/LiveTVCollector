@@ -256,13 +256,12 @@ class M3UCollector:
 
 def main():
     # Specific M3U sources (12 sources)
-    source_urls = [
-        "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/main/AynaOTT.m3u",
+    source_urls = [        
         "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",        
         "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u",       
-        "https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/all.m3u",
-        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/refs/heads/main/playlist.m3u",
+        "https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/all.m3u",        
+        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/main/playlist.m3u",
         "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
         "https://raw.githubusercontent.com/mhmimxl/filoox-bdix-selected/main/playlist.m3u",        
         "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/main/RoarZone.m3u",
