@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-14 22:41:22",
+  "date": "2026-06-15 08:22:19",
   "channels": {
     "Uncategorized": [
       {
@@ -1386,6 +1386,13 @@
         "url": "https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8"
       },
       {
+        "name": "Araruna TV",
+        "logo": "https://i.imgur.com/jl39ula.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
+      },
+      {
         "name": "Canal Libras (720p)",
         "logo": "https://i.imgur.com/LnWWKzP.png",
         "group": "General",
@@ -1398,6 +1405,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8"
+      },
+      {
+        "name": "Canal Sete",
+        "logo": "https://i.imgur.com/0cq0BPp.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
       },
       {
         "name": "Catve2 (720p)",
@@ -2334,6 +2348,13 @@
         "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
       },
       {
+        "name": "Canal Metropolitano de Noticias",
+        "logo": "https://i.imgur.com/G0x4xqa.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
+      },
+      {
         "name": "Jovem Pan News (JP News) (1080p) [Not 24/7]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
         "group": "News",
@@ -2506,6 +2527,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
+      },
+      {
+        "name": "Blitstv",
+        "logo": "https://i.imgur.com/FO4QTRf.jpeg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
       },
       {
         "name": "Cabo Frio TV (720p)",
@@ -2855,6 +2883,15 @@
         "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
       }
     ],
+    "Education;General": [
+      {
+        "name": "Canal FDR",
+        "logo": "https://i.imgur.com/7SE4CkE.png",
+        "group": "Education;General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      }
+    ],
     "Legislative": [
       {
         "name": "Canal Gov (720p)",
@@ -3090,13 +3127,6 @@
     ],
     "Animation;Kids": [
       {
-        "name": "NickOnline (576p)",
-        "logo": "https://x1co.com.br/logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://x1co.com.br/hls/stream.m3u8"
-      },
-      {
         "name": "NickToons Brasil (480p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",
         "group": "Animation;Kids",
@@ -3116,6 +3146,15 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://slime.x1co.com.br/hls/stream.m3u8"
+      }
+    ],
+    "Entertainment;General": [
+      {
+        "name": "NTV",
+        "logo": "https://i.imgur.com/n79nkVC.png",
+        "group": "Entertainment;General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
       }
     ],
     "Lifestyle": [
