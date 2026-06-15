@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15 19:17:32",
+  "date": "2026-06-16 01:07:52",
   "channels": {
     "INDONESIA": [
       {
@@ -13547,6 +13547,36 @@
         "url": "https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd"
       }
     ],
+    "PialaDunia 2026": [
+      {
+        "name": "RTB Go",
+        "logo": "https://i.imgur.com/CGlzsD5.png",
+        "group": "PialaDunia 2026",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229"
+      },
+      {
+        "name": "RTB Aneka",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",
+        "group": "PialaDunia 2026",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8"
+      },
+      {
+        "name": "JOJ SPORT",
+        "logo": "https://mimipipi22.github.io/logo/antik/jojsport.jpg",
+        "group": "PialaDunia 2026",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd"
+      },
+      {
+        "name": "CT SPORT",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",
+        "group": "PialaDunia 2026",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd"
+      }
+    ],
     "TV Nasional Indonesia": [
       {
         "name": "INDOSIAR Liga 1",
@@ -18429,13 +18459,6 @@
         "url": "https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAiyN-O_xDpFlaxGznH--Jk/.m3u8"
       },
       {
-        "name": "CT SPORT 🇸🇰",
-        "logo": "https://mimipipi22.github.io/logo/antik/ctsport.jpg",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd"
-      },
-      {
         "name": "NOVA SPORT 1 🇸🇰",
         "logo": "https://mimipipi22.github.io/logo/antik/novasport1.jpg",
         "group": "SPORTS",
@@ -18462,13 +18485,6 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd"
-      },
-      {
-        "name": "JOJ SPORT 🇸🇰",
-        "logo": "https://mimipipi22.github.io/logo/antik/jojsport.jpg",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd"
       },
       {
         "name": "JOJ SPORT 2 🇸🇰",
