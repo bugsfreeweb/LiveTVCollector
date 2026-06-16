@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16 01:08:02",
+  "date": "2026-06-16 08:17:01",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -35387,6 +35387,13 @@
         "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
       },
       {
+        "name": "A Haber (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8"
+      },
+      {
         "name": "A Türk Izmir (360p)",
         "logo": "https://i.imgur.com/je5wQ3G.png",
         "group": "News",
@@ -35494,6 +35501,13 @@
     ],
     "General": [
       {
+        "name": "A2TV (1080p)",
+        "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
+      },
+      {
         "name": "Aksu TV (720p)",
         "logo": "https://i.imgur.com/mgDCKiy.png",
         "group": "General",
@@ -35536,11 +35550,11 @@
         "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
       },
       {
-        "name": "ATV Alanya (720p) [Not 24/7]",
+        "name": "ATV Alanya (1080p)",
         "logo": "https://i.imgur.com/bUwarR0.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8"
+        "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
       },
       {
         "name": "Benguturk TV (1080p)",
@@ -35800,6 +35814,85 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+      }
+    ],
+    "Sports": [
+      {
+        "name": "A Spor (1080p)",
+        "logo": "https://i.imgur.com/ZhkZzLf.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+      },
+      {
+        "name": "FB TV",
+        "logo": "https://i.imgur.com/qBVqtYd.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
+      },
+      {
+        "name": "HTSpor TV (1080p)",
+        "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
+      },
+      {
+        "name": "S Sport",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8"
+      },
+      {
+        "name": "S Sport 2",
+        "logo": "https://i.imgur.com/2jIItAy.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8"
+      },
+      {
+        "name": "Sports TV (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/tGTVcVe.jpg",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+      },
+      {
+        "name": "Tabii Spor 6 (720p) [Geo-blocked]",
+        "logo": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "name": "TJK TV (1080p)",
+        "logo": "https://i.imgur.com/3zHdkYG.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
+      },
+      {
+        "name": "TJK TV 2 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/3zHdkYG.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
+      },
+      {
+        "name": "TRT Spor (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/6tv0zxh.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "name": "TRT Spor Yildiz (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
       }
     ],
     "Religious": [
@@ -36151,18 +36244,18 @@
         "url": "https://saran-live.ercdn.net/babytv/index.m3u8"
       },
       {
-        "name": "Minika Cocuk (480p)",
+        "name": "Minika Cocuk (720p)",
         "logo": "https://i.imgur.com/VCywMTv.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8"
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8"
       },
       {
-        "name": "Minika Go (480p)",
+        "name": "Minika Go (720p)",
         "logo": "https://i.imgur.com/qIoipDq.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8"
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8"
       },
       {
         "name": "TRT Çocuk (720p)",
@@ -36338,78 +36431,6 @@
         "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
       }
     ],
-    "Sports": [
-      {
-        "name": "FB TV",
-        "logo": "https://i.imgur.com/qBVqtYd.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
-      },
-      {
-        "name": "HTSpor TV (1080p)",
-        "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
-      },
-      {
-        "name": "S Sport",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8"
-      },
-      {
-        "name": "S Sport 2",
-        "logo": "https://i.imgur.com/2jIItAy.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8"
-      },
-      {
-        "name": "Sports TV (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/tGTVcVe.jpg",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
-      },
-      {
-        "name": "Tabii Spor 6 (720p) [Geo-blocked]",
-        "logo": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8"
-      },
-      {
-        "name": "TJK TV (1080p)",
-        "logo": "https://i.imgur.com/3zHdkYG.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
-      },
-      {
-        "name": "TJK TV 2 (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/3zHdkYG.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
-      },
-      {
-        "name": "TRT Spor (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/6tv0zxh.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
-      },
-      {
-        "name": "TRT Spor Yildiz (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
-      }
-    ],
     "Movies": [
       {
         "name": "FilmBox [Not 24/7]",
@@ -36445,6 +36466,13 @@
       }
     ],
     "Culture": [
+      {
+        "name": "Luys TV (1080p)",
+        "logo": "https://i.imgur.com/9EruWIQ.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8"
+      },
       {
         "name": "Natural TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/rfcJ674.png",
