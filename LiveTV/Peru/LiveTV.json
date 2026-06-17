@@ -1,37 +1,14 @@
 {
-  "date": "2026-06-16 18:16:39",
+  "date": "2026-06-17 17:40:46",
   "channels": {
-    "Entertainment": [
-      {
-        "name": "Antares Televisión (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/05gwtk2.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
-      },
-      {
-        "name": "Impacto Televisión (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/bkpCGP6.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
-      },
-      {
-        "name": "La Tele",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
-      },
-      {
-        "name": "Panc TV Peru (1080p)",
-        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://panel.host-live.com:19360/20000/20000.m3u8"
-      }
-    ],
     "General": [
+      {
+        "name": "America Television (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8"
+      },
       {
         "name": "Antena SUR (720p)",
         "logo": "https://i.imgur.com/4aHrD2l.jpeg",
@@ -180,6 +157,13 @@
         "url": "https://live.obslivestream.com/telecolormux/index.m3u8"
       },
       {
+        "name": "Telelima (720p)",
+        "logo": "https://i.imgur.com/HzWRvXc.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
+      },
+      {
         "name": "Televisión Tarapoto (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/Dzen7sh.png",
         "group": "General",
@@ -269,6 +253,36 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Antares Televisión (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/05gwtk2.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+      },
+      {
+        "name": "Impacto Televisión (360p) [Not 24/7]",
+        "logo": "https://i.imgur.com/bkpCGP6.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+      },
+      {
+        "name": "La Tele",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
+      },
+      {
+        "name": "Panc TV Peru (1080p)",
+        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://panel.host-live.com:19360/20000/20000.m3u8"
       }
     ],
     "Culture": [
@@ -454,6 +468,15 @@
         "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/chunks.m3u8"
       }
     ],
+    "Family": [
+      {
+        "name": "Canal IPe (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8"
+      }
+    ],
     "Comedy": [
       {
         "name": "Comedy Central Latin America (1080p)",
@@ -581,6 +604,15 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+      }
+    ],
+    "Movies;Series": [
+      {
+        "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Star Channel Latin America (1080i)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8"
       }
     ],
     "TV PERU": [
