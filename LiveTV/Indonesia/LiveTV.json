@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18 08:18:00",
+  "date": "2026-06-18 17:15:19",
   "channels": {
     "INDONESIA": [
       {
@@ -1011,6 +1011,41 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd"
+      },
+      {
+        "name": "HBO ᴴᴰ",
+        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179195"
+      },
+      {
+        "name": "HBO Hits ᴴᴰ",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://103.148.44.38:8000/play/a028/index.m3u8"
+      },
+      {
+        "name": "HBO Signature ᴴᴰ",
+        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://103.148.44.38:8000/play/a025/index.m3u8"
+      },
+      {
+        "name": "HBO Family ᴴᴰ",
+        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://103.148.44.38:8000/play/a029/index.m3u8"
+      },
+      {
+        "name": "Cinemax ᴴᴰ",
+        "logo": "https://i.imgur.com/uB76Ft0.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://103.148.44.38:8000/play/a026/index.m3u8"
       },
       {
         "name": "HBO 🇮🇩",
@@ -12093,13 +12128,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
         "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8"
-      },
-      {
-        "name": "BN Channel (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
-        "url": "https://flv.intechmedia.net/live/ch112.m3u8"
       },
       {
         "name": "BTV (1080p)",
@@ -27073,11 +27101,18 @@
         "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8"
       },
       {
+        "name": "BN Channel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",
+        "group": "Nasional 🇮🇩",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://flv.intechmedia.net/live/ch112.m3u8"
+      },
+      {
         "name": "BTV",
         "logo": "https://i.imgur.com/h1q2r4l.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd"
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8"
       },
       {
         "name": "CNBC Indonesia",
@@ -36695,6 +36730,211 @@
         "group": "World CUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
+      }
+    ],
+    "World Cup": [
+      {
+        "name": "TVRI Nasional (Indonesia)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://103.148.44.38:8000/play/a03t/index.m3u8"
+      },
+      {
+        "name": "Thairath TV (Thailand)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd"
+      },
+      {
+        "name": "True Sports 1 (Thailand)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8"
+      },
+      {
+        "name": "True Sports 2 (Thailand)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8"
+      },
+      {
+        "name": "True Sports 3 (Thailand)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8"
+      },
+      {
+        "name": "True Sports 5 (Thailand)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8"
+      },
+      {
+        "name": "True Sports 7 (Thailand)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8"
+      },
+      {
+        "name": "NHK BS (Japan)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://akariko.netgenx.site/stream/jp/NHK_BS/stream-output.m3u8?mode=hls"
+      },
+      {
+        "name": "NHK BS Premium 4K (Japan)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls"
+      },
+      {
+        "name": "NHK G (Japan)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls"
+      },
+      {
+        "name": "Cignal World Cup TV 1 (Philippines)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
+      },
+      {
+        "name": "Fox Deportes (United States)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+      },
+      {
+        "name": "TUDN (Mexico/United States)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd"
+      },
+      {
+        "name": "FUSSBALL.TV 1 (Germany)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8"
+      },
+      {
+        "name": "TSN 1 (Canada/Alt)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsK04-AqnXNvYG0b_Z6U-SG/m3u8"
+      },
+      {
+        "name": "TSN 1 (Canada/Alt 2)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts"
+      },
+      {
+        "name": "TSN 2 (Canada)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8"
+      },
+      {
+        "name": "TSN 2 (Canada/Alt)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvYJVCjcR2GWbg7GKmuFWQk/m3u8"
+      },
+      {
+        "name": "TSN 2 (Canada/Alt 2)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts"
+      },
+      {
+        "name": "TSN 3 (Canada/Alt)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8"
+      },
+      {
+        "name": "TSN 4 (Canada/Alt)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8"
+      },
+      {
+        "name": "TSN 5 (Canada)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8"
+      },
+      {
+        "name": "TSN 5 (Canada/Alt)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8"
+      },
+      {
+        "name": "iTV 1 (United Kingdom)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://xemzi.short.gy/1000011"
+      },
+      {
+        "name": "iTV 4 (United Kingdom)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptHoaHIQUz0kzgA53CKR6i7/m3u8"
+      },
+      {
+        "name": "beIN Sports 1 (France)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd"
+      },
+      {
+        "name": "beIN Sports 2 (France)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd"
+      },
+      {
+        "name": "beIN Sports 3 (France)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd"
+      },
+      {
+        "name": "SporTV (Brazil)",
+        "logo": "https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png",
+        "group": "World Cup",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://tjtor8411.com:80/live/010794/FXz1sY/131132.ts"
       }
     ],
     "TV BackUP": [
