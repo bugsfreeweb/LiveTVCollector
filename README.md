@@ -1,6 +1,7 @@
-# LiveTVCollector
+AJN Professional Player — Enterprise Media Console
+A high-performance, single-screen broadcast control deck for live IPTV playback and archive streaming.
 
-A GitHub repository that automatically collects, filters, and exports live TV streaming links for Country/Category wise using GitHub Actions. This project fetches M3U playlists from multiple sources, removes duplicates, verifies active links, and exports them into various formats under the `LiveTV/Country Name/` directory.
+AJN Professional Player is a modern, React 18-powered media application designed for seamless live TV streaming and on-demand content management. It features an intelligent M3U playlist parser, resilient HLS streaming, archive scheduling, and multiple export formats for custom web applications.
 # 📊 Project Stats
 [![GitHub forks](https://img.shields.io/github/forks/bugsfreeweb/LiveTVCollector?logo=forks&style=plastic)](https://github.com/bugsfreeweb/LiveTVCollector/network) [![GitHub stars](https://img.shields.io/github/stars/bugsfreeweb/LiveTVCollector)](https://github.com/bugsfreeweb/LiveTVCollector/stargazers) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ![GitHub issues](https://img.shields.io/github/issues/bugsfreeweb/LiveTVCollector)
@@ -15,169 +16,163 @@ A GitHub repository that automatically collects, filters, and exports live TV st
 <a href="https://m3ulinkeditor.vercel.app" target="_blank"><img src="https://m3ulinkeditor.vercel.app/img/logo.png" style="width:auto; height:60px" alt="M3U Editor"></a>
 <a href="https://bugsfreeweb.github.io/WebIPTV" target="_blank"><img src="https://bugsfreeweb.github.io/iptv/img/logo.png" style="width:auto; height:60px" alt="Web IPTV"></a>
 <a href="https://bugsfreetv.vercel.app" target="_blank"><img src="https://bugsfreetv.vercel.app/img/logo.png" style="width:auto; height:60px" alt="Web IPTV Player"></a>
+🎯 Key Features
+Core Playback & Streaming
+Unified Stream Console: Load and manage M3U playlists with real-time search, fuzzy matching, category organization, and persistent favorites
+Live IPTV Support: Native HLS streaming with automatic buffer optimization and keyframe recovery
+Archive Scheduling: Parse broadcast manifests, organize segments by hour, and navigate with color-coded status indicators
+Resilient Playback Engine: Automatic memory management, garbage collection, and browser leak prevention with hls.js pipelines
+Advanced Playback Features
+Sirius Audio Console: Integrated premium audio deck with 120-frequency spectrum visualizer, EQ controls, loop selectors, and timeline scrubbing
+Smart Adaptive Themes: Seamlessly toggle between Dark (default) and Light modes with intuitive UI controls
+Diagnostic Debug Terminal: Real-time buffer latency reports, segment tracking, and proxy thread monitoring
+Cinephile Intelligence Suite (v4.0)
+Nine integrated modules for content discovery and viewing analytics:
+
+Mood Journaling: Pre-watch environment tracking and detailed ratings
+Episode Analysis: Narrative structure and continuity tracking synced with playback
+Playlist Versioning: Version control with SHA-256 hashes and branch checkout
+Timeline Composition: Chronological workbench for dynamic channels and streams
+Mood Discovery Matrix: Contextual filtering by lighting, duration, and cognitive load
+Side-by-Side Comparison: Frame-accurate stream alignment with offset buffers
+Clipping Hub: Segment splicing with custom frame taxonomy and transcripts
+Viewing DNA Heatmap: Affinity graphs and preferred viewing range analytics
+Calendar Scheduler: Automated event pairing with backup harvesting
+Dynamic Export Suite
+Transform playlists into custom, self-contained web applications:
+
+TV Explorer Dashboard — Modern black grid interface with lazy-loading cards and fullscreen players
+VidGrid Monitor Wall — 9-channel parallel grid for multi-monitor sports/news viewing
+Retro TV Cabinet — Analog wood-grain home entertainment interface with animated channel transitions
+EPG Loop Display — Lightweight TV schedule with synchronized clocks and slide crossfades
+Multi-Language M3U Serializer — Automatic categorization by language (EN, ES, RU, etc.)
+Liberty Express Return Vector — Self-contained HTML apps with return anchor to host platform
+Smart HUD & Deep Linking
+Query Parameter Auto-Loading: Launch streams directly via ?stream=url&title=title
+Glassmorphic Floating HUD: Active countdowns, dynamic tags, clipboard sharing, and Theater Mode toggle
+🏗️ Architecture Overview
 
 
-## Features
+External Sources (HLS M3U8, IPTV M3U, XML)
+                ↓
+         Node.js Express Proxy
+         (CORS bypass, backpressure handling)
+                ↓
+         Refined Client Deck
+         (HLS.js buffering, M3U parsing, UI rendering)
+Technical Highlights
+Category Preservation: Extracts group-title attributes from M3U metadata to maintain playlist structure
+Memory Optimization: Formal stream destructuring when switching channels; pending requests terminated cleanly
+Decoupled Rendering: Isolated clock and playhead components reduce root application redraw overhead
+50MB HLS Buffer: Dynamic segment caching with automatic keyframe recovery
+📦 Installation & Setup
+Prerequisites
+Node.js 16+ and npm
+A modern web browser (Chrome, Firefox, Safari, Edge)
+Installation Steps
+bash
 
-- **Automated Updates**: Runs every 8 hours (approximately 05:30, 13:30, 21:30 IST) via GitHub Actions.
-- **Large Source Handling**: Processes large M3U files efficiently with streaming to minimize memory usage.
-- **Active Link Verification**: Checks links for availability using concurrent requests (50 workers).
-- **Duplicate Removal**: Ensures no duplicate streams (based on URL) are included.
-- **HTML Source Parsing**: Extracts streaming URLs from HTML pages, filtering out non-stream links (e.g., Telegram, GitHub).
-- **Multiple Export Formats**:
-  - `LiveTV.m3u`: Standard M3U playlist.
-  - `LiveTV.txt`: Human-readable text format with detailed channel info.
-  - `LiveTV.json`: Structured JSON with channel metadata.
-  - `LiveTV`: Custom JSON format without extension, designed for easy integration.
 
-## Exported File Formats
+# Install dependencies
+npm install
 
-### `LiveTV.m3u`
-Standard M3U playlist format:
-```
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VQVr4Nk.png" group-title="Entertainment",Adventure TV
-http://109.233.89.170/Adventure_HD/index.m3u8
-```
+# Build React bundle & Express backend
+npm run build
 
-### `LiveTV.txt`
-Readable text format:
-```
-Group: Entertainment
-Name: Adventure TV
-URL: http://109.233.89.170/Adventure_HD/index.m3u8
-Logo: https://i.imgur.com/VQVr4Nk.png
-Source: https://example.com/source.m3u
---------------------------------------------------
-```
+# Start the application
+npm run start
+The application will launch on http://localhost:3000
 
-### `LiveTV.json`
-Structured JSON with timestamp:
-```json
-{
-  "date": "2025-03-25 13:30:00",
-  "channels": {
-    "Entertainment": [
-      {
-        "name": "Adventure TV",
-        "logo": "https://i.imgur.com/VQVr4Nk.png",
-        "group": "Entertainment",
-        "source": "https://example.com/source.m3u",
-        "url": "http://109.233.89.170/Adventure_HD/index.m3u8"
-      }
-    ]
-  }
-}
-```
+⚙️ Configuration
+Create a .env file in your project root with the following variables:
 
-### `LiveTV` (Custom Format)
-Custom JSON list without extension:
-```json
-[
-  {
-    "name": "Adventure TV",
-    "type": "Entertainment",
-    "url": "http://109.233.89.170/Adventure_HD/index.m3u8",
-    "img": "https://i.imgur.com/VQVr4Nk.png"
-  }
-]
-```
+env
 
-## Setup Instructions
 
-### Prerequisites
-- A GitHub account and repository (`bugsfreeweb/LiveTVCollector`).
-- No local setup required; everything runs via GitHub Actions.
+# .env
+PORT=3000
+NODE_ENV=production
+Variable	Default	Description
+PORT	3000	Express server port for hosting and routing
+NODE_ENV	production	Build output mode (compressed CJS server bundle to /dist/server.cjs)
+🎬 Usage Guide
+Loading a Playlist
+Navigate to the Playlist tab
+Import an M3U file or paste a direct M3U URL
+Streams automatically categorize by group-title
+Use the search bar for real-time filtering
+Creating Custom Exports
+Select streams from your loaded playlist
+Choose an export format (Dashboard, Grid, Cabinet, etc.)
+Download the generated HTML file
+Open in any modern browser for instant playback
+Using the Audio Console
+Access via the Sirius Audio button
+Adjust EQ, enable spectrum visualization, loop segments
+Works in both Light and Dark themes
+Deep Linking
+Launch a stream directly with query parameters:
 
-### Steps
-1. **Clone or Fork**:
-   ```bash
-   git clone https://github.com/bugsfreeweb/LiveTVCollector.git
-   cd LiveTVCollector
-   ```
 
-2. **Customize Sources** (Optional):
-   - Edit `BugsfreeMain/Country Name.py` to update the `source_urls` list with additional CountryName-specific M3U sources.
 
-3. **Push Changes**:
-   ```bash
-   git add .
-   git commit -m "Initial setup or source update"
-   git push origin main
-   ```
+http://localhost:3000?stream=https://example.com/stream.m3u8&title=Stream%20Name
+⚠️ Limitations & Best Practices
+Limitation	Solution
+Playback stuttering or choppy video	Open the dashboard in a dedicated browser tab for full frame authority
+CORS-restricted streams fail to load	Ensure the Express Proxy option is enabled on custom servers
+High memory usage with large playlists	Monitor via Diagnostic Debug Terminal; reduce buffer size if needed
+Export compatibility	Test exported HTML files in target browsers before deployment
+Performance Tips
+Use the Diagnostic Debug Terminal to monitor buffer latency in real time
+Limit simultaneous streams in VidGrid to 9 for optimal performance
+Clear browser cache if export files don't update
+Enable Dark mode for reduced eye strain during extended use
+🔗 Project Structure
 
-4. **Verify Workflow**:
-   - Go to the "Actions" tab in your GitHub repository.
-   - The workflow "Country Name LiveTV Files" runs every 8 hours or can be triggered manually.
 
-## How It Works
+ajn-professional-player/
+├── src/
+│   ├── components/        # React UI components
+│   ├── hooks/             # Custom React hooks
+│   ├── utils/             # M3U parsers, HLS logic
+│   ├── styles/            # Theme & CSS modules
+│   └── App.jsx            # Main application container
+├── server/
+│   └── proxy.js           # Express CORS proxy
+├── dist/
+│   ├── client/            # Built React bundle
+│   └── server.cjs         # Compiled Node server
+├── .env.example           # Environment variable template
+└── package.json
+🚀 Tech Stack
+Frontend: React 18, Vite, hls.js
+Backend: Node.js, Express.js
+Media: HLS streaming, M3U playlists, EPG scheduling
+UI/UX: Glassmorphic design, responsive theming, spectrum visualization
+📝 License & Attribution
+This project integrates with Liberty Express (www.liberty-express.org) for hosted exports. All generated applications include a return anchor to the host platform.
 
-1. **Source Fetching**:
-   - Streams M3U files and parses HTML for streaming URLs.
-   - Uses `requests` with streaming to handle large files.
+🤝 Contributing
+Contributions are welcome. Please ensure:
 
-2. **Processing**:
-   - Removes duplicates based on stream URLs.
-   - Verifies link activity with concurrent HEAD/GET requests (5-second timeout).
+Code follows the existing component structure
+M3U parsing logic preserves category metadata
+Memory cleanup includes proper .detachMedia() calls
+Exports are tested in multiple browsers
+❓ FAQ
+Q: Can I use this with custom IPTV sources?
+A: Yes. Import any M3U playlist (local file or URL) and the parser will automatically categorize by group-title.
 
-3. **Exporting**:
-   - Saves active, unique channels to four files in `LiveTV/Country Name/`.
+Q: Does this work offline?
+A: The player requires an internet connection to stream live IPTV content. Exported HTML files can work offline if streams are pre-cached.
 
-4. **Automation**:
-   - GitHub Actions runs `BugsfreeMain/Country Name.py` every 8 hours (UTC: 00:00, 08:00, 16:00 ≈ IST: 05:30, 13:30, 21:30).
-   - Commits and pushes changes automatically using `GITHUB_TOKEN`.
+Q: How do I export for multiple languages?
+A: Use the Multi-Language M3U Serializer export option. The parser detects EN, ES, RU, and other language tags and splits accordingly.
 
-## Dependencies
+Q: What browsers are supported?
+A: Modern browsers (Chrome 90+, Firefox 88+, Safari 14+, Edge 90+). Older browsers may experience compatibility issues.
 
-Managed by GitHub Actions:
-- `requests`: For fetching M3U and HTML content.
-- `pytz`: For Mumbai timezone timestamps.
-- `beautifulsoup4`: For HTML parsing.
 
-Installed in the workflow:
-```bash
-pip install requests pytz beautifulsoup4
-```
 
-## Troubleshooting
 
-- **Empty Files**: Check the Actions logs for errors:
-  - "Error fetching [url]": Source might be down or inaccessible.
-  - "No channels parsed": Verify source format (`#EXTINF:` followed by URL).
-  - "Active channels after filtering: 0": Links may be timing out; increase `timeout` in `check_link_active`.
 
-- **Permissions Error**: Ensure `permissions: contents: write` is in `Country Name.yml`.
-
-- **Logs**: View detailed logs in the "Actions" tab to diagnose issues.
-
-## Contributing
-
-Feel free to:
-- Add more Country Name-specific sources to `BugsfreeMain/CountryName.py`.
-- Suggest improvements via issues or pull requests.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE) (add a `LICENSE` file if desired).
-
-## Disclaimer
-
-This project is intended solely for educational and research purposes. It aggregates publicly available streaming links from various sources on the internet for convenience and does not host, distribute, or provide any streaming content itself. The maintainers of this repository are not affiliated with the content providers or the streams listed in the exported files.
-
-- **Usage Responsibility**: Users are responsible for ensuring their use of the streaming links complies with local laws and regulations, including copyright and intellectual property rights.
-- **No Warranty**: The links provided are sourced from third-party repositories and may become unavailable or change without notice. This project offers no guarantee regarding the availability, quality, or legality of the streams.
-- **Content Ownership**: All streaming content belongs to its respective owners, and this project does not claim ownership or endorse any specific content.
-
-By using this repository or its generated files, you acknowledge and agree to these terms.
-
-## Usage Policy
-- Personal Use Only: These files are intended for personal, non-commercial use.
-- No Redistribution for Profit: Do not redistribute or sell these files for commercial purposes.
-- Respect Source Terms: Adhere to the terms of service of the original stream providers.
-- Attribution: If you share or use this data, please credit bugsfreeweb/LiveTVCollector.
-- Modification: Feel free to modify the files for personal use, but do not misrepresent them as official or endorsed content.
-
-## Donate the project
-- DOGE: <b>DEtH2yFUjjUEBUyd3scjs38X7S1Z7ee7zD</b>
-- BTC Lightening: <b>bugsfree@speed.app</b>
-- SOL: <b>bugsfree.sol</b>
