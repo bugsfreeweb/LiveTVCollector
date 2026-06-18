@@ -721,16 +721,6 @@ URL: http://31.148.48.15/A2/index.m3u8
 Logo: https://i.imgur.com/NqHla2V.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: НТВ Сериал (576p)
-URL: https://cdn.ntv.ru/th_serial/playlist.m3u8
-Logo: https://i.imgur.com/QdVa8tl.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: НТВ Хит (576p)
-URL: https://cdn.ntv.ru/th_hit/playlist.m3u8
-Logo: https://i.imgur.com/FfKBvz5.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Сапфир (720p)
 URL: http://31.148.48.15/Sapfir_HD/index.m3u8
 Logo: https://i.imgur.com/NMOBvle.png
@@ -2148,6 +2138,41 @@ URL: https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Kinopokaz HD (1080p)
+URL: http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Pro Lyubov (1080p)
+URL: http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Hit HD (1080p)
+URL: http://hls127.freeott.top:8080/XitHD/video.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kluch (576p)
+URL: http://hls127.freeott.top:8080/Kluch/video.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinoseriya (1080p)
+URL: http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: NTV-Hit (1080p)
+URL: https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: NTV Series (576p)
+URL: https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 
 Group: Undefined
 Name: 7TV (576p)
@@ -2398,47 +2423,47 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Шалун HD
-URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Exxxotica HD
-URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Blue Hustler
-URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Erox
-URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Brazzers TV Europe
-URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Red Lips HD
-URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Playboy TV
-URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Babes TV
-URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русская ночь
-URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3390,7 +3415,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Serial
-URL: http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3690,7 +3715,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Золотая Коллекция. Мосфильм
-URL: http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5767,7 +5792,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Диалоги о Рыбалке
-URL: http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5782,7 +5807,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Авто Плюс
-URL: http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE3NjU0ODAsImlhdCI6MTc4MTY3OTA4MCwiY2lkIjo2LCJ1aWQiOjEwNTYxMDU2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.hTcEhlQshMxwBegnjInLFDAAaVW9ZLRfQk_32mkvhBU&offset=10
+URL: http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODE4MDg2NjIsImlhdCI6MTc4MTcyMjI2MiwiY2lkIjo2LCJ1aWQiOjEwNTYyOTQ2NTEsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.791I-ClH5Pfk1ZY5HhqPk8gMFfonOImr3TQksBmwY4g&offset=10
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5917,7 +5942,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Загородный International
-URL: https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=mHZ0rg5-FBYYcHpPEfzCLA&e=2081679133&scheme=https
+URL: https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=gSJxGLq6AFU9bXREIO8Muw&e=2081722322&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7442,7 +7467,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: НТВ HD
-URL: https://edge02r.mediavitrina.ru/hls-livef5/ntv_msk/index.m3u8?token=v2.r1WFQcZNXWcmDMjoNb9PvvbjglfzsR9T2KeGBa8iSu0.YRG0O9JOSDkLLTjYOt0uaJxSMNZoJU_SZFP2CEDPb6M.1782315489.ca73e7452d0ac408dcf96235d6af27a7
+URL: https://edge02d.mediavitrina.ru/hls-livef5/ntv_msk/index.m3u8?token=v2.CUr_n_h7pP6opyK4ffWKdsp9kD6UXncFaNh45FVNouk.gFMiH6n6oq2DTiG_voF1-5IUzkc5uEF3VLMrrIq5C7Q.1782329889.c8cf0cb4b21a58860d6a916e8ea8297a
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7452,7 +7477,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТВЦ HD
-URL: https://edge03r.mediavitrina.ru/hls-livef6/tvc/index.m3u8?token=v2.Nf1Cpjx8nFbwyTluFUKniZGr37J4fJDAGzixJCBt5MM.fA5PRSs3UHCdGRJzXoAh-AG7Aa5eS35W1tlYVSGiPv8.1782315490.b6a8420ad6e8a4e9b060f5929e73d213
+URL: https://edge03r.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.TZ4C3F_v0LwGqyLhzXUcr6D_xSGlRh2IOp3rBwb5NfI.OpLS4qAab8qbSJY7pshpK9k1isnQarMdjWOrYJ2JtiA.1782329889.694415cf55c8d194f141156693dde84a
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7462,7 +7487,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Пятый канал HD
-URL: https://edge02p.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.-zMeCfFlCGouV4Zi03gdiFnc5COed29Rvm8DuueyXFQ.XNki0RiSfLP5VNMkMyXNnFMD1QKoaLOvJBHg8Bw4ngc.1782315489.ba39cafa1e83871428a18128ec3637e2
+URL: https://edge01p.mediavitrina.ru/hls-livef8/5tv/index.m3u8?token=v2.eVFVyJoceUHWRrekcaA9cjLDCAY6l7mPORupmBk3Fn0.BSA49xuFHpxDOfeqk8UFrzx7YioB72KHkch_jgi1VAc.1782329889.4eb3a3deef1ad8aaf798feb580435fb4
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7472,7 +7497,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Рен ТВ HD
-URL: https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.d9qWEB92czHDZiuS0EJHzB8yAlqCQiDO1jGb_Rb6Lmg.4G9mKXjLO3hsdIh0YC1ApIIdJiwuznIgsBdNRcVuW7s.1782315490.656faf945943d377032a07b4616a162a
+URL: https://edge01r.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.5oAbGJ__hTMoJf-m1U0WbwphB9Hd2BzuB0UmLzG-SYc.9Hua1-jwcjvbeVSazZvguZqOel7ZP2AmzZY5yuZj8kg.1782329889.3991fa21cf6991a9a4d06d6c3c449d32
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7482,7 +7507,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: СТС HD
-URL: https://edge02d.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.eAv__ECiFAUR1gr7TkuLPTzcoW9o59E-XXyog0XBy5M.l3DfbVu9uMtsoooLi1g62d_EgsNN_1ZT7jI6fNKYUV0.1782315490.34ed06172d7c355bc68a09c54374566e
+URL: https://edge01d.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.RqNTz1RGfHEEYLXVeyAn6R7o9kUfHnSmsUwxISDozfw.xmjyWKWUgOimgLQK3b4CjOLviQnkCsyRckse8PBhG9o.1782329890.d0266352a8c1983472103c8e5af14a7c
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7497,7 +7522,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТНТ HD
-URL: https://edge01r.mediavitrina.ru/hls-livef8/tnt/index.m3u8?token=v2.qSXb7Y0MNkoZfb3_Nlt7DDC2MvH1R9lcUi_Z8A3y4wg.0NnkRsA72j00YwohwA6yz7FwadsWcl1uecaV5t8znn0.1782315491.23f27a131ddd997614944c134dccc51d
+URL: https://edge02p.mediavitrina.ru/hls-livef7/tnt/index.m3u8?token=v2.z3ilZtMjYipYhVw1UcM4eJG6MeHcMSTuWDN3wGqTpS4.wFa6_4dJo8mICyk9YBqwUEqsIBhF37bCHbrKlD4XIl0.1782329891.f166eace14a23aeb8bc349d7100b7bcd
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7507,7 +7532,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТНТ4 HD
-URL: https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=3roNp1_5wuvEMmrKNp4o7g&e=2081679128&scheme=https
+URL: https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=3P97otrvsYBs9vpXdGa8Ww&e=2081722317&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7517,7 +7542,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Пятница! HD
-URL: https://edge01d.mediavitrina.ru/hls-livef7/friday/index.m3u8?token=v2.D4ug1OU7HtvZX94ZagHY1GLqd8pSCCx_nvOLFxPsxtQ.qbzITH8S94Zy3YXUILa9JaCvVRha3Z4j5vzxVINdC8o.1782315491.c1b0ae9df138458bb691a47bfab00bba
+URL: https://edge01d.mediavitrina.ru/hls-livef7/friday/index.m3u8?token=v2.D3uSt7QvpF9t3NlizO7ZSt0skWikZ4nQZIsc63LTui0.oQc682Ay12lHr0VO0rn9RqAZyO8VNvuVxLMw_0UvPLQ.1782329890.8320ab3f1e1207164d9dd80be8216e9b
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7532,7 +7557,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТВ3 HD
-URL: https://edge01d.mediavitrina.ru/hls-livef8/tv3/index.m3u8?token=v2._8mkR5upqxlCGUyVqrhuAEUnrOkTpeUYRbqPjCDeZxc.tbzVelYBhiJAB-YdXBCigK9tz1IIiVG1eD8V1bvK8-M.1782315490.d5c1cd2c15859b58738868963fde3f92
+URL: https://edge01p.mediavitrina.ru/hls-livef7/tv3/index.m3u8?token=v2.s9opCImQ3E3PnegQJHdE7ECfbDm_r3DCTgBTc9j35jA.L0GXJ6Bitw9OrIJpKGHaDDb3MBtCNmo_bf9wD0Oe0WM.1782329890.a8d43fa718821a65f72cad4994c5d312
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7572,7 +7597,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Домашний HD
-URL: https://edge02p.mediavitrina.ru/hls-livef5/ctc-dom/index.m3u8?token=v2.vI7oEq2pO_W0G_V1dZwCDEjThgiIBrZkgCGDLrBTRHM.rvcnthls7fLOt9xsOlRb4_Y5JjRnnFmtHluiIPrTZM4.1782315490.ceb4ff2f1d210905a45cc50ddd81dd2a
+URL: https://edge01p.mediavitrina.ru/hls-livef5/ctc-dom/index.m3u8?token=v2.JMLFwe5G0Ke02SiWoAqUuqIp8oDvbeGO7cAOsuMAo5M.7hVKqazinA9K47liDdoH94T3jx60Ike9_BxVwlc9WO4.1782329890.65a382c58c1c12bb53c68d737352f5b6
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7587,7 +7612,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ОТР
-URL: https://edge03p.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.qkhuJdlSxjceYaEgPhLSwXkF_DShnl_1NdwJJc4yH-E.z1GsS-hoQC1Lz9tniXBS1KsYuYwSrB-0ozSoRT-RdiI.1782315489.e60e5cefa42e8cec0ce0c89895320018
+URL: https://edge03d.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.OyOSRUSTSARAxXF5riSC_Ho7dWY_0aTv1G2MaQxo87s.S_cRRR-NIQNm7GQ1Ra486XmO_dte-5OSl5188FUWzAI.1782329889.723c070d40c74d6e8543a89fd93f4410
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7629,7 +7654,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Матч! HD
-URL: https://edge02r.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.oyXJqD0W___wD3A2aNgEy8a3lWm9DVVHETocRoiX92I.M_ZjveCn1pMqSndGb4oI-ZT_kaQ6sfY31QJY0S-EHc4.1782315489.17dcc212a36601fafc338a9f754acc76
+URL: https://edge05p.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.kXNHTAgyk1fxeSc02na-NFqG2feB0VLopka7RnhFEwg.LxEB6RLtmBly_MqO-dNo7inDWJqiS3H7BnZHCKNNPzg.1782329889.cc58b9e924be45acddf1ef390d07e74e
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
