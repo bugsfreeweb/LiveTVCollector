@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18 23:54:57",
+  "date": "2026-06-19 09:45:34",
   "channels": {
     "General": [
       {
@@ -66,6 +66,13 @@
         "url": "https://live.obslivestream.com/crtvmux/index.m3u8"
       },
       {
+        "name": "Doble C Television (720p)",
+        "logo": "https://i.imgur.com/2zCD4TB.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8"
+      },
+      {
         "name": "ECO Television",
         "logo": "https://i.imgur.com/ly1KU6w.png",
         "group": "General",
@@ -92,13 +99,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
-      },
-      {
-        "name": "Mega TV Arequipa (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/q34E9V4.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://mc.servidor.stream:19360/megatv/megatv.m3u8"
       },
       {
         "name": "Mega TV Jaen (720p) [Not 24/7]",
@@ -143,11 +143,11 @@
         "url": "http://vps.chasquirouter.com/salida/ozono.m3u8"
       },
       {
-        "name": "Primavera 15",
-        "logo": "https://i.imgur.com/wsJ8Ag2.png",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Panamericana TV (1080p)",
+        "logo": "https://i.imgur.com/uQhEDES.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://servilive.com:3538/live/v6qe84b6flive.m3u8"
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8"
       },
       {
         "name": "RadioTV Oriente (720p)",
@@ -185,18 +185,18 @@
         "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
       },
       {
-        "name": "Trivu (1080p) [Not 24/7]",
+        "name": "Trivu (720p)",
         "logo": "https://i.imgur.com/QrUYjOS.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
       },
       {
-        "name": "TV Cosmos (720p) [Not 24/7]",
+        "name": "TV Cosmos (720p)",
         "logo": "https://i.imgur.com/nr4ctt4.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
+        "url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8"
       },
       {
         "name": "TV Peru (1080p)",
@@ -204,20 +204,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://181.119.93.83:8000/play/a25t/index.m3u8"
-      },
-      {
-        "name": "TV Peru Internacional (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/960px-TV_Per%C3%BA_Internacional_2019_-_copia.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8"
-      },
-      {
-        "name": "TV Sistemas Cuzco (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/yo1oTIh.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8"
       },
       {
         "name": "Unitel (1080p)",
@@ -260,13 +246,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
-      },
-      {
-        "name": "Latina",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png",
-        "group": "General",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8"
       }
     ],
     "Entertainment": [
@@ -276,6 +255,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",FX Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8"
       },
       {
         "name": "Impacto Televisión (360p) [Not 24/7]",
@@ -290,13 +276,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
-      },
-      {
-        "name": "Panc TV Peru (1080p)",
-        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://panel.host-live.com:19360/20000/20000.m3u8"
       }
     ],
     "Culture": [
@@ -338,6 +317,13 @@
         "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
       },
       {
+        "name": "PBO (720p)",
+        "logo": "https://i.imgur.com/vBpxX4S.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8"
+      },
+      {
         "name": "Red de Comunicación Regional (RCR) (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/A8TRPrF.png",
         "group": "News",
@@ -357,13 +343,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live.obslivestream.com/selvatv/index.m3u8"
-      },
-      {
-        "name": "TV Peru Noticias (360p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
       },
       {
         "name": "VNP",
@@ -387,13 +366,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://servilive.com:3028/live/jntv19live.m3u8"
-      },
-      {
-        "name": "Unife TV",
-        "logo": "https://i.imgur.com/lVpDLVU.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
       }
     ],
     "Undefined": [
@@ -410,13 +382,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live.obslivestream.com/controversiatv/index.m3u8"
-      },
-      {
-        "name": "Planeta TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mL3lLAF.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live.obslivestream.com/planetatv/index.m3u8"
       },
       {
         "name": "RN Televisión (720p) [Not 24/7]",
@@ -447,20 +412,6 @@
         "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
       },
       {
-        "name": "Telesur Camana [Not 24/7]",
-        "logo": "https://i.imgur.com/bbhgIN4.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://telesurnew.b-cdn.net/hls/camana.m3u8"
-      },
-      {
-        "name": "Telesur Moquegua [Not 24/7]",
-        "logo": "https://i.imgur.com/bbhgIN4.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://telesurnew.b-cdn.net/hls/moquegua.m3u8"
-      },
-      {
         "name": "Uranio TV (Yurimaguas) (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/EeNpfIr.png",
         "group": "Undefined",
@@ -473,22 +424,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live.obslivestream.com/vivatv/index.m3u8"
-      },
-      {
-        "name": "Agro TV (Cusco)",
-        "logo": "https://i.imgur.com/ZbeefkQ.png",
-        "group": "Undefined",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/chunks.m3u8"
-      }
-    ],
-    "Family": [
-      {
-        "name": "Canal IPe (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png",
-        "group": "Family",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8"
       }
     ],
     "Comedy": [
@@ -507,20 +442,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
-      },
-      {
-        "name": "L1 Max (720p)",
-        "logo": "https://i.imgur.com/2fziU2B.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
-      },
-      {
-        "name": "Monterrico TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/SuVO9T7.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8"
       },
       {
         "name": "Ovacion TV (720p) [Not 24/7]",
@@ -562,13 +483,6 @@
         "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
       },
       {
-        "name": "Prattel TV",
-        "logo": "https://new.opencaster.com/uploads/logos/logo_244_1761928734.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://vs20.live.opencaster.com/prattelpe_a2b8d350/index.m3u8"
-      },
-      {
         "name": "Radio Master (720p)",
         "logo": "https://i.imgur.com/AUoxyzP.png",
         "group": "Music",
@@ -581,13 +495,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
-      },
-      {
-        "name": "Radio TV Tendencias (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/tsdrrV9.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://s1.tvdatta.com:3950/multi_web/play.m3u8"
       },
       {
         "name": "Retro Plus 2 (720p)",
@@ -1028,13 +935,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://v4.tustreaming.cl/tvplus/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "78 | TV COSMOS |",
-        "logo": "https://i.imgur.com/ypmbpLu.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8"
       },
       {
         "name": "79 | MASTER TV |",
