@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18 23:53:35",
+  "date": "2026-06-19 09:11:01",
   "channels": {
     "News": [
       {
@@ -36,6 +36,13 @@
         "group": "News",
         "source": "https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_92430.m3u",
         "url": "https://1a-1791.com/live/r31jzt5k/slot-32/qyp9-ih3g_360p/chunklist_DVR.m3u8"
+      },
+      {
+        "name": "Canal I (1080p)",
+        "logo": "https://i.imgur.com/vKfOavW.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://streaming.canal-i.com/canal-i/live/master.m3u8"
       },
       {
         "name": "Telesur (480p)",
@@ -443,6 +450,13 @@
         "url": "https://vcp.myplaytv.com/panavision/panavision/chunklist_w1563195636.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",FX Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8"
+      },
+      {
         "name": "Guaro TV (720p)",
         "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
         "group": "Entertainment",
@@ -785,6 +799,15 @@
         "group": "Extra Channels - World;News",
         "source": "https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u",
         "url": "https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinecanal (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8"
       }
     ],
     "Comedy": [
