@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-19 23:32:43",
+  "date": "2026-06-20 09:36:26",
   "channels": {
     "Series": [
       {
@@ -487,6 +487,13 @@
         "url": "https://stream.ecable.tv/afrobeats/index.m3u8"
       },
       {
+        "name": "Clubbing TV UK (720p)",
+        "logo": "https://i.imgur.com/MyiA92q.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8"
+      },
+      {
         "name": "Now 70s (720p)",
         "logo": "https://i.imgur.com/qiCCX5X.png",
         "group": "Music",
@@ -841,6 +848,13 @@
         "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd"
       },
       {
+        "name": "BBC One London HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://193.46.58.239:8080/BBCOneHD/index.m3u8"
+      },
+      {
         "name": "BBC One North East (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
         "group": "General",
@@ -1028,6 +1042,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://x.canlitvapp.com/u-channel-5/index.m3u8"
+      },
+      {
+        "name": "Channel 5 HD (720p)",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://193.46.58.239:8080/Channel5/index.m3u8"
       },
       {
         "name": "Deen TV (576p) [Not 24/7]",
@@ -1225,6 +1246,15 @@
         "group": "Culture;Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
+      }
+    ],
+    "Animation;General;Kids": [
+      {
+        "name": "BBC Four/CBeebies (720p)",
+        "logo": "https://i.imgur.com/aH0PCPy.png",
+        "group": "Animation;General;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8"
       }
     ],
     "Undefined": [
@@ -1572,6 +1602,15 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd"
+      }
+    ],
+    "Animation;Family;Kids": [
+      {
+        "name": "BBC Three/CBBC (720p)",
+        "logo": "https://i.imgur.com/CGXC5fp.png",
+        "group": "Animation;Family;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://193.46.58.239:8080/CBBCHD/index.m3u8"
       }
     ],
     "Culture": [
