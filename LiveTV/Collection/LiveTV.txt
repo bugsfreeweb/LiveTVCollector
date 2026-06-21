@@ -119,13 +119,6 @@ Logo: https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: DE cooking
-Name: just COOKING DE
-URL: https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/a4d767b0-82b8-92c2-62ef-945f929580f2/d/manifest.m3u8
-Logo: https://static.epg.best/de/justcooking.de.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: DE generalist
 Name: ARD1 Das Erste HD
 URL: https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
@@ -148,13 +141,6 @@ Logo: https://picserve.netplus.ch/channels/bralpha.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
-Group: DE music
-Name: DELUXE DLX DEUTSCHPOP DE
-URL: https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/0154408e-ad77-745f-d252-bc7cc2ee3e3e/d/manifest.m3u8
-Logo: https://static.epg.best/de/dlxdeutschpop.de.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: DE news
 Name: WeLT
 URL: https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
@@ -166,18 +152,6 @@ Group: DE news sport
 Name: AUTO MOTOR SPORT DE HD
 URL: https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8
 Logo: https://static.epg.best/de/automotorsport.de.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: DE wild
-Name: One TERRA DE
-URL: https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/d2b407bf-6d21-839b-f212-9cc563222254/d/manifest.m3u8
-Logo: https://static.epg.best/de/oneterra.de.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: HOHENRAUSCH DE
-URL: https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/2a615042-f13f-1e13-f9ea-7fa9da8953bf/d/manifest.m3u8
-Logo: https://static.epg.best/de/hohenrausch.de.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -417,6 +391,13 @@ Logo: https://picserve.netplus.ch/channels/aljazeera.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
+Group: UK sport
+Name: FAST & FUNBOX HD
+URL: https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+Logo: https://static.epg.best/de/funbox.uk.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
 Group: Uncategorized
 Name: RTS 1 HD 1080p
 URL: https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
@@ -469,7 +450,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: Léman bleu HD
-URL: https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
+URL: https://lemanbleu.vedge.infomaniak.com/livecast/ik:lemanbleu/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
