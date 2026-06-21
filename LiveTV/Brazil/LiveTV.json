@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-20 22:52:07",
+  "date": "2026-06-21 09:13:13",
   "channels": {
     "Uncategorized": [
       {
@@ -1827,6 +1827,13 @@
         "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
       },
       {
+        "name": "TVLatinaSat (720p)",
+        "logo": "https://latinasat.com.br/logo.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
+      },
+      {
         "name": "TVNBN (720p)",
         "logo": "https://i.imgur.com/zoHBxn1.png",
         "group": "General",
@@ -2446,6 +2453,13 @@
         "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
       },
       {
+        "name": "GloboNews (720p)",
+        "logo": "https://i.imgur.com/3yZyaCm.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://41.205.70.146/GLOBONEWS/index.m3u8"
+      },
+      {
         "name": "GNT (1080p)",
         "logo": "https://i.imgur.com/XymcvMy.png",
         "group": "News",
@@ -2625,6 +2639,155 @@
         "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8"
       }
     ],
+    "Sports": [
+      {
+        "name": "Band Sports (1080p)",
+        "logo": "https://i.imgur.com/EuPvzJe.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
+      },
+      {
+        "name": "Canal do Inter (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/TQFWEIS.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
+      },
+      {
+        "name": "CazeTV (1080i)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+      },
+      {
+        "name": "Combate Global",
+        "logo": "https://i.imgur.com/ZPYK5jr.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960"
+      },
+      {
+        "name": "FIFA+ Portuguese (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "ge Fast (1080p)",
+        "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Pluto TV Esportes",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
+      },
+      {
+        "name": "Premiere FC 1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 4",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 5",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 6",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 7",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "Premiere FC 8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "SporTV (1280p)",
+        "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "SporTV 2 (1280p)",
+        "logo": "https://i.imgur.com/pBiUnb2.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "SporTV 2 Alternativo (720p)",
+        "logo": "https://i.imgur.com/aoMlRgP.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/19025/video.m3u8"
+      },
+      {
+        "name": "SporTV 3 (1080p)",
+        "logo": "https://i.imgur.com/mWOR8pi.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+      },
+      {
+        "name": "SporTV Alternativo (720p)",
+        "logo": "https://i.imgur.com/8M5dLEb.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stm.sinalmycn.com/19024/video.m3u8"
+      },
+      {
+        "name": "TVMatic Fight (720p)",
+        "logo": "https://i.imgur.com/l5PBcKN.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://cdn.tvmatic.net/fight.m3u8"
+      }
+    ],
     "Entertainment": [
       {
         "name": "BDC TV (576p)",
@@ -2765,148 +2928,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8"
-      }
-    ],
-    "Sports": [
-      {
-        "name": "Canal do Inter (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/TQFWEIS.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
-      },
-      {
-        "name": "CazeTV (1080i)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-      },
-      {
-        "name": "Combate Global",
-        "logo": "https://i.imgur.com/ZPYK5jr.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960"
-      },
-      {
-        "name": "FIFA+ Portuguese (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "ge Fast (1080p)",
-        "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Pluto TV Esportes",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
-      },
-      {
-        "name": "Premiere FC 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 6",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 7",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "Premiere FC 8",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "SporTV (1280p)",
-        "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "SporTV 2 (1280p)",
-        "logo": "https://i.imgur.com/pBiUnb2.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "SporTV 2 Alternativo (720p)",
-        "logo": "https://i.imgur.com/aoMlRgP.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/19025/video.m3u8"
-      },
-      {
-        "name": "SporTV 3 (1080p)",
-        "logo": "https://i.imgur.com/mWOR8pi.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-      },
-      {
-        "name": "SporTV Alternativo (720p)",
-        "logo": "https://i.imgur.com/8M5dLEb.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stm.sinalmycn.com/19024/video.m3u8"
-      },
-      {
-        "name": "TVMatic Fight (720p)",
-        "logo": "https://i.imgur.com/l5PBcKN.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://cdn.tvmatic.net/fight.m3u8"
       }
     ],
     "Education": [
