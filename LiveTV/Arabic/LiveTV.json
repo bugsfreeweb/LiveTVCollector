@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-21 22:52:59",
+  "date": "2026-06-22 09:04:02",
   "channels": {
     "General": [
       {
@@ -528,11 +528,11 @@
         "url": "http://htvint.mada.ps:8889/orient/index.m3u8"
       },
       {
-        "name": "Zagros (720p) [Not 24/7]",
+        "name": "Zagros TV (1080p)",
         "logo": "https://i.imgur.com/9Mspf32.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+        "url": "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8"
       },
       {
         "name": "Zarin TV (1080p)",
@@ -1770,6 +1770,13 @@
         "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8"
       },
       {
+        "name": "Disney Junior MENA (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8"
+      },
+      {
         "name": "MBC 3 USA (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/PVt8OPN.png",
         "group": "Kids",
@@ -2484,6 +2491,29 @@
         "url": "https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8"
       }
     ],
+    "Kids;Religious": [
+      {
+        "name": "God Stands Kids Club TV Arabic",
+        "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+        "group": "Kids;Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
+      },
+      {
+        "name": "Koogi TV (1080p)",
+        "logo": "https://i.imgur.com/zojMTP9.png",
+        "group": "Kids;Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+      },
+      {
+        "name": "Sat 7 Kids (1080p)",
+        "logo": "https://i.imgur.com/M0ik0i2.png",
+        "group": "Kids;Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
+      }
+    ],
     "General;Religious": [
       {
         "name": "Holy Quran Radio (1080p)",
@@ -2530,22 +2560,6 @@
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8"
-      }
-    ],
-    "Kids;Religious": [
-      {
-        "name": "Koogi TV (1080p)",
-        "logo": "https://i.imgur.com/zojMTP9.png",
-        "group": "Kids;Religious",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
-      },
-      {
-        "name": "Sat 7 Kids (1080p)",
-        "logo": "https://i.imgur.com/M0ik0i2.png",
-        "group": "Kids;Religious",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
       }
     ],
     "Classic": [
