@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23 00:31:46",
+  "date": "2026-06-23 07:25:24",
   "channels": {
     "Uncategorized": [
       {
@@ -1897,6 +1897,29 @@
         "url": "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8"
       }
     ],
+    "Movies": [
+      {
+        "name": "AXN Latin America Mexico",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8"
+      },
+      {
+        "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/Hiz2OyC.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Filmex Clásico (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/D3dj4mv.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
+      }
+    ],
     "Undefined": [
       {
         "name": "Canal 10 Cancún (720p) [Not 24/7]",
@@ -1918,6 +1941,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8"
+      },
+      {
+        "name": "Panico (576p)",
+        "logo": "https://i.imgur.com/XOJzlfS.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8"
       },
       {
         "name": "RCG TV (1080p)",
@@ -2205,6 +2235,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
+      },
+      {
+        "name": "Nick Jr. Latin America (1080p)",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
       }
     ],
     "Culture": [
@@ -2278,6 +2315,13 @@
         "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8"
       },
       {
+        "name": "MTV Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://179.60.51.134:8888/MTV/index.m3u8"
+      },
+      {
         "name": "Teleplay Sureste (720p)",
         "logo": "https://i.imgur.com/MeV5N08.png",
         "group": "Entertainment",
@@ -2297,22 +2341,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
-      }
-    ],
-    "Movies": [
-      {
-        "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/Hiz2OyC.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Filmex Clásico (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/D3dj4mv.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
       }
     ],
     "Animation;Culture;Entertainment": [
