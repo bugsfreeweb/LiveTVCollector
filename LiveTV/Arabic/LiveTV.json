@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23 00:51:51",
+  "date": "2026-06-23 08:18:50",
   "channels": {
     "General": [
       {
@@ -29,6 +29,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+      },
+      {
+        "name": "Abu Dhabi TV",
+        "logo": "https://i.imgur.com/8DAriPs.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://185.9.2.18/chid_326/index.m3u8"
       },
       {
         "name": "Ajman TV (1080p)",
@@ -87,11 +94,18 @@
         "url": "http://185.9.2.18/chid_391/mono.m3u8"
       },
       {
-        "name": "Al Maghribia (480p)",
+        "name": "Al Maghribia (1080p)",
         "logo": "https://i.imgur.com/7GaahYh.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://snrtworker.kharazbelaid.workers.dev/?id=almaghribia.m3u8"
+        "url": "http://185.9.2.18/chid_205/index.m3u8"
+      },
+      {
+        "name": "Al Masriyah (1080p)",
+        "logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://185.9.2.18/chid_247/index.m3u8"
       },
       {
         "name": "Al Rasheed TV (1080p) [Not 24/7]",
@@ -192,6 +206,13 @@
         "url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8"
       },
       {
+        "name": "Dubai TV International (1080p)",
+        "logo": "https://i.imgur.com/UMmbyHv.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://185.9.2.18/chid_139/index.m3u8"
+      },
+      {
         "name": "El Watania 1 (1080i)",
         "logo": "https://i.imgur.com/gNr2V14.png",
         "group": "General",
@@ -262,13 +283,6 @@
         "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8"
       },
       {
-        "name": "Ishtar TV (1080p)",
-        "logo": "https://i.imgur.com/qzApokm.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8"
-      },
-      {
         "name": "Jordan Satellite Channel (1080p)",
         "logo": "https://i.imgur.com/0XozB5N.png",
         "group": "General",
@@ -316,6 +330,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8"
+      },
+      {
+        "name": "LBC International",
+        "logo": "https://i.imgur.com/h26xtUv.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://185.9.2.18/chid_327/index.m3u8"
       },
       {
         "name": "Libya Al Wataniya (360p)",
@@ -505,6 +526,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://alpha.tv.online.tm/hls/ch007.m3u8"
+      },
+      {
+        "name": "TV2 (1080p)",
+        "logo": "https://i.imgur.com/VEb631f.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://185.9.2.18/chid_347/index.m3u8"
       },
       {
         "name": "Wasat TV (1080p)",
@@ -2521,6 +2549,15 @@
         "group": "General;Religious",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://aloula-redirect.vercel.app/13/playlist.m3u8"
+      }
+    ],
+    "Culture;Music;Religious": [
+      {
+        "name": "Ishtar TV (1080p)",
+        "logo": "https://i.imgur.com/qzApokm.png",
+        "group": "Culture;Music;Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8"
       }
     ],
     "Comedy": [
