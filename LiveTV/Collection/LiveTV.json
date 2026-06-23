@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23 00:47:49",
+  "date": "2026-06-23 07:33:33",
   "channels": {
     "Uncategorized": [
       {
@@ -2353,6 +2353,22 @@
         "url": "https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8"
       }
     ],
+    "DE news": [
+      {
+        "name": "euronews. deutsch HD",
+        "logo": "https://static.epg.best/de/euronews.de.png",
+        "group": "DE news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://amg00882-amg00882c3-wedotv-eu-4535.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "WeLT",
+        "logo": "https://picserve.netplus.ch/channels/n24.png",
+        "group": "DE news",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8"
+      }
+    ],
     "CH Regional": [
       {
         "name": "Canal9 FHD",
@@ -2486,15 +2502,6 @@
         "group": "DE generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
-      }
-    ],
-    "DE news": [
-      {
-        "name": "WeLT",
-        "logo": "https://picserve.netplus.ch/channels/n24.png",
-        "group": "DE news",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8"
       }
     ],
     "UK news": [
