@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23 00:50:39",
+  "date": "2026-06-23 08:08:45",
   "channels": {
     "News": [
       {
@@ -229,6 +229,13 @@
         "url": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
       },
       {
+        "name": "Globovision (576p)",
+        "logo": "https://i.imgur.com/v6nRdxQ.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.8.199:8000/play/a09k/index.m3u8"
+      },
+      {
         "name": "Grande TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/jxCirrP.png",
         "group": "General",
@@ -313,6 +320,13 @@
         "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
       },
       {
+        "name": "Televen (576p)",
+        "logo": "https://i.imgur.com/cxvkUvK.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.8.199:8000/play/a09j/index.m3u8"
+      },
+      {
         "name": "Torococo TV (720p) [Not 24/7]",
         "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
         "group": "General",
@@ -362,11 +376,11 @@
         "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8"
       },
       {
-        "name": "Venevision (480p)",
+        "name": "Venevision (576p)",
         "logo": "https://i.imgur.com/gm1m8hW.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8"
+        "url": "http://181.78.8.199:8000/play/a0if/index.m3u8"
       },
       {
         "name": "Venevisión Internacional (720p)",
@@ -374,6 +388,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+      },
+      {
+        "name": "Venezolana de Television (576p)",
+        "logo": "https://i.imgur.com/FeRTDqz.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.8.199:8000/play/a091/index.m3u8"
       }
     ],
     "Music": [
@@ -471,11 +492,25 @@
         "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
       },
       {
+        "name": "La Tele Tuya (576p)",
+        "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8"
+      },
+      {
         "name": "Más Talk (1080p)",
         "logo": "https://i.imgur.com/unE2LGz.jpg",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
+      },
+      {
+        "name": "MTV Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://179.60.51.134:8888/MTV/index.m3u8"
       },
       {
         "name": "Norteña TV (576p)",
@@ -582,11 +617,11 @@
         "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
       },
       {
-        "name": "Meridiano TV (480p)",
+        "name": "Meridiano TV (576p)",
         "logo": "https://i.imgur.com/I6gsUqD.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
+        "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8"
       }
     ],
     "HD": [
@@ -821,6 +856,20 @@
     ],
     "Animation;Kids": [
       {
+        "name": "Disney Channel Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8"
+      },
+      {
+        "name": "Disney Channel Latin America Center (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8"
+      },
+      {
         "name": "Disney Channel Latin America Panregional HD (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
         "group": "Animation;Kids",
@@ -842,6 +891,15 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Nickelodeon Latin America (1080p)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://179.60.51.134:8888/NICK/index.m3u8"
       }
     ],
     "Movies;Series": [
