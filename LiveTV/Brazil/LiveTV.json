@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23 23:18:51",
+  "date": "2026-06-24 08:21:09",
   "channels": {
     "Uncategorized": [
       {
@@ -2043,6 +2043,13 @@
         "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
       },
       {
+        "name": "Bis (1080p)",
+        "logo": "https://i.imgur.com/VUt1lmH.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/BIS_HD/index.m3u8"
+      },
+      {
         "name": "Boas Novas (1080p)",
         "logo": "https://i.imgur.com/ZqhizdP.png",
         "group": "Undefined",
@@ -2069,6 +2076,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://170.82.202.31/Viva/index.m3u8"
+      },
+      {
+        "name": "Megapix (1080p)",
+        "logo": "https://i.imgur.com/qTYv5jt.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/Megapix_HD/index.m3u8"
       },
       {
         "name": "Nova Era TV (1080p) [Not 24/7]",
@@ -2225,11 +2239,11 @@
         "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
       },
       {
-        "name": "TV Globo Sao Paulo (720p)",
+        "name": "TV Globo Sao Paulo (1080p)",
         "logo": "https://i.imgur.com/OoSUg78.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8"
+        "url": "http://187.62.68.32:8080/GLOBO/index.m3u8"
       },
       {
         "name": "TV Guará (720p) [Not 24/7]",
@@ -2321,6 +2335,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://cdn.tvmatic.net/tiktok.m3u8"
+      },
+      {
+        "name": "WooHoo (1080p)",
+        "logo": "https://i.imgur.com/me622pa.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/Woohoo_HD/index.m3u8"
       }
     ],
     "Religious": [
@@ -2481,11 +2502,11 @@
         "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
       },
       {
-        "name": "GloboNews (720p)",
+        "name": "GloboNews (1080p)",
         "logo": "https://i.imgur.com/3yZyaCm.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://41.205.70.146/GLOBONEWS/index.m3u8"
+        "url": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8"
       },
       {
         "name": "GNT (1080p)",
@@ -2586,6 +2607,29 @@
         "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
       }
     ],
+    "Culture": [
+      {
+        "name": "Arte 1 (1080p)",
+        "logo": "https://i.imgur.com/Ivnk7A6.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/Arte_1_HD/index.m3u8"
+      },
+      {
+        "name": "TV das Artes (360p)",
+        "logo": "https://i.imgur.com/fSWaiKt.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8"
+      },
+      {
+        "name": "TV Life America (720p)",
+        "logo": "https://i.imgur.com/HZI0ilU.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+      }
+    ],
     "Classic;Series": [
       {
         "name": "AWTV (1080p) [Geo-blocked]",
@@ -2604,11 +2648,11 @@
         "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8"
       },
       {
-        "name": "Gloob (576p)",
+        "name": "Gloob (1080p)",
         "logo": "https://i.imgur.com/N1BUULh.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.235.0.78/Gloob/playlist.m3u8"
+        "url": "http://143.14.178.40:7777/Gloob_HD/index.m3u8"
       },
       {
         "name": "Gloob Web [Not 24/7]",
@@ -2616,6 +2660,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8"
+      },
+      {
+        "name": "Gloobinho (1080p)",
+        "logo": "https://i.imgur.com/UWkHErt.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/Gloobinho_HD/index.m3u8"
       },
       {
         "name": "Nick Jr. Club (720p)",
@@ -2886,6 +2937,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
+      },
+      {
+        "name": "Multishow (1080p)",
+        "logo": "https://i.imgur.com/bqVg8nT.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/Multishow_HD/index.m3u8"
       },
       {
         "name": "Pluto TV Canal UOL (720p)",
@@ -3326,6 +3384,13 @@
         "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
       },
       {
+        "name": "Music Box Brazil (1080p)",
+        "logo": "https://i.imgur.com/CDPCF2X.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://143.14.178.40:7777/Music_Box_HD/index.m3u8"
+      },
+      {
         "name": "Pluto TV Karaokê por Stingray (720p)",
         "logo": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",
         "group": "Music",
@@ -3541,22 +3606,6 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8"
-      }
-    ],
-    "Culture": [
-      {
-        "name": "TV das Artes (360p)",
-        "logo": "https://i.imgur.com/fSWaiKt.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8"
-      },
-      {
-        "name": "TV Life America (720p)",
-        "logo": "https://i.imgur.com/HZI0ilU.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
       }
     ],
     "Entertainment;General;News": [
