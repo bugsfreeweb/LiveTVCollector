@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-24 23:30:52",
+  "date": "2026-06-25 09:35:21",
   "channels": {
     "TV": [
       {
@@ -7756,7 +7756,7 @@
         "logo": "https://i.imgur.com/C9rxqA5.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8"
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8"
       }
     ],
     "Kids": [
@@ -7805,27 +7805,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "Sport TV1",
-        "logo": "https://i.imgur.com/YWic36u.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e"
-      },
-      {
-        "name": "Sport TV5",
-        "logo": "https://i.imgur.com/4w4vuad.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd"
-      },
-      {
-        "name": "Sport TV7",
-        "logo": "https://i.imgur.com/2HmCAm5.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://test.946985.filegear-sg.me/proxy/a8c7608240dec023"
       }
     ],
     "Animation;Kids;Religious": [
@@ -7904,11 +7883,11 @@
         "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
       },
       {
-        "name": "SIC (1080p)",
+        "name": "SIC (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/SPMqiDG.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8"
+        "url": "https://sic.live.impresa.pt/sic.m3u8"
       },
       {
         "name": "TVI (720p)",
@@ -7922,7 +7901,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8"
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8"
       }
     ],
     "Series": [
@@ -7931,7 +7910,7 @@
         "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8"
       }
     ],
     "Buy me a Coffee": [
@@ -8012,7 +7991,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDk6NTE6NTkgUE0maGFzaF92YWx1ZT1BTlY0V1BwUXJOaGszSzFNTGRzR0dRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWIwNzRiNzItNWI3OS00YjBjLWFjOGYtZGU5NmJlNzBlYzU2/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -8026,7 +8005,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDk6NTE6NTggUE0maGFzaF92YWx1ZT05czU5ZTdJL0UySzVpc0kyRktjVXlRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTI1NGFjYmYtNmE1My00NDk2LWIxN2QtZTVlNjk2NzBiOWI1/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -8140,7 +8119,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDk6NTE6NTggUE0maGFzaF92YWx1ZT1VN2N6c3hDNFRFRW5kcVI0ZURVSmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWQ3ZmJkYzQtNWM3OC00YzkwLTljYzgtNjY0OTI3ZjA4ZDdm/"
       },
       {
         "name": "Euronews 🇵🇹",
