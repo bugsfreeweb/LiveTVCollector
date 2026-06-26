@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-25 23:35:35",
+  "date": "2026-06-26 08:13:58",
   "channels": {
     "News": [
       {
@@ -306,11 +306,11 @@
         "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
       },
       {
-        "name": "TAM TV (720p)",
+        "name": "TAM TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://tv.webtuya.com:3726/hybrid/play.m3u8"
+        "url": "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
       },
       {
         "name": "Teleboconó (720p) [Not 24/7]",
@@ -439,6 +439,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8"
+      },
+      {
+        "name": "LaPuraCrema Television",
+        "logo": "https://i.imgur.com/EJf1eRt.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8"
       },
       {
         "name": "Oxigeno TV (360p) [Not 24/7]",
@@ -585,6 +592,13 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
+      },
+      {
+        "name": "Diaspora TV",
+        "logo": "https://i.imgur.com/lppmyxD.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8"
       }
     ],
     "Sports": [
