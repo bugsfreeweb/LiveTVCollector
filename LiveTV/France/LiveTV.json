@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-27 22:22:36",
+  "date": "2026-06-28 07:30:53",
   "channels": {
     "General": [
       {
@@ -736,6 +736,13 @@
         "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8"
       },
       {
+        "name": "RMC Decouverte (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://41.205.77.102/RMCDECOUVERTE/index.m3u8"
+      },
+      {
         "name": "RMC Story (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png",
         "group": "Undefined",
@@ -922,6 +929,13 @@
         "url": "https://jmp2.uk/plu-66588931a3865300085ca800.m3u8"
       },
       {
+        "name": "Canal J HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://41.205.77.102/CANALJ/index.m3u8"
+      },
+      {
         "name": "Disney Jr. (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
         "group": "Kids",
@@ -941,6 +955,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://99.27.51.147:8080/Gulli/index.m3u8"
+      },
+      {
+        "name": "Gulli HD (720p)",
+        "logo": "https://i.imgur.com/kqYssbW.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://41.205.77.102/GULLI/index.m3u8"
       },
       {
         "name": "Nickelodeon (1080p)",
@@ -1004,6 +1025,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8"
+      },
+      {
+        "name": "TiJi HD (720p)",
+        "logo": "https://i.imgur.com/ZjsfAGb.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://41.205.77.102/TIJI/index.m3u8"
       },
       {
         "name": "Tortues Ninja TV (720p)",
@@ -1172,11 +1200,11 @@
         "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8"
       },
       {
-        "name": "Mezzo (576p)",
+        "name": "Mezzo (1080p)",
         "logo": "https://i.imgur.com/auNdGeW.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://tmptv.sunduk.tv/CH97/index.m3u8"
+        "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8"
       },
       {
         "name": "Mezzo Live",
@@ -1361,6 +1389,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+      },
+      {
+        "name": "National Geographic Wild (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://41.205.77.102/NATGEO-WILD/index.m3u8"
       },
       {
         "name": "Nature Time France (1080p)",
@@ -1567,6 +1602,15 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8"
+      }
+    ],
+    "Entertainment;Interactive": [
+      {
+        "name": "RMC Life (720p)",
+        "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
+        "group": "Entertainment;Interactive",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://41.205.77.102/CHERIE25/index.m3u8"
       }
     ],
     "Lifestyle;Travel": [
