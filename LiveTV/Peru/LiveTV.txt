@@ -238,8 +238,8 @@ URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
 Logo: https://i.imgur.com/eUzYZfg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: ATV Sur (720p) [Not 24/7]
-URL: https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+Name: ATV Sur (1080p)
+URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 Logo: https://i.imgur.com/LnyVa5H.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -361,6 +361,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Lider TV (720p)
 URL: https://chankillo.agenciastreaming.com/lidertv/index.m3u8
 Logo: https://i.imgur.com/naZXUdR.jpeg
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: LotPlus TV (720p)
+URL: https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8
+Logo: https://i.imgur.com/gBbCDCL.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Master TV (720p)
@@ -679,6 +684,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
 Group: Legislative
+Name: Congreso TV (720p)
+URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8
+Logo: https://i.imgur.com/r0foZ5t.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: JNE TV (720p)
 URL: https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 Logo: https://i.imgur.com/b25XfCj.png
@@ -905,11 +915,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
 Group: Sports
-Name: DirecTV Sports (1080p)
-URL: https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: L1 (1080p)
 URL: http://45.4.1.201:8000/play/a1ai/index.m3u8
 Logo: https://i.imgur.com/eRmXneK.png
@@ -1324,7 +1329,7 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 
 Group: TV PERU
 Name: 01 | WILLAX |
-URL: https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
+URL: https://live-evg20.tv360.bitel.com.pe/bwcg1nmxHgWFlcRFc-ijBA/1782659154/bitel/Willax-UDP_abr/bitel/Willax-udp_480p/chunks.m3u8
 Logo: https://i.imgur.com/4NMlwrm.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
@@ -1336,6 +1341,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 02.1 | LATINA NOTICIAS |
 URL: https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
 Logo: https://i.imgur.com/rYo3GDy.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 07 | TV PERU |
+URL: https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 7.3 | JNE TV |
@@ -1351,6 +1361,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 10 | ATV PLUS |
 URL: https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 11 | ATV SUR |
+URL: https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 13 | GLOBAL TV |

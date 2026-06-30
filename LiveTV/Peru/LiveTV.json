@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29 23:38:12",
+  "date": "2026-06-30 09:06:25",
   "channels": {
     "General": [
       {
@@ -87,11 +87,11 @@
         "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8"
       },
       {
-        "name": "ATV Sur (720p) [Not 24/7]",
+        "name": "ATV Sur (1080p)",
         "logo": "https://i.imgur.com/LnyVa5H.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8"
       },
       {
         "name": "Auténtica Televisión (720p) [Not 24/7]",
@@ -260,6 +260,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://chankillo.agenciastreaming.com/lidertv/index.m3u8"
+      },
+      {
+        "name": "LotPlus TV (720p)",
+        "logo": "https://i.imgur.com/gBbCDCL.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8"
       },
       {
         "name": "Master TV (720p)",
@@ -1197,14 +1204,69 @@
         "url": "http://181.119.93.83:8000/play/a1di/index.m3u8"
       }
     ],
-    "Sports": [
+    "Legislative": [
       {
-        "name": "DirecTV Sports (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
-        "group": "Sports",
+        "name": "Congreso TV (720p)",
+        "logo": "https://i.imgur.com/r0foZ5t.png",
+        "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8"
       },
+      {
+        "name": "JNE TV (720p)",
+        "logo": "https://i.imgur.com/b25XfCj.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Legislative\",Justicia TV (1080p)",
+        "logo": "https://i.imgur.com/VOjLXJd.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Disney Channel Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8"
+      },
+      {
+        "name": "Disney Channel Latin America Panregional HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8"
+      },
+      {
+        "name": "Disney Jr. Latin America South (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8"
+      },
+      {
+        "name": "Disney Jr. Latin America South HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
+      }
+    ],
+    "Documentary": [
+      {
+        "name": "History Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8"
+      }
+    ],
+    "Sports": [
       {
         "name": "L1 (1080p)",
         "logo": "https://i.imgur.com/eRmXneK.png",
@@ -1248,61 +1310,6 @@
         "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8"
       }
     ],
-    "Animation;Kids": [
-      {
-        "name": "Disney Channel Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8"
-      },
-      {
-        "name": "Disney Channel Latin America Panregional HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8"
-      },
-      {
-        "name": "Disney Jr. Latin America South (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://45.185.163.75:8000/play/a016/index.m3u8"
-      },
-      {
-        "name": "Disney Jr. Latin America South HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
-      }
-    ],
-    "Documentary": [
-      {
-        "name": "History Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8"
-      }
-    ],
-    "Legislative": [
-      {
-        "name": "JNE TV (720p)",
-        "logo": "https://i.imgur.com/b25XfCj.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Legislative\",Justicia TV (1080p)",
-        "logo": "https://i.imgur.com/VOjLXJd.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8"
-      }
-    ],
     "Series": [
       {
         "name": "Latina Clasicos (1080p)",
@@ -1343,7 +1350,7 @@
         "logo": "https://i.imgur.com/4NMlwrm.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8"
+        "url": "https://live-evg20.tv360.bitel.com.pe/bwcg1nmxHgWFlcRFc-ijBA/1782659154/bitel/Willax-UDP_abr/bitel/Willax-udp_480p/chunks.m3u8"
       },
       {
         "name": "02 | LATINA TV ᴴᴰ |",
@@ -1358,6 +1365,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8"
+      },
+      {
+        "name": "07 | TV PERU |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"
       },
       {
         "name": "7.3 | JNE TV |",
@@ -1379,6 +1393,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
+      },
+      {
+        "name": "11 | ATV SUR |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
       },
       {
         "name": "13 | GLOBAL TV |",
