@@ -82,6 +82,18 @@ Logo: https://picserve.netplus.ch/channels/rougetv.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
+Group: CH local
+Name: canalb fr HD
+URL: https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8
+Logo: https://static.epg.best/ch/canalb-f.ch.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: canalb de HD
+URL: https://canalb-d.vedge.infomaniak.com/livecast/ik:canalb-d/manifest.m3u8
+Logo: https://static.epg.best/ch/canalb-d.ch.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
 Group: Cinéma
 Name: SONY ONE HITS ACTION
 URL: https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
@@ -481,7 +493,7 @@ URL: https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Canal Alpha JU HD
+Name: Alpha JU HD
 URL: https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/manifest.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
