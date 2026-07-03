@@ -510,12 +510,6 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-TV.png"
   },
   {
-    "name": "BFM Business",
-    "type": "TV",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png"
-  },
-  {
     "name": "TVE 24h",
     "type": "TV",
     "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
@@ -650,13 +644,13 @@
   {
     "name": "Geekdot",
     "type": "TV",
-    "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+    "url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
     "img": "https://i.imgur.com/jML1u4O.png"
   },
   {
     "name": "Gulli",
     "type": "TV",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8",
+    "url": "http://99.27.51.147:8080/Gulli/index.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png"
   },
   {
@@ -690,6 +684,12 @@
     "img": "https://i.imgur.com/6SpWnBR.png"
   },
   {
+    "name": "Trace Africa",
+    "type": "TV",
+    "url": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
+    "img": "https://i.imgur.com/kPUkoS7.png"
+  },
+  {
     "name": "Trace Brasil",
     "type": "TV",
     "url": "https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
@@ -705,19 +705,37 @@
     "name": "Trace UK",
     "type": "TV",
     "url": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
-    "img": "https://logos.fandom.com/wiki/Trace_UK?file=Trace-Uk.png"
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png"
+  },
+  {
+    "name": "Trace Naija",
+    "type": "TV",
+    "url": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
+    "img": "https://i.imgur.com/Rguekcp.png"
+  },
+  {
+    "name": "Trace Kitoko",
+    "type": "TV",
+    "url": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
+    "img": "https://i.imgur.com/q6vkMrU.png"
+  },
+  {
+    "name": "Trace Miziki",
+    "type": "TV",
+    "url": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8",
+    "img": "https://i.imgur.com/l3X9Gg4.png"
+  },
+  {
+    "name": "Trace Gospel",
+    "type": "TV",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "img": "https://i.imgur.com/X0UmU3K.png"
   },
   {
     "name": "XITE",
     "type": "TV",
     "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/jxuwGRi.png"
-  },
-  {
-    "name": "Clubbing TV",
-    "type": "TV",
-    "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png"
   },
   {
     "name": "NRG 91 TV",
@@ -786,6 +804,12 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision-TV.png"
   },
   {
+    "name": "SuperTennis",
+    "type": "TV",
+    "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png"
+  },
+  {
     "name": "Fashion TV",
     "type": "TV",
     "url": "https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8",
@@ -802,18 +826,6 @@
     "type": "TV",
     "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png"
-  },
-  {
-    "name": "BFM Grand Lille",
-    "type": "TV",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Lille-TV.png"
-  },
-  {
-    "name": "BFM Grand Littoral TV",
-    "type": "TV",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Littoral-TV.png"
   },
   {
     "name": "Das Erste",
@@ -6830,7 +6842,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgNzo0NDoxNCBBTSZoYXNoX3ZhbHVlPUJubFU3MVVWNkdXVStrTFBMWmZGSnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZjFhMWQ0NC0xYjQwLTRmMmUtYTFhOC03NzNkODc0YThhMGE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMjozNzo0OCBQTSZoYXNoX3ZhbHVlPXpGVEZ0VWgxQThNbTNkRGhadGVlL3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNDJiMTJhNy01NzUyLTQ1NzgtODllMC00ZjA4MDhhMmU4ZjI=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -6842,7 +6854,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgNzo0NDoxMyBBTSZoYXNoX3ZhbHVlPVhsYmJJKytpKzNGNG05QzNTRXZnd1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01MzRkOTViZS04Y2RiLTRiNDYtYmU1OC02YmE5MjA0MmI0MmU=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMjozNzo0NiBQTSZoYXNoX3ZhbHVlPW1UaEcvQ0p1azZnOWtUSGJkOGxwb3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMWRkNmYyNC00OWUxLTQzNjEtYjU2Mi0xZTcxZjBhYTIwZjE=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -6938,7 +6950,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgNzo0NDoxNCBBTSZoYXNoX3ZhbHVlPUNza1MzVTExWFIyTkNJdmhaS3BnMVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MTEyMzBkNS1hM2E5LTRjMzktOGUxZS0wOWY0NGNkOTc4ZjI=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMjozNzo0NyBQTSZoYXNoX3ZhbHVlPUYvcm9NOGRTVCtIUENvc2pOalZZRXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MTFiNTIyNy0yMDY0LTQwNjYtOTNjMS1mNTRkY2Y2MmZmODI=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -8518,12 +8530,6 @@
     "type": "Auto 🏍🏎️",
     "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts",
     "img": "https://i.imgur.com/JLSHiTp.png"
-  },
-  {
-    "name": "Supertennis 🇮🇹",
-    "type": "All Sports 🌎;Tennis🎾",
-    "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
-    "img": "https://logo.m3uassets.com/supertennis.png"
   },
   {
     "name": "Rai Sport 🇮🇹",
