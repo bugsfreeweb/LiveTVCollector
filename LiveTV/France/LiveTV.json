@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03 22:37:48",
+  "date": "2026-07-04 06:55:02",
   "channels": {
     "General": [
       {
@@ -127,6 +127,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://videas.agglo-lenslievin.fr/index.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",TMC (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://151.80.18.177:86/TMC/index.m3u8"
       },
       {
         "name": "TV3V (720p)",
@@ -471,11 +478,18 @@
         "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
       },
       {
-        "name": "CNews (1080p) [Geo-blocked]",
+        "name": "CNews (1080p)",
         "logo": "https://i.imgur.com/sSNhk2g.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8"
+      },
+      {
+        "name": "CNEWS PRIME (1080p)",
+        "logo": "https://www.cnews.fr/themes/cnews/img/cnews-prime.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8"
       },
       {
         "name": "Euronews French (720p)",
@@ -497,6 +511,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8"
+      },
+      {
+        "name": "LCI HD (1080p)",
+        "logo": "https://i.imgur.com/DED8EXs.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://151.80.18.177:86/LCI_HD/index.m3u8"
       },
       {
         "name": "Le Media TV (180p)",
@@ -953,6 +974,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (720p)",
+        "logo": "https://i.imgur.com/QxHt9NC.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://151.80.18.177:86/TF1_HD/index.m3u8"
       },
       {
         "name": "Turbo (720p)",
