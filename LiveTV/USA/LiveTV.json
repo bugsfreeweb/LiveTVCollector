@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03 22:56:30",
+  "date": "2026-07-04 08:45:27",
   "channels": {
     "Movies": [
       {
@@ -3974,13 +3974,6 @@
         "url": "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8"
       },
       {
-        "name": "OAN (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "OAN Encore (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/9S4ZbPL.jpg",
         "group": "News",
@@ -3993,6 +3986,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8"
+      },
+      {
+        "name": "One America News Network (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8"
       },
       {
         "name": "Payvand TV (720p)",
@@ -7477,6 +7477,13 @@
         "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8"
       },
       {
+        "name": "Great Entertainment Television (720p)",
+        "logo": "https://i.imgur.com/evOWORd.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://206.212.244.63/80/index.m3u8"
+      },
+      {
         "name": "Grit (720p)",
         "logo": "https://i.imgur.com/6w1Wj3j.png",
         "group": "Entertainment",
@@ -9330,11 +9337,11 @@
         "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8"
       },
       {
-        "name": "Ovation (720p)",
+        "name": "Ovation (1080p)",
         "logo": "https://i.imgur.com/A3o9gvc.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://206.212.244.63/134/index.m3u8"
+        "url": "http://40.160.24.55/OVATION/index.m3u8"
       }
     ],
     "General": [
@@ -11154,6 +11161,13 @@
         "url": "http://206.212.244.63/140/index.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai World Premium (1080p)",
+        "logo": "https://i.imgur.com/tDuKkh3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
+      },
+      {
         "name": "Rainbow Ruby (720p)",
         "logo": "https://i.imgur.com/eHNU2OQ.png",
         "group": "Undefined",
@@ -11189,11 +11203,11 @@
         "url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8"
       },
       {
-        "name": "RFD-TV (720p)",
+        "name": "RFD-TV (1080p)",
         "logo": "https://i.imgur.com/FcT3beY.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://206.212.244.63/146/index.m3u8"
+        "url": "http://40.160.24.55/RFD-TV/index.m3u8"
       },
       {
         "name": "Rifle Community TV RCTV (Rifle CO) (720p)",
@@ -11434,11 +11448,11 @@
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
       },
       {
-        "name": "TV One (720p)",
+        "name": "TV One (1080p)",
         "logo": "https://i.imgur.com/tthm8Q5.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://206.212.244.63/166/index.m3u8"
+        "url": "http://40.160.24.55/TV_ONE/index.m3u8"
       },
       {
         "name": "TVE Internacional America (576p) [Geo-blocked]",
@@ -12582,6 +12596,13 @@
       }
     ],
     "Weather": [
+      {
+        "name": "AccuWeather Network (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png",
+        "group": "Weather",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://206.212.244.63/674/index.m3u8"
+      },
       {
         "name": "AccuWeather Now (1080p)",
         "logo": "https://i.imgur.com/M8wbVYK.png",
@@ -14415,6 +14436,15 @@
         "url": "http://206.212.244.63/56/index.m3u8"
       }
     ],
+    "News;Sports": [
+      {
+        "name": "ESPNews (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+        "group": "News;Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://41.223.30.230/ESPNNEWS/index.m3u8"
+      }
+    ],
     "Entertainment;Family": [
       {
         "name": "Estrella Games (1080p)",
@@ -14440,6 +14470,15 @@
         "group": "Auto;Travel",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+      }
+    ],
+    "Lifestyle;Movies": [
+      {
+        "name": "Great American Faith & Living (1080p)",
+        "logo": "https://i.imgur.com/ccBJuRA.png",
+        "group": "Lifestyle;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://206.212.244.63/82/index.m3u8"
       }
     ],
     "Family;Movies": [
@@ -14583,6 +14622,13 @@
         "group": "Education;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://reflect-npa.cablecast.tv/live-9/live/live.m3u8"
+      },
+      {
+        "name": "Once Ninas y Ninos (576p)",
+        "logo": "https://i.imgur.com/3JC7fko.png",
+        "group": "Education;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://45.189.62.33:8002/play/a0p7/index.m3u8"
       },
       {
         "name": "PBS Kids (720p)",
@@ -14769,11 +14815,11 @@
     ],
     "Comedy;Movies;Series;Sports": [
       {
-        "name": "USA Network (720p)",
+        "name": "USA Network (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
         "group": "Comedy;Movies;Series;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://185.246.209.113/DISCOVERYHD/index.m3u8"
+        "url": "http://40.160.24.55/USA_NETWORK/index.m3u8"
       }
     ],
     "Local Channels (Not 24/7)": [
