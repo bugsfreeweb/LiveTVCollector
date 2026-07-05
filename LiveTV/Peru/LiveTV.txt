@@ -233,8 +233,8 @@ URL: https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 Logo: https://i.imgur.com/1eB9roP.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",ATV (1080p)
-URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
+Name: ATV [Not 24/7]
+URL: https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 Logo: https://i.imgur.com/eUzYZfg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -353,9 +353,19 @@ URL: https://video2.lhdserver.es/cableperu/live.m3u8
 Logo: https://i.imgur.com/zcehR4M.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Juntos TV (720p)
+URL: https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Latina (1080p)
 URL: https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 Logo: https://i.imgur.com/MOsWriY.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Latina Podcast (720p)
+URL: https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+Logo: https://assets.rudo.video/assets/latina/live/backgroundApi_347d1f0b8f6b597bc08abeb60c975c471769447202.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Lider TV (720p)
@@ -672,6 +682,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 
 Group: Kids
+Name: like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Kids",Chikitoonz (1080p)
+URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
+Logo: https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Nick Jr. Latin America (1080p)
 URL: http://179.60.51.134:8888/NICK-JR/index.m3u8
 Logo: https://i.imgur.com/KT4tdQs.png
@@ -680,6 +695,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Nickelodeon Latin America (1080p)
 URL: http://179.60.51.134:8888/NICK/index.m3u8
 Logo: https://i.imgur.com/E84jnP8.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Peques TV (720p)
+URL: https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
@@ -842,6 +862,11 @@ URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
 Logo: https://i.imgur.com/1LuNEX4.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Latina Noticias 24/7 (720p)
+URL: https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+Logo: https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: PBO (720p)
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 Logo: https://i.imgur.com/vBpxX4S.png
@@ -918,11 +943,6 @@ Group: Sports
 Name: L1 (1080p)
 URL: http://45.4.1.201:8000/play/a1ai/index.m3u8
 Logo: https://i.imgur.com/eRmXneK.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: L1 Max (1080p)
-URL: http://45.4.1.201:8000/play/a123/index.m3u8
-Logo: https://i.imgur.com/2fziU2B.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Monterrico TV
@@ -1331,11 +1351,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 7.3 | JNE TV |
 URL: https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 Logo: https://i.imgur.com/bInzVde.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 09 | ATV ᴴᴰ |
-URL: https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 10 | ATV PLUS |

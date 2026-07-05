@@ -66,9 +66,9 @@
     "img": "https://i.imgur.com/1eB9roP.png"
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"General\",ATV (1080p)",
+    "name": "ATV [Not 24/7]",
     "type": "General",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8",
+    "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
     "img": "https://i.imgur.com/eUzYZfg.png"
   },
   {
@@ -210,10 +210,22 @@
     "img": "https://i.imgur.com/zcehR4M.png"
   },
   {
+    "name": "Juntos TV (720p)",
+    "type": "General",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png"
+  },
+  {
     "name": "Latina (1080p)",
     "type": "General",
     "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
     "img": "https://i.imgur.com/MOsWriY.png"
+  },
+  {
+    "name": "Latina Podcast (720p)",
+    "type": "General",
+    "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+    "img": "https://assets.rudo.video/assets/latina/live/backgroundApi_347d1f0b8f6b597bc08abeb60c975c471769447202.png"
   },
   {
     "name": "Lider TV (720p)",
@@ -798,6 +810,12 @@
     "img": "https://i.imgur.com/1LuNEX4.png"
   },
   {
+    "name": "Latina Noticias 24/7 (720p)",
+    "type": "News",
+    "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+    "img": "https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png"
+  },
+  {
     "name": "PBO (720p)",
     "type": "News",
     "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
@@ -1008,6 +1026,30 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png"
   },
   {
+    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Kids\",Chikitoonz (1080p)",
+    "type": "Kids",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8",
+    "img": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png"
+  },
+  {
+    "name": "Nick Jr. Latin America (1080p)",
+    "type": "Kids",
+    "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
+    "img": "https://i.imgur.com/KT4tdQs.png"
+  },
+  {
+    "name": "Nickelodeon Latin America (1080p)",
+    "type": "Kids",
+    "url": "http://179.60.51.134:8888/NICK/index.m3u8",
+    "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "name": "Peques TV (720p)",
+    "type": "Kids",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+    "img": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png"
+  },
+  {
     "name": "Comedy Central Latin America (1080p)",
     "type": "Comedy",
     "url": "http://181.119.93.83:8000/play/a1di/index.m3u8",
@@ -1068,12 +1110,6 @@
     "img": "https://i.imgur.com/eRmXneK.png"
   },
   {
-    "name": "L1 Max (1080p)",
-    "type": "Sports",
-    "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
-    "img": "https://i.imgur.com/2fziU2B.png"
-  },
-  {
     "name": "Monterrico TV",
     "type": "Sports",
     "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
@@ -1102,18 +1138,6 @@
     "type": "Series",
     "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
     "img": "https://i.imgur.com/q0dAWyj.png"
-  },
-  {
-    "name": "Nick Jr. Latin America (1080p)",
-    "type": "Kids",
-    "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
-    "img": "https://i.imgur.com/KT4tdQs.png"
-  },
-  {
-    "name": "Nickelodeon Latin America (1080p)",
-    "type": "Kids",
-    "url": "http://179.60.51.134:8888/NICK/index.m3u8",
-    "img": "https://i.imgur.com/E84jnP8.png"
   },
   {
     "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Star Channel Latin America (1080i)",
@@ -1150,12 +1174,6 @@
     "type": "TV PERU",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8",
     "img": "https://i.imgur.com/bInzVde.jpeg"
-  },
-  {
-    "name": "09 | ATV ᴴᴰ |",
-    "type": "TV PERU",
-    "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg"
   },
   {
     "name": "10 | ATV PLUS |",
