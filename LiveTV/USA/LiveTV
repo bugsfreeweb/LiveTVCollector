@@ -210,12 +210,6 @@
     "img": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png"
   },
   {
-    "name": "Hallmark Movies & Mysteries (720p)",
-    "type": "Movies",
-    "url": "http://206.212.244.63/86/index.m3u8",
-    "img": "https://i.imgur.com/GPRGA9C.png"
-  },
-  {
     "name": "IFC (1080p)",
     "type": "Movies",
     "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
@@ -384,10 +378,10 @@
     "img": "https://i.imgur.com/OMQq19N.png"
   },
   {
-    "name": "Screamfest (720p)",
+    "name": "Scares by Shudder (720p)",
     "type": "Movies",
     "url": "http://206.212.244.63/147/index.m3u8",
-    "img": "https://i.imgur.com/bZstXT1.png"
+    "img": "https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg"
   },
   {
     "name": "Sony Canal Novelas",
@@ -1576,6 +1570,12 @@
     "type": "Sports",
     "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png"
+  },
+  {
+    "name": "Fox Sports 1",
+    "type": "Sports",
+    "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
+    "img": "https://i.imgur.com/O9BapV9.png"
   },
   {
     "name": "FTF Sports (720p)",
@@ -6600,6 +6600,12 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "NBC Universo (720p)",
+    "type": "Entertainment",
+    "url": "https://streamvidex.qzz.io/videx/universo/index.m3u8",
+    "img": "https://i.imgur.com/RZ8pIKe.png"
+  },
+  {
     "name": "NBC Universo West (720p)",
     "type": "Entertainment",
     "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
@@ -6801,7 +6807,7 @@
     "name": "YTA TV",
     "type": "Entertainment",
     "url": "https://yta.unitedteleports.tv/hls/YTA.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/8/84/YouToo_America_logo.png"
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ТНТ International (480p)",
@@ -7182,12 +7188,6 @@
     "img": "https://i.imgur.com/S4r98AB.png"
   },
   {
-    "name": "Juntos TV (720p)",
-    "type": "Series",
-    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8",
-    "img": "https://i.imgur.com/dgMZLC2.png"
-  },
-  {
     "name": "Love & Hip Hop",
     "type": "Series",
     "url": "https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8",
@@ -7516,6 +7516,12 @@
     "type": "Movies;Series",
     "url": "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8",
     "img": "https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png"
+  },
+  {
+    "name": "Hallmark Mystery (1080p)",
+    "type": "Movies;Series",
+    "url": "http://206.212.244.63/86/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg"
   },
   {
     "name": "OuterSphere (1080p)",
@@ -8724,6 +8730,12 @@
     "img": "https://i.imgur.com/o2elx0u.png"
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Mediaset Italia USA (1080p)",
+    "type": "General",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8",
+    "img": "https://i.imgur.com/F4gyqhw.png"
+  },
+  {
     "name": "Millbrae Community Television (720p)",
     "type": "General",
     "url": "https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8",
@@ -8912,7 +8924,7 @@
   {
     "name": "RTVi US",
     "type": "General",
-    "url": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg17233-rtvi-rtvius-wisptvus/cb573d19736c648d9cd43b66cef94682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7acb35544d865a4e7014e942843fa83439fd501e983800f834a8022f1469d96f58385168b8caa599d00e6241b2a4117f8d023e0a331b1de8a7b069f7e26551b5bf2d1f0942f6ddc2b2939fbf0dbaf648d70a4e875db0c5dd804914bf655e008844686bb38cac0bacf527e2ab0cb496418b5f7acf89e5f509329daf890b7017f96f8007d49dd52d42b3d3d83e9d91185ce67f5dc42d4ee3b775bd58349e9d6d8cae7a4995a8f7f8588fe9a2f4d4f6706038859ec8e7b942ad579a6c0162d125d4cbdc556cd82840a643415f5ea34d5030b86d99e8ddb023eb8057139c62ff8016f06af306268974e93fb6d36f84c60902602eb4a3c9643ffa15e96cdbab45c4adfb6c652ef50e1b407d78467c30e121623e998463c494169a28d0c6c604bd12f95bb4d153d7362d9d68f99f5582a063019577efa888555aefe0cad8074bb350375661f07937eba014bb2037248e61ad6bf1a75c77649bf54ed4d3f0f3decae9e8582c5d945ff18b9aaab6c7e6b0831fc5b64576966318712a31f6b07d0fea2c26d9de3271029cf80dbea898521e59561bc02af7509cadd185b005e7f6245cede389716d59a13bd94dd4f8cc1b95214d572f35a50a9d9d23aacb6c1df195bd9ea7609779bd610c07106ce039b7edb853e8be6154e37147465eec214f356b2dadae02e9927a206435de26ab491e6fc87320ea9c104637d5915247e54773e05f78f86334e28bace528c37d1e25bad4d43207f168ef06770b2a8264cd2650423cfc6ec84a2cd0f15b01ed77ddb6f0ea317406ed6c536ee8ca5e0b8e04b5113d2a2a45cb1c3dfd02cb749c991ba0a0f9cf6941b545b5e693352c474c72f94/71/1280x720_3572008/index.m3u8",
+    "url": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8",
     "img": "https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536"
   },
   {
@@ -8998,6 +9010,12 @@
     "type": "General",
     "url": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
     "img": "https://i.ibb.co/xMYMyHh/telepammmm.png"
+  },
+  {
+    "name": "Telemundo (1080p)",
+    "type": "General",
+    "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png"
   },
   {
     "name": "Telemundo Al Dia",
@@ -9790,6 +9808,12 @@
     "type": "Undefined",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
     "img": "https://i.ibb.co/RpKLCMvp/tve.png"
+  },
+  {
+    "name": "Univision (1080p)",
+    "type": "Undefined",
+    "url": "http://200.115.120.1:8000/play/ca106/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png"
   },
   {
     "name": "Vice News (1080p)",
@@ -12528,9 +12552,9 @@
     "img": "https://i.imgur.com/OxbIla4.png"
   },
   {
-    "name": "Smithsonian Channel (720p)",
+    "name": "Smithsonian Channel (1080p)",
     "type": "Science",
-    "url": "http://185.246.209.113/SmithsonianHD/index.m3u8",
+    "url": "http://40.160.24.55/SMITHSONIAN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png"
   },
   {
