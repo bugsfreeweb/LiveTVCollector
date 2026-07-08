@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-07 23:22:29",
+  "date": "2026-07-08 07:20:50",
   "channels": {
     "General": [
       {
@@ -80,11 +80,11 @@
         "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8"
       },
       {
-        "name": "ATV [Not 24/7]",
+        "name": "ATV (720p)",
         "logo": "https://i.imgur.com/eUzYZfg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+        "url": "http://187.102.210.46/ATV/index.m3u8"
       },
       {
         "name": "ATV Sur (1080p)",
@@ -318,11 +318,11 @@
         "url": "https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8"
       },
       {
-        "name": "Nativa (720p) [Not 24/7]",
+        "name": "Nativa (720p)",
         "logo": "https://i.imgur.com/Y9k9XSO.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
+        "url": "http://187.102.210.46/NATIVATV/index.m3u8"
       },
       {
         "name": "Nativa TV Satipo (720p)",
@@ -781,6 +781,13 @@
         "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
       },
       {
+        "name": "Karibena (720p)",
+        "logo": "https://i.imgur.com/cgHjg1e.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://187.102.210.46/KARIBENA/index.m3u8"
+      },
+      {
         "name": "La Fabulosa Radio y TV (720p)",
         "logo": "https://i.imgur.com/GjME5H0.png",
         "group": "Music",
@@ -916,11 +923,11 @@
         "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8"
       },
       {
-        "name": "USMPTV",
+        "name": "USMPTV (720p)",
         "logo": "https://i.imgur.com/9cmIv3q.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://streamusmptv.ddns.net/live/stream.m3u8"
+        "url": "http://187.102.210.46/USMP/index.m3u8"
       }
     ],
     "News": [
@@ -946,11 +953,11 @@
         "url": "https://live.obslivestream.com/conecta2/index.m3u8"
       },
       {
-        "name": "Exitosa TV (720p) [Not 24/7]",
+        "name": "Exitosa TV (720p)",
         "logo": "https://i.imgur.com/pu0BSB7.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+        "url": "http://187.102.210.46/EXITOSA/index.m3u8"
       },
       {
         "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",FuegoTV (1080p)",
@@ -1014,6 +1021,22 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "AXN Latin America Andes (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://177.234.249.178:8888/AXN/index.m3u8"
+      },
+      {
+        "name": "Cinecanal Pacific (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8"
       }
     ],
     "Undefined": [
@@ -1209,11 +1232,11 @@
     ],
     "Family": [
       {
-        "name": "como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36\" group-title=\"Family\",Canal IPe (576p)",
+        "name": "Canal IPe (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
+        "url": "http://187.102.210.46/IPE/index.m3u8"
       }
     ],
     "Kids": [
@@ -1292,6 +1315,13 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8"
+      },
+      {
+        "name": "Disney Channel Latin America South (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.6.4.35/DISNEY/index.m3u8"
       },
       {
         "name": "Disney Jr. Latin America South (1080p)",
@@ -1402,6 +1432,13 @@
         "url": "https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8"
       },
       {
+        "name": "06 | EXITOSA TV |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+      },
+      {
         "name": "07 | TV PERU |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg",
         "group": "TV PERU",
@@ -1409,11 +1446,25 @@
         "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8"
       },
       {
+        "name": "7.2 | CANAL IPe ᴴᴰ |",
+        "logo": "http://imgfz.com/i/uPxIGZb.jpeg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
+      },
+      {
         "name": "7.3 | JNE TV |",
         "logo": "https://i.imgur.com/bInzVde.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8"
+      },
+      {
+        "name": "09 | ATV ᴴᴰ |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
       },
       {
         "name": "10 | ATV PLUS |",
@@ -1449,6 +1500,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8"
+      },
+      {
+        "name": "16 | NATIVA TV |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
       },
       {
         "name": "17 | ONDA DIGITAL |",
@@ -1574,7 +1632,7 @@
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://sc1.wasidata.com/Bhtv/tracks-v1a1/mono.m3u8"
+        "url": "https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist.m3u8"
       },
       {
         "name": "38 | ANDINA RTV |",
@@ -1717,6 +1775,13 @@
         "url": "https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8"
       },
       {
+        "name": "61 | USMP TV |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usmp.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://streamusmptv.ddns.net/live/stream.m3u8"
+      },
+      {
         "name": "62 | CAYETANO PLUS |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CayetanoPlus.jpg",
         "group": "TV PERU",
@@ -1819,7 +1884,7 @@
         "logo": "https://i.imgur.com/HJq12Dt.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8"
+        "url": "https://sc1.wasidata.com/DobleC/tracks-v1a1/mono.ts.m3u8?token=enlacesprueba01"
       },
       {
         "name": "85 | UCAYALI TV |",
@@ -2270,13 +2335,6 @@
         "group": "TV ESPANA",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
-      },
-      {
-        "name": "5 | ANTENA 3 ST |",
-        "logo": "https://i.imgur.com/4mVe6Ke.jpeg",
-        "group": "TV ESPANA",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://zona593movie.com:8443/543676443/6bezG8dWuV/408962"
       },
       {
         "name": "5 | ANTENA 3 ᴴᴰ |",
