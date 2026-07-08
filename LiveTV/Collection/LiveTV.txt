@@ -227,6 +227,13 @@ Logo: https://picserve.netplus.ch/channels/tv8montblanc.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
+Group: FR religion
+Name: kto
+URL: https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+Logo: https://picserve.netplus.ch/channels/kto.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: GR generic
 Name: ERT cosmos HD
 URL: https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8
@@ -312,13 +319,6 @@ Group: Religious
 Name: Global Buddhist Network HD
 URL: https://us.gbnus.com/live/dhamma_high/playlist.m3u8
 Logo: https://i.imgur.com/fU0ZhKD.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: SN generalist
-Name: RTS1 Sénégal1
-URL: https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8
-Logo: https://static.epg.best/sn/rts1.sn.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -653,8 +653,8 @@ URL: https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: kto
-URL: https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+Name: kto HD
+URL: https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
