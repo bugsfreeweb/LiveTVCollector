@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-07 16:12:23",
+  "date": "2026-07-08 06:48:57",
   "channels": {
     "Uncategorized": [
       {
@@ -1994,11 +1994,18 @@
     ],
     "Movies": [
       {
-        "name": "AXN Latin America Mexico",
+        "name": "AXN Latin America Mexico (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8"
+        "url": "http://177.245.131.133:8080/AXN/index.m3u8"
+      },
+      {
+        "name": "Cinecanal Mexico (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8"
       },
       {
         "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
@@ -2087,6 +2094,13 @@
         "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
       },
       {
+        "name": "Sony Channel (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://177.245.131.133:8080/SONY/index.m3u8"
+      },
+      {
         "name": "SQCS Canal 4 (1080p)",
         "logo": "https://i.imgur.com/qnx8nBP.png",
         "group": "Undefined",
@@ -2169,6 +2183,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+      },
+      {
+        "name": "Universal TV Latin America Mexico (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8"
       }
     ],
     "Education": [
@@ -2252,11 +2273,11 @@
     ],
     "Legislative": [
       {
-        "name": "Canal del Congreso 45.1",
+        "name": "Canal del Congreso 45.1 (720p)",
         "logo": "https://i.imgur.com/xAC6gQO.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
+        "url": "http://177.245.131.133:8080/CONGRESO/index.m3u8"
       },
       {
         "name": "Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]",
@@ -2344,11 +2365,11 @@
         "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
       },
       {
-        "name": "Disney Jr. Latin America (576p)",
+        "name": "Disney Jr. Latin America (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://45.189.62.33:8002/play/a0bz/index.m3u8"
+        "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
       },
       {
         "name": "Disney Jr. Latin America North HD (1080p)",
@@ -2356,6 +2377,22 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8"
+      }
+    ],
+    "Entertainment;News": [
+      {
+        "name": "E! Latin America Mexico (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+        "group": "Entertainment;News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://72.1.184.5:8089/play/a05d/index.m3u8"
+      },
+      {
+        "name": "PSN (288p)",
+        "logo": "https://i.imgur.com/7i7GkSL.png",
+        "group": "Entertainment;News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://srspsn.live/live/livestream.m3u8"
       }
     ],
     "Kids": [
@@ -2397,6 +2434,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8"
+      },
+      {
+        "name": "Lifetime Latin America Mexico (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://177.245.131.133:8080/LIFETIME/index.m3u8"
       },
       {
         "name": "MTV Latin America (1080p)",
@@ -2452,15 +2496,6 @@
         "group": "Education;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://45.189.62.33:8002/play/a0p7/index.m3u8"
-      }
-    ],
-    "Entertainment;News": [
-      {
-        "name": "PSN (288p)",
-        "logo": "https://i.imgur.com/7i7GkSL.png",
-        "group": "Entertainment;News",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://srspsn.live/live/livestream.m3u8"
       }
     ],
     "Family": [
