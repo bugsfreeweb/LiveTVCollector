@@ -1698,10 +1698,16 @@
     "img": "https://i.imgur.com/EW2z5Ko.jpg"
   },
   {
-    "name": "AXN Latin America Mexico",
+    "name": "AXN Latin America Mexico (1080p)",
     "type": "Movies",
-    "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "url": "http://177.245.131.133:8080/AXN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "name": "Cinecanal Mexico (720p)",
+    "type": "Movies",
+    "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"
   },
   {
     "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
@@ -1776,6 +1782,12 @@
     "img": "https://i.imgur.com/dbJKErB.png"
   },
   {
+    "name": "Sony Channel (720p)",
+    "type": "Undefined",
+    "url": "http://177.245.131.133:8080/SONY/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
+  },
+  {
     "name": "SQCS Canal 4 (1080p)",
     "type": "Undefined",
     "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
@@ -1848,6 +1860,12 @@
     "img": "https://i.imgur.com/sjxVdPh.png"
   },
   {
+    "name": "Universal TV Latin America Mexico (1080p)",
+    "type": "Undefined",
+    "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"
+  },
+  {
     "name": "Canal 15 ILCE Summa Sabres (720p)",
     "type": "Education",
     "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
@@ -1914,9 +1932,9 @@
     "img": "https://i.imgur.com/7ixWRId.png"
   },
   {
-    "name": "Canal del Congreso 45.1",
+    "name": "Canal del Congreso 45.1 (720p)",
     "type": "Legislative",
-    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "url": "http://177.245.131.133:8080/CONGRESO/index.m3u8",
     "img": "https://i.imgur.com/xAC6gQO.png"
   },
   {
@@ -1986,9 +2004,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"
   },
   {
-    "name": "Disney Jr. Latin America (576p)",
+    "name": "Disney Jr. Latin America (1080p)",
     "type": "Animation;Kids",
-    "url": "http://45.189.62.33:8002/play/a0bz/index.m3u8",
+    "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
   },
   {
@@ -1996,6 +2014,18 @@
     "type": "Animation;Kids",
     "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
+  },
+  {
+    "name": "E! Latin America Mexico (720p)",
+    "type": "Entertainment;News",
+    "url": "http://72.1.184.5:8089/play/a05d/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png"
+  },
+  {
+    "name": "PSN (288p)",
+    "type": "Entertainment;News",
+    "url": "https://srspsn.live/live/livestream.m3u8",
+    "img": "https://i.imgur.com/7i7GkSL.png"
   },
   {
     "name": "El Chavo TV (720p)",
@@ -2026,6 +2056,12 @@
     "type": "Entertainment",
     "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
     "img": "https://i.imgur.com/R3icGuG.png"
+  },
+  {
+    "name": "Lifetime Latin America Mexico (1080p)",
+    "type": "Entertainment",
+    "url": "http://177.245.131.133:8080/LIFETIME/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
   },
   {
     "name": "MTV Latin America (1080p)",
@@ -2064,16 +2100,16 @@
     "img": "https://i.imgur.com/N4meE8I.png"
   },
   {
+    "name": "National Geographic (1080p)",
+    "type": "Documentary",
+    "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
     "name": "Once Ninas y Ninos (576p)",
     "type": "Education;Kids",
     "url": "http://45.189.62.33:8002/play/a0p7/index.m3u8",
     "img": "https://i.imgur.com/3JC7fko.png"
-  },
-  {
-    "name": "PSN (288p)",
-    "type": "Entertainment;News",
-    "url": "https://srspsn.live/live/livestream.m3u8",
-    "img": "https://i.imgur.com/7i7GkSL.png"
   },
   {
     "name": "The Pet Collective International (720p)",
