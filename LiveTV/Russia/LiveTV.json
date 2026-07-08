@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08 07:34:22",
+  "date": "2026-07-08 15:40:17",
   "channels": {
     "Кино": [
       {
@@ -13587,6 +13587,34 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://177.234.249.135:8888/RT/index.m3u8"
+      },
+      {
+        "name": "Ani (576p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "http://46.32.176.50/anitv/index.m3u8"
+      },
+      {
+        "name": "Subbota! SD (576p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "http://46.32.176.50/subbota/index.m3u8"
+      },
+      {
+        "name": "Muz-TV (576p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "http://46.32.176.50/muztv/index.m3u8"
+      },
+      {
+        "name": "Solnce (576p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "http://46.32.176.50/solnce/index.m3u8"
       }
     ],
     "Undefined": [
@@ -14208,43 +14236,6 @@
         "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
       }
     ],
-    "Kids": [
-      {
-        "name": "Ani (576p)",
-        "logo": "https://i.imgur.com/i2AP0hp.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Ani/index.m3u8"
-      },
-      {
-        "name": "Carousel (1080p)",
-        "logo": "https://i.imgur.com/4wmnx1W.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Karusel_HD/index.m3u8"
-      },
-      {
-        "name": "Мама (576p)",
-        "logo": "https://i.imgur.com/kmMIjjf.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Mama/index.m3u8"
-      },
-      {
-        "name": "Мульт (1080p)",
-        "logo": "https://i.imgur.com/xi351Fx.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Mult_HD/index.m3u8"
-      },
-      {
-        "name": "Тамыр (Уфа) (576p)",
-        "logo": "https://i.imgur.com/Ia3acCB.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
-      }
-    ],
     "Movies": [
       {
         "name": "Bollywood HD Russia (576p)",
@@ -14450,6 +14441,36 @@
         "group": "Classic;Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Carousel (1080p)",
+        "logo": "https://i.imgur.com/4wmnx1W.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Karusel_HD/index.m3u8"
+      },
+      {
+        "name": "Мама (576p)",
+        "logo": "https://i.imgur.com/kmMIjjf.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Mama/index.m3u8"
+      },
+      {
+        "name": "Мульт (1080p)",
+        "logo": "https://i.imgur.com/xi351Fx.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Mult_HD/index.m3u8"
+      },
+      {
+        "name": "Тамыр (Уфа) (576p)",
+        "logo": "https://i.imgur.com/Ia3acCB.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       }
     ],
     "Education": [
