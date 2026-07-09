@@ -45,6 +45,48 @@ Logo: https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69
 Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
 --------------------------------------------------
 
+Group: Altro
+Name: LA7
+URL: https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: LA7d
+URL: https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Super!
+URL: https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Sportitalia
+URL: https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Donna TV
+URL: https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Supertennis
+URL: https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: ALMA TV
+URL: https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Byoblu
+URL: https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/byoblu.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+
 Group: Animation
 Name: Pluto TV Anime
 URL: https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
@@ -593,21 +635,6 @@ URL: https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://i.imgur.com/ipj2H0n.png
 Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
 --------------------------------------------------
-Name: Alma TV
-URL: https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-Logo: https://i.imgur.com/Y8JiDwN.png
-Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
---------------------------------------------------
-Name: Radio 105 TV
-URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-Logo: https://i.imgur.com/3NiLKvj.png
-Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
---------------------------------------------------
-Name: R101 TV
-URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-Logo: https://i.imgur.com/mWeEa9T.png
-Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
---------------------------------------------------
 Name: MAN-GA
 URL: https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
 Logo: https://i.imgur.com/8a6WYU2.png
@@ -653,16 +680,6 @@ URL: https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 Logo: https://i.imgur.com/y4vKE83.png
 Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
 --------------------------------------------------
-Name: Radio KISS KISS TV
-URL: https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-Logo: https://i.imgur.com/UTStxDW.png
-Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
---------------------------------------------------
-Name: Radio Montecarlo TV
-URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-Logo: https://i.imgur.com/3TMMXmS.png
-Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
---------------------------------------------------
 Name: Radio Piter Pan Tv
 URL: https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
 Logo: https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png
@@ -681,11 +698,6 @@ Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlis
 Name: RadioFreccia
 URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
 Logo: https://i.imgur.com/J5N9F7Z.png
-Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
---------------------------------------------------
-Name: RadioItaliaTV
-URL: https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-Logo: https://i.imgur.com/4VCEJuJ.png
 Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
 --------------------------------------------------
 Name: Rai Radio 2 Visual Radio
@@ -744,6 +756,58 @@ Name: Dog Whisperer
 URL: https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-652a8b001b5c74bc83cf727c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ReeL7vsBisvCW9xebomo
 Logo: https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png
 Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
+--------------------------------------------------
+
+Group: Discovery
+Name: NOVE
+URL: https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Real Time
+URL: https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Food Network
+URL: https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Warner TV
+URL: https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Giallo
+URL: https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: K2
+URL: https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Frisbee
+URL: https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: DMAX
+URL: https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: HGTV - Home&Garden
+URL: https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Motor Trend
+URL: https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
 
 Group: Documentary
@@ -1775,6 +1839,83 @@ Name: Pluto TV Viaggi
 URL: https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 Logo: https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+
+Group: Mediaset
+Name: Rete 4
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Canale 5
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Italia 1
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: 20 Mediaset
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Iris
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Twenty Seven
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: La 5
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Cine34
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: FOCUS
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Top Crime
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Boing
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Cartoonito
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Italia 2
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: TGCOM 24
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Mediaset Extra
+URL: https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
 
 Group: Movies
@@ -3577,6 +3718,130 @@ Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwor
 Source: https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8
 --------------------------------------------------
 
+Group: Radio
+Name: Radio 105 TV
+URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: R101 TV
+URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: RadioItaliaTV
+URL: https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: RADIO KISS KISS TV
+URL: https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Radio 2 Visual
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: VIRGIN RADIO
+URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: RDS Social TV
+URL: https://stream.rdstv.radio/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Radio Montecarlo TV
+URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: RTV San Marino
+URL: https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Radio TV Serie A con RDS
+URL: https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+
+Group: Rai
+Name: Rai 1
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai 2
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai 3
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai 4
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai 5
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Movie
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Premium
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Gulp
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Yoyo
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai News 24
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Storia
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Scuola
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai Sport + HD
+URL: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Rai 4K (HbbTV)
+URL: https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+
 Group: Reality
 Name: Mayday: Disastro Aereo
 URL: https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-693cad4ee2cae3f1bc73ae26.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ReeL7vsBisvCW9xebomo
@@ -3703,6 +3968,23 @@ Name: QVC Italia (540p)
 URL: https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 Logo: https://i.imgur.com/6TWUVrh.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+
+Group: Sky
+Name: TV8
+URL: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Cielo
+URL: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
+--------------------------------------------------
+Name: Sky TG24
+URL: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png
+Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
 
 Group: Sports
@@ -4454,5 +4736,31 @@ Name: Visual Radio (576p) [Not 24/7]
 URL: http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 Logo: https://i.imgur.com/ah14ah0.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+
+Group: bambini
+Name: Pingu
+URL: https://pingu-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7627/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
+--------------------------------------------------
+
+Group: lifestyle
+Name: Med.TV
+URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNzQyZDMzNmEtNTFlYi00ZTMxLWEzMGUtYTZiMWMwZTkwNTI0IiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
+--------------------------------------------------
+
+Group: notizie
+Name: Euronews IN DIRETTA
+URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiNmE0MjgyNTUtYmFlNC00MjU5LWExOTMtODNlMTAxYmYzZWM4IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
+--------------------------------------------------
+Name: Africanews
+URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMTkyMmExNjItMDkxYi00YmU4LThjNmMtZDBmZjE5ZWExOTA3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 
