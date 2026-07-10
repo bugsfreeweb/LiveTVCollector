@@ -104,7 +104,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozOToyNiBQTSZoYXNoX3ZhbHVlPS9vMjFSQXo4ZzhNSDQ5Zk9EY1lBR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMjk4NTBjZi00NzQ4LTQ0NTItODE0OC0yNWNmZGQ4MjdkNjI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgOTo1MzoyNyBQTSZoYXNoX3ZhbHVlPVBUUVJ5c3UyMGtPdW5FN25LKzBidGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNjBiNWQxYy00NDJiLTRmMGUtYjA3ZC1lYjc3ZGNhYmI4YWE=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -116,7 +116,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozOToyNSBQTSZoYXNoX3ZhbHVlPWcyRzJsTnVDSDYybTkrQ255WFFXMnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MWI5OWQwZi05MTk5LTQwODktYjRkZS00ZjJkOGI2ZjlkZmE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgOTo1MzoyNiBQTSZoYXNoX3ZhbHVlPUtQeXBLS1A3YW5iMjlxUGFQc2JnaVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03OWZkY2ZiYy05MDI0LTRhMTUtOWJlOC04NTMyZDZiNGUyMTg=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -248,7 +248,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozOToyNSBQTSZoYXNoX3ZhbHVlPXk4NTNtK1dvWXZYNCtHS2xvNmRGdHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNGM0ZjJiNy1mNTgyLTQwMDMtOGYwZi1lZjEzZTM2ZWFjNTg=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgOTo1MzoyNiBQTSZoYXNoX3ZhbHVlPWVvRWRjM21yNmhRYmx0MEppZytpdHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMWUwYmIyZS01ZWQ5LTQ3MmItOTY3ZS02N2MyYWFjNWZjOTk=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3024,9 +3024,21 @@
     "img": "https://i.imgur.com/7igGMwH.png"
   },
   {
+    "name": "Canal 25 Jundiai",
+    "type": "Variedades",
+    "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8",
+    "img": "https://i.imgur.com/7igGMwH.png"
+  },
+  {
     "name": "Canal do Boi",
     "type": "Variedades",
     "url": "http://45.162.231.38:7779/Canal_do_Boi/index.m3u8",
+    "img": "https://i.imgur.com/pVM5MhS.png"
+  },
+  {
+    "name": "Canal do Boi",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
     "img": "https://i.imgur.com/pVM5MhS.png"
   },
   {
@@ -3108,6 +3120,12 @@
     "img": "https://i.imgur.com/GrjGwKM.png"
   },
   {
+    "name": "COM Brasil",
+    "type": "Variedades",
+    "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8",
+    "img": "https://i.imgur.com/GrjGwKM.png"
+  },
+  {
     "name": "ConecTV Brasil",
     "type": "Variedades",
     "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
@@ -3129,6 +3147,12 @@
     "name": "Demais TV",
     "type": "Variedades",
     "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+    "img": "https://i.imgur.com/Md3xibE.png"
+  },
+  {
+    "name": "Demais TV",
+    "type": "Variedades",
+    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8",
     "img": "https://i.imgur.com/Md3xibE.png"
   },
   {
@@ -3195,6 +3219,12 @@
     "name": "Megapix",
     "type": "Variedades",
     "url": "http://167.250.126.140:7777/MEGAPIX-HD/index.m3u8",
+    "img": "https://i.imgur.com/qTYv5jt.png"
+  },
+  {
+    "name": "Megapix",
+    "type": "Variedades",
+    "url": "http://177.52.24.163/MEGAPIX-HD/index.m3u8",
     "img": "https://i.imgur.com/qTYv5jt.png"
   },
   {
@@ -3336,9 +3366,21 @@
     "img": "https://i.imgur.com/TXJKwzZ.png"
   },
   {
+    "name": "Rede Brasil",
+    "type": "Variedades",
+    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "img": "https://i.imgur.com/TXJKwzZ.png"
+  },
+  {
     "name": "Rede CNT Rio de Janeiro",
     "type": "Variedades",
     "url": "http://45.162.231.38:7779/CNT/index.m3u8",
+    "img": "https://i.imgur.com/jcasAmw.png"
+  },
+  {
+    "name": "Rede CNT Rio de Janeiro",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/CNT/index.m3u8",
     "img": "https://i.imgur.com/jcasAmw.png"
   },
   {
@@ -3352,6 +3394,18 @@
     "type": "Variedades",
     "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
     "img": "https://i.imgur.com/O02TF2r.png"
+  },
+  {
+    "name": "Rede Meio Norte",
+    "type": "Variedades",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+    "img": "https://i.imgur.com/KVdTi0M.png"
+  },
+  {
+    "name": "Rede Metropole",
+    "type": "Variedades",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8",
+    "img": "https://i.imgur.com/qJx9Zvd.png"
   },
   {
     "name": "Rede RC",
@@ -3375,6 +3429,12 @@
     "name": "Rede TV!",
     "type": "Variedades",
     "url": "http://45.162.231.38:7779/Rede_TV/index.m3u8",
+    "img": "https://i.imgur.com/ZJgD38F.png"
+  },
+  {
+    "name": "Rede TV!",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/REDE_TV/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
@@ -3558,6 +3618,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
   },
   {
+    "name": "TV Brasil",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
+  },
+  {
     "name": "TV Brasil Oeste",
     "type": "Variedades",
     "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
@@ -3585,6 +3651,12 @@
     "name": "TV Cancao Nova",
     "type": "Variedades",
     "url": "http://45.162.231.38:7779/Cancao_Nova/index.m3u8",
+    "img": "https://i.imgur.com/OaM9hkH.png"
+  },
+  {
+    "name": "TV Cancao Nova",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
   },
   {
@@ -3660,6 +3732,12 @@
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
+    "name": "TV Cultura",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
+    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
+  },
+  {
     "name": "TV Destak",
     "type": "Variedades",
     "url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
@@ -3732,6 +3810,18 @@
     "img": "https://i.imgur.com/0sksWse.png"
   },
   {
+    "name": "TV Gazeta",
+    "type": "Variedades",
+    "url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "img": "https://i.imgur.com/0sksWse.png"
+  },
+  {
+    "name": "TV Gazeta",
+    "type": "Variedades",
+    "url": "https://tv.nuvemplay.live/hls/40gtv/stream.m3u8",
+    "img": "https://i.imgur.com/0sksWse.png"
+  },
+  {
     "name": "TV Globo Sao Paulo",
     "type": "Variedades",
     "url": "https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
@@ -3771,6 +3861,12 @@
     "name": "TV Justica",
     "type": "Variedades",
     "url": "http://45.162.231.38:7779/TV_Justica/index.m3u8",
+    "img": "https://i.imgur.com/rOQKiMO.png"
+  },
+  {
+    "name": "TV Justica",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
     "img": "https://i.imgur.com/rOQKiMO.png"
   },
   {
@@ -3840,6 +3936,12 @@
     "img": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g"
   },
   {
+    "name": "TV Mon",
+    "type": "Variedades",
+    "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8",
+    "img": "https://i.imgur.com/Gjan8rl.png"
+  },
+  {
     "name": "TV Natal",
     "type": "Variedades",
     "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
@@ -3894,6 +3996,18 @@
     "img": "https://i.imgur.com/f34CQIG.png"
   },
   {
+    "name": "TV Senado",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/TV_SENADO/index.m3u8",
+    "img": "https://i.imgur.com/duy6waL.png"
+  },
+  {
+    "name": "TV Show Fortaleza",
+    "type": "Variedades",
+    "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
+    "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
+  },
+  {
     "name": "TV Sol Comunidade",
     "type": "Variedades",
     "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
@@ -3930,6 +4044,12 @@
     "img": "https://i.imgur.com/Z1uWe7g.png"
   },
   {
+    "name": "Vivax TV",
+    "type": "Variedades",
+    "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
+    "img": "None"
+  },
+  {
     "name": "VV8 TV",
     "type": "Variedades",
     "url": "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8",
@@ -3951,6 +4071,12 @@
     "name": "WooHoo",
     "type": "Variedades",
     "url": "http://167.250.126.140:7777/WOOHOO-HD/index.m3u8",
+    "img": "https://i.imgur.com/me622pa.png"
+  },
+  {
+    "name": "WooHoo",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/WOOHOO/index.m3u8",
     "img": "https://i.imgur.com/me622pa.png"
   },
   {
@@ -4142,7 +4268,7 @@
   {
     "name": "Chaves 24H",
     "type": "Séries",
-    "url": "https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrIFmpSmNLrz4hVLzLBAuWpq186x7GsXuOBDBcAFHso_Jd-JqDSfKpcK1X7Av8qlbmQznjbdbwrqcRJRnZaynmAPeHONvOnMM0yQDzi2Dx2obYubP6twpsY4EhKyfBQEScGhbolTe8pNZhkod_u9lBD1MJNoQ0xhN_3AI8bJrsjLUewFjaczYACXJ4IbvYFsdIpMcwqzulfRK07DImaOTJ5elrdHptuB87VshNGx2H4wywggPaLicVydXnQh4k52KoRe64kileS9lBMQov9C9_-OhjEASC-rM7m_D96Nw6EaDAV9gB1LGkyhdlDVO507saKCSR8eyPlKfTbSbO6pCOmk9Bz7FFVhjzlk0B8xQELG3kkHyTWiTEVKRTr52srmBVYm8whAhMsREsuYvbymkECIOG4fGtJH0L20FHj4mfMlkKiHwWl0y70G0woKdqVgJA10HXgGtAYfQ26EeCZWiogHbqPxQuLSrfisuILYu99AXJCcpaTL6WluzmVFPgJh2C81YBVvBP85coDNHZmfEeV90kjATEubPmV76uxbjDs-_K11CK6YeEYumcr6-KUj4A0hy9AlpHP38mdcsYgH3nk_bNk6sUomf5CBLUPBkyHFt2LBmA_-afkAGOhLBn28Y8UVaVKuzcyAyLos2lUZYH60TepvxpJzwoJNqh7y5-H68eyxHHz5VxxTs7AX7VQ_7iv0EfKQXq3Ez2Cd6yEnE3GTlSz3MSPk1wxUfwGaJAs_x2nnPP6SVZA-nlzEsakkWb0JHVVPuqKCGwnls1VVjwWusCg-1oRKN2zUIYhyIJU6pG_rswZy69F6pbxWq0q35kheWU2gWaS-5qhkmvtPhrNjhJe5KmNtWpzDEklbKP4SfwzNIp96cV-n7-t3aFg6f3brPj4wxeeTREYgk1WDeOvxOoQtGgxMIIxrDndDorahD6YgASoJdXMtZWFzdC0yMMYP.m3u8",
+    "url": "https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrIFvlG2UqpOVNmGGhZg16fF-HjPInJ20xftcE3R_XAMem4BXDkMRRRoub6op7xPU8FmBM5b4nsU333CZLNSmWZpGHzj8VJc3klpz5F1N5gIf-1xbbV5lpP5QMjQyb5POvd9TKmPPjWSZvFrmaQXEM1ZBnzDQBn8qldCeuSk1t3kUzCyvt3oQXqq1axwjiLGYkTG4R2lx8H73R7yAi_g5fBniasEfaVD_11JKirF2gHo4MSnfcb1gXMlgoScPSp4jjsVcoKd3itGrRPB1FIZ54nytQ7D-ivMMKsntzNOqD5rivBKrqL9skHLBZBjGRZcaI6XYgfo6rtL8GtA0E5H1Agg71PK6Q4hOfJB9POGbQhScNGg7XQE2R2WvOrwL6N5UDOEP_2PSzxWfNiIFZ7selNQqgxtCgY_a5i8uB4pgcdEiu8ckCAdXJMoBkKXtCddUDPyqxHy5BDxXqVeGK7cocZjET3WkBF_qcaRpKZxFcaBX-7v3zwpa-480dBat1y6kR5qreGgfs9Suy6fEKlweooKEjCjsuWKfpCK1yBoRZciRMcMkQdrHa2FZS12PfMHXo-tLSUoKsaJUw2dJnR3RFM2xZEjMT4OcmBKZyPwNPM_yYFoGf39Frnm4QwaEX-qzxg4uoLA4RtGMCChhkkUhzdf1XiIBUXWOI1dEzjfPagp2LR2lapWgO-Oi8pcZsqi4e6DlqyGOIskEQaeOpiyJZw2i5y0VpyesL_277hTCVUgVaVZHaUKLFvWYPB8RFmD4CLztXWqYsvdWpx4Wh_otfAPMPsTM21ZptzTjj6N5OIV8A4eSYHTK8oErcCuBNX-1tRJK_CQDXlgHVNQVZxk1L5xwJgPLr535KKyhLPrgr3a06rafTnzqF3qCf6UBazVfKuMNQ7LSkQoTfGkyWoPixvg2l2DGgzjv5d6IKoPpuv_2SMgASoJdXMtZWFzdC0yMMcP.m3u8",
     "img": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png"
   },
   {
@@ -4218,6 +4344,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
   },
   {
+    "name": "DumDum",
+    "type": "Infantil",
+    "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
+  },
+  {
     "name": "Gloob",
     "type": "Infantil",
     "url": "http://45.235.0.78/Gloob/playlist.m3u8",
@@ -4257,6 +4389,12 @@
     "name": "Gloobinho",
     "type": "Infantil",
     "url": "http://45.162.231.38:7779/Gloobinho/index.m3u8",
+    "img": "https://i.imgur.com/UWkHErt.png"
+  },
+  {
+    "name": "Gloobinho",
+    "type": "Infantil",
+    "url": "http://177.52.24.163/GLOOBINHO-HD/index.m3u8",
     "img": "https://i.imgur.com/UWkHErt.png"
   },
   {
@@ -4344,6 +4482,12 @@
     "img": "https://i.imgur.com/sFcOZeo.png"
   },
   {
+    "name": "AgroMais",
+    "type": "Notícia",
+    "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+    "img": "https://i.imgur.com/sFcOZeo.png"
+  },
+  {
     "name": "Aratu On",
     "type": "Notícia",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
@@ -4371,6 +4515,12 @@
     "name": "BandNews",
     "type": "Notícia",
     "url": "http://167.250.126.140:7777/BANDNEWS-HD/index.m3u8",
+    "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
+  },
+  {
+    "name": "BandNews",
+    "type": "Notícia",
+    "url": "http://45.162.64.114/BAND_NEWS/index.m3u8",
     "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
   },
   {
@@ -4413,6 +4563,12 @@
     "name": "GloboNews",
     "type": "Notícia",
     "url": "http://167.250.126.140:7777/GLOBONEWS-HD/index.m3u8",
+    "img": "https://i.imgur.com/3yZyaCm.png"
+  },
+  {
+    "name": "GloboNews",
+    "type": "Notícia",
+    "url": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8",
     "img": "https://i.imgur.com/3yZyaCm.png"
   },
   {
@@ -4485,6 +4641,12 @@
     "name": "Record News",
     "type": "Notícia",
     "url": "http://167.250.126.140:7777/RECORDNEWS-HD/index.m3u8",
+    "img": "https://i.imgur.com/HZDRG0K.png"
+  },
+  {
+    "name": "Record News",
+    "type": "Notícia",
+    "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
@@ -4563,6 +4725,12 @@
     "name": "Arte 1",
     "type": "Cultura",
     "url": "http://167.250.126.140:7777/ARTE1-HD/index.m3u8",
+    "img": "https://i.imgur.com/Ivnk7A6.png"
+  },
+  {
+    "name": "Arte 1",
+    "type": "Cultura",
+    "url": "http://45.162.64.114/ARTE1/index.m3u8",
     "img": "https://i.imgur.com/Ivnk7A6.png"
   },
   {
@@ -4684,6 +4852,18 @@
     "type": "Entretenimento",
     "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
     "img": "https://i.imgur.com/ZFN1R4B.png"
+  },
+  {
+    "name": "Rede NGT",
+    "type": "Entretenimento",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8",
+    "img": "https://i.imgur.com/ZFN1R4B.png"
+  },
+  {
+    "name": "Rede Premium TV",
+    "type": "Entretenimento",
+    "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8",
+    "img": "https://i.imgur.com/jMHaHAR.png"
   },
   {
     "name": "TV Curuca",
@@ -4884,6 +5064,12 @@
     "img": "https://i.imgur.com/kxrja0X.png"
   },
   {
+    "name": "TV Aparecida",
+    "type": "Religião",
+    "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
+    "img": "https://i.imgur.com/kxrja0X.png"
+  },
+  {
     "name": "TV Evangelizar",
     "type": "Religião",
     "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
@@ -4893,6 +5079,12 @@
     "name": "TV Evangelizar",
     "type": "Religião",
     "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8",
+    "img": "https://i.imgur.com/IrYR7Kp.png"
+  },
+  {
+    "name": "TV Evangelizar",
+    "type": "Religião",
+    "url": "https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8",
     "img": "https://i.imgur.com/IrYR7Kp.png"
   },
   {
@@ -5061,6 +5253,12 @@
     "name": "Band Sports",
     "type": "Esportes",
     "url": "http://167.250.126.140:7777/BANDSPORTS-HD/index.m3u8",
+    "img": "https://i.imgur.com/EuPvzJe.png"
+  },
+  {
+    "name": "Band Sports",
+    "type": "Esportes",
+    "url": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
     "img": "https://i.imgur.com/EuPvzJe.png"
   },
   {
@@ -5250,6 +5448,12 @@
     "img": "https://i.imgur.com/UPa1tjs.png"
   },
   {
+    "name": "TV Assembleia Piaui",
+    "type": "Legislativo",
+    "url": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8",
+    "img": "https://i.imgur.com/eMguSjM.png"
+  },
+  {
     "name": "TV Camara",
     "type": "Legislativo",
     "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
@@ -5259,6 +5463,12 @@
     "name": "TV Camara",
     "type": "Legislativo",
     "url": "http://45.162.231.38:7779/TV_Camara/index.m3u8",
+    "img": "https://i.imgur.com/Sdou1Ab.png"
+  },
+  {
+    "name": "TV Camara",
+    "type": "Legislativo",
+    "url": "http://45.162.64.114/TV_CAMARA/index.m3u8",
     "img": "https://i.imgur.com/Sdou1Ab.png"
   },
   {
@@ -5373,6 +5583,18 @@
     "name": "Terra Viva",
     "type": "Outdoor",
     "url": "http://45.162.231.38:7779/Terra_Viva/index.m3u8",
+    "img": "https://i.imgur.com/wnYsE3O.png"
+  },
+  {
+    "name": "Terra Viva",
+    "type": "Outdoor",
+    "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
+    "img": "https://i.imgur.com/wnYsE3O.png"
+  },
+  {
+    "name": "Terra Viva",
+    "type": "Outdoor",
+    "url": "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8",
     "img": "https://i.imgur.com/wnYsE3O.png"
   },
   {
