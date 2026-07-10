@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-09 23:26:57",
+  "date": "2026-07-10 08:55:08",
   "channels": {
     "Movies": [
       {
@@ -705,6 +705,13 @@
         "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8"
       },
       {
+        "name": "Amazing Facts TV (1080p)",
+        "logo": "https://i.imgur.com/4d65Bev.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8"
+      },
+      {
         "name": "BET Gospel (576p)",
         "logo": "https://i.imgur.com/jbOkq8C.png",
         "group": "Religious",
@@ -1270,6 +1277,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8"
+      },
+      {
+        "name": "WATC The Loop (1080p)",
+        "logo": "https://i.imgur.com/4SmNFCX.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8"
       },
       {
         "name": "WLMB (1080p)",
@@ -3834,11 +3848,18 @@
         "url": "https://hls.iranfarda.live/hls/stream.m3u8"
       },
       {
-        "name": "KPVM Newsmax 2 [Not 24/7]",
+        "name": "KPVM Newsmax 2",
         "logo": "https://i.imgur.com/iE1izWq.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8"
+      },
+      {
+        "name": "KPVM OAN Plus",
+        "logo": "https://i.imgur.com/T9VhMAD.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8"
       },
       {
         "name": "KPVM Real America's Voice",
@@ -8153,13 +8174,6 @@
         "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
       },
       {
-        "name": "Motor Trend (720p)",
-        "logo": "https://i.imgur.com/hKDccCL.png",
-        "group": "Auto",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://185.246.209.113/MotorTrendHD/index.m3u8"
-      },
-      {
         "name": "Pluto TV Cars",
         "logo": "https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png",
         "group": "Auto",
@@ -8216,13 +8230,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d24l3uppudokci.cloudfront.net/playlist.m3u8"
-      },
-      {
-        "name": "AMC Series Latin America (1080p)",
-        "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8"
       },
       {
         "name": "Antiques Roadshow PBS (1080p)",
@@ -8790,13 +8797,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8"
-      },
-      {
-        "name": "TNT Novelas (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8"
       },
       {
         "name": "Tosh.0",
@@ -9899,11 +9899,11 @@
         "url": "https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8"
       },
       {
-        "name": "Comercio TV (720p)",
+        "name": "Comercio TV (1080p)",
         "logo": "https://www.amagi.com/hubfs/Group%202-3.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8"
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960"
       },
       {
         "name": "Concord TV (Concord CA) (720p)",
@@ -10114,6 +10114,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://206.212.244.63/65/index.m3u8"
+      },
+      {
+        "name": "KATC 3.1 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://stream.cammonitorplus.net/1753/index.m3u8"
       },
       {
         "name": "KDFW-DT1 (1080p)",
@@ -10902,20 +10909,6 @@
         "url": "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8"
       },
       {
-        "name": "Atlanta's 57 WATC 57.1 (720p)",
-        "logo": "https://i.imgur.com/FhIRe7O.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8"
-      },
-      {
-        "name": "Atlanta's 57 WATC TOO 57.2 (720p)",
-        "logo": "https://i.imgur.com/RAfuLul.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8"
-      },
-      {
         "name": "BET (720p)",
         "logo": "https://i.imgur.com/copIbc9.png",
         "group": "Undefined",
@@ -11670,6 +11663,20 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8"
+      },
+      {
+        "name": "WATC The POINT Network (1080p)",
+        "logo": "https://i.imgur.com/RAfuLul.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8"
+      },
+      {
+        "name": "WATC TV57 (1080p)",
+        "logo": "https://i.imgur.com/FhIRe7O.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8"
       },
       {
         "name": "WBBJ (Jackson TN) (432p)",
@@ -14433,7 +14440,7 @@
         "logo": "https://i.imgur.com/VNNS4mF.png",
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://185.246.209.113/TVLandHD/index.m3u8"
+        "url": "http://206.212.244.63/164/index.m3u8"
       },
       {
         "name": "TVS Cipher Network (360p)",
@@ -14768,7 +14775,7 @@
     ],
     "Lifestyle;Travel": [
       {
-        "name": "KPVM AWE Plus [Not 24/7]",
+        "name": "KPVM AWE Plus",
         "logo": "https://i.imgur.com/hL8i7Ar.png",
         "group": "Lifestyle;Travel",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
