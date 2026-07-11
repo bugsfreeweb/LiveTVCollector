@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-10 23:16:53",
+  "date": "2026-07-11 08:07:08",
   "channels": {
     "Religious": [
       {
@@ -1161,6 +1161,13 @@
         "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
       },
       {
+        "name": "Slice (720p)",
+        "logo": "https://i.imgur.com/9UzQpum.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://40.160.24.55/SLICE/index.m3u8"
+      },
+      {
         "name": "TAG TV (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/4PA2adF.png",
         "group": "Undefined",
@@ -1196,11 +1203,11 @@
         "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8"
       },
       {
-        "name": "TVE Internacional America (576p) [Geo-blocked]",
+        "name": "TVE Internacional America (576p)",
         "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8"
+        "url": "http://200.91.32.158:8080/tve/index.m3u8"
       },
       {
         "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
@@ -1481,11 +1488,39 @@
         "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
       },
       {
-        "name": "TSN3 (720p)",
+        "name": "TSN1 (1080p)",
+        "logo": "https://i.imgur.com/eRFE0jZ.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://40.160.24.55/TSN_1/index.m3u8"
+      },
+      {
+        "name": "TSN2 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://40.160.24.55/TSN_2/index.m3u8"
+      },
+      {
+        "name": "TSN3 (1080p)",
         "logo": "https://i.imgur.com/AYza8KO.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://tsn1.shaanp76.workers.dev/"
+        "url": "http://40.160.24.55/TSN_3/index.m3u8"
+      },
+      {
+        "name": "TSN4 (1080p)",
+        "logo": "https://i.imgur.com/qJyAWU8.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://40.160.24.55/TSN_4/index.m3u8"
+      },
+      {
+        "name": "TSN5 (1080p)",
+        "logo": "https://i.imgur.com/HEzHpzz.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://40.160.24.55/TSN_5/index.m3u8"
       },
       {
         "name": "TSN The Ocho (1080p)",
@@ -1574,6 +1609,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
+      },
+      {
+        "name": "Much (720p)",
+        "logo": "https://i.imgur.com/JjYki5V.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://40.160.24.53/MUCH/index.m3u8"
       },
       {
         "name": "Now TV 102.3FM Edmonton (CKNO-FM) (616p)",
@@ -1853,11 +1895,11 @@
         "url": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8"
       },
       {
-        "name": "Outdoor Channel HD (720p)",
+        "name": "Outdoor Channel HD (1080p)",
         "logo": "https://i.imgur.com/Kh4MWaY.png",
         "group": "Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8"
+        "url": "http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
       }
     ],
     "Animation;Kids": [
