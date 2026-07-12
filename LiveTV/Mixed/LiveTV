@@ -524,13 +524,13 @@
   {
     "name": "TVN",
     "type": "NACIONAL",
-    "url": "http://38.226.49.253:8000/play/a06c/index.m3u8",
+    "url": "https://cdn-live.mundogo.cl/tvn/tvn.mpd",
     "img": "https://i.ibb.co/3NmJZNb/tvn.png"
   },
   {
     "name": "MEGA",
     "type": "NACIONAL",
-    "url": "http://38.226.49.253:8000/play/a0cm/index.m3u8",
+    "url": "https://cdn-live.mundogo.cl/megahd/megahd.mpd",
     "img": "https://i.ibb.co/KVwyHBQ/mega.png"
   },
   {
@@ -542,13 +542,13 @@
   {
     "name": "CANAL 13",
     "type": "NACIONAL",
-    "url": "http://38.226.210.46:8000/play/a02t/index.m3u8",
+    "url": "https://cdn-live.mundogo.cl/canal13/canal13.mpd",
     "img": "https://i.ibb.co/hsPWxXx/canal-13.png"
   },
   {
     "name": "TV+ HD",
     "type": "NACIONAL",
-    "url": "https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/chunks.m3u8?dpssid=b2167097959369ab8bdc49c8c&sid=ba5t1l1xb2201238228269ab8bdccf8d1&ndvc=0",
+    "url": "https://cdn-live.mundogo.cl/tvp/tvp.mpd",
     "img": "https://i.ibb.co/SP9HQH8/tv.png"
   },
   {
@@ -762,12 +762,6 @@
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG"
   },
   {
-    "name": "ESPN PREMIUM CH",
-    "type": "DEPORTES",
-    "url": "http://38.226.210.46:8000/play/a05q/index.m3u8",
-    "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG"
-  },
-  {
     "name": "ESPN",
     "type": "DEPORTES",
     "url": "http://38.226.210.46:8000/play/a05p/index.m3u8",
@@ -852,12 +846,6 @@
     "img": "https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png"
   },
   {
-    "name": "L1",
-    "type": "DEPORTES",
-    "url": "http://38.226.210.46:8000/play/a05x/index.m3u8",
-    "img": "https://tmssl.akamaized.net//images/logo/header/tdea.png?lm=1579456471"
-  },
-  {
     "name": "L1MAX",
     "type": "DEPORTES",
     "url": "http://38.226.210.46:8000/play/a06k/index.m3u8",
@@ -908,7 +896,7 @@
   {
     "name": "DIRECTV SPORTS",
     "type": "DEPORTES",
-    "url": "http://38.226.210.46:8000/play/A008/index.m3u8",
+    "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8",
     "img": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778970916476"
   },
   {
@@ -1032,6 +1020,18 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png"
   },
   {
+    "name": "EUROSPORT 1",
+    "type": "DEPORTES",
+    "url": "http://91.146.94.234:10001/play/a05h",
+    "img": "https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-thumbnail.png"
+  },
+  {
+    "name": "EUROSPORT 2",
+    "type": "DEPORTES",
+    "url": "http://91.146.94.234:10001/play/a05g",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg"
+  },
+  {
     "name": "A3S",
     "type": "CINE Y SERIES",
     "url": "http://38.226.49.253:8000/play/a0ck/index.m3u8",
@@ -1058,7 +1058,7 @@
   {
     "name": "AMC",
     "type": "CINE Y SERIES",
-    "url": "http://38.226.210.46:8000/play/a031/index.m3u8",
+    "url": "http://24.152.42.29:8000/play/a08e/index.m3u8",
     "img": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954710531"
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "name": "CINEMAX",
     "type": "CINE Y SERIES",
-    "url": "http://38.226.49.253:8000/play/a05j/index.m3u8",
+    "url": "http://179.60.51.134:8888/CINEMAX/index.m3u8",
     "img": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530"
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "name": "GOLDEN PLUS",
     "type": "CINE Y SERIES",
-    "url": "http://201.151.118.136:8000/play/a00b/index.m3u8",
+    "url": "http://177.234.249.135:8888/GoldenPlus/index.m3u8",
     "img": "https://i.ibb.co/KD4s81z/Golden-logo.png"
   },
   {
@@ -1466,7 +1466,7 @@
   {
     "name": "DISNEY JR",
     "type": "INFANTILES",
-    "url": "http://181.78.211.244:8000/play/a09s/index.m3u8",
+    "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8",
     "img": "https://i.ibb.co/MSXFY3T/disney-jr.png"
   },
   {
@@ -1710,30 +1710,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
   },
   {
-    "name": "DRAGON BALL",
-    "type": "24/7",
-    "url": "http://181.79.86.130:8000/play/a06w/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s"
-  },
-  {
-    "name": "BOB ESPONJA",
-    "type": "24/7",
-    "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/SpongeBob_SquarePants_character.png"
-  },
-  {
-    "name": "DC FILMS",
-    "type": "24/7",
-    "url": "http://200.115.120.1:8000/play/ca032/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/DC_Studios_logo.svg"
-  },
-  {
-    "name": "MARVEL FILMS",
-    "type": "24/7",
-    "url": "http://200.115.120.1:8000/play/ca038/index.m3u8",
-    "img": "https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Marvel_Films_logo.png/revision/latest/scale-to-width-down/340?cb=20210922102219"
-  },
-  {
     "name": "format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f18cc7982a918da38a3b8e47c4ab6295.jpg\" group-title=\"24/7\", CAPITAN TSUBASA",
     "type": "24/7",
     "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
@@ -1773,6 +1749,30 @@
     "name": "group-title=\"CANALES ADULTOS\", ADULTOS",
     "type": "CANALES ADULTOS",
     "url": "http://200.115.120.1:8000/play/ca99/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "group-title=\"CANALES ADULTOS\", BRAZZERS",
+    "type": "CANALES ADULTOS",
+    "url": "http://91.146.94.234:10001/play/a010",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "group-title=\"CANALES ADULTOS\", DORCEL",
+    "type": "CANALES ADULTOS",
+    "url": "http://91.146.94.234:10001/play/a04z",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "group-title=\"CANALES ADULTOS\", HUSTLER",
+    "type": "CANALES ADULTOS",
+    "url": "http://91.146.94.234:10001/play/a06k",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "group-title=\"CANALES ADULTOS\", PRIVATE",
+    "type": "CANALES ADULTOS",
+    "url": "http://91.146.94.234:10001/play/private",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-11 22:23:28",
+  "date": "2026-07-12 07:56:08",
   "channels": {
     "film": [
       {
@@ -638,14 +638,14 @@
         "logo": "https://i.ibb.co/3NmJZNb/tvn.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.49.253:8000/play/a06c/index.m3u8"
+        "url": "https://cdn-live.mundogo.cl/tvn/tvn.mpd"
       },
       {
         "name": "MEGA",
         "logo": "https://i.ibb.co/KVwyHBQ/mega.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.49.253:8000/play/a0cm/index.m3u8"
+        "url": "https://cdn-live.mundogo.cl/megahd/megahd.mpd"
       },
       {
         "name": "CHILEVISION",
@@ -659,14 +659,14 @@
         "logo": "https://i.ibb.co/hsPWxXx/canal-13.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.210.46:8000/play/a02t/index.m3u8"
+        "url": "https://cdn-live.mundogo.cl/canal13/canal13.mpd"
       },
       {
         "name": "TV+ HD",
         "logo": "https://i.ibb.co/SP9HQH8/tv.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/chunks.m3u8?dpssid=b2167097959369ab8bdc49c8c&sid=ba5t1l1xb2201238228269ab8bdccf8d1&ndvc=0"
+        "url": "https://cdn-live.mundogo.cl/tvp/tvp.mpd"
       },
       {
         "name": "LA RED",
@@ -916,13 +916,6 @@
         "url": "http://45.181.122.46:8090/play/a015"
       },
       {
-        "name": "ESPN PREMIUM CH",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.210.46:8000/play/a05q/index.m3u8"
-      },
-      {
         "name": "ESPN",
         "logo": "https://i.ibb.co/k5WgfJ1/espn.png",
         "group": "DEPORTES",
@@ -1021,13 +1014,6 @@
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
       },
       {
-        "name": "L1",
-        "logo": "https://tmssl.akamaized.net//images/logo/header/tdea.png?lm=1579456471",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.210.46:8000/play/a05x/index.m3u8"
-      },
-      {
         "name": "L1MAX",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png",
         "group": "DEPORTES",
@@ -1088,7 +1074,7 @@
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778970916476",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.210.46:8000/play/A008/index.m3u8"
+        "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8"
       },
       {
         "name": "DIRECTV SPORTS",
@@ -1229,6 +1215,20 @@
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
+      },
+      {
+        "name": "EUROSPORT 1",
+        "logo": "https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-thumbnail.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://91.146.94.234:10001/play/a05h"
+      },
+      {
+        "name": "EUROSPORT 2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://91.146.94.234:10001/play/a05g"
       }
     ],
     "CINE Y SERIES": [
@@ -1265,7 +1265,7 @@
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954710531",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.210.46:8000/play/a031/index.m3u8"
+        "url": "http://24.152.42.29:8000/play/a08e/index.m3u8"
       },
       {
         "name": "AMC SERIES",
@@ -1293,7 +1293,7 @@
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.49.253:8000/play/a05j/index.m3u8"
+        "url": "http://179.60.51.134:8888/CINEMAX/index.m3u8"
       },
       {
         "name": "CINE FAMILIAR",
@@ -1461,7 +1461,7 @@
         "logo": "https://i.ibb.co/KD4s81z/Golden-logo.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://201.151.118.136:8000/play/a00b/index.m3u8"
+        "url": "http://177.234.249.135:8888/GoldenPlus/index.m3u8"
       },
       {
         "name": "GOLDEN PREMIER",
@@ -1743,7 +1743,7 @@
         "logo": "https://i.ibb.co/MSXFY3T/disney-jr.png",
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.211.244:8000/play/a09s/index.m3u8"
+        "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
       },
       {
         "name": "NICKELODEON",
@@ -2030,34 +2030,6 @@
     ],
     "24/7": [
       {
-        "name": "DRAGON BALL",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s",
-        "group": "24/7",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.79.86.130:8000/play/a06w/index.m3u8"
-      },
-      {
-        "name": "BOB ESPONJA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/SpongeBob_SquarePants_character.png",
-        "group": "24/7",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8"
-      },
-      {
-        "name": "DC FILMS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/DC_Studios_logo.svg",
-        "group": "24/7",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://200.115.120.1:8000/play/ca032/index.m3u8"
-      },
-      {
-        "name": "MARVEL FILMS",
-        "logo": "https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Marvel_Films_logo.png/revision/latest/scale-to-width-down/340?cb=20210922102219",
-        "group": "24/7",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://200.115.120.1:8000/play/ca038/index.m3u8"
-      },
-      {
         "name": "format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f18cc7982a918da38a3b8e47c4ab6295.jpg\" group-title=\"24/7\", CAPITAN TSUBASA",
         "logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f18cc7982a918da38a3b8e47c4ab6295.jpg",
         "group": "24/7",
@@ -2107,6 +2079,34 @@
         "group": "CANALES ADULTOS",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://200.115.120.1:8000/play/ca99/index.m3u8"
+      },
+      {
+        "name": "group-title=\"CANALES ADULTOS\", BRAZZERS",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "CANALES ADULTOS",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://91.146.94.234:10001/play/a010"
+      },
+      {
+        "name": "group-title=\"CANALES ADULTOS\", DORCEL",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "CANALES ADULTOS",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://91.146.94.234:10001/play/a04z"
+      },
+      {
+        "name": "group-title=\"CANALES ADULTOS\", HUSTLER",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "CANALES ADULTOS",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://91.146.94.234:10001/play/a06k"
+      },
+      {
+        "name": "group-title=\"CANALES ADULTOS\", PRIVATE",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "CANALES ADULTOS",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://91.146.94.234:10001/play/private"
       }
     ],
     "Uncategorized": [
