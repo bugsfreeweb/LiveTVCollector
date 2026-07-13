@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12 22:24:56",
+  "date": "2026-07-13 07:54:42",
   "channels": {
     "Uncategorized": [
       {
@@ -1368,13 +1368,6 @@
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-      },
-      {
-        "name": "Polishop (720p)",
-        "logo": "https://i.imgur.com/gnfxeio.png",
-        "group": "Shop",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Polishop_TV/index.m3u8"
       }
     ],
     "Entertainment": [
@@ -1384,6 +1377,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://45.162.231.38:7779/AE/index.m3u8"
+      },
+      {
+        "name": "Adult Swim Latin America Brazil (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://45.190.28.50/TRUTV_HD/index.m3u8"
       },
       {
         "name": "BDC TV (576p)",
@@ -1463,13 +1463,6 @@
         "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
       },
       {
-        "name": "MTV (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/MTV/index.m3u8"
-      },
-      {
         "name": "MTV Catfish (720p)",
         "logo": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
         "group": "Entertainment",
@@ -1540,6 +1533,13 @@
         "url": "http://143.14.178.40:7777/Multishow_HD/index.m3u8"
       },
       {
+        "name": "Petlovers TV",
+        "logo": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
+      },
+      {
         "name": "Pluto TV Canal UOL (720p)",
         "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
         "group": "Entertainment",
@@ -1603,6 +1603,13 @@
         "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
       },
       {
+        "name": "TV+Pet",
+        "logo": "https://www.tvmaispet.com.br/images/tvpet-logo.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
+      },
+      {
         "name": "UMA TV",
         "logo": "https://i.imgur.com/m0RVb79.png",
         "group": "Entertainment",
@@ -1638,6 +1645,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
+      },
+      {
+        "name": "Band (720p)",
+        "logo": "https://i.imgur.com/1r5T6Pw.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://45.190.28.50/BAND_HD/index.m3u8"
       },
       {
         "name": "Canal Libras (720p)",
@@ -1703,6 +1717,13 @@
         "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
       },
       {
+        "name": "Cultura Fast (720p)",
+        "logo": "https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
+      },
+      {
         "name": "Cultura Pará (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/5jPEI5c.png",
         "group": "General",
@@ -1763,7 +1784,7 @@
         "logo": "https://i.imgur.com/sz9gTTr.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/RECORDTV/index.m3u8"
+        "url": "http://167.250.126.140:7777/RECORDTV-HD/index.m3u8"
       },
       {
         "name": "Record TV Belem (720p) [Geo-blocked]",
@@ -1850,11 +1871,11 @@
         "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
       },
       {
-        "name": "Rede TV! (720p)",
+        "name": "Rede TV! (1080p)",
         "logo": "https://i.imgur.com/ZJgD38F.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Rede_TV/index.m3u8"
+        "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8"
       },
       {
         "name": "Rede TV! ES (1080p)",
@@ -2157,7 +2178,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/AXN/index.m3u8"
+        "url": "http://45.190.28.50/AXN_HD/index.m3u8"
       },
       {
         "name": "Classique TV (360p)",
@@ -2325,42 +2346,42 @@
         "logo": "https://i.imgur.com/BHYWG0h.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Telecine_Action/index.m3u8"
+        "url": "http://167.250.126.140:7777/TCACTION-HD/index.m3u8"
       },
       {
         "name": "Telecine Cult (720p)",
         "logo": "https://i.imgur.com/6GuHXnr.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Telecine_Cult/index.m3u8"
+        "url": "http://167.250.126.140:7777/TCCULT-HD/index.m3u8"
       },
       {
         "name": "Telecine Fun (720p)",
         "logo": "https://i.imgur.com/MO2Ynki.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Telecine_Fun/index.m3u8"
+        "url": "http://167.250.126.140:7777/TCFUN-HD/index.m3u8"
       },
       {
         "name": "Telecine Pipoca (720p)",
         "logo": "https://i.imgur.com/hW9JYXr.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8"
+        "url": "http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8"
       },
       {
         "name": "Telecine Premium (720p)",
         "logo": "https://i.imgur.com/uVFgIr8.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Telecine_Premium/index.m3u8"
+        "url": "http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8"
       },
       {
         "name": "Telecine Touch (720p)",
         "logo": "https://i.imgur.com/Nky0hRo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Telecine_Touch/index.m3u8"
+        "url": "http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8"
       }
     ],
     "Outdoor": [
@@ -2390,14 +2411,14 @@
         "logo": "https://www.fishtv.com/public/site/images/logos/fishtv.svg",
         "group": "Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Fish_TV/index.m3u8"
+        "url": "http://167.250.126.140:7777/FISHTV-HD/index.m3u8"
       },
       {
         "name": "Terra Viva (720p)",
         "logo": "https://i.imgur.com/wnYsE3O.png",
         "group": "Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Terra_Viva/index.m3u8"
+        "url": "http://45.162.64.114/TERRAVIVA/index.m3u8"
       }
     ],
     "Education;Outdoor": [
@@ -2595,13 +2616,6 @@
         "url": "http://143.14.178.40:7777/BIS_HD/index.m3u8"
       },
       {
-        "name": "Boa Vontade TV (720p)",
-        "logo": "https://i.imgur.com/Ms5tSgu.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Boa_Vontade_TV/index.m3u8"
-      },
-      {
         "name": "Boas Novas (1080p)",
         "logo": "https://i.imgur.com/ZqhizdP.png",
         "group": "Undefined",
@@ -2620,7 +2634,7 @@
         "logo": "https://i.imgur.com/pVM5MhS.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Canal_do_Boi/index.m3u8"
+        "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8"
       },
       {
         "name": "Canal Off (1080p)",
@@ -2672,18 +2686,11 @@
         "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
       },
       {
-        "name": "RBI TV (720p)",
-        "logo": "https://i.imgur.com/T1wU2HU.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/RBI/index.m3u8"
-      },
-      {
         "name": "Rede CNT Rio de Janeiro (720p)",
         "logo": "https://i.imgur.com/jcasAmw.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/CNT/index.m3u8"
+        "url": "http://45.162.64.114/CNT/index.m3u8"
       },
       {
         "name": "Rede Globo (1080p)",
@@ -2833,6 +2840,13 @@
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8"
       },
       {
+        "name": "TV Escola (720p)",
+        "logo": "https://i.imgur.com/OF6aGQj.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8"
+      },
+      {
         "name": "TV Fronteira (480i)",
         "logo": "https://i.imgur.com/NtcoW6G.png",
         "group": "Undefined",
@@ -2845,6 +2859,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
+      },
+      {
+        "name": "TV Globo Rio de Janeiro (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://45.190.28.50/GLOBO_HD/index.m3u8"
       },
       {
         "name": "TV Globo Sao Paulo (1080p)",
@@ -2872,7 +2893,7 @@
         "logo": "https://i.imgur.com/rOQKiMO.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/TV_Justica/index.m3u8"
+        "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8"
       },
       {
         "name": "TV Liberdade (720p) [Not 24/7]",
@@ -2903,11 +2924,11 @@
         "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
       },
       {
-        "name": "TV Ra Tim Bum (576p)",
+        "name": "TV Ra Tim Bum (720p)",
         "logo": "https://i.imgur.com/JIQwz0w.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.64.114/RA_TIM_BUM/index.m3u8"
+        "url": "http://45.190.28.50/RATIMBUM/index.m3u8"
       },
       {
         "name": "TV Senado (720p)",
@@ -2942,7 +2963,7 @@
         "logo": "https://i.imgur.com/FpqoWcB.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/TVE/index.m3u8"
+        "url": "http://45.190.28.50/TVE/index.m3u8"
       },
       {
         "name": "TVE RS (1080p)",
@@ -2987,11 +3008,11 @@
         "url": "http://45.162.231.38:7779/Universal_TV/index.m3u8"
       },
       {
-        "name": "USA Network Latin America Brazil (720p)",
+        "name": "USA Network Latin America Brazil (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8"
+        "url": "http://45.190.156.152/USA/index.m3u8"
       },
       {
         "name": "WooHoo (1080p)",
@@ -3070,7 +3091,7 @@
         "logo": "https://i.imgur.com/mP1qfp2.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Rede_Vida/index.m3u8"
+        "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8"
       },
       {
         "name": "RIT TV (1080p)",
@@ -3119,7 +3140,7 @@
         "logo": "https://i.imgur.com/iuoXchN.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Pai_Eterno/index.m3u8"
+        "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
       },
       {
         "name": "TV Terceiro Anjo (360p)",
@@ -3149,7 +3170,7 @@
         "logo": "https://i.imgur.com/Rwrh0zU.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Curta/index.m3u8"
+        "url": "http://167.250.126.140:7777/CURTA!-HD/index.m3u8"
       },
       {
         "name": "TV das Artes (360p)",
@@ -3210,11 +3231,11 @@
         "url": "http://167.250.126.140:7777/DISNEY-HD/index.m3u8"
       },
       {
-        "name": "DumDum (720p)",
+        "name": "DumDum (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/ZooMoo/index.m3u8"
+        "url": "http://45.190.156.152/ZOOMOO/index.m3u8"
       },
       {
         "name": "Gloob (1080p)",
@@ -3393,7 +3414,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Premiere_Clubes/index.m3u8"
+        "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8"
       },
       {
         "name": "Premiere FC 1",
@@ -3508,13 +3529,6 @@
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://45.162.64.114/FUTURA/index.m3u8"
-      },
-      {
-        "name": "Futura (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Futura/index.m3u8"
       },
       {
         "name": "ISTV (720p) [Not 24/7]",
@@ -3675,6 +3689,22 @@
         "group": "Education;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "Chef TV (720p)",
+        "logo": "https://i.imgur.com/UYksTee.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://45.190.28.50/CHEF_TV/index.m3u8"
+      },
+      {
+        "name": "Tastemade (720p)",
+        "logo": "https://i.imgur.com/FPy4zF4.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
       }
     ],
     "Comedy": [
@@ -4175,29 +4205,6 @@
         "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
       }
     ],
-    "Travel": [
-      {
-        "name": "Modo Viagem (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
-        "group": "Travel",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.231.38:7779/Modo_Viagem/index.m3u8"
-      },
-      {
-        "name": "Travel Box Brazil (720p)",
-        "logo": "https://i.imgur.com/3tBJERH.png",
-        "group": "Travel",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8"
-      },
-      {
-        "name": "TV Paraná Turismo (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/I6pKoBd.png",
-        "group": "Travel",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://200.189.113.201/hls/tve.m3u8"
-      }
-    ],
     "Animation;Kids": [
       {
         "name": "NickOnline (360p)",
@@ -4284,15 +4291,6 @@
         "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
       }
     ],
-    "Cooking": [
-      {
-        "name": "Tastemade (720p)",
-        "logo": "https://i.imgur.com/FPy4zF4.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
-      }
-    ],
     "Family": [
       {
         "name": "The Pet Collective (720p)",
@@ -4300,6 +4298,22 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8"
+      }
+    ],
+    "Travel": [
+      {
+        "name": "Travel Box Brazil (720p)",
+        "logo": "https://i.imgur.com/3tBJERH.png",
+        "group": "Travel",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8"
+      },
+      {
+        "name": "TV Paraná Turismo (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/I6pKoBd.png",
+        "group": "Travel",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://200.189.113.201/hls/tve.m3u8"
       }
     ],
     "Entertainment;General;News": [

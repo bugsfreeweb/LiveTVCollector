@@ -1170,16 +1170,16 @@
     "img": "https://i.imgur.com/dWA9y2J.png"
   },
   {
-    "name": "Polishop (720p)",
-    "type": "Shop",
-    "url": "http://45.162.231.38:7779/Polishop_TV/index.m3u8",
-    "img": "https://i.imgur.com/gnfxeio.png"
-  },
-  {
     "name": "A&E Latin America Brazil (720p)",
     "type": "Entertainment",
     "url": "http://45.162.231.38:7779/AE/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
+  },
+  {
+    "name": "Adult Swim Latin America Brazil (720p)",
+    "type": "Entertainment",
+    "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png"
   },
   {
     "name": "BDC TV (576p)",
@@ -1248,12 +1248,6 @@
     "img": "https://i.imgur.com/R0aflu1.png"
   },
   {
-    "name": "MTV (720p)",
-    "type": "Entertainment",
-    "url": "http://45.162.231.38:7779/MTV/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
     "name": "MTV Catfish (720p)",
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8",
@@ -1314,6 +1308,12 @@
     "img": "https://i.imgur.com/bqVg8nT.png"
   },
   {
+    "name": "Petlovers TV",
+    "type": "Entertainment",
+    "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+    "img": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png"
+  },
+  {
     "name": "Pluto TV Canal UOL (720p)",
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8",
@@ -1368,6 +1368,12 @@
     "img": "https://i.imgur.com/TZF55f9.png"
   },
   {
+    "name": "TV+Pet",
+    "type": "Entertainment",
+    "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+    "img": "https://www.tvmaispet.com.br/images/tvpet-logo.png"
+  },
+  {
     "name": "UMA TV",
     "type": "Entertainment",
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
@@ -1396,6 +1402,12 @@
     "type": "General",
     "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
     "img": "https://i.imgur.com/jl39ula.png"
+  },
+  {
+    "name": "Band (720p)",
+    "type": "General",
+    "url": "http://45.190.28.50/BAND_HD/index.m3u8",
+    "img": "https://i.imgur.com/1r5T6Pw.png"
   },
   {
     "name": "Canal Libras (720p)",
@@ -1452,6 +1464,12 @@
     "img": "https://i.imgur.com/CJ9SPsZ.png"
   },
   {
+    "name": "Cultura Fast (720p)",
+    "type": "General",
+    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
+    "img": "https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png"
+  },
+  {
     "name": "Cultura Pará (480p) [Not 24/7]",
     "type": "General",
     "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
@@ -1502,7 +1520,7 @@
   {
     "name": "Record (720p)",
     "type": "General",
-    "url": "http://45.162.231.38:7779/RECORDTV/index.m3u8",
+    "url": "http://167.250.126.140:7777/RECORDTV-HD/index.m3u8",
     "img": "https://i.imgur.com/sz9gTTr.png"
   },
   {
@@ -1578,9 +1596,9 @@
     "img": "https://i.imgur.com/kh3LGAP.png"
   },
   {
-    "name": "Rede TV! (720p)",
+    "name": "Rede TV! (1080p)",
     "type": "General",
-    "url": "http://45.162.231.38:7779/Rede_TV/index.m3u8",
+    "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
@@ -1838,7 +1856,7 @@
   {
     "name": "AXN (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/AXN/index.m3u8",
+    "url": "http://45.190.28.50/AXN_HD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
   },
   {
@@ -1982,37 +2000,37 @@
   {
     "name": "Telecine Action (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Action/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCACTION-HD/index.m3u8",
     "img": "https://i.imgur.com/BHYWG0h.png"
   },
   {
     "name": "Telecine Cult (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Cult/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCCULT-HD/index.m3u8",
     "img": "https://i.imgur.com/6GuHXnr.png"
   },
   {
     "name": "Telecine Fun (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Fun/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCFUN-HD/index.m3u8",
     "img": "https://i.imgur.com/MO2Ynki.png"
   },
   {
     "name": "Telecine Pipoca (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8",
     "img": "https://i.imgur.com/hW9JYXr.png"
   },
   {
     "name": "Telecine Premium (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Premium/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8",
     "img": "https://i.imgur.com/uVFgIr8.png"
   },
   {
     "name": "Telecine Touch (720p)",
     "type": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Touch/index.m3u8",
+    "url": "http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8",
     "img": "https://i.imgur.com/Nky0hRo.png"
   },
   {
@@ -2036,13 +2054,13 @@
   {
     "name": "Fish TV (720p)",
     "type": "Outdoor",
-    "url": "http://45.162.231.38:7779/Fish_TV/index.m3u8",
+    "url": "http://167.250.126.140:7777/FISHTV-HD/index.m3u8",
     "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
   },
   {
     "name": "Terra Viva (720p)",
     "type": "Outdoor",
-    "url": "http://45.162.231.38:7779/Terra_Viva/index.m3u8",
+    "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
     "img": "https://i.imgur.com/wnYsE3O.png"
   },
   {
@@ -2208,12 +2226,6 @@
     "img": "https://i.imgur.com/VUt1lmH.png"
   },
   {
-    "name": "Boa Vontade TV (720p)",
-    "type": "Undefined",
-    "url": "http://45.162.231.38:7779/Boa_Vontade_TV/index.m3u8",
-    "img": "https://i.imgur.com/Ms5tSgu.png"
-  },
-  {
     "name": "Boas Novas (1080p)",
     "type": "Undefined",
     "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
@@ -2228,7 +2240,7 @@
   {
     "name": "Canal do Boi (720p)",
     "type": "Undefined",
-    "url": "http://45.162.231.38:7779/Canal_do_Boi/index.m3u8",
+    "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
     "img": "https://i.imgur.com/pVM5MhS.png"
   },
   {
@@ -2274,15 +2286,9 @@
     "img": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png"
   },
   {
-    "name": "RBI TV (720p)",
-    "type": "Undefined",
-    "url": "http://45.162.231.38:7779/RBI/index.m3u8",
-    "img": "https://i.imgur.com/T1wU2HU.png"
-  },
-  {
     "name": "Rede CNT Rio de Janeiro (720p)",
     "type": "Undefined",
-    "url": "http://45.162.231.38:7779/CNT/index.m3u8",
+    "url": "http://45.162.64.114/CNT/index.m3u8",
     "img": "https://i.imgur.com/jcasAmw.png"
   },
   {
@@ -2412,6 +2418,12 @@
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
+    "name": "TV Escola (720p)",
+    "type": "Undefined",
+    "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8",
+    "img": "https://i.imgur.com/OF6aGQj.png"
+  },
+  {
     "name": "TV Fronteira (480i)",
     "type": "Undefined",
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8",
@@ -2422,6 +2434,12 @@
     "type": "Undefined",
     "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"
+  },
+  {
+    "name": "TV Globo Rio de Janeiro (720p)",
+    "type": "Undefined",
+    "url": "http://45.190.28.50/GLOBO_HD/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "TV Globo Sao Paulo (1080p)",
@@ -2444,7 +2462,7 @@
   {
     "name": "TV Justica (720p)",
     "type": "Undefined",
-    "url": "http://45.162.231.38:7779/TV_Justica/index.m3u8",
+    "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
     "img": "https://i.imgur.com/rOQKiMO.png"
   },
   {
@@ -2472,9 +2490,9 @@
     "img": "https://i.imgur.com/0FOmktl.png"
   },
   {
-    "name": "TV Ra Tim Bum (576p)",
+    "name": "TV Ra Tim Bum (720p)",
     "type": "Undefined",
-    "url": "http://45.162.64.114/RA_TIM_BUM/index.m3u8",
+    "url": "http://45.190.28.50/RATIMBUM/index.m3u8",
     "img": "https://i.imgur.com/JIQwz0w.png"
   },
   {
@@ -2504,7 +2522,7 @@
   {
     "name": "TVE Cultura (720p)",
     "type": "Undefined",
-    "url": "http://45.162.231.38:7779/TVE/index.m3u8",
+    "url": "http://45.190.28.50/TVE/index.m3u8",
     "img": "https://i.imgur.com/FpqoWcB.png"
   },
   {
@@ -2544,9 +2562,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"
   },
   {
-    "name": "USA Network Latin America Brazil (720p)",
+    "name": "USA Network Latin America Brazil (1080p)",
     "type": "Undefined",
-    "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8",
+    "url": "http://45.190.156.152/USA/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
   },
   {
@@ -2612,7 +2630,7 @@
   {
     "name": "Rede Vida (720p)",
     "type": "Religious",
-    "url": "http://45.162.231.38:7779/Rede_Vida/index.m3u8",
+    "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8",
     "img": "https://i.imgur.com/mP1qfp2.png"
   },
   {
@@ -2654,7 +2672,7 @@
   {
     "name": "TV Pai Eterno (720p)",
     "type": "Religious",
-    "url": "http://45.162.231.38:7779/Pai_Eterno/index.m3u8",
+    "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
     "img": "https://i.imgur.com/iuoXchN.png"
   },
   {
@@ -2678,7 +2696,7 @@
   {
     "name": "Curta! (720p)",
     "type": "Culture",
-    "url": "http://45.162.231.38:7779/Curta/index.m3u8",
+    "url": "http://167.250.126.140:7777/CURTA!-HD/index.m3u8",
     "img": "https://i.imgur.com/Rwrh0zU.png"
   },
   {
@@ -2730,9 +2748,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png"
   },
   {
-    "name": "DumDum (720p)",
+    "name": "DumDum (1080p)",
     "type": "Kids",
-    "url": "http://45.162.231.38:7779/ZooMoo/index.m3u8",
+    "url": "http://45.190.156.152/ZOOMOO/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
   },
   {
@@ -2882,7 +2900,7 @@
   {
     "name": "Premiere Clubes (720p)",
     "type": "Sports",
-    "url": "http://45.162.231.38:7779/Premiere_Clubes/index.m3u8",
+    "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png"
   },
   {
@@ -2980,12 +2998,6 @@
     "type": "Education",
     "url": "http://45.162.64.114/FUTURA/index.m3u8",
     "img": "https://i.imgur.com/LgynEBC.png"
-  },
-  {
-    "name": "Futura (720p)",
-    "type": "Education",
-    "url": "http://45.162.231.38:7779/Futura/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
   },
   {
     "name": "ISTV (720p) [Not 24/7]",
@@ -3118,6 +3130,18 @@
     "type": "Education;Lifestyle",
     "url": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8",
     "img": "https://i.imgur.com/ht4tUOc.png"
+  },
+  {
+    "name": "Chef TV (720p)",
+    "type": "Cooking",
+    "url": "http://45.190.28.50/CHEF_TV/index.m3u8",
+    "img": "https://i.imgur.com/UYksTee.png"
+  },
+  {
+    "name": "Tastemade (720p)",
+    "type": "Cooking",
+    "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
+    "img": "https://i.imgur.com/FPy4zF4.png"
   },
   {
     "name": "Comedy Central Pluto TV",
@@ -3528,24 +3552,6 @@
     "img": "https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png"
   },
   {
-    "name": "Modo Viagem (720p)",
-    "type": "Travel",
-    "url": "http://45.162.231.38:7779/Modo_Viagem/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg"
-  },
-  {
-    "name": "Travel Box Brazil (720p)",
-    "type": "Travel",
-    "url": "http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8",
-    "img": "https://i.imgur.com/3tBJERH.png"
-  },
-  {
-    "name": "TV Paraná Turismo (720p) [Not 24/7]",
-    "type": "Travel",
-    "url": "http://200.189.113.201/hls/tve.m3u8",
-    "img": "https://i.imgur.com/I6pKoBd.png"
-  },
-  {
     "name": "NickOnline (360p)",
     "type": "Animation;Kids",
     "url": "https://x1colegal.com/hls/stream.m3u8",
@@ -3606,16 +3612,22 @@
     "img": "https://i.imgur.com/SeF2I7q.png"
   },
   {
-    "name": "Tastemade (720p)",
-    "type": "Cooking",
-    "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
-    "img": "https://i.imgur.com/FPy4zF4.png"
-  },
-  {
     "name": "The Pet Collective (720p)",
     "type": "Family",
     "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8",
     "img": "https://i.imgur.com/yH7n2dF.png"
+  },
+  {
+    "name": "Travel Box Brazil (720p)",
+    "type": "Travel",
+    "url": "http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8",
+    "img": "https://i.imgur.com/3tBJERH.png"
+  },
+  {
+    "name": "TV Paraná Turismo (720p) [Not 24/7]",
+    "type": "Travel",
+    "url": "http://200.189.113.201/hls/tve.m3u8",
+    "img": "https://i.imgur.com/I6pKoBd.png"
   },
   {
     "name": "TV Modelo (720p)",
