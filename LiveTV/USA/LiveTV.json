@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-14 22:44:53",
+  "date": "2026-07-15 08:01:16",
   "channels": {
     "Movies": [
       {
@@ -323,6 +323,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://40.160.24.52/EPIX/index.m3u8"
+      },
+      {
+        "name": "MGM+ Drive-In (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8"
       },
       {
         "name": "MGM+ Hits (720p)",
@@ -822,6 +829,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8"
+      },
+      {
+        "name": "CTN (720p)",
+        "logo": "https://i.imgur.com/mHCabmJ.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8"
       },
       {
         "name": "Daystar TV (1080p)",
@@ -9270,11 +9284,11 @@
         "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8"
       },
       {
-        "name": "SYFY (720p)",
+        "name": "SYFY (1080p)",
         "logo": "https://i.imgur.com/4fMWhUE.png",
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8"
+        "url": "https://gpuserver5.tier1streams.com/SYFY/index.m3u8"
       },
       {
         "name": "The Wild Wild West",
@@ -10438,6 +10452,13 @@
         "url": "https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8"
       },
       {
+        "name": "Guangdong TV America",
+        "logo": "https://i.imgur.com/7J4qGjA.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8"
+      },
+      {
         "name": "GunAz TV",
         "logo": "https://i.imgur.com/2ZnQazl.png",
         "group": "General",
@@ -11187,6 +11208,13 @@
         "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
       },
       {
+        "name": "WCETV Digital Channel 31.8",
+        "logo": "https://i.imgur.com/l0UO27k.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8"
+      },
+      {
         "name": "WCOT 13 (Tallahassee FL) (720p)",
         "logo": "https://i.imgur.com/WMUBDzY.jpg",
         "group": "General",
@@ -11882,11 +11910,11 @@
         "url": "https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8"
       },
       {
-        "name": "TCT Network (720p)",
+        "name": "TCT (1080p)",
         "logo": "https://i.imgur.com/J5iRMgi.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8"
+        "url": "https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8"
       },
       {
         "name": "TED (1080p)",
