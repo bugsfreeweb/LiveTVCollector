@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-14 22:49:58",
+  "date": "2026-07-15 08:22:24",
   "channels": {
     "TV": [
       {
@@ -7799,6 +7799,13 @@
     ],
     "Movies": [
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/axn.m3u8"
+      },
+      {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (720p)",
         "logo": "https://i.imgur.com/tJQckal.png",
         "group": "Movies",
@@ -7811,6 +7818,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Movies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8"
       }
     ],
     "Entertainment": [
@@ -7820,6 +7834,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Star Channel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/fox.m3u8"
       },
       {
         "name": "TVI Reality (720p) [Not 24/7]",
@@ -7878,6 +7899,20 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "http://znty.dyndns.org:5010/hls/stv5.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV6",
+        "logo": "https://i.imgur.com/qmlQkyI.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://zntx.dyndns.org:8085/hls/stv6.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV7",
+        "logo": "https://i.imgur.com/2HmCAm5.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://zntx.dyndns.org:8085/hls/stv7.m3u8"
       },
       {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV+",
@@ -8023,6 +8058,31 @@
         "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8"
       }
     ],
+    "Comedy": [
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Comedy\",Star Comedy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/foxcomedy.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Star Crime",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/foxcrime.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Star Life",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/foxlife.m3u8"
+      }
+    ],
     "Series": [
       {
         "name": "TVI Ficção (720p)",
@@ -8110,7 +8170,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDI6MjE6MjAgUE0maGFzaF92YWx1ZT1ZYzZyVXVGWkZOam9QZHBWNEdyRFR3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODA4NjEzYTItZWZiNi00NGYzLWIwZDAtYjcyMDFlZjE3NjUz/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDk6Mjg6MTggUE0maGFzaF92YWx1ZT0xdEIyNGxieHZ1c2FBRC9QcWdHcWNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2Y1YjhiMjAtM2U3OC00YjU1LWFkY2UtNzkwYTA4MDRjMGVk/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -8124,7 +8184,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDI6MjE6MTkgUE0maGFzaF92YWx1ZT1veHJRSkk3dG9OVGVmZTFMckdzZTN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2MyMDRlMGEtMjk1ZS00M2Q0LTk4ZGQtMmQ3MTZkMGIyY2M1/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDk6Mjg6MTcgUE0maGFzaF92YWx1ZT1RQlBCS1JkU0JGZHJzMG9aNk14SGdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGQ0Yzk2OWItMzE2Zi00YmYwLWEwMDktMjI1MDJmOTE4MzFl/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -8238,7 +8298,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDI6MjE6MTkgUE0maGFzaF92YWx1ZT02M1ZrV0d2L1AxTUk4NDQzcExqWThBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzA2NzA3MGItYzQ5NC00MDA1LWFiODctYzE3NjA3Mjg1NTlh/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDk6Mjg6MTcgUE0maGFzaF92YWx1ZT0wMWJuUHZyWmw3MDM3VlMzUENVWERBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjNiNDljYzUtNjVjMi00MmE3LWI4NDgtNmJjNGFkOTBlYmU5/"
       },
       {
         "name": "Euronews 🇵🇹",
