@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-16 22:31:21",
+  "date": "2026-07-17 06:59:36",
   "channels": {
     "Entertainment": [
       {
@@ -129,7 +129,14 @@
         "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (720p)",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (576p)",
+        "logo": "https://i.imgur.com/QxHt9NC.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 HD (720p)",
         "logo": "https://i.imgur.com/QxHt9NC.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
@@ -1053,6 +1060,22 @@
         "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
       }
     ],
+    "Auto": [
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Auto\",Automoto la chaine",
+        "logo": "https://i.imgur.com/ebf2uc7.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8"
+      },
+      {
+        "name": "Motorvision.tv (French)",
+        "logo": "https://i.imgur.com/5cs5GkJ.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
+      }
+    ],
     "Kids": [
       {
         "name": "BabyTV France HD (720p)",
@@ -1234,6 +1257,64 @@
         "group": "News;Science",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
+      }
+    ],
+    "Sports": [
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Canal+ Sport 360",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8"
+      },
+      {
+        "name": "Equidia (1080p)",
+        "logo": "https://i.imgur.com/QPpbRcZ.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8"
+      },
+      {
+        "name": "FIFA+ French (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "Foot+",
+        "logo": "https://i.imgur.com/qsLLyn4.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://145.239.5.177/556a/index.m3u8"
+      },
+      {
+        "name": "Kozoom TV (1080p)",
+        "logo": "https://i.imgur.com/M1Ee79b.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8"
+      },
+      {
+        "name": "L'Equipe (1080p)",
+        "logo": "https://i.imgur.com/t35zhM9.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8"
+      },
+      {
+        "name": "Pluto TV Snooker 900 (720p)",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8"
+      },
+      {
+        "name": "Trace Sport Stars (Australia) (1080p)",
+        "logo": "https://i.imgur.com/FabFP5A.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
       }
     ],
     "Documentary": [
@@ -1580,57 +1661,6 @@
         "url": "http://41.205.77.102/KTO/index.m3u8"
       }
     ],
-    "Sports": [
-      {
-        "name": "Equidia (1080p)",
-        "logo": "https://i.imgur.com/QPpbRcZ.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8"
-      },
-      {
-        "name": "FIFA+ French (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "Foot+",
-        "logo": "https://i.imgur.com/qsLLyn4.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://145.239.5.177/556a/index.m3u8"
-      },
-      {
-        "name": "Kozoom TV (1080p)",
-        "logo": "https://i.imgur.com/M1Ee79b.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8"
-      },
-      {
-        "name": "L'Equipe (1080p)",
-        "logo": "https://i.imgur.com/t35zhM9.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8"
-      },
-      {
-        "name": "Pluto TV Snooker 900 (720p)",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8"
-      },
-      {
-        "name": "Trace Sport Stars (Australia) (1080p)",
-        "logo": "https://i.imgur.com/FabFP5A.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
-      }
-    ],
     "Lifestyle": [
       {
         "name": "FashionTV Paris L'Original (1080p)",
@@ -1712,15 +1742,6 @@
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8"
-      }
-    ],
-    "Auto": [
-      {
-        "name": "Motorvision.tv (French)",
-        "logo": "https://i.imgur.com/5cs5GkJ.png",
-        "group": "Auto",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
       }
     ],
     "Culture": [
