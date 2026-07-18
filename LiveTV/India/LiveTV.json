@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-17 22:45:46",
+  "date": "2026-07-18 08:17:15",
   "channels": {
     "News": [
       {
@@ -836,11 +836,11 @@
         "url": "https://cdn-6.pishow.tv/live/10009/master.m3u8"
       },
       {
-        "name": "News India 24x7",
+        "name": "News India 24x7 (576p)",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-3.pishow.tv/live/273/master.m3u8"
+        "url": "http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8"
       },
       {
         "name": "News J (720p) [Not 24/7]",
@@ -1156,6 +1156,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-3.pishow.tv/live/1612/master.m3u8"
+      },
+      {
+        "name": "Time TV (576p)",
+        "logo": "https://i.imgur.com/yxpeWnY.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://tvsen5.aynascope.net/timetv/index.m3u8"
       },
       {
         "name": "Time Vision News (720p)",
@@ -3266,6 +3273,13 @@
         "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8"
       },
       {
+        "name": "Star Jalsha HD (720p)",
+        "logo": "https://i.imgur.com/IlufzR5.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://tvsen7.aynascope.net/sjhdbd/index.m3u8"
+      },
+      {
         "name": "Star Maa Gold (576p)",
         "logo": "https://i.imgur.com/8v4JXYu.png",
         "group": "Entertainment",
@@ -4275,6 +4289,20 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
+      },
+      {
+        "name": "Star Sports Select 1 HD (720p)",
+        "logo": "https://i.imgur.com/Mh9tKPx.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://tvsen7.aynascope.net/sspts1/index.m3u8"
+      },
+      {
+        "name": "Star Sports Select 2 HD (720p)",
+        "logo": "https://i.imgur.com/FtRT73R.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8"
       }
     ],
     "Education": [
