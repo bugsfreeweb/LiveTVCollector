@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-20 16:16:46",
+  "date": "2026-07-20 23:26:26",
   "channels": {
     "General": [
       {
@@ -346,18 +346,18 @@
         "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8"
       },
       {
-        "name": "LBC (1080p) [Geo-blocked]",
+        "name": "LBC (1080p)",
         "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8"
+        "url": "http://185.9.2.18/chid_327/index.m3u8"
       },
       {
-        "name": "LBC International",
+        "name": "LBC International (1080p)",
         "logo": "https://i.imgur.com/h26xtUv.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "http://185.9.2.18/chid_327/index.m3u8"
+        "url": "http://185.9.2.18/chid_521/index.m3u8"
       },
       {
         "name": "Libya Al Wataniya (360p)",
@@ -754,6 +754,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8"
+      },
+      {
+        "name": "Mazzika (576p)",
+        "logo": "https://i.imgur.com/P7PUHIx.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://149.100.11.235:8080/Mazzika/index.m3u8"
       },
       {
         "name": "MBC Mood (1080p)",
@@ -1318,6 +1325,13 @@
         "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
       },
       {
+        "name": "Seraj TV (1080i)",
+        "logo": "https://i.imgur.com/1d25a9Q.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8"
+      },
+      {
         "name": "Sharjah 2 (1080p)",
         "logo": "https://i.imgur.com/Wd3Xvd1.png",
         "group": "Religious",
@@ -1542,6 +1556,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8"
+      },
+      {
+        "name": "Alikhbaria Syria (1080p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "http://185.9.2.18/chid_423/index.m3u8"
       },
       {
         "name": "Almahriah TV (576p)",
