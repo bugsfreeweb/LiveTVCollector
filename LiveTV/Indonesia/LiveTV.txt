@@ -6245,8 +6245,8 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 
 Group: INDONESIA TV
 Name: 06. RCTI (MAX)
-URL: https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
-Logo: https://mimipipi22.github.io/logo/nasional/rcti.jpg
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 05. MNCTV (MAX)
@@ -6314,13 +6314,8 @@ URL: http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/trans7.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 02. ANTV (KILAS)
-URL: http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
-Logo: https://mimipipi22.github.io/logo/nasional/antv.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: 02. ANTV (Vidio)
-URL: https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+Name: 02. ANTV
+URL: http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 Logo: https://i.imgur.com/3KcXcgR.jpeg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -6340,7 +6335,7 @@ Logo: https://i.imgur.com/a0VCnfW.jpeg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 09. TVONE (MAX)
-URL: https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
 Logo: https://mimipipi22.github.io/logo/nasional/tvone.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -6371,12 +6366,12 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 --------------------------------------------------
 Name: 01.TVRI Nasional (Vidio)
 URL: https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
-Logo: https://i.imgur.com/YWdcJ5x.jpeg
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 01. TVRI NASIONAL (MAX)
 URL: https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
-Logo: https://mimipipi22.github.io/logo/nasional/tvri.jpg
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 33. TVRI WORLD (MAX)
@@ -12930,11 +12925,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: MOJI Digital 2
 URL: http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 Logo: https://iili.io/JMp3vUJ.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: RCTI 🔵
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-Logo: https://mncvision.id/userfiles/image/channel/channel_80.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: RCTI 🔵
@@ -21495,11 +21485,6 @@ URL: https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8|user-agent=Mozilla/5
 Logo: https://i.ibb.co.com/1tJQ0Mzp/MAGNA.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: TV ONE
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
-Logo: https://i.ibb.co.com/7t2mbspy/TVONE.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: TV ONE HD
 URL: https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 Logo: https://i.ibb.co.com/7t2mbspy/TVONE.png
@@ -21555,6 +21540,11 @@ URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 Logo: https://mimipipi22.github.io/logo/nasional/rcti.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: RCTI (MAX)
+URL: https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
+Logo: https://mimipipi22.github.io/logo/nasional/rcti.jpg
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: RCTI WORLD
 URL: https://mimipipi22.github.io/logo/offline.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/rctiw.jpg
@@ -21598,6 +21588,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: RTV (MAX)
 URL: https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/rtv.jpg
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: TVONE (MAX)
+URL: https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
+Logo: https://mimipipi22.github.io/logo/nasional/tvone.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: METRO TV (DNS)
