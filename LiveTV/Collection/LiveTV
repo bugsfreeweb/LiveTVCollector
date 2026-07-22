@@ -1992,6 +1992,12 @@
     "img": "https://static.epg.best/ch/canalb-d.ch.png"
   },
   {
+    "name": "ANTENNA TRE HD",
+    "type": "IT local",
+    "url": "https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist.m3u8",
+    "img": "https://static.epg.best/ch/antennatre.it.png"
+  },
+  {
     "name": "Canal9 FHD",
     "type": "CH Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8",
@@ -2032,6 +2038,18 @@
     "type": "CH Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8",
     "img": "https://picserve.netplus.ch/channels/kanal9.png"
+  },
+  {
+    "name": "Canal B (start 1.7.2026)",
+    "type": "CH Regional",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8",
+    "img": "https://picserve.netplus.ch/channels/canalbde.png"
+  },
+  {
+    "name": "Canal B (start 1.7.2026)",
+    "type": "CH Regional",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8",
+    "img": "https://picserve.netplus.ch/channels/canalbfr.png"
   },
   {
     "name": "LA TELE HD",
@@ -2150,7 +2168,7 @@
   {
     "name": "Canal Algerie2",
     "type": "DZ generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalalgerie.png"
   }
 ]
