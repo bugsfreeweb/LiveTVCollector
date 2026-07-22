@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21 22:48:44",
+  "date": "2026-07-22 08:06:56",
   "channels": {
     "Religious": [
       {
@@ -110,11 +110,11 @@
         "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
       },
       {
-        "name": "A&E (720p)",
+        "name": "A&E (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://23.239.31.26:8989/aande/index.m3u8"
+        "url": "https://gpuserver3.tier1streams.com/AE/index.m3u8"
       },
       {
         "name": "America's Next Top Model",
@@ -1231,6 +1231,13 @@
         "url": "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
       },
       {
+        "name": "W Network (720p)",
+        "logo": "https://i.imgur.com/t7XdBh8.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/w.wtn.east.ca.m3u8"
+      },
+      {
         "name": "WCGtv Public (1080p)",
         "logo": "https://i.imgur.com/q7UPbEG.png",
         "group": "Undefined",
@@ -1442,6 +1449,22 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+      }
+    ],
+    "Auto": [
+      {
+        "name": "CTV Speed Channel (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Updated_CTV_Speed_Channel_Logo.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8"
+      },
+      {
+        "name": "Pluto TV Cars",
+        "logo": "https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
       }
     ],
     "Family": [
@@ -1950,15 +1973,6 @@
         "group": "Entertainment;Outdoor;Series",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8"
-      }
-    ],
-    "Auto": [
-      {
-        "name": "Pluto TV Cars",
-        "logo": "https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png",
-        "group": "Auto",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
       }
     ],
     "Classic": [
