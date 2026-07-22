@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21 22:39:45",
+  "date": "2026-07-22 07:31:29",
   "channels": {
     "General": [
       {
@@ -346,11 +346,11 @@
         "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8"
       },
       {
-        "name": "LBC (1080p)",
+        "name": "LBC (1080p) [Geo-blocked]",
         "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "http://185.9.2.18/chid_327/index.m3u8"
+        "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
         "name": "LBC International (1080p)",
@@ -640,13 +640,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "http://185.102.171.218/DisneyChannel/index.m3u8"
-      },
-      {
-        "name": "Disney Junior MENA (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8"
       },
       {
         "name": "MBC 3 USA (1080p) [Geo-blocked]",
@@ -1276,6 +1269,13 @@
         "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
       },
       {
+        "name": "Muslim Network TV",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8"
+      },
+      {
         "name": "Nour Al Koddas (406p) [Not 24/7]",
         "logo": "https://i.imgur.com/dF4Mvts.png",
         "group": "Religious",
@@ -1323,13 +1323,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "Seraj TV (1080i)",
-        "logo": "https://i.imgur.com/1d25a9Q.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8"
       },
       {
         "name": "Sharjah 2 (1080p)",
@@ -1731,6 +1724,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://htvint.mada.ps/nabluslive/index.m3u8"
+      },
+      {
+        "name": "NOW News Arabic (720p)",
+        "logo": "https://i.imgur.com/MfyRQCs.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://live.nowtelly.com/now_arabic/live/playlist.m3u8"
       },
       {
         "name": "Oman Mubashir (1080p)",
@@ -2685,6 +2685,15 @@
         "url": "https://ktvlive.online/stream/hls/ch3.m3u8"
       }
     ],
+    "General;Sports": [
+      {
+        "name": "Prime (1080p)",
+        "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+        "group": "General;Sports",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8"
+      }
+    ],
     "Classic": [
       {
         "name": "Rotana Classic (1080p) [Geo-blocked]",
@@ -2699,6 +2708,15 @@
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://aloula-redirect.vercel.app/3/playlist.m3u8"
+      }
+    ],
+    "General;News": [
+      {
+        "name": "Seraj TV (1080i)",
+        "logo": "https://i.imgur.com/1d25a9Q.png",
+        "group": "General;News",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8"
       }
     ],
     "Animation;Kids": [
