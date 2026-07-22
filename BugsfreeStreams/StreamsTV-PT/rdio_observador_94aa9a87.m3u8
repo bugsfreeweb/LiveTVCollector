@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=128000,RESOLUTION=Variant_1
+https://27783.live.streamtheworld.com:443/OBSERVADOR_ADP/HLS/2507bef1-ccff-4569-b26c-81f9af058e82/0/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000,RESOLUTION=Variant_2
+https://27783.live.streamtheworld.com:443/OBSERVADOR_ADP/HLS/2507bef1-ccff-4569-b26c-81f9af058e82/1/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=32000,RESOLUTION=Variant_3
+https://27783.live.streamtheworld.com:443/OBSERVADOR_ADP/HLS/2507bef1-ccff-4569-b26c-81f9af058e82/2/playlist.m3u8
