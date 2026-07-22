@@ -294,9 +294,9 @@
     "img": "https://i.imgur.com/xPoycVY.png"
   },
   {
-    "name": "LBC (1080p)",
+    "name": "LBC (1080p) [Geo-blocked]",
     "type": "General",
-    "url": "http://185.9.2.18/chid_327/index.m3u8",
+    "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp"
   },
   {
@@ -544,12 +544,6 @@
     "type": "Kids",
     "url": "http://185.102.171.218/DisneyChannel/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "name": "Disney Junior MENA (576p)",
-    "type": "Kids",
-    "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
   },
   {
     "name": "MBC 3 USA (1080p) [Geo-blocked]",
@@ -1086,6 +1080,12 @@
     "img": "https://i.imgur.com/3Nl8Tpu.png"
   },
   {
+    "name": "Muslim Network TV",
+    "type": "Religious",
+    "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "Nour Al Koddas (406p) [Not 24/7]",
     "type": "Religious",
     "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
@@ -1126,12 +1126,6 @@
     "type": "Religious",
     "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
     "img": "https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png"
-  },
-  {
-    "name": "Seraj TV (1080i)",
-    "type": "Religious",
-    "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
-    "img": "https://i.imgur.com/1d25a9Q.png"
   },
   {
     "name": "Sharjah 2 (1080p)",
@@ -1474,6 +1468,12 @@
     "type": "News",
     "url": "https://htvint.mada.ps/nabluslive/index.m3u8",
     "img": "https://i.imgur.com/GoLhaDK.png"
+  },
+  {
+    "name": "NOW News Arabic (720p)",
+    "type": "News",
+    "url": "https://live.nowtelly.com/now_arabic/live/playlist.m3u8",
+    "img": "https://i.imgur.com/MfyRQCs.png"
   },
   {
     "name": "Oman Mubashir (1080p)",
@@ -2256,6 +2256,12 @@
     "img": "https://www.karbala-tv.iq/documentary/static/img/logo.png"
   },
   {
+    "name": "Prime (1080p)",
+    "type": "General;Sports",
+    "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+    "img": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png"
+  },
+  {
     "name": "Rotana Classic (1080p) [Geo-blocked]",
     "type": "Classic",
     "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
@@ -2266,6 +2272,12 @@
     "type": "Classic",
     "url": "https://aloula-redirect.vercel.app/3/playlist.m3u8",
     "img": "https://i.imgur.com/AKa1X9d.png"
+  },
+  {
+    "name": "Seraj TV (1080i)",
+    "type": "General;News",
+    "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
+    "img": "https://i.imgur.com/1d25a9Q.png"
   },
   {
     "name": "Spacetoon Arabic (576p)",
