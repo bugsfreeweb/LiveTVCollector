@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22 22:32:48",
+  "date": "2026-07-23 06:49:03",
   "channels": {
     "General": [
       {
@@ -64345,6 +64345,13 @@
         "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
       },
       {
+        "name": "24 Horas (1080p)",
+        "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+        "group": "News;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "http://185.47.212.25:8080/24h_HD/index.m3u8"
+      },
+      {
         "name": "Canal 24 Horas Canarias (720p)",
         "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
         "group": "News;Public",
@@ -64586,11 +64593,11 @@
     ],
     "Kids;Public": [
       {
-        "name": "Clan TVE (1080p) [Geo-blocked]",
+        "name": "Clan (1080p)",
         "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
         "group": "Kids;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8"
+        "url": "http://185.47.212.25:8080/Clan_HD/index.m3u8"
       }
     ],
     "Culture;Public": [
