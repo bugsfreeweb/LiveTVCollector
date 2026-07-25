@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24 23:10:56",
+  "date": "2026-07-25 08:41:39",
   "channels": {
     "Music": [
       {
@@ -15,6 +15,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8"
+      },
+      {
+        "name": "Jalwa TV",
+        "logo": "https://i.imgur.com/HWb5Iat.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D593B973B8404789C46D3559B8&profile=pass"
       },
       {
         "name": "JooMusic (720p)",
@@ -129,6 +136,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://103.250.28.74:8000/play/a01q/index.m3u8"
+      },
+      {
+        "name": "M News (1080p)",
+        "logo": "https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://cdn.rabta.stream/M-News/index.m3u8"
       },
       {
         "name": "Mashriq TV (576p)",
@@ -278,6 +292,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://116.90.120.151:8000/play/a023/index.m3u8"
+      },
+      {
+        "name": "Hum Sitaray",
+        "logo": "https://i.imgur.com/D0A0eUJ.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass"
       },
       {
         "name": "Pashto 1 (1080p)",
@@ -569,16 +590,14 @@
         "url": "http://103.250.28.74:8000/play/a02j/index.m3u8"
       }
     ],
-    "Cooking": [
-      {
-        "name": "Masala TV (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://103.250.28.74:8000/play/a02x/index.m3u8"
-      }
-    ],
     "Sports": [
+      {
+        "name": "M Sports (1080p)",
+        "logo": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8"
+      },
       {
         "name": "One Golf (720p)",
         "logo": "https://i.imgur.com/7JhaEW5.png",
@@ -606,6 +625,15 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://121.91.61.106:8000/play/a04h/index.m3u8"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "Masala TV (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://103.250.28.74:8000/play/a02x/index.m3u8"
       }
     ],
     "Education;Religious": [
