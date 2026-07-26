@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-26 07:38:38",
+  "date": "2026-07-26 15:23:09",
   "channels": {
     "Uncategorized": [
       {
@@ -2399,6 +2399,65 @@
         "group": "IT local",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://radioitalialive.akamaized.net/hls/live/2124228/radioitalialive/stream03/streamPlaylist.m3u8"
+      }
+    ],
+    "IT cooking": [
+      {
+        "name": "Food Network IT HD",
+        "logo": "https://static.epg.best/it/foodnetwork.it.png",
+        "group": "IT cooking",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
+      }
+    ],
+    "IT fashion": [
+      {
+        "name": "ClassTV MODA HD",
+        "logo": "https://static.epg.best/it/classtvmoda.it.png",
+        "group": "IT fashion",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(sq_0bJK6qMAmxmsub2kEaSDnaxOn9gx0o4oXCat_9YoUU_5wC3I170bYw0-KUZf_HuV_JSQcsu8ro_am6-CQl2sAV4BXtlPS8WMs4fQLI3ru4A7JuKJj9CSF6ZufN626)/cloud/3/x98rt88/s/live-1080@60.m3u8"
+      }
+    ],
+    "IT sport": [
+      {
+        "name": "Sportitalia HD",
+        "logo": "https://static.epg.best/it/sportitalia.it.png",
+        "group": "IT sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://d2jkw86a67nj1h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dbb29xswlo1zn/9bbb3446-b6a8-411b-aca3-89273004b2c4/3.m3u8"
+      },
+      {
+        "name": "AUTOMOTO IT",
+        "logo": "https://static.epg.best/it/automoto.it.png",
+        "group": "IT sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://streamcdnm2-3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/chunklist.m3u8"
+      }
+    ],
+    "IT religion": [
+      {
+        "name": "TV2000 IT",
+        "logo": "https://static.epg.best/it/tv2000.it.png",
+        "group": "IT religion",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8"
+      }
+    ],
+    "IT generalist": [
+      {
+        "name": "DISCOVERY IT",
+        "logo": "https://static.epg.best/it/discovery.it.png",
+        "group": "IT generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
+      },
+      {
+        "name": "Giallo IT",
+        "logo": "https://static.epg.best/it/giallo.it.png",
+        "group": "IT generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8"
       }
     ],
     "CH Regional": [
