@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-25 22:16:09",
+  "date": "2026-07-26 07:25:05",
   "channels": {
     "News": [
       {
@@ -1489,11 +1489,11 @@
         "url": "https://cdn-1.pishow.tv/live/1456/master.m3u8"
       },
       {
-        "name": "Epic Music (720p)",
+        "name": "Epic Music (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.213.31.109:90/ShowBox/playlist.m3u8"
+        "url": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8"
       },
       {
         "name": "ETV Music (1080p)",
@@ -1908,7 +1908,7 @@
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.72.101.252:8080/live/3384.m3u8"
+        "url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8"
       },
       {
         "name": "ETV Cinema HD (1080p)",
@@ -4692,39 +4692,14 @@
         "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
       }
     ],
-    "Comedy": [
-      {
-        "name": "ETV Comedy (1080p)",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8"
-      },
-      {
-        "name": "Sirippoli TV (576p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
-      },
-      {
-        "name": "Zee Comedy Nation (1080p)",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
-      }
-    ],
-    "Cooking;Lifestyle": [
-      {
-        "name": "Food Food (576p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
-        "group": "Cooking;Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
-      }
-    ],
     "Documentary": [
+      {
+        "name": "DocuBay TV (1080p)",
+        "logo": "https://i.imgur.com/OGyeLLR.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8"
+      },
       {
         "name": "History TV18 (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
@@ -4766,6 +4741,38 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "ETV Comedy (1080p)",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8"
+      },
+      {
+        "name": "Sirippoli TV (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
+      },
+      {
+        "name": "Zee Comedy Nation (1080p)",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
+      }
+    ],
+    "Cooking;Lifestyle": [
+      {
+        "name": "Food Food (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
+        "group": "Cooking;Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
       }
     ],
     "Documentary;News": [
