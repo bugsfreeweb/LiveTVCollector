@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-26 22:22:23",
+  "date": "2026-07-27 07:44:44",
   "channels": {
     "Movies": [
       {
@@ -346,18 +346,18 @@
         "url": "https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8"
       },
       {
+        "name": "MGM+ Hits (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/MGM_PLUS_HITS_HD"
+      },
+      {
         "name": "MGM+ Marquee (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075"
-      },
-      {
-        "name": "MGM+ West (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073"
+        "url": "https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD"
       },
       {
         "name": "Movies! (480p)",
@@ -547,6 +547,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8"
+      },
+      {
+        "name": "Starz Encore Action (1080p)",
+        "logo": "https://i.imgur.com/wIf4X0i.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD"
       },
       {
         "name": "Sundance TV (720p)",
@@ -12022,6 +12029,13 @@
         "url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8"
       },
       {
+        "name": "Showtime Showcase (1080p)",
+        "logo": "https://i.imgur.com/bty4UCb.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/SHOWTIME_SHOWCASE_EAST_US"
+      },
+      {
         "name": "Showtime West (720p)",
         "logo": "https://i.imgur.com/Or0LKsu.png",
         "group": "Undefined",
@@ -12064,11 +12078,39 @@
         "url": "http://40.160.24.55/STARZ_ENCORE/index.m3u8"
       },
       {
+        "name": "Starz Encore Spanish (720p)",
+        "logo": "https://i.imgur.com/5aibRWY.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/STARZ_ENCORE_ESPANOL_EAST_HD"
+      },
+      {
+        "name": "Starz Encore Suspense (1080p)",
+        "logo": "https://i.imgur.com/BI4Ksr1.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/STARZ_ENCORE_SUSPENSE_EAST_HD"
+      },
+      {
         "name": "Starz Encore West (1080p)",
         "logo": "https://i.imgur.com/5ieoKO1.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://sra72yz.s.gy/STARZ_ENCORE_WEST_US"
+      },
+      {
+        "name": "Starz Encore Westerns (720p)",
+        "logo": "https://i.imgur.com/Eo6yLpN.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/STARZ_ENCORE_WESTER_EAST_US"
+      },
+      {
+        "name": "Starz In Black (1080p)",
+        "logo": "https://i.imgur.com/g51a2le.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://sra72yz.s.gy/STARZ_IN_BLACK_EAST_US"
       },
       {
         "name": "Starz West (720p)",
