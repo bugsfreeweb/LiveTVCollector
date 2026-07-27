@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-26 22:14:31",
+  "date": "2026-07-27 07:19:23",
   "channels": {
     "Uncategorized": [
       {
@@ -1585,13 +1585,6 @@
         "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
       },
       {
-        "name": "Euronews. english HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8"
-      },
-      {
         "name": "STINGRAY iConcerts HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1765,13 +1758,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8"
-      },
-      {
-        "name": "France24 English",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
         "name": "TVR INFO TV Romania INFO HD",
@@ -2214,6 +2200,22 @@
         "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
       }
     ],
+    "EN news": [
+      {
+        "name": "euronews. english HD",
+        "logo": "https://static.epg.best/uk/euronews.uk.png",
+        "group": "EN news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8"
+      },
+      {
+        "name": "France24 english HD",
+        "logo": "https://static.epg.best/uk/france24.uk.png",
+        "group": "EN news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8"
+      }
+    ],
     "music": [
       {
         "name": "that's 70s",
@@ -2412,11 +2414,11 @@
     ],
     "IT fashion": [
       {
-        "name": "ClassTV MODA HD",
+        "name": "ClassTV MODA IT HD",
         "logo": "https://static.epg.best/it/classtvmoda.it.png",
         "group": "IT fashion",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(sq_0bJK6qMAmxmsub2kEaSDnaxOn9gx0o4oXCat_9YoUU_5wC3I170bYw0-KUZf_HuV_JSQcsu8ro_am6-CQl2sAV4BXtlPS8WMs4fQLI3ru4A7JuKJj9CSF6ZufN626)/cloud/3/x98rt88/s/live-1080@60.m3u8"
+        "url": "https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/0e8e584b-60e7-4c2b-ab88-9db01211bf55/0.m3u8"
       }
     ],
     "IT sport": [
@@ -2458,6 +2460,56 @@
         "group": "IT generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8"
+      },
+      {
+        "name": "Real Time IT HD",
+        "logo": "https://static.epg.best/it/realtime.it.png",
+        "group": "IT generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8?"
+      }
+    ],
+    "IT news": [
+      {
+        "name": "Sky TG24 IT HD",
+        "logo": "https://static.epg.best/it/skytg24.it.png",
+        "group": "IT news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvheadend-veneto1.zappr.stream/stream/channel/f12c0bdcdf421b230ce4e208880c05d8?profile=webtv-h264-aac-matroska.mkv"
+      },
+      {
+        "name": "euronews. italia HD",
+        "logo": "https://static.epg.best/it/euronews.it.png",
+        "group": "IT news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8"
+      }
+    ],
+    "IT home": [
+      {
+        "name": "HGTV IT Home & Garden HD",
+        "logo": "https://static.epg.best/it/hgtv.it.png",
+        "group": "IT home",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+      }
+    ],
+    "IT financial": [
+      {
+        "name": "Class CNBC IT HD",
+        "logo": "https://static.epg.best/it/classcnbc.it.png",
+        "group": "IT financial",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ud5nm30EsfKC1MuXI0P8LAoo8etpwjyISBI9Fln0c4BL9I0ZEbW3xzqj069KiyKyBwRDWOdhbHp5GXaE18TbEE4UAIwT7oIFHB-OiQ3OAa9K3p0Ka0IgpsVO8e6DPK7r)/cloud/3/x91c8ww/s/live-720@60.m3u8"
+      }
+    ],
+    "IT music": [
+      {
+        "name": "RTL102.5 HD",
+        "logo": "https://static.epg.best/it/rtl1025.it.png",
+        "group": "IT music",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-xr8iccrw35yso/4baf5509-b693-48bc-8e22-12496209477d/1.m3u8"
       }
     ],
     "CH Regional": [

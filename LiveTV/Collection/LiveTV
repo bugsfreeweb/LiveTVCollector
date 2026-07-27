@@ -1356,12 +1356,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Euronews. english HD",
-    "type": "Uncategorized",
-    "url": "https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "STINGRAY iConcerts HD",
     "type": "Uncategorized",
     "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
@@ -1509,12 +1503,6 @@
     "name": "Reuters TV HD",
     "type": "Uncategorized",
     "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "France24 English",
-    "type": "Uncategorized",
-    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1866,6 +1854,18 @@
     "img": "https://i.postimg.cc/L5DYvxw9/morethansportstv.png"
   },
   {
+    "name": "euronews. english HD",
+    "type": "EN news",
+    "url": "https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8",
+    "img": "https://static.epg.best/uk/euronews.uk.png"
+  },
+  {
+    "name": "France24 english HD",
+    "type": "EN news",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://static.epg.best/uk/france24.uk.png"
+  },
+  {
     "name": "that's 70s",
     "type": "music",
     "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
@@ -2010,9 +2010,9 @@
     "img": "https://static.epg.best/it/foodnetwork.it.png"
   },
   {
-    "name": "ClassTV MODA HD",
+    "name": "ClassTV MODA IT HD",
     "type": "IT fashion",
-    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(sq_0bJK6qMAmxmsub2kEaSDnaxOn9gx0o4oXCat_9YoUU_5wC3I170bYw0-KUZf_HuV_JSQcsu8ro_am6-CQl2sAV4BXtlPS8WMs4fQLI3ru4A7JuKJj9CSF6ZufN626)/cloud/3/x98rt88/s/live-1080@60.m3u8",
+    "url": "https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/0e8e584b-60e7-4c2b-ab88-9db01211bf55/0.m3u8",
     "img": "https://static.epg.best/it/classtvmoda.it.png"
   },
   {
@@ -2044,6 +2044,42 @@
     "type": "IT generalist",
     "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
     "img": "https://static.epg.best/it/giallo.it.png"
+  },
+  {
+    "name": "Real Time IT HD",
+    "type": "IT generalist",
+    "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8?",
+    "img": "https://static.epg.best/it/realtime.it.png"
+  },
+  {
+    "name": "Sky TG24 IT HD",
+    "type": "IT news",
+    "url": "https://tvheadend-veneto1.zappr.stream/stream/channel/f12c0bdcdf421b230ce4e208880c05d8?profile=webtv-h264-aac-matroska.mkv",
+    "img": "https://static.epg.best/it/skytg24.it.png"
+  },
+  {
+    "name": "euronews. italia HD",
+    "type": "IT news",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8",
+    "img": "https://static.epg.best/it/euronews.it.png"
+  },
+  {
+    "name": "HGTV IT Home & Garden HD",
+    "type": "IT home",
+    "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
+    "img": "https://static.epg.best/it/hgtv.it.png"
+  },
+  {
+    "name": "Class CNBC IT HD",
+    "type": "IT financial",
+    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(ud5nm30EsfKC1MuXI0P8LAoo8etpwjyISBI9Fln0c4BL9I0ZEbW3xzqj069KiyKyBwRDWOdhbHp5GXaE18TbEE4UAIwT7oIFHB-OiQ3OAa9K3p0Ka0IgpsVO8e6DPK7r)/cloud/3/x91c8ww/s/live-720@60.m3u8",
+    "img": "https://static.epg.best/it/classcnbc.it.png"
+  },
+  {
+    "name": "RTL102.5 HD",
+    "type": "IT music",
+    "url": "https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-xr8iccrw35yso/4baf5509-b693-48bc-8e22-12496209477d/1.m3u8",
+    "img": "https://static.epg.best/it/rtl1025.it.png"
   },
   {
     "name": "Canal9 FHD",
