@@ -6244,11 +6244,6 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 --------------------------------------------------
 
 Group: INDONESIA TV
-Name: SCTV
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-Logo: https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 Name: 06. RCTI (MAX)
 URL: https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png
@@ -11863,6 +11858,11 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 
 Group: NASIONAL
+Name: RCTI 1 ON (+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+Logo: https://i.imgur.com/C0a9fdx.jpeg
+Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
+--------------------------------------------------
 Name: RCTI 2 ON
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 Logo: https://i.imgur.com/C0a9fdx.jpeg
@@ -16599,8 +16599,8 @@ Logo: https://i.imgur.com/qUYLcS8.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Soccer Channel
-URL: https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_101.png
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Logo: https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SPOTV
@@ -16747,6 +16747,11 @@ Name: NBC Sports
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 Logo: https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Soccer Channel 1
+URL: https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Logo: https://www.visionplus.id/images/repository/655/655-LOGO-m.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: MOTOR VISION+
 URL: https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
@@ -21555,11 +21560,6 @@ URL: https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8|referrer=https://den
 Logo: https://i.ibb.co.com/N6ZqDk9N/TVRI.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: RCTI
-URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-Logo: https://mimipipi22.github.io/logo/nasional/rcti.jpg
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: RCTI WORLD
 URL: https://mimipipi22.github.io/logo/offline.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/rctiw.jpg
@@ -21954,7 +21954,7 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 
 Group: TV Nasional Indonesia
 Name: RCTI
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_80.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -21981,6 +21981,11 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: Indosiar
 URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: SCTV
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+Logo: https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TRANS TV
