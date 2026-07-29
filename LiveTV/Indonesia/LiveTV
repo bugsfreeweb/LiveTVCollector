@@ -7386,18 +7386,6 @@
     "img": "https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp"
   },
   {
-    "name": "SPOTV (720p)",
-    "type": "Sports",
-    "url": "http://103.137.83.62:9090/play/32/index.m3u8",
-    "img": "https://i.imgur.com/HaoVsm5.png"
-  },
-  {
-    "name": "SPOTV 2 (720p)",
-    "type": "Sports",
-    "url": "http://103.137.83.62:9090/play/33/index.m3u8",
-    "img": "https://i.imgur.com/YD8fbTH.png"
-  },
-  {
     "name": "MUSLIM TV (V+)",
     "type": "RELIGI",
     "url": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
@@ -8944,12 +8932,6 @@
     "type": "Kids",
     "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd",
     "img": "https://i.imgur.com/qzZFU6d.png"
-  },
-  {
-    "name": "Nickelodeon Asia Indonesia (720p)",
-    "type": "Kids",
-    "url": "http://103.137.83.62:9090/play/28/index.m3u8",
-    "img": "https://i.imgur.com/E84jnP8.png"
   },
   {
     "name": "VTV (1080p)",
@@ -15606,9 +15588,21 @@
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png"
   },
   {
+    "name": "05. MNCTV R+",
+    "type": "INDONESIA TV",
+    "url": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png"
+  },
+  {
     "name": "08. GTV (MAX)",
     "type": "INDONESIA TV",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png"
+  },
+  {
+    "name": "08. GTV R+",
+    "type": "INDONESIA TV",
+    "url": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png"
   },
   {
@@ -15620,7 +15614,7 @@
   {
     "name": "15. INEWS",
     "type": "INDONESIA TV",
-    "url": "https://ayo.maling.pl/Vision/index.mpd?id=4",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png"
   },
   {
@@ -15672,6 +15666,12 @@
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png"
   },
   {
+    "name": "04. TRANS TV (detik)",
+    "type": "INDONESIA TV",
+    "url": "https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1785078764314&wowzatokenhash=KPagFG_Rb_8c_-69o2iMl2qX-UEy3gO3qIGM3stAJ5w%3D&wowzatokenstarttime=0&wowzatokenendtime=1785078753396&wowzatokenhash=EY74gkO_hld5kkivGM1KBQ4LQhN0B7mDYdPAy5QVkTs%3D",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png"
+  },
+  {
     "name": "10. TRANS 7",
     "type": "INDONESIA TV",
     "url": "https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8",
@@ -15680,7 +15680,7 @@
   {
     "name": "02. ANTV",
     "type": "INDONESIA TV",
-    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash",
+    "url": "http://tvratu.my.id/nissa/index.mpd?id=782&type=dash",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png"
   },
   {
@@ -15702,9 +15702,9 @@
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png"
   },
   {
-    "name": "09. TVONE (MAX)",
+    "name": "09. TVONE (vidio)",
     "type": "INDONESIA TV",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/",
+    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png"
   },
   {
@@ -15712,6 +15712,18 @@
     "type": "INDONESIA TV",
     "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png"
+  },
+  {
+    "name": "12. METRO TV (Dens)",
+    "type": "INDONESIA TV",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png"
+  },
+  {
+    "name": "12. METRO TV (Vidio)",
+    "type": "INDONESIA TV",
+    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png"
   },
   {
     "name": "17. CNBC INDONESIA (FEED)",
@@ -15738,9 +15750,9 @@
     "img": "https://mimipipi22.github.io/logo/nasional/beritasatu.jpg"
   },
   {
-    "name": "01.TVRI Nasional (Vidio)",
+    "name": "01.TVRI Nasional",
     "type": "INDONESIA TV",
-    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png"
   },
   {
@@ -15762,9 +15774,15 @@
     "img": "https://mimipipi22.github.io/logo/nasional/daaitv.jpg"
   },
   {
-    "name": "13. MDTV (V+)",
+    "name": "13. MDTV (Dens)",
     "type": "INDONESIA TV",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png"
+  },
+  {
+    "name": "13. MDTV (Trv)",
+    "type": "INDONESIA TV",
+    "url": "http://202.150.161.212:5000/live/channel31/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png"
   },
   {
@@ -19804,12 +19822,6 @@
     "type": "NasioNaL DiGitaL 📡",
     "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png"
-  },
-  {
-    "name": "iNews (R+)",
-    "type": "NasioNaL DiGitaL 📡",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png"
   },
   {
     "name": "Berita Satu",
@@ -31164,6 +31176,12 @@
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png"
   },
   {
+    "name": "MDTV V+",
+    "type": "TV BackUP",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png"
+  },
+  {
     "name": "MDTV IP",
     "type": "TV BackUP",
     "url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
@@ -31860,6 +31878,12 @@
     "img": "https://i.ibb.co.com/1tJQ0Mzp/MAGNA.png"
   },
   {
+    "name": "TV ONE",
+    "type": "TV BackUP",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/",
+    "img": "https://i.ibb.co.com/7t2mbspy/TVONE.png"
+  },
+  {
     "name": "TV ONE HD",
     "type": "TV BackUP",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv",
@@ -31924,18 +31948,6 @@
     "type": "TV BackUP",
     "url": "https://mimipipi22.github.io/logo/offline.m3u8",
     "img": "https://mimipipi22.github.io/logo/nasional/rctiw.jpg"
-  },
-  {
-    "name": "MNCTV",
-    "type": "TV BackUP",
-    "url": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv",
-    "img": "https://mimipipi22.github.io/logo/nasional/mnctv.jpg"
-  },
-  {
-    "name": "GTV",
-    "type": "TV BackUP",
-    "url": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv",
-    "img": "https://mimipipi22.github.io/logo/nasional/gtv.jpg"
   },
   {
     "name": "INEWS",
@@ -32031,12 +32043,6 @@
     "name": "TVRI NASIONAL (V+)",
     "type": "TV BackUP",
     "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/tvri.jpg"
-  },
-  {
-    "name": "TVRI NASIONAL (DNS)",
-    "type": "TV BackUP",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI",
     "img": "https://mimipipi22.github.io/logo/nasional/tvri.jpg"
   },
   {
@@ -33552,12 +33558,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png"
   },
   {
-    "name": "Soccer Channel (1080p)",
-    "type": "Undefined",
-    "url": "http://103.137.83.62:9090/play/35/index.m3u8",
-    "img": "https://i.imgur.com/wuduAXD.png"
-  },
-  {
     "name": "Sriwijaya TV (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
@@ -33618,12 +33618,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zee_Bioskop_(2025).svg/960px-Zee_Bioskop_(2025).svg.png"
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
-    "type": "Movies;Series",
-    "url": "http://103.137.83.62:9090/play/21/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education\",Dens Learning & Knowledge [Geo-blocked]",
     "type": "Education",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8",
@@ -33676,12 +33670,6 @@
     "type": "Entertainment;Series",
     "url": "https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd",
     "img": "https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp"
-  },
-  {
-    "name": "Nick Jr. Indonesia (720p)",
-    "type": "Animation",
-    "url": "http://103.137.83.62:9090/play/27/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/960px-Nick_Jr._logo_2023_%28outline%29.svg.png"
   },
   {
     "name": "Online TV Nusantara (720p) [Not 24/7]",
