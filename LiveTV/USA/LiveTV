@@ -50,7 +50,7 @@
   {
     "name": "AMC East (720p)",
     "type": "Movies",
-    "url": "http://41.223.30.230/AMC/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"
   },
   {
@@ -58,12 +58,6 @@
     "type": "Movies",
     "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
     "img": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png"
-  },
-  {
-    "name": "B4U Movies USA (576p)",
-    "type": "Movies",
-    "url": "http://41.223.30.230/B4UPLUS/index.m3u8",
-    "img": "https://i.imgur.com/M9kMFJl.png"
   },
   {
     "name": "BET Cinema",
@@ -261,12 +255,6 @@
     "name": "Lifetime Movies (1080p)",
     "type": "Movies",
     "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
-    "img": "https://i.imgur.com/BWmqYTO.png"
-  },
-  {
-    "name": "Lifetime Movies West (1080p)",
-    "type": "Movies",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
     "img": "https://i.imgur.com/BWmqYTO.png"
   },
   {
@@ -1596,12 +1584,6 @@
     "img": "https://i.imgur.com/TzWflKZ.png"
   },
   {
-    "name": "beIN Sports en Espanol (1080p) [Not 24/7]",
-    "type": "Sports",
-    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8",
-    "img": "https://i.imgur.com/J5aurrb.png"
-  },
-  {
     "name": "beIN Sports USA (720p)",
     "type": "Sports",
     "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
@@ -1614,9 +1596,9 @@
     "img": "https://i.ibb.co/HT49GPmB/XTRA-2.png"
   },
   {
-    "name": "beIN Sports XTRA en Espanol (1080p)",
+    "name": "beIN SPORTS XTRA en Espanol (1080p)",
     "type": "Sports",
-    "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+    "url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
     "img": "https://i.imgur.com/V562tpO.png"
   },
   {
@@ -1720,12 +1702,6 @@
     "type": "Sports",
     "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
     "img": "https://i.imgur.com/O9BapV9.png"
-  },
-  {
-    "name": "Fox Sports 2",
-    "type": "Sports",
-    "url": "https://streamvidex.qzz.io/videx/fox2usa/index.m3u8",
-    "img": "https://i.imgur.com/LHtxKI8.png"
   },
   {
     "name": "FTF Sports (720p)",
@@ -3434,7 +3410,7 @@
   {
     "name": "Fox News Channel (720p)",
     "type": "News",
-    "url": "http://41.205.77.102/FOX-NEWS/index.m3u8",
+    "url": "http://45.190.28.50/FOX_NEWS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
   },
   {
@@ -3454,12 +3430,6 @@
     "type": "News",
     "url": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8",
     "img": "https://i.imgur.com/Qq6heRq.png"
-  },
-  {
-    "name": "i24NEWS English USA (1080p)",
-    "type": "News",
-    "url": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"
   },
   {
     "name": "InfoWars Network (1080p)",
@@ -6450,12 +6420,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
   },
   {
-    "name": "A&E West (720p)",
-    "type": "Entertainment",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23104",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
-  },
-  {
     "name": "Ace TV (480p)",
     "type": "Entertainment",
     "url": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
@@ -6548,7 +6512,7 @@
   {
     "name": "BET Her (720p)",
     "type": "Entertainment",
-    "url": "http://41.205.93.154/BETHER/index.m3u8",
+    "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
     "img": "https://i.imgur.com/oafsrlo.png"
   },
   {
@@ -6912,12 +6876,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LRW_logo_2012.png/960px-LRW_logo_2012.png"
   },
   {
-    "name": "Lifetime West (720p)",
-    "type": "Entertainment",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23106",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
-  },
-  {
     "name": "Live Music",
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8",
@@ -7042,12 +7000,6 @@
     "type": "Entertainment",
     "url": "http://40.160.24.55/OXYGEN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png"
-  },
-  {
-    "name": "Pasiones (1080p)",
-    "type": "Entertainment",
-    "url": "http://190.61.43.123:8081/PasionesHD/index.m3u8",
-    "img": "https://i.imgur.com/BCWbGf9.png"
   },
   {
     "name": "People Are Awesome (720p)",
@@ -8958,6 +8910,12 @@
     "img": "https://i.imgur.com/PYhdQy9.png"
   },
   {
+    "name": "Galavision (1080p)",
+    "type": "General",
+    "url": "http://200.39.57.254:8008/play/a00v/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png"
+  },
+  {
     "name": "Ganj e Hozour TV (1080p)",
     "type": "General",
     "url": "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8",
@@ -9540,9 +9498,9 @@
     "img": "https://i.ibb.co/xMYMyHh/telepammmm.png"
   },
   {
-    "name": "Telemundo (1080p)",
+    "name": "Telemundo (720p)",
     "type": "General",
-    "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8",
+    "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png"
   },
   {
@@ -9554,7 +9512,7 @@
   {
     "name": "Telemundo West (720p)",
     "type": "General",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23002",
+    "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png"
   },
   {
@@ -9740,7 +9698,7 @@
   {
     "name": "BET (720p)",
     "type": "Undefined",
-    "url": "http://41.205.93.154/BET-EN/index.m3u8",
+    "url": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8",
     "img": "https://i.imgur.com/copIbc9.png"
   },
   {
@@ -10407,6 +10365,12 @@
     "name": "UniMas Mountain (1080p)",
     "type": "Undefined",
     "url": "http://168.228.44.241:9997/play/a09e/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png"
+  },
+  {
+    "name": "UniMas West (1080p)",
+    "type": "Undefined",
+    "url": "http://200.39.57.254:8008/play/a003/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png"
   },
   {
@@ -11604,9 +11568,9 @@
     "img": "https://i.imgur.com/Z9xclnE.png"
   },
   {
-    "name": "Freeform (720p)",
+    "name": "Freeform (1080p)",
     "type": "Family",
-    "url": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8",
+    "url": "http://40.160.24.52/FREEFORM/index.m3u8",
     "img": "https://i.imgur.com/BGAGeIf.png"
   },
   {
@@ -12986,7 +12950,7 @@
   {
     "name": "ESPNews (720p)",
     "type": "News;Sports",
-    "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
+    "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png"
   },
   {
@@ -21291,6 +21255,12 @@
     "name": "beIN Sports en Español",
     "type": "Latino (Spanish)",
     "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3613",
+    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
+  },
+  {
+    "name": "beIN Sports Xtra en Español",
+    "type": "Latino (Spanish)",
+    "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
     "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28 22:52:00",
+  "date": "2026-07-29 07:29:01",
   "channels": {
     "Movies": [
       {
@@ -63,7 +63,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.223.30.230/AMC/index.m3u8"
+        "url": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8"
       },
       {
         "name": "American Horrors (480p)",
@@ -71,13 +71,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
-      },
-      {
-        "name": "B4U Movies USA (576p)",
-        "logo": "https://i.imgur.com/M9kMFJl.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.223.30.230/B4UPLUS/index.m3u8"
       },
       {
         "name": "BET Cinema",
@@ -309,13 +302,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8"
-      },
-      {
-        "name": "Lifetime Movies West (1080p)",
-        "logo": "https://i.imgur.com/BWmqYTO.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107"
       },
       {
         "name": "Made in Hollywood",
@@ -1877,13 +1863,6 @@
         "url": "http://206.212.244.63/6153/index.m3u8"
       },
       {
-        "name": "beIN Sports en Espanol (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/J5aurrb.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8"
-      },
-      {
         "name": "beIN Sports USA (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
         "group": "Sports",
@@ -1898,11 +1877,11 @@
         "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "beIN Sports XTRA en Espanol (1080p)",
+        "name": "beIN SPORTS XTRA en Espanol (1080p)",
         "logo": "https://i.imgur.com/V562tpO.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+        "url": "http://201.190.41.246:9060/play/a03y/index.m3u8"
       },
       {
         "name": "BEK TV Sports West (720p)",
@@ -2022,13 +2001,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
-      },
-      {
-        "name": "Fox Sports 2",
-        "logo": "https://i.imgur.com/LHtxKI8.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streamvidex.qzz.io/videx/fox2usa/index.m3u8"
       },
       {
         "name": "FTF Sports (720p)",
@@ -4027,7 +3999,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.205.77.102/FOX-NEWS/index.m3u8"
+        "url": "http://45.190.28.50/FOX_NEWS/index.m3u8"
       },
       {
         "name": "Fox News International (720p)",
@@ -4049,13 +4021,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8"
-      },
-      {
-        "name": "i24NEWS English USA (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8"
       },
       {
         "name": "InfoWars Network (1080p)",
@@ -7554,13 +7519,6 @@
         "url": "https://gpuserver3.tier1streams.com/AE/index.m3u8"
       },
       {
-        "name": "A&E West (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23104"
-      },
-      {
         "name": "Ace TV (480p)",
         "logo": "https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White.png",
         "group": "Entertainment",
@@ -7670,7 +7628,7 @@
         "logo": "https://i.imgur.com/oafsrlo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.205.93.154/BETHER/index.m3u8"
+        "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8"
       },
       {
         "name": "BET Her West (720p)",
@@ -8093,13 +8051,6 @@
         "url": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8"
       },
       {
-        "name": "Lifetime West (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23106"
-      },
-      {
         "name": "Live Music",
         "logo": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png",
         "group": "Entertainment",
@@ -8245,13 +8196,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://40.160.24.55/OXYGEN/index.m3u8"
-      },
-      {
-        "name": "Pasiones (1080p)",
-        "logo": "https://i.imgur.com/BCWbGf9.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://190.61.43.123:8081/PasionesHD/index.m3u8"
       },
       {
         "name": "People Are Awesome (720p)",
@@ -10494,6 +10438,13 @@
         "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8"
       },
       {
+        "name": "Galavision (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://200.39.57.254:8008/play/a00v/index.m3u8"
+      },
+      {
         "name": "Ganj e Hozour TV (1080p)",
         "logo": "https://i.imgur.com/TnQYtKh.png",
         "group": "General",
@@ -11173,11 +11124,11 @@
         "url": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
       },
       {
-        "name": "Telemundo (1080p)",
+        "name": "Telemundo (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8"
+        "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8"
       },
       {
         "name": "Telemundo Al Dia",
@@ -11191,7 +11142,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23002"
+        "url": "http://181.119.108.43:9001/play/a044/index.m3u8"
       },
       {
         "name": "Torrance CitiCABLE (Torrance CA) (360p)",
@@ -11410,7 +11361,7 @@
         "logo": "https://i.imgur.com/copIbc9.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.205.93.154/BET-EN/index.m3u8"
+        "url": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8"
       },
       {
         "name": "BET Jams (576p)",
@@ -12188,6 +12139,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://168.228.44.241:9997/play/a09e/index.m3u8"
+      },
+      {
+        "name": "UniMas West (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://200.39.57.254:8008/play/a003/index.m3u8"
       },
       {
         "name": "Univision (1080p)",
@@ -13595,11 +13553,11 @@
         "url": "http://206.212.244.63/60/index.m3u8"
       },
       {
-        "name": "Freeform (720p)",
+        "name": "Freeform (1080p)",
         "logo": "https://i.imgur.com/BGAGeIf.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8"
+        "url": "http://40.160.24.52/FREEFORM/index.m3u8"
       },
       {
         "name": "Freeform West (720p)",
@@ -15247,7 +15205,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
         "group": "News;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.223.30.230/ESPNNEWS/index.m3u8"
+        "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8"
       }
     ],
     "Entertainment;Family": [
@@ -25014,6 +24972,13 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3613"
+      },
+      {
+        "name": "beIN Sports Xtra en Español",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
       },
       {
         "name": "FOX Deportes",
