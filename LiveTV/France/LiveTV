@@ -96,9 +96,9 @@
     "img": "https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png"
   },
   {
-    "name": "RTL9 (1080p)",
+    "name": "RTL9 (720p)",
     "type": "Entertainment",
-    "url": "http://cdn.haititivi.com/rtl-9/index.m3u8",
+    "url": "http://145.239.5.177/308/index.m3u8",
     "img": "https://i.imgur.com/nFqjVNW.png"
   },
   {
@@ -210,6 +210,18 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png"
   },
   {
+    "name": "France 3 Cote d'Azur",
+    "type": "General",
+    "url": "http://89.187.185.76:8080/France3/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg"
+  },
+  {
+    "name": "France 3 Lorraine (1080p)",
+    "type": "General",
+    "url": "http://5.180.164.197:8080/FRANCE3/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg"
+  },
+  {
     "name": "France 5 (1080p)",
     "type": "General",
     "url": "http://69.64.57.208/france5/mono.m3u8",
@@ -238,12 +250,6 @@
     "type": "General",
     "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8",
     "img": "https://i.imgur.com/5BZwRFs.png"
-  },
-  {
-    "name": "Paris Premiere (1080p)",
-    "type": "General",
-    "url": "http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8",
-    "img": "https://i.imgur.com/ily4bEm.png"
   },
   {
     "name": "Puissance TV",
@@ -310,162 +316,6 @@
     "type": "General",
     "url": "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8",
     "img": "https://i.imgur.com/TLZsAKK.png"
-  },
-  {
-    "name": "Action HD (720p)",
-    "type": "Movies",
-    "url": "http://rezofoot.tv/Action/index.m3u8",
-    "img": "https://i.imgur.com/Zv9VsVq.png"
-  },
-  {
-    "name": "Canal+ Cinemas (720p)",
-    "type": "Movies",
-    "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-    "img": "https://i.imgur.com/fvPoNEa.jpeg"
-  },
-  {
-    "name": "Ciné 666 by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8",
-    "img": "https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png"
-  },
-  {
-    "name": "Ciné Action by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png"
-  },
-  {
-    "name": "Ciné by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png"
-  },
-  {
-    "name": "Ciné Catastrophe by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8",
-    "img": "https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png"
-  },
-  {
-    "name": "Ciné d'Asie by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8",
-    "img": "https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png"
-  },
-  {
-    "name": "Ciné Horreur by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8",
-    "img": "https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png"
-  },
-  {
-    "name": "Ciné Rétro by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8",
-    "img": "https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png"
-  },
-  {
-    "name": "Ciné Romance by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8",
-    "img": "https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png"
-  },
-  {
-    "name": "Ciné Sci-Fi by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8",
-    "img": "https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png"
-  },
-  {
-    "name": "Ciné Thrillers by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8",
-    "img": "https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png"
-  },
-  {
-    "name": "Ciné Western by Pluto TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8",
-    "img": "https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Cine+ Classic",
-    "type": "Movies",
-    "url": "http://99.27.51.147/CineClassic/index.m3u8",
-    "img": "https://i.imgur.com/y2zeLS3.jpeg"
-  },
-  {
-    "name": "Cine+ Emotion (720p)",
-    "type": "Movies",
-    "url": "http://145.239.5.177/337/index.m3u8",
-    "img": "https://i.imgur.com/upYjPvc.jpeg"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Cine+ Frisson (1080p)",
-    "type": "Movies",
-    "url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
-    "img": "https://i.imgur.com/MwFtbnR.jpeg"
-  },
-  {
-    "name": "Nollywood TV (720p)",
-    "type": "Movies",
-    "url": "http://145.239.5.177/148/index.m3u8",
-    "img": "https://i.imgur.com/29L2gbb.png"
-  },
-  {
-    "name": "Pluto TV Paranormal",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
-    "img": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png"
-  },
-  {
-    "name": "Sony One Favoris (1080p)",
-    "type": "Movies",
-    "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
-    "img": "https://i.imgur.com/RO4AM4b.png"
-  },
-  {
-    "name": "Sony One Hits Action (1080p)",
-    "type": "Movies",
-    "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
-    "img": "https://i.imgur.com/pXsZEsR.png"
-  },
-  {
-    "name": "Sony One Hits Comedie (1080p)",
-    "type": "Movies",
-    "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
-    "img": "https://i.imgur.com/8sHuxxS.png"
-  },
-  {
-    "name": "Wild Side TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8",
-    "img": "https://i.imgur.com/cQkfRhH.png"
-  },
-  {
-    "name": "Zylo Ciné Nanar (1080p)",
-    "type": "Movies",
-    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/YnUZd3W.png"
-  },
-  {
-    "name": "Zylo Ciné Western (1080p)",
-    "type": "Movies",
-    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
-    "img": "https://i.imgur.com/tteOFkL.png"
-  },
-  {
-    "name": "Zylo Emotion' L (1080p)",
-    "type": "Movies",
-    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
-    "img": "https://i.imgur.com/MP34aaj.png"
-  },
-  {
-    "name": "Zylo ScreamIN (1080p)",
-    "type": "Movies",
-    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
-    "img": "https://i.imgur.com/tGmKbil.png"
   },
   {
     "name": "ADN TV+ (720p)",
@@ -924,12 +774,6 @@
     "img": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png"
   },
   {
-    "name": "Teletoon+ (720p)",
-    "type": "Animation;Kids",
-    "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png"
-  },
-  {
     "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"Business;News\",BFM Business (1080p)",
     "type": "Business;News",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
@@ -1024,6 +868,156 @@
     "type": "Kids",
     "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
     "img": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"
+  },
+  {
+    "name": "Canal+ Cinemas (720p)",
+    "type": "Movies",
+    "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
+    "img": "https://i.imgur.com/fvPoNEa.jpeg"
+  },
+  {
+    "name": "Ciné 666 by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8",
+    "img": "https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png"
+  },
+  {
+    "name": "Ciné Action by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png"
+  },
+  {
+    "name": "Ciné by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png"
+  },
+  {
+    "name": "Ciné Catastrophe by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8",
+    "img": "https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png"
+  },
+  {
+    "name": "Ciné d'Asie by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8",
+    "img": "https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png"
+  },
+  {
+    "name": "Ciné Horreur by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8",
+    "img": "https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png"
+  },
+  {
+    "name": "Ciné Rétro by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8",
+    "img": "https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png"
+  },
+  {
+    "name": "Ciné Romance by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8",
+    "img": "https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png"
+  },
+  {
+    "name": "Ciné Sci-Fi by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8",
+    "img": "https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png"
+  },
+  {
+    "name": "Ciné Thrillers by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8",
+    "img": "https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png"
+  },
+  {
+    "name": "Ciné Western by Pluto TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8",
+    "img": "https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png"
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Cine+ Classic",
+    "type": "Movies",
+    "url": "http://99.27.51.147/CineClassic/index.m3u8",
+    "img": "https://i.imgur.com/y2zeLS3.jpeg"
+  },
+  {
+    "name": "Cine+ Emotion (720p)",
+    "type": "Movies",
+    "url": "http://145.239.5.177/337/index.m3u8",
+    "img": "https://i.imgur.com/upYjPvc.jpeg"
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Cine+ Frisson (1080p)",
+    "type": "Movies",
+    "url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
+    "img": "https://i.imgur.com/MwFtbnR.jpeg"
+  },
+  {
+    "name": "Nollywood TV (720p)",
+    "type": "Movies",
+    "url": "http://145.239.5.177/148/index.m3u8",
+    "img": "https://i.imgur.com/29L2gbb.png"
+  },
+  {
+    "name": "Pluto TV Paranormal",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
+    "img": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png"
+  },
+  {
+    "name": "Sony One Favoris (1080p)",
+    "type": "Movies",
+    "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+    "img": "https://i.imgur.com/RO4AM4b.png"
+  },
+  {
+    "name": "Sony One Hits Action (1080p)",
+    "type": "Movies",
+    "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+    "img": "https://i.imgur.com/pXsZEsR.png"
+  },
+  {
+    "name": "Sony One Hits Comedie (1080p)",
+    "type": "Movies",
+    "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+    "img": "https://i.imgur.com/8sHuxxS.png"
+  },
+  {
+    "name": "Wild Side TV",
+    "type": "Movies",
+    "url": "https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8",
+    "img": "https://i.imgur.com/cQkfRhH.png"
+  },
+  {
+    "name": "Zylo Ciné Nanar (1080p)",
+    "type": "Movies",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/YnUZd3W.png"
+  },
+  {
+    "name": "Zylo Ciné Western (1080p)",
+    "type": "Movies",
+    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+    "img": "https://i.imgur.com/tteOFkL.png"
+  },
+  {
+    "name": "Zylo Emotion' L (1080p)",
+    "type": "Movies",
+    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+    "img": "https://i.imgur.com/MP34aaj.png"
+  },
+  {
+    "name": "Zylo ScreamIN (1080p)",
+    "type": "Movies",
+    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+    "img": "https://i.imgur.com/tGmKbil.png"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Canal+ Sport 360",
@@ -1180,12 +1174,6 @@
     "type": "Music",
     "url": "http://rjcf.ofztvxv.top:8080/kang/71267133/99554",
     "img": "https://i.imgur.com/j31lBL7.png"
-  },
-  {
-    "name": "MCM Top (720p)",
-    "type": "Music",
-    "url": "http://rezofoot.tv/MCM/index.m3u8",
-    "img": "https://i.imgur.com/EVtWQLd.png"
   },
   {
     "name": "Melody (288p)",
