@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-30 22:42:05",
+  "date": "2026-07-31 06:53:45",
   "channels": {
     "Uncategorized": [
       {
@@ -2001,18 +2001,11 @@
     ],
     "Movies": [
       {
-        "name": "AXN Latin America Mexico (1080p)",
+        "name": "AXN Latin America Mexico",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://177.245.131.133:8080/AXN/index.m3u8"
-      },
-      {
-        "name": "Cinecanal Mexico (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8"
+        "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8"
       },
       {
         "name": "CineLatino (720p)",
@@ -2050,13 +2043,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8"
-      },
-      {
-        "name": "Fox Sports Premium (720p)",
-        "logo": "https://i.imgur.com/3lOZWeD.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23054"
       },
       {
         "name": "TV Cuatro 4.3 (1080p)",
@@ -2189,13 +2175,6 @@
         "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
       },
       {
-        "name": "Sony Channel (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://177.245.131.133:8080/SONY/index.m3u8"
-      },
-      {
         "name": "SQCS Canal 4 (1080p)",
         "logo": "https://i.imgur.com/qnx8nBP.png",
         "group": "Undefined",
@@ -2273,13 +2252,6 @@
         "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
       },
       {
-        "name": "TV UNAM (720p)",
-        "logo": "https://i.imgur.com/ayg5kRM.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://177.245.131.133:8080/UNAM/index.m3u8"
-      },
-      {
         "name": "Ultra TV Puebla (720p) [Not 24/7]",
         "logo": "https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png",
         "group": "Undefined",
@@ -2292,13 +2264,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
-      },
-      {
-        "name": "Universal TV Latin America Mexico (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8"
       }
     ],
     "Education": [
@@ -2382,11 +2347,11 @@
     ],
     "Legislative": [
       {
-        "name": "Canal del Congreso 45.1 (720p)",
+        "name": "Canal del Congreso 45.1",
         "logo": "https://i.imgur.com/xAC6gQO.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://177.245.131.133:8080/CONGRESO/index.m3u8"
+        "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
       },
       {
         "name": "Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]",
