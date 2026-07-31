@@ -198,9 +198,9 @@
     "img": "https://i.imgur.com/rgNQYAl.png"
   },
   {
-    "name": "FX Movie Channel (720p)",
+    "name": "FX Movie Channel (1080p) [Geo-blocked]",
     "type": "Movies",
-    "url": "http://40.160.24.52/FXM/index.m3u8",
+    "url": "https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png"
   },
   {
@@ -1698,10 +1698,16 @@
     "img": "https://i.imgur.com/gR7u8DM.png"
   },
   {
-    "name": "Fox Sports 1 (720p)",
+    "name": "Fox Sports 1 (1080p) [Geo-blocked]",
     "type": "Sports",
-    "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8",
     "img": "https://i.imgur.com/O9BapV9.png"
+  },
+  {
+    "name": "Fox Sports 2 (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8",
+    "img": "https://i.imgur.com/LHtxKI8.png"
   },
   {
     "name": "FTF Sports (720p)",
@@ -3837,12 +3843,6 @@
     "name": "FYI (720p)",
     "type": "Lifestyle",
     "url": "http://206.212.244.63/78/index.m3u8",
-    "img": "https://i.imgur.com/PggQk7F.png"
-  },
-  {
-    "name": "FYI West (1080p)",
-    "type": "Lifestyle",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23108",
     "img": "https://i.imgur.com/PggQk7F.png"
   },
   {
@@ -10176,6 +10176,12 @@
     "img": "https://i.imgur.com/Or0LKsu.png"
   },
   {
+    "name": "Showtime Women (1080p) [Geo-blocked]",
+    "type": "Undefined",
+    "url": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png"
+  },
+  {
     "name": "SLO County Channel 21 (360p)",
     "type": "Undefined",
     "url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8",
@@ -10332,9 +10338,9 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "TUDN (1080p)",
+    "name": "TUDN (1080p) [Geo-blocked]",
     "type": "Undefined",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23092",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
     "img": "https://i.imgur.com/oT5CAvd.png"
   },
   {
@@ -12040,12 +12046,6 @@
     "type": "Documentary",
     "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/ulHoqlP.png"
-  },
-  {
-    "name": "History West (1080p)",
-    "type": "Documentary",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23105",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
   },
   {
     "name": "Ink Master",
@@ -21198,12 +21198,6 @@
     "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {
-    "name": "TUDN USA",
-    "type": "Latino (Spanish)",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
-    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
-  },
-  {
     "name": "ViX Zona TUDN",
     "type": "Latino (Spanish)",
     "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8",
@@ -22707,6 +22701,12 @@
     "name": "FXX (East)",
     "type": "Network Channels",
     "url": "http://40.160.24.52/FXX/index.m3u8",
+    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
+  },
+  {
+    "name": "FXM (FOX Movie Channel)",
+    "type": "Network Channels",
+    "url": "http://40.160.24.52/FXM/index.m3u8",
     "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {
