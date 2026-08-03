@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02 22:31:54",
+  "date": "2026-08-03 08:44:53",
   "channels": {
     "Uncategorized": [
       {
@@ -950,11 +950,11 @@
         "url": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8"
       },
       {
-        "name": "Điện Biên TV (406p)",
+        "name": "Dien Bien TV (1080p)",
         "logo": "https://i.imgur.com/u308o8q.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
+        "url": "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
       },
       {
         "name": "Đồng Tháp TV1 (720p)",
@@ -985,18 +985,11 @@
         "url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8"
       },
       {
-        "name": "Khánh Hòa TV (720p)",
+        "name": "Khanh Hoa TV (1080p)",
         "logo": "https://i.imgur.com/qLMcGPT.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8"
-      },
-      {
-        "name": "Khánh Hòa TV1 (720p)",
-        "logo": "https://i.imgur.com/HIyUzLM.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://livektv2.baokhanhhoa.vn/hls/ktv1.m3u8"
+        "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video"
       },
       {
         "name": "Lâm Đồng TV (480p)",
@@ -1011,6 +1004,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd"
+      },
+      {
+        "name": "Ninh Thuan TV (1080p)",
+        "logo": "https://i.imgur.com/HIyUzLM.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
       },
       {
         "name": "Tây Ninh TV (720p)",
@@ -1055,6 +1055,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
+      },
+      {
+        "name": "ON Vie Drama (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8"
       }
     ],
     "Undefined": [
@@ -1113,6 +1120,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "Son La TV (720p)",
+        "logo": "https://i.imgur.com/MxV9psR.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8"
       },
       {
         "name": "Vietnam Today (1080p)",
@@ -1226,11 +1240,11 @@
     ],
     "Entertainment;Sports": [
       {
-        "name": "Đồng Nai 2 (480p) [Not 24/7]",
+        "name": "Dong Nai TV 2 (720p)",
         "logo": "https://i.imgur.com/tNKPSkO.png",
         "group": "Entertainment;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8"
+        "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8"
       }
     ],
     "Culture": [
@@ -1244,11 +1258,11 @@
     ],
     "Education": [
       {
-        "name": "HTV Key (720p)",
+        "name": "HTV Key (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
       }
     ],
     "Sports": [
@@ -1311,6 +1325,24 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+      }
+    ],
+    "Culture;Entertainment;Music;News": [
+      {
+        "name": "Tra Vinh TV (1080p)",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "group": "Culture;Entertainment;Music;News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+      }
+    ],
+    "Culture;Entertainment": [
+      {
+        "name": "Vinh Long TV 2 (1080p)",
+        "logo": "https://i.imgur.com/iluoazf.png",
+        "group": "Culture;Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8"
       }
     ]
   }
