@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-03 23:23:10",
+  "date": "2026-08-04 08:13:50",
   "channels": {
     "Uncategorized": [
       {
@@ -1115,11 +1115,32 @@
         "url": "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8"
       },
       {
+        "name": "SCTV3 (720p)",
+        "logo": "https://i.imgur.com/tfk298I.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8"
+      },
+      {
+        "name": "SCTV4 (720p)",
+        "logo": "https://i.imgur.com/qkZhzQq.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8"
+      },
+      {
         "name": "SCTV6 (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/2oOVS42.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "SCTV16 (720p)",
+        "logo": "https://i.imgur.com/ldCYtvt.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8"
       },
       {
         "name": "Son La TV (720p)",
@@ -1316,6 +1337,15 @@
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "ON Movies (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
       }
     ],
     "News": [
