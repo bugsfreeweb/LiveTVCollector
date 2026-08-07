@@ -3692,11 +3692,6 @@ URL: https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 Logo: https://i.imgur.com/7ay0SsG.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: Channel Jowo
-URL: http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
-Logo: https://i.imgur.com/7ay0SsG.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 Name: DAAITV
 URL: https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Referer=https://www.visionplus.id
 Logo: https://i.imgur.com/7ay0SsG.jpeg
@@ -6257,11 +6252,6 @@ URL: https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-32777070
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 08. GTV R+
-URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: 08. GTV V+
 URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png
@@ -6292,6 +6282,11 @@ URL: https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: 03. INDOSIAR V
+URL: http://202.169.224.202:8800/udp/239.9.1.25:1234
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: 26. MOJI TV
 URL: http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg
@@ -6307,9 +6302,19 @@ URL: https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzato
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: 10. TRANS 7 (v+)
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: 10. TRANS 7
 URL: https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 02. ANTV (v+)
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 02. ANTV
@@ -11909,11 +11914,6 @@ URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV
 Logo: https://i.imgur.com/lKH1wII.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: TRANS 7 HD 🇮🇩 1 ON
-URL: https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-Logo: https://i.imgur.com/WSnhDLn.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 Name: Trans7 HD 1 ON
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 Logo: https://i.imgur.com/WSnhDLn.jpeg
@@ -12973,13 +12973,18 @@ URL: https://popmi.my.id/tes.m3u8?id=19046
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-
-Group: Nasional 🇮🇩
-Name: ANTV
-URL: https://beetv.my.id/stream/vd.m3u8?ch=antv
-Logo: https://i.imgur.com/RJ31qhO.png
+Name: MNC TV (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+Logo: https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: iNews (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+Logo: https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+
+Group: Nasional 🇮🇩
 Name: Berita Satu
 URL: https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 Logo: https://i.imgur.com/Nanq6nA.png
@@ -13035,19 +13040,9 @@ URL: https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 Logo: https://i.imgur.com/wIVcibJ.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: SCTV
-URL: https://beetv.my.id/stream/vd.m3u8?ch=sctv
-Logo: https://i.imgur.com/8g6gNYB.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: SinPO tv
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Trans TV
-URL: https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-Logo: https://i.imgur.com/eVuKMF8.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: tvOne
@@ -14299,6 +14294,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: VTV9 SCTV
 URL: https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: GTV (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+Logo: https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: FS 1 🇺🇸
@@ -20994,6 +20994,11 @@ URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: TRANS TV V+
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: MDTV V+
 URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png
@@ -21559,6 +21564,11 @@ URL: https://phdown.serv00.net/Smartv.php?id=TVRI
 Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: SCTV
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+Logo: https://i.ibb.co.com/cKN30V8Q/SCTV.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: INDOSIAR HD
 URL: https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 Logo: https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png
@@ -22028,48 +22038,43 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_80.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: GTV
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_81.png
+URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+Logo: https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: MNC TV
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?id=mnctv
 Logo: https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: iNews
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?id=inews
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_83.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: ANTV
-URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+URL: https://beetv.my.id/stream/vd.m3u8?ch=antv
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_115.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Indosiar Vidio
+Name: Indosiar Video
 URL: https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-Logo: https://mimipipi22.github.io/logo/nasional/indosiar.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: Indosiar
-URL: http://202.169.224.202:8800/udp/239.9.1.25:1234
-Logo: https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png
+Logo: https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SCTV
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+URL: https://beetv.my.id/stream/vd.m3u8?ch=sctv
 Logo: https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: TRANS TV
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-Logo: https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg
+Name: TransTV HD
+URL: https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+Logo: https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: TRANS 7
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-Logo: https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg
+Name: Trans7 HD
+URL: https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+Logo: https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TV ONE HD
@@ -22135,6 +22140,11 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: MAGNA
 URL: https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Channel Jowo
+URL: http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+Logo: https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 
