@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07 03:44:12",
+  "date": "2026-08-07 07:38:52",
   "channels": {
     "Religious": [
       {
@@ -103,52 +103,6 @@
         "url": "http://tvsen7.aynascope.net/NTV_Kohalpur/index.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "Eros Universe Bollywood Cinema",
-        "logo": "https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
-      },
-      {
-        "name": "Eros Universe Entertainment",
-        "logo": "https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
-      },
-      {
-        "name": "Kantipur Max [Geo-blocked]",
-        "logo": "https://i.imgur.com/EZUyzhG.jpg",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8"
-      },
-      {
-        "name": "NH BollyFlix",
-        "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Green Gold TV",
-        "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8"
-      },
-      {
-        "name": "Green Gold TV HD",
-        "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8"
-      }
-    ],
     "Music": [
       {
         "name": "J Music TV (480p)",
@@ -156,23 +110,18 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
         "url": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8"
-      },
+      }
+    ],
+    "Movies": [
       {
-        "name": "NH BollyRaga",
-        "logo": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
-        "group": "Music",
+        "name": "Kantipur Max [Geo-blocked]",
+        "logo": "https://i.imgur.com/EZUyzhG.jpg",
+        "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8"
+        "url": "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8"
       }
     ],
     "Entertainment": [
-      {
-        "name": "Lionsgate Play",
-        "logo": "https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://103.159.180.34:5001/live/2327.m3u8"
-      },
       {
         "name": "METV HD (1080p)",
         "logo": "https://i.imgur.com/Zud862h.png",
@@ -225,6 +174,15 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
         "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8"
+      }
+    ],
+    "Entertainment;General": [
+      {
+        "name": "TV Today Janakpur",
+        "logo": "https://i.imgur.com/5fZF69m.png",
+        "group": "Entertainment;General",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
       }
     ]
   }
