@@ -198,18 +198,6 @@
     "img": "https://i.imgur.com/rgNQYAl.png"
   },
   {
-    "name": "FX Movie Channel (720p)",
-    "type": "Movies",
-    "url": "http://40.160.24.52/FXM/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png"
-  },
-  {
-    "name": "FXM (720p)",
-    "type": "Movies",
-    "url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
-    "img": "https://comteco.com.bo/img/upload/canales/svCJXa.png"
-  },
-  {
     "name": "Girlfriends",
     "type": "Movies",
     "url": "https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8",
@@ -3417,12 +3405,6 @@
     "name": "Fox News Channel (720p)",
     "type": "News",
     "url": "http://45.190.28.50/FOX_NEWS/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
-  },
-  {
-    "name": "Fox News International (720p)",
-    "type": "News",
-    "url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
   },
   {
@@ -8286,9 +8268,9 @@
     "img": "https://i.imgur.com/A3o9gvc.png"
   },
   {
-    "name": "ABC (720p)",
+    "name": "ABC (1080p)",
     "type": "General",
-    "url": "http://41.205.93.154/ABC/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"
   },
   {
@@ -8488,12 +8470,6 @@
     "type": "General",
     "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "ARY Digital USA (720p) [Not 24/7]",
-    "type": "General",
-    "url": "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/TVP7g03.png"
   },
   {
     "name": "Asian Culture TV (1080p)",
@@ -10257,12 +10233,6 @@
     "name": "Univision (1080p)",
     "type": "Undefined",
     "url": "http://200.115.120.1:8000/play/ca106/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png"
-  },
-  {
-    "name": "Univision West (1080p)",
-    "type": "Undefined",
-    "url": "http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png"
   },
   {
@@ -22641,6 +22611,12 @@
     "name": "FXX (East)",
     "type": "Network Channels",
     "url": "http://40.160.24.52/FXX/index.m3u8",
+    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
+  },
+  {
+    "name": "FXM (FOX Movie Channel)",
+    "type": "Network Channels",
+    "url": "http://40.160.24.52/FXM/index.m3u8",
     "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {
