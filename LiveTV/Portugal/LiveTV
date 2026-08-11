@@ -162,6 +162,12 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png"
   },
   {
+    "name": "Rede Brasil TV",
+    "type": "TV",
+    "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest/scale-to-width-down/200?cb=20230414214102"
+  },
+  {
     "name": "TV Câmara",
     "type": "TV",
     "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
@@ -843,13 +849,13 @@
     "name": "Kuriakos TV",
     "type": "TV",
     "url": "https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://kuriakos-tv.com/wp-content/uploads/2025/05/kuriakos_TV_v2.png"
   },
   {
     "name": "Kuriakos Cine",
     "type": "TV",
     "url": "https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://kuriakos-cine.com/wp-content/uploads/2026/05/CineKuriakos_Curvas-01.png"
   },
   {
     "name": "Kuriakos Kids",
@@ -1377,7 +1383,7 @@
     "name": "AVFM",
     "type": "Rádios",
     "url": "https://uk2.streamingpulse.com/ssl/radioavfm",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png"
   },
   {
     "name": "Venice Classic Radio - Auditorium",
@@ -5400,12 +5406,6 @@
     "img": "https://i.imgur.com/fACHqmY.png"
   },
   {
-    "name": "Way TV",
-    "type": "Religious",
-    "url": "https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8",
-    "img": "https://i.ibb.co/gdpvKpS/cropped-Asset-1.png"
-  },
-  {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
     "type": "Legislative",
     "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
@@ -5478,18 +5478,6 @@
     "img": "https://i.imgur.com/0jSR6yG.png"
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV3",
-    "type": "Sports",
-    "url": "http://znty.dyndns.org:5010/hls/stv3.m3u8",
-    "img": "https://i.imgur.com/6Dw3GUx.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV4",
-    "type": "Sports",
-    "url": "http://znty.dyndns.org:5010/hls/stv4.m3u8",
-    "img": "https://i.imgur.com/mJlbVfW.png"
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV5",
     "type": "Sports",
     "url": "http://znty.dyndns.org:5010/hls/stv5.m3u8",
@@ -5548,12 +5536,6 @@
     "type": "Music",
     "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
     "img": "https://i.imgur.com/Zl40NYi.jpg"
-  },
-  {
-    "name": "MCM Pop",
-    "type": "Music",
-    "url": "http://rjcf.ofztvxv.top:8080/kang/71267133/99554",
-    "img": "https://i.imgur.com/j31lBL7.png"
   },
   {
     "name": "MCM Top (1080p)",
@@ -5690,7 +5672,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDU6MzM6MTcgQU0maGFzaF92YWx1ZT1YZ1hvamtrRzdvY3FsejdVWGxld3VRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjVmYmI5NGYtMTA0NC00MjM1LTk0MWItNzRjMjMwYTE3Nzg3/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -5702,7 +5684,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDU6MzM6MTUgQU0maGFzaF92YWx1ZT1KcEpYRzAwUWpjQU1xdS9pek9kUGRnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I2ZDgxMWYtNjgxNi00ZTkwLWE5YzQtNWFjYTMwOGQ2MTAx/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -5786,7 +5768,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDU6MzM6MTYgQU0maGFzaF92YWx1ZT1OWWdCNG81RStjOFFOdGp2YWE2V2Z3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjNlYTczNmMtNmE0OS00ZmQxLThjNGMtZjk3YzY0NjdhMjgy/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
