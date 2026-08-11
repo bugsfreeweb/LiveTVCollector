@@ -1,6 +1,6 @@
 Group: Animation;Kids
 Name: Disney Channel Latin America (1080p)
-URL: http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -27,7 +27,7 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 
 Group: Comedy
 Name: Comedy Central Latin America (1080p)
-URL: http://181.119.93.83:8000/play/a1di/index.m3u8
+URL: http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -73,7 +73,7 @@ Logo: https://i.imgur.com/qj1qBn1.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u
 --------------------------------------------------
 Name: FX Latin America (1080p)
-URL: http://45.162.193.35/FX/index.m3u8
+URL: http://15.204.246.24:8080/FXHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -108,7 +108,7 @@ Logo: https://i.imgur.com/HMZRVL5.jpeg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: MTV Latin America (1080p)
-URL: http://179.60.51.134:8888/MTV/index.m3u8
+URL: http://15.204.246.24:8080/MTVHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -326,26 +326,6 @@ URL: https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
 Logo: https://i.imgur.com/ew44KOZ.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Canal Once (480p)
-URL: https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
-Logo: https://i.imgur.com/puM9ASa.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-Name: Chivacoa TV Internacional (720p)
-URL: https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
-Logo: https://i.imgur.com/9rbwZFY.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-Name: DuacaVision
-URL: https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
-Logo: https://i.imgur.com/jEqWixv.jpeg
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-Name: Fortuna TV (1080p)
-URL: https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
-Logo: https://i.imgur.com/RPiTPnK.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: GlobalTV (480p) [Not 24/7]
 URL: https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 Logo: https://imgur.com/hzM9D9L.jpg
@@ -476,11 +456,6 @@ URL: https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.
 Logo: https://i.imgur.com/vtGED07.jpg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Venezolana de Television (576p)
-URL: http://181.78.8.199:8000/play/a091/index.m3u8
-Logo: https://i.imgur.com/FeRTDqz.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: Wata Vision
 URL: https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
 Logo: https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg
@@ -523,21 +498,21 @@ Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_p
 
 Group: Kids
 Name: Nickelodeon Latin America (1080p)
-URL: http://177.234.249.178:8888/NICK/index.m3u8
+URL: http://15.204.246.24:8080/NickHD/index.m3u8
 Logo: https://i.imgur.com/E84jnP8.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Cinecanal (1080p)
-URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+Name: Cinecanal (1080p)
+URL: http://15.204.246.24:8080/CinecanalHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
 Group: Movies;Series
 Name: Star Channel Latin America (1080p)
-URL: http://45.162.193.35/STAR_CHANNEL/index.m3u8
+URL: http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -721,12 +696,12 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 
 Group: Undefined
 Name: Studio Universal Latin America (1080p)
-URL: http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+URL: http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: Universal TV Latin America (1080p)
-URL: http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+URL: http://15.204.246.24:8080/UniversalHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
