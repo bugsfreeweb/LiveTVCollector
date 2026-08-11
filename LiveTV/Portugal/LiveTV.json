@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11 14:34:45",
+  "date": "2026-08-11 22:32:14",
   "channels": {
     "TV": [
       {
@@ -190,6 +190,13 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://cbtvnow.com:5866/hls/livest2024.m3u8"
+      },
+      {
+        "name": "Rede Brasil TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest/scale-to-width-down/200?cb=20230414214102",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
       },
       {
         "name": "TV Câmara",
@@ -984,14 +991,14 @@
       },
       {
         "name": "Kuriakos TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "logo": "https://kuriakos-tv.com/wp-content/uploads/2025/05/kuriakos_TV_v2.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8"
       },
       {
         "name": "Kuriakos Cine",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "logo": "https://kuriakos-cine.com/wp-content/uploads/2026/05/CineKuriakos_Curvas-01.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8"
@@ -1609,7 +1616,7 @@
       },
       {
         "name": "AVFM",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "logo": "https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png",
         "group": "Rádios",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://uk2.streamingpulse.com/ssl/radioavfm"
@@ -6317,13 +6324,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8"
-      },
-      {
-        "name": "Way TV",
-        "logo": "https://i.ibb.co/gdpvKpS/cropped-Asset-1.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8"
       }
     ],
     "Legislative": [
@@ -6418,20 +6418,6 @@
         "url": "http://znty.dyndns.org:5010/hls/stv2.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV3",
-        "logo": "https://i.imgur.com/6Dw3GUx.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://znty.dyndns.org:5010/hls/stv3.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV4",
-        "logo": "https://i.imgur.com/mJlbVfW.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://znty.dyndns.org:5010/hls/stv4.m3u8"
-      },
-      {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV5",
         "logo": "https://i.imgur.com/4w4vuad.png",
         "group": "Sports",
@@ -6508,13 +6494,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
-      },
-      {
-        "name": "MCM Pop",
-        "logo": "https://i.imgur.com/j31lBL7.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://rjcf.ofztvxv.top:8080/kang/71267133/99554"
       },
       {
         "name": "MCM Top (1080p)",
@@ -6687,7 +6666,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDU6MzM6MTcgQU0maGFzaF92YWx1ZT1YZ1hvamtrRzdvY3FsejdVWGxld3VRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjVmYmI5NGYtMTA0NC00MjM1LTk0MWItNzRjMjMwYTE3Nzg3/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -6701,7 +6680,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDU6MzM6MTUgQU0maGFzaF92YWx1ZT1KcEpYRzAwUWpjQU1xdS9pek9kUGRnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I2ZDgxMWYtNjgxNi00ZTkwLWE5YzQtNWFjYTMwOGQ2MTAx/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -6801,7 +6780,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDU6MzM6MTYgQU0maGFzaF92YWx1ZT1OWWdCNG81RStjOFFOdGp2YWE2V2Z3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjNlYTczNmMtNmE0OS00ZmQxLThjNGMtZjk3YzY0NjdhMjgy/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/"
       },
       {
         "name": "Euronews 🇵🇹",
