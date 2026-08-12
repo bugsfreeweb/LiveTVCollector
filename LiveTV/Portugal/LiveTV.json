@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11 22:32:14",
+  "date": "2026-08-12 07:53:07",
   "channels": {
     "TV": [
       {
@@ -192,7 +192,7 @@
         "url": "https://cbtvnow.com:5866/hls/livest2024.m3u8"
       },
       {
-        "name": "Rede Brasil TV",
+        "name": "Rede Brasil",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest/scale-to-width-down/200?cb=20230414214102",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
@@ -752,11 +752,11 @@
         "url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8"
       },
       {
-        "name": "Gulli",
-        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",
+        "name": "Locomotion",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "http://99.27.51.147:8080/Gulli/index.m3u8"
+        "url": "http://146.19.49.197:81/live/loco_hi/index.m3u8"
       },
       {
         "name": "On FM Portugal",
@@ -1018,13 +1018,6 @@
         "url": "https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8"
       },
       {
-        "name": "Canção Nova",
-        "logo": "https://cancaonova.pt/wp-content/uploads/2026/03/cn-portugal.png",
-        "group": "TV",
-        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
-      },
-      {
         "name": "TV Maná 1",
         "logo": "https://i.imgur.com/6jNqpTP.png",
         "group": "TV",
@@ -1051,6 +1044,13 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+      },
+      {
+        "name": "Canção Nova",
+        "logo": "https://cancaonova.pt/wp-content/uploads/2026/03/cn-portugal.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
       }
     ],
     "Rádios": [
@@ -6666,7 +6666,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDk6MTE6NDkgUE0maGFzaF92YWx1ZT0xMDlhSS9oNVhRcmRIODFuZC93S21nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDcxZmQ4YmQtNjU0NC00MWUwLWFkMTItNjE4MjY3MmYxMDJj/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -6680,7 +6680,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDk6MTE6NDggUE0maGFzaF92YWx1ZT1lcXZnNHdRUGpUWE1oVy8rYThFNDd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzdlYzZmZmItZDNlMy00MzIxLTlmMDktM2ExNTU3N2RmM2Ix/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -6780,7 +6780,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDk6MTE6NDggUE0maGFzaF92YWx1ZT1zRnVnS3c0MTJYVXNEanExakFQSFhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjBlYjgxMDgtMTIwZS00ZmIxLThhYzUtMGE0NTA2MDk4NGM1/"
       },
       {
         "name": "Euronews 🇵🇹",

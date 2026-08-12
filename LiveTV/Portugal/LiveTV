@@ -162,7 +162,7 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png"
   },
   {
-    "name": "Rede Brasil TV",
+    "name": "Rede Brasil",
     "type": "TV",
     "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest/scale-to-width-down/200?cb=20230414214102"
@@ -642,10 +642,10 @@
     "img": "https://i.imgur.com/jML1u4O.png"
   },
   {
-    "name": "Gulli",
+    "name": "Locomotion",
     "type": "TV",
-    "url": "http://99.27.51.147:8080/Gulli/index.m3u8",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png"
+    "url": "http://146.19.49.197:81/live/loco_hi/index.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png"
   },
   {
     "name": "On FM Portugal",
@@ -870,12 +870,6 @@
     "img": "https://kuriakosmusic.com/wp-content/uploads/2026/04/Logo_KuriakosMusic_V2_White.png"
   },
   {
-    "name": "Canção Nova",
-    "type": "TV",
-    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
-    "img": "https://cancaonova.pt/wp-content/uploads/2026/03/cn-portugal.png"
-  },
-  {
     "name": "TV Maná 1",
     "type": "TV",
     "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
@@ -898,6 +892,12 @@
     "type": "TV",
     "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
     "img": "https://i.imgur.com/R5YrV5s.png"
+  },
+  {
+    "name": "Canção Nova",
+    "type": "TV",
+    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
+    "img": "https://cancaonova.pt/wp-content/uploads/2026/03/cn-portugal.png"
   },
   {
     "name": "Rádio RTP Antena 1",
@@ -5672,7 +5672,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDk6MTE6NDkgUE0maGFzaF92YWx1ZT0xMDlhSS9oNVhRcmRIODFuZC93S21nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDcxZmQ4YmQtNjU0NC00MWUwLWFkMTItNjE4MjY3MmYxMDJj/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -5684,7 +5684,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDk6MTE6NDggUE0maGFzaF92YWx1ZT1lcXZnNHdRUGpUWE1oVy8rYThFNDd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzdlYzZmZmItZDNlMy00MzIxLTlmMDktM2ExNTU3N2RmM2Ix/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -5768,7 +5768,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDk6MTE6NDggUE0maGFzaF92YWx1ZT1zRnVnS3c0MTJYVXNEanExakFQSFhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjBlYjgxMDgtMTIwZS00ZmIxLThhYzUtMGE0NTA2MDk4NGM1/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
