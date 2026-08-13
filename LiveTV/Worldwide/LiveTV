@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDI2IDE6NTM6NDcgUE0maGFzaF92YWx1ZT1EOGJhRlVXd3VNdU45MHFleEIybm1nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTg2MmVkOWUtMGE1Yy00ZDczLWEwZTctYmU0ZjJlM2ViMGZl/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -116,7 +116,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDI2IDE6NTM6NDYgUE0maGFzaF92YWx1ZT1WWGNGeHZGeDFiTlcyNVpqdWxjT1lnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDYzZjU5NjgtOWQ5MC00N2NjLTk2Y2MtOWFkM2FjYjcwYzM5/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDI2IDE6NTM6NDcgUE0maGFzaF92YWx1ZT0wVzQ4RVpBK2xFL3hjYmt1SzBlc0p3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YWRlYzAyNTMtMWU4Ni00NzlhLWE4ODctNTBmY2Q3NDY1ZmUy/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3126,12 +3126,6 @@
     "img": "https://i.postimg.cc/T1xygSJ5/geekdot.jpg"
   },
   {
-    "name": "GLN TV",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8",
-    "img": "https://i.postimg.cc/dtQJdVfY/glntv.png"
-  },
-  {
     "name": "Globo SP",
     "type": "Variedades",
     "url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
@@ -3306,12 +3300,6 @@
     "img": "https://i.imgur.com/IK3F9Uq.png"
   },
   {
-    "name": "Nova TVI Petrópolis",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8",
-    "img": "https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png"
-  },
-  {
     "name": "Novelas Prime",
     "type": "Variedades",
     "url": "https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8",
@@ -3394,6 +3382,18 @@
     "type": "Variedades",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
     "img": "https://i.imgur.com/ZWFxlU1.png"
+  },
+  {
+    "name": "RBTI Movies",
+    "type": "Variedades",
+    "url": "https://tv.rbti.tv.br/rbti2/index.m3u8",
+    "img": "https://i.postimg.cc/SQ3FcppQ/rbti.png"
+  },
+  {
+    "name": "RBTI+TV",
+    "type": "Variedades",
+    "url": "https://tv.rbti.tv.br/rbti1/index.m3u8",
+    "img": "https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg"
   },
   {
     "name": "RCTV Brasil",
@@ -3798,6 +3798,12 @@
     "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
   },
   {
+    "name": "TUBACAST TV+",
+    "type": "Variedades",
+    "url": "https://tv.rbti.tv.br/rbti4/index.m3u8",
+    "img": "https://i.postimg.cc/ZYp28CFk/tubacast.png"
+  },
+  {
     "name": "TV 100% Caipira",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -4006,6 +4012,12 @@
     "type": "Variedades",
     "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
     "img": "https://i.imgur.com/e67h04h.png"
+  },
+  {
+    "name": "TV Cidade- Afiliada à TV Gazeta",
+    "type": "Variedades",
+    "url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "img": "https://i.postimg.cc/3RYQT2Vx/tv-cidade-afiliada-gazeta.jpg"
   },
   {
     "name": "TV Clube",
@@ -4284,12 +4296,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg"
   },
   {
-    "name": "TV Mais Brasil",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=041j468u",
-    "img": "https://i.postimg.cc/9XYT6hfP/tvmaisbrasil.jpg"
-  },
-  {
     "name": "TV Mais Marica",
     "type": "Variedades",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
@@ -4512,12 +4518,6 @@
     "img": "https://i.imgur.com/duy6waL.png"
   },
   {
-    "name": "TV Show Fortaleza",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
-    "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
-  },
-  {
     "name": "TV Singular",
     "type": "Variedades",
     "url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
@@ -4614,12 +4614,6 @@
     "img": "https://i.imgur.com/zoHBxn1.png"
   },
   {
-    "name": "Ultra TV",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
-    "img": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg"
-  },
-  {
     "name": "Uni TV",
     "type": "Variedades",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
@@ -4678,6 +4672,12 @@
     "type": "Variedades",
     "url": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8",
     "img": "https://i.postimg.cc/3r2YWyFH/wording-de-televisao.png"
+  },
+  {
+    "name": "Xtreme TV",
+    "type": "Variedades",
+    "url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
+    "img": "https://i.postimg.cc/s2DpXVcz/xtreme-tv.png"
   },
   {
     "name": "AXN",
@@ -4778,7 +4778,7 @@
   {
     "name": "Chaves 24H",
     "type": "Séries",
-    "url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/Cq8F-WXt-j6IHaz8D4FaRlL7laIrEPSuBeXERmkSGcVyH38Wc1UWHM00S27d4EHahGKLSiQrKitAAFeVlH5fxjG0jt-G8eH9I8S9kdUI95qRuKW_MsmllQ2Iafl_K3A1TDeADyOn-Q03tjidrAWud08EaTG09eFkoCrTT7yHt4L06r51ZaherlWRimxQqBld66xhaM2JeHtKxmQikQg4Hlem7KsVok19ht9Vh46oIQ-2YKFVDAOW1nARhYpNYnN0pLau8jH5CqTCOzCwOj8ew7JGhd2fY3oWJoVSqhMrSvGX7FD-ogoC7K3VnDpXCjnSTG8TRUCqBz0GcHHMJuKUNUCn2CrWfteQdj8lpS_fS4e3ykpxnTMksGCkthoovFJQ859xT7Zg5fwhTCtMuMdB4SKwxzUUYKF00dmH15Veqe_F3gHqt6jyUe3omJ-ZMuLw8esHABzVTONcdIyr4DhoKMFeDhaAkK9IA51RkFaREaxWNTIvL7oQ7OuE3OqJG5MsR51if3ysDIRm5mucia0nmnV51bkIJM-y0TPEAh7k4KF0U7lOQ0TrwTP0BT_nAV6ID1jCc1-dnaLtLcHllMvbaD9NsrJk1cex8c6_gwWwMqrmrNLqw5M3lksV1fnoULUMHHbudaffYzO2hFnEXDy_xRgxrofXc0AA1uo0gEmPQ-dURyfbiRBNjIhcuYKgd_fCvc3qgmLWpJDKG6w2ccdnOAbiwSb0IwpGSV3lYN9xpmEeKLTBXt3SHkNt_PBGuncT1wLIu1q2uw-eHlZgQ8a7yNeizSddaitADJ6WHe0akknk1wWAcDccmu-97K1VbeTioj2oZK6vHUCGy7YWX0zeKxn3hOB7NA-kGxqq0Mshl4MO_JWI_XuZbzqpl3aeTZhCU4TBM1P0hBMNpS71HSNP51DNGgzOtFj2RD37kxfMw6cgASoJdXMtZWFzdC0yMOkP.m3u8",
+    "url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrIFKOqpMHsjVH-9qJFjy2X8Z0PtvB2GQup-X5tVTDaG-4_s7PGmhs_KQINwnM9MEHmA0p9e5WnzXQl0prz7oIyBmlvi7z18mF_-pfYE9OxHrYi65_rjp_0jpUn62VOZUuH3BJ2EXlIH4zEP_kxvrT37Jy_4gVuELDtE25jzFgwbvKpjZZlIwc3vy9Uxar7z7ZKGJ7zNAjFS413q8t6CFYvH9xTWkUwlollbKhlNVnaaeS0mdPyK7uTwVvPqSEgvfgLpEX9G4PrcJdW9WzQlpELdtAlVX_YRZM9kTHPJqgRL8m41t9VXmNj2yQVXCiK79OyOQeAnfM-qVh0Oe4_jBxET46LWHeDlfKyLrzx36AAwmrxnlW5IGHUA7X8s8FgwBhtQDdlVoX9pbccgp8R5MtfIeB8N5u98xn2Hz__fghY_yyDeTUb3_U-lfdYIqSedCfcIECFiSfj5WEZzkrsd6j3gYIjy9ndgvTTMyeJ6PUrvxOSKs-IUOJhK7k2eQETdnsHdmD84epQy8saS00gRRqH2Xr3qtcHzRyK18Z8kXyzx1F38k9EieDdSjk937dlmpMzYolaykvtyND20n8xE8dt0RK0ZfuUF7neZUi1sYiY_12k7ZLITrWGYyxfLJUgHLLG73he5sgf8Xv7QHt0XUDg2dL4ImHeexnhGwmZ3-E-MyKtC2HdxouUxE2nSqxoTPdx8Gj_rPGwUfDVnxa4ujSAh2kCikZdJPEoowtnbkJiEQGD15rbTL_pKc-1LQENlhMMHo_qcYg5ZdKPOI5A1IeFQ64UR_YGk6Q1kdsjm4Gr2H_HcObz_vgt7aZkukIVVeo-6z0dLyHYLw1PVVDMLMSinXl1DcyqOxe7hruYsOpBGPstDQz8CDZIeqV3weub42G3rpsNAs1bNWO_4wnQX6wdwQb3YGgz2tZQWLgonaw7ZjdIgASoJdXMtZWFzdC0yMOkP.m3u8",
     "img": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png"
   },
   {
@@ -4796,7 +4796,7 @@
   {
     "name": "Séries #1",
     "type": "Séries",
-    "url": "https://sae11.playlist.ttvnw.net/v1/playlist/CswECz1A3zNpubPQ_unpx0l8G-CFuTZT6GSyygDwHAdFGDRqo0AyUrQzPfnc8BPJ954ym21wHRz07nTn4RZ8HF6LKrtRg8kEG21DxHSwIM3lq6rOu6lXnHEfkHAoT0UP9XOPNId7Bal6vyNzhAwC66zPsd65rxFwnJF3_DlvhUFCkll8wI52sx_4o36stzzKUJfHT-kUYRN46bX9lRexraqRylUnuSA0s9rOIFO3S8tBmgwjLVcIix2LFhf_6hQt2CvlT5_86af5PmNHMGrTSUyUIag1iIzlTGQIngjxCuvF3K7F-q9Ls1c68TZ5Wb7i0RpfToBrLP7zo6ULNtWmasYmAMEDWvMdFuJiPGQ2aeBisCSqdk25tcL0uMjL1Gc-7AbUPZqIlCbOW741u4uwitH2b2SJweN9aQ0JaF9gg9cVa1xmFn2IJSHtCZ6lqeIC4b5UtX-fWQ5OkxCgggTK3N1vpUIqsZaYeIqxy1vPpbJZjLKD9WdjKlnDQDSAjICpcQtGNAo2RsP0SlZeXqRwpy2QhIs26IkLnrEu-w6YZaXUTy9imFJFqcmw9aJzwqlQe516UXnhNlVUdKV3hoPKoWnbutPgZxk1cvdFfRe4CDFaLWGjc0kmjtdAUWIdA63K9ep524AHKh1un2mlWDWhg0D8mxm-Eb-hk5Hkr6P_SmdSo8lx2Ya1X6X4ORixN2OB9lioqH_9wW_a7OcdZFw-QXaKukH7yYBQKlfiD9iefn4USICeIR0PNuCjij8_ThuCjTEG0lYJMHRSFCSa5RzZGgxVmwdsnb9F1Fo-tBcgASoJdXMtZWFzdC0yMOkP.m3u8",
+    "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CssEgUWr0IkxWzvFfcORGdNO3hwQX7QeBzFbpmqkkTbL4KdZk7ygBzgwO1hYj5bk1ds8kQ-zhWH2FldewAiP1Zx-_CpovkbMV_UH_9YSXhntQ7RfJIVQCWvuBXxJPi3fZkRbPCSN4xfs0JswOvflZZKscIF01thNh_h8hJ536DlLMhx7lecP_4lUvE2CoPWmxYG9we1T3qFSsf-wUaNtVXrGoytWLKI0sod99KW3eZSjaa6U77GgkSFbxXJpBaSm3-UhSSqmzQhW0069LAC2BRVBf5UkR1tsUru53LFH7bBxNP57jY4eFVoBcGII1NsG9A6Ax4xosBU1WLbKmznYt95kMT8OX_AOaBB_F3EaBMMQrrWR9CBqCSpWsnA9nGd22jkgL36oYpTmOCP_UcIpTcHk83NJDCJk5sOganxOLvUMjytMm1wFr-BDKZDxzhYPBgIswuwp2IqgnE05A6gtMJPA0Y3iOyuVI4MFMOnh4htr9g3wplLwPNN6O_Li1Mc3fnOmQMqI5uQJVVu1rFPNsPRSIgTeF-HWuW_qnTAQith1yLje_uZzPDdt6b26kK1smgh8MZ6A6EIC5Ed8dZ9Osv74y17-h4GuUMmu71zwuqEZUhsVVwEMYRh62VTmeqPzd0DTduAnevMKCLtz-1CWwEQWZqec9m4SVm261HbHTq_Rdki3SC_ExfGn_rp0DhxTl-E8PO8coq5Vgj3BmKWP_PwGs_Qvs72MKxkzTdH13V7Bb1ZPkWlRovCKH9c4qaY4NVM-nAfHXE5sJhdS8AUaDCOgEUn5OuTOHHTv_CABKgl1cy1lYXN0LTIw6Q8.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -4947,12 +4947,6 @@
     "name": "BandNews Alternativo 6",
     "type": "Notícia",
     "url": "http://170.83.49.66:8083/BANDNEWSHD/index.m3u8",
-    "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
-  },
-  {
-    "name": "BandNews Alternativo 7",
-    "type": "Notícia",
-    "url": "http://177.52.24.163/BAND-NEWS-HD/index.m3u8",
     "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
   },
   {
