@@ -637,11 +637,6 @@ URL: https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 Logo: https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: E 24 (576p)
-URL: https://trs1.aynaott.com/e24/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: EET TV (1080p) [Not 24/7]
 URL: https://live.streamjo.com/eetlive/eettv.m3u8
 Logo: https://i.imgur.com/rMldFW8.png
@@ -1002,11 +997,6 @@ URL: https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee TV HD (720p)
-URL: https://trs1.aynaott.com/zeetvhd/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Zee Yuva (576p)
 URL: http://103.72.101.252:8080/live/414.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_YUVA/images/LOGO_HD/LOGO_HD_image.png
@@ -1250,8 +1240,8 @@ URL: https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Network 10 (576p)
-URL: https://trs1.aynaott.com/Network10/index.m3u8
+Name: Network 10
+URL: https://network10.livebox.co.in/network10hls/live.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1391,11 +1381,6 @@ Group: Movies
 Name: &flix HD (1080p)
 URL: http://103.72.101.252:8080/live/1322.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: &pictures (720p)
-URL: https://trs1.aynaott.com/andpictureshd/index.m3u8
-Logo: https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &pictures HD (1080p)
@@ -1738,8 +1723,8 @@ URL: https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee Cinema (720p)
-URL: https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8
+Name: Zee Cinema (576p)
+URL: https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2131,8 +2116,8 @@ URL: https://stream1.livebox.co.in/VCAREhls/live.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Bharat Samachar (576p)
-URL: https://trs1.aynaott.com/BharatSamachar/index.m3u8
+Name: Bharat Samachar (480p)
+URL: https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2262,7 +2247,7 @@ Logo: https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Hindi Khabar (576p)
-URL: https://trs1.aynaott.com/HindiKhabar/index.m3u8
+URL: https://cdn-2.pishow.tv/live/1041/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HINDI_KHABAR/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2461,8 +2446,8 @@ URL: https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_RAJASTHAN/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: News 1 India (576p)
-URL: https://trs1.aynaott.com/News1India/index.m3u8
+Name: News 1 India (396p)
+URL: https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2602,7 +2587,7 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: NewsTime Bangla (576p)
-URL: https://trs1.aynaott.com/NewsTime/index.m3u8
+URL: https://cdn-2.pishow.tv/live/1494/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TIME_BANGLA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
