@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14 22:28:38",
+  "date": "2026-08-15 07:04:48",
   "channels": {
     "TV": [
       {
@@ -771,13 +771,6 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
-      },
-      {
-        "name": "Rádio TV Sal One",
-        "logo": "https://i.imgur.com/pCz7ifY.jpg",
-        "group": "TV",
-        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://fn.rtsp.me/gtRM7meLTdWlCxfEAHOIFw/1785693558/hls/9QdykDAy.m3u8"
       },
       {
         "name": "Trace Urban",
@@ -6575,6 +6568,22 @@
         "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8"
       }
     ],
+    "Undefined": [
+      {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Mulher",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Radical",
+        "logo": "https://i.imgur.com/6g0obyk.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8"
+      }
+    ],
     "Comedy": [
       {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Comedy\",Star Comedy",
@@ -6666,7 +6675,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDE6NTA6OCBQTSZoYXNoX3ZhbHVlPWt2eE1MbXdBcnBkODVjc21zSXh6b0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMzlhNmExMC04NGQ2LTRkMDMtOGJhYi1jODkwYjg0MmUxZjk=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDg6NTM6MjYgUE0maGFzaF92YWx1ZT1NWmRIaTRLUXRDREtGUVVSWWc5eFlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjExOGQ0NDctZmJiZS00NTRjLTlmZjUtYjBlMWYxZWM3NDJj/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -6680,7 +6689,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDE6NTA6NyBQTSZoYXNoX3ZhbHVlPU9zRjZ0blk0ZGprTzlwb3RhOVF0MFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYjI3OWE2Ny04NzRiLTQ1NGQtODgzZi02Yjc5MTc2NGExNzU=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDg6NTM6MjUgUE0maGFzaF92YWx1ZT1OUTZybUw0V1Jzemo1eWdsNFZKcTN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWViMDU1NDktYWEyYy00MzhkLTllNzItMzNhOGU4NjkwMDA4/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -6780,7 +6789,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDE6NTA6NyBQTSZoYXNoX3ZhbHVlPU04Q3VNWTVCVXkyd24rMVlSaldNZlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05YWRlZGE3OC1mMjRiLTRmYzQtYmJhZC0zZjhjOTA3NDI1OWM=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDg6NTM6MjUgUE0maGFzaF92YWx1ZT0vaXFaaVVFdkhtNnJ5U21pUFZiNFF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjQ1MWIyNzctOTM3MS00NDRlLWFiNjktM2VlOTg4NDZmZjA0/"
       },
       {
         "name": "Euronews 🇵🇹",
