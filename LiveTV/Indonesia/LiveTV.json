@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18 06:14:04",
+  "date": "2026-08-18 13:55:23",
   "channels": {
     "INDONESIA": [
       {
@@ -8929,6 +8929,27 @@
         "group": "RELIGI",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd"
+      },
+      {
+        "name": "TVMU",
+        "logo": "https://i.imgur.com/yA25GaB.jpeg",
+        "group": "RELIGI",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://e.siar.us/live/tvmu.m3u8"
+      },
+      {
+        "name": "SUNNA TV (DNS)",
+        "logo": "https://mimipipi22.github.io/logo/religion/sunnatv.jpg",
+        "group": "RELIGI",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV"
+      },
+      {
+        "name": "AL QURAN KAREEM (DNS)",
+        "logo": "https://mimipipi22.github.io/logo/religion/alqurankareem.jpg",
+        "group": "RELIGI",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV"
       }
     ],
     "Kids": [
@@ -18182,32 +18203,25 @@
     ],
     "INDONESIA TV": [
       {
-        "name": "06. RCTI MAX",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd"
-      },
-      {
-        "name": "05. MNCTV R+",
+        "name": "05. MNCTV (R+)",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd"
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
       },
       {
-        "name": "08. GTV V+",
+        "name": "08. GTV R+",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd"
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
       },
       {
-        "name": "15. INEWS (D)",
+        "name": "15. INEWS",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350973"
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
       },
       {
         "name": "07. SCTV (VDO)",
@@ -18221,14 +18235,7 @@
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash"
-      },
-      {
-        "name": "03. INDOSIAR V",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/18.m3u8"
+        "url": "http://tvratu.my.id/nissa/index.mpd?id=205&type=dash"
       },
       {
         "name": "26. MOJI TV",
@@ -18259,32 +18266,11 @@
         "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd"
       },
       {
-        "name": "10. TRANS 7",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8"
-      },
-      {
-        "name": "02. ANTV (v+)",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
-      },
-      {
         "name": "02. ANTV",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "http://tvratu.my.id/nissa/index.mpd?id=782&type=dash"
-      },
-      {
-        "name": "12. RTV (MAX)",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
       },
       {
         "name": "12. RTV (DENS)",
@@ -18301,39 +18287,18 @@
         "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8"
       },
       {
-        "name": "09. TVONE (vidio)",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash"
-      },
-      {
         "name": "14. KOMPAS TV (V+)",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd"
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8"
       },
       {
-        "name": "14. KOMPAS TV (MAX)",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd"
-      },
-      {
-        "name": "12. METRO TV (Dens)",
+        "name": "12. METRO TV (V+)",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "12. METRO TV (Vidio)",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash"
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd"
       },
       {
         "name": "17. CNBC INDONESIA (FEED)",
@@ -18362,13 +18327,6 @@
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd"
-      },
-      {
-        "name": "01. TVRI NASIONAL (MAX)",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd"
       },
       {
         "name": "33. TVRI WORLD (MAX)",
@@ -19899,13 +19857,6 @@
         "url": "https://cdnbal1.indihometv.com/atm/DASH/muhammadiyahtv/muhammadiyahtv-avc1_2500000=7-3277707030000000.mpd"
       },
       {
-        "name": "TVMU (SIAR)",
-        "logo": "https://mimipipi22.github.io/logo/religion/tvmu.jpg",
-        "group": "RELIGION",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://e.siar.us/live/tvmu.m3u8"
-      },
-      {
         "name": "MUSLIM TV",
         "logo": "https://mimipipi22.github.io/logo/religion/muslimtv.jpg",
         "group": "RELIGION",
@@ -19946,20 +19897,6 @@
         "group": "RELIGION",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://cdnbal1.indihometv.com/atm/DASH/alquran/alquran-avc1_2500000=7-3277707030000000.mpd"
-      },
-      {
-        "name": "AL QURAN KAREEM (DNS)",
-        "logo": "https://mimipipi22.github.io/logo/religion/alqurankareem.jpg",
-        "group": "RELIGION",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV"
-      },
-      {
-        "name": "SUNNA TV (DNS)",
-        "logo": "https://mimipipi22.github.io/logo/religion/sunnatv.jpg",
-        "group": "RELIGION",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV"
       },
       {
         "name": "RODJA TV (MAX)",
@@ -22044,13 +21981,6 @@
         "url": "https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8"
       },
       {
-        "name": "GTV (R+)",
-        "logo": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png",
-        "group": "No SignaL 📺",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
-      },
-      {
         "name": "FS 1 🇺🇸",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
         "group": "No SignaL 📺",
@@ -23283,23 +23213,16 @@
         "group": "NasioNaL DiGitaL 📡",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://popmi.my.id/tes.m3u8?id=19046"
-      },
-      {
-        "name": "MNC TV (R+)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png",
-        "group": "NasioNaL DiGitaL 📡",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
-      },
-      {
-        "name": "iNews (R+)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",
-        "group": "NasioNaL DiGitaL 📡",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
       }
     ],
     "Nasional 🇮🇩": [
+      {
+        "name": "ANTV",
+        "logo": "https://i.imgur.com/RJ31qhO.png",
+        "group": "Nasional 🇮🇩",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
+      },
       {
         "name": "Berita Satu",
         "logo": "https://i.imgur.com/Nanq6nA.png",
@@ -23336,20 +23259,6 @@
         "url": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd"
       },
       {
-        "name": "Indosiar",
-        "logo": "https://i.imgur.com/CJajHRL.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://beetv.my.id/stream/vd.m3u8?ch=indosiar"
-      },
-      {
-        "name": "Kompas TV",
-        "logo": "https://i.imgur.com/NtHSz1Z.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8"
-      },
-      {
         "name": "mdTV",
         "logo": "https://i.imgur.com/nV1ay96.png",
         "group": "Nasional 🇮🇩",
@@ -23382,21 +23291,14 @@
         "logo": "https://i.imgur.com/lTLsqu2.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA"
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd"
       },
       {
         "name": "SinPO tv",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd"
-      },
-      {
-        "name": "Trans TV",
-        "logo": "https://i.imgur.com/eVuKMF8.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34324"
+        "url": "https://vidsemar.pages.dev/terraluna/19046.mpd"
       },
       {
         "name": "tvOne",
@@ -37680,6 +37582,13 @@
         "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd"
       },
       {
+        "name": "RTV IH",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
+      },
+      {
         "name": "MENTARI TV VD",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06UwMiLyI74sEEDwf0-rwndLGrLvQi7tp1QHv82q1wkKhIARAAOwOkKOmvQgBdjKnA4wd8Sl2QEPkY4VJA2MlneSwgdaa1tEVPQtOBhkT-kssOTkcJFcEgRTpq3i8QhyphenhyphenKuzPey326K70RzIjhHBc3O3OAeMqHavxuSq6LwqEgsC4SJWy7L-MINH38Vbt4/s700/MENTARI%20TV.png",
         "group": "TV BackUP",
@@ -37727,13 +37636,6 @@
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8"
-      },
-      {
-        "name": "METRO TV V+",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png",
-        "group": "TV BackUP",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd"
       },
       {
         "name": "KOMPAS TV DN",
@@ -38576,11 +38478,32 @@
         "url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8|referrer=https://dens.tv/"
       },
       {
+        "name": "RCTI (MAX)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/rcti.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd"
+      },
+      {
         "name": "RCTI WORLD",
         "logo": "https://mimipipi22.github.io/logo/nasional/rctiw.jpg",
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://mimipipi22.github.io/logo/offline.m3u8"
+      },
+      {
+        "name": "MNCTV (MAX)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/mnctv.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd"
+      },
+      {
+        "name": "GTV (MAX)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/gtv.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd"
       },
       {
         "name": "INEWS (MAX)",
@@ -38609,6 +38532,13 @@
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd"
+      },
+      {
+        "name": "INDOSIAR (VDO)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/indosiar.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash"
       },
       {
         "name": "MOJI (VDO)",
@@ -38653,6 +38583,20 @@
         "url": "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd"
       },
       {
+        "name": "KOMPAS TV (V+)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/kompastv.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd"
+      },
+      {
+        "name": "KOMPAS TV (MAX)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/kompastv.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd"
+      },
+      {
         "name": "METRO TV (DNS)",
         "logo": "https://mimipipi22.github.io/logo/nasional/metrotv.jpg",
         "group": "TV BackUP",
@@ -38693,6 +38637,13 @@
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd"
+      },
+      {
+        "name": "TVRI NASIONAL (MAX)",
+        "logo": "https://mimipipi22.github.io/logo/nasional/tvri.jpg",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd"
       },
       {
         "name": "TVRI NASIONAL (DNS)",
