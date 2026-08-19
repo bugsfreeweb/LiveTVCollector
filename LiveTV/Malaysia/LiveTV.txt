@@ -31,6 +31,16 @@ URL: https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24
 Logo: https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
+Name: TV1 (1080p)
+URL: https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+Logo: https://i.imgur.com/wSyPmiY.png
+Source: https://iptv-org.github.io/iptv/countries/my.m3u
+--------------------------------------------------
+Name: TV2 (1080p)
+URL: https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+Logo: https://i.imgur.com/LGEdeyJ.png
+Source: https://iptv-org.github.io/iptv/countries/my.m3u
+--------------------------------------------------
 
 Group: Legislative
 Name: RTM Parlimen (Dewan Negara) [Geo-blocked]
@@ -45,6 +55,11 @@ Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 
 Group: News
+Name: Berita RTM [Geo-blocked]
+URL: https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+Logo: https://i.imgur.com/1Xzxsgl.png
+Source: https://iptv-org.github.io/iptv/countries/my.m3u
+--------------------------------------------------
 Name: RTM ASEAN
 URL: https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 Logo: https://i.imgur.com/skAiUxg.png
@@ -59,24 +74,9 @@ Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 
 Group: Undefined
-Name: Berita RTM [Geo-blocked]
-URL: https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-Logo: https://i.imgur.com/1Xzxsgl.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
 Name: Sukan RTM (1080p) [Geo-blocked]
 URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Logo: https://i.imgur.com/1pYYSu2.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
-Name: TV1 (1080p)
-URL: https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
-Logo: https://i.imgur.com/wSyPmiY.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
-Name: TV2 (1080p)
-URL: https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
-Logo: https://i.imgur.com/LGEdeyJ.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 Name: TV6 [Geo-blocked]
