@@ -36,46 +36,22 @@
     "img": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png"
   },
   {
-    "name": "Berita RTM [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
-    "img": "https://i.imgur.com/1Xzxsgl.png"
-  },
-  {
-    "name": "Sukan RTM (1080p) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
-    "img": "https://i.imgur.com/1pYYSu2.png"
-  },
-  {
     "name": "TV1 (1080p)",
-    "type": "Undefined",
+    "type": "General",
     "url": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
     "img": "https://i.imgur.com/wSyPmiY.png"
   },
   {
     "name": "TV2 (1080p)",
-    "type": "Undefined",
+    "type": "General",
     "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
     "img": "https://i.imgur.com/LGEdeyJ.png"
   },
   {
-    "name": "TV6 [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
-    "img": "https://i.imgur.com/bK8UH9D.png"
-  },
-  {
-    "name": "TV9",
-    "type": "Undefined",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-    "img": "https://i.imgur.com/Krh1F8d.png"
-  },
-  {
-    "name": "TVIKIM (1080p)",
-    "type": "Undefined",
-    "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
-    "img": "https://i.imgur.com/X6JKNEE.png"
+    "name": "Berita RTM [Geo-blocked]",
+    "type": "News",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "img": "https://i.imgur.com/1Xzxsgl.png"
   },
   {
     "name": "RTM ASEAN",
@@ -94,6 +70,30 @@
     "type": "Legislative",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
     "img": "https://i.postimg.cc/mgrVsTMY/header.png"
+  },
+  {
+    "name": "Sukan RTM (1080p) [Geo-blocked]",
+    "type": "Undefined",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+    "img": "https://i.imgur.com/1pYYSu2.png"
+  },
+  {
+    "name": "TV6 [Geo-blocked]",
+    "type": "Undefined",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "img": "https://i.imgur.com/bK8UH9D.png"
+  },
+  {
+    "name": "TV9",
+    "type": "Undefined",
+    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "img": "https://i.imgur.com/Krh1F8d.png"
+  },
+  {
+    "name": "TVIKIM (1080p)",
+    "type": "Undefined",
+    "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
+    "img": "https://i.imgur.com/X6JKNEE.png"
   },
   {
     "name": "Suke TV (720p)",
