@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19 22:03:43",
+  "date": "2026-08-20 06:50:10",
   "channels": {
     "Uncategorized": [
       {
@@ -985,6 +985,20 @@
         "url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8"
       },
       {
+        "name": "HTV1 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htv1/index.m3u8"
+      },
+      {
+        "name": "HTV7 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htv7/index.m3u8"
+      },
+      {
         "name": "Khanh Hoa TV (1080p)",
         "logo": "https://i.imgur.com/qLMcGPT.png",
         "group": "General",
@@ -1322,11 +1336,25 @@
     ],
     "General;News": [
       {
-        "name": "Đồng Nai 1 (480p) [Not 24/7]",
+        "name": "Dong Nai TV 1 (720p)",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "group": "General;News",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8"
+        "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8"
+      },
+      {
+        "name": "HTV9 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
+        "group": "General;News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htv9/index.m3u8"
+      },
+      {
+        "name": "Vinh Long TV 1 (720p)",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "group": "General;News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/thvl1/index.m3u8"
       }
     ],
     "Entertainment;Sports": [
@@ -1345,6 +1373,24 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
+      }
+    ],
+    "Entertainment;General": [
+      {
+        "name": "HTV2 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png",
+        "group": "Entertainment;General",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htv2/index.m3u8"
+      }
+    ],
+    "Entertainment;General;Series": [
+      {
+        "name": "HTV3 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",
+        "group": "Entertainment;General;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htv3/index.m3u8"
       }
     ],
     "Education": [
@@ -1461,6 +1507,24 @@
         "group": "Culture;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8"
+      }
+    ],
+    "Entertainment;Movies": [
+      {
+        "name": "Vinh Long TV 3 (720p)",
+        "logo": "https://i.imgur.com/OQXEhqu.png",
+        "group": "Entertainment;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/thvl3/index.m3u8"
+      }
+    ],
+    "Culture;Entertainment;Sports;Travel": [
+      {
+        "name": "Vinh Long TV 4 (720p)",
+        "logo": "https://i.imgur.com/ARhIkvR.png",
+        "group": "Culture;Entertainment;Sports;Travel",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/thvl4/index.m3u8"
       }
     ]
   }
