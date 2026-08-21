@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20 22:08:10",
+  "date": "2026-08-21 07:04:37",
   "channels": {
     "Entertainment": [
       {
@@ -93,14 +93,25 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
       }
     ],
-    "Undefined": [
+    "Sports": [
       {
         "name": "Sukan RTM (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/1pYYSu2.png",
-        "group": "Undefined",
+        "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
-      },
+      }
+    ],
+    "Shop": [
+      {
+        "name": "Suke TV (720p)",
+        "logo": "https://i.imgur.com/hCwH3s0.png",
+        "group": "Shop",
+        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272"
+      }
+    ],
+    "Undefined": [
       {
         "name": "TV6 [Geo-blocked]",
         "logo": "https://i.imgur.com/bK8UH9D.png",
@@ -121,15 +132,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
         "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942"
-      }
-    ],
-    "Shop": [
-      {
-        "name": "Suke TV (720p)",
-        "logo": "https://i.imgur.com/hCwH3s0.png",
-        "group": "Shop",
-        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272"
       }
     ]
   }
