@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21 21:58:06",
+  "date": "2026-08-22 06:30:20",
   "channels": {
     "TV": [
       {
@@ -927,6 +927,13 @@
         "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "Canal 11 Internacional",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8"
+      },
+      {
         "name": "FIFA+",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
         "group": "TV",
@@ -1004,22 +1011,22 @@
         "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8"
       },
       {
-        "name": "Akaku TV 1",
-        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-1.png",
+        "name": "Akaku 53",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-53.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8"
       },
       {
-        "name": "Akaku TV 2",
-        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-2.png",
+        "name": "Akaku 54",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-54.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8"
       },
       {
-        "name": "Akaku TV 3",
-        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",
+        "name": "Akaku 55",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-55.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8"
@@ -6275,6 +6282,15 @@
         "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd"
       }
     ],
+    "Teste": [
+      {
+        "name": "Logo SVG - stream AV1/Opus",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",
+        "group": "Teste",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd"
+      }
+    ],
     "Religious": [
       {
         "name": "ADB TV (1080p)",
@@ -6678,13 +6694,6 @@
     ],
     "Portugal 🇵🇹": [
       {
-        "name": "RTP Mundo ᴸᴼᵂ 🇵🇹",
-        "logo": "https://mundo.rtp.pt/wp-content/themes/rdpinternacional/includes/img/RTP_mundo_horz_neg.png",
-        "group": "Portugal 🇵🇹",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd"
-      },
-      {
         "name": "RTP1 🇵🇹",
         "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp1_2026.png",
         "group": "Portugal 🇵🇹",
@@ -6724,28 +6733,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDE6MjQ6MTggUE0maGFzaF92YWx1ZT1TRmcxMnkwTlY5dW9vVHBJbEFPTitnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDg1OTI4MzgtZDYxZC00MDg2LWJiNmQtNjYwYWJjYzQ3NjAz/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDg6NDY6MzYgUE0maGFzaF92YWx1ZT1RSDNUNGFiN3FIbm9sbFNZOG9pYnZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODI3MmJjM2EtMzQyMi00OGJiLWE2MzQtMGVhMzNjNzM5YTVk/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8"
-      },
-      {
-        "name": "TVI 🇵🇹",
-        "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
-        "group": "Portugal 🇵🇹",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDE6MjQ6MTcgUE0maGFzaF92YWx1ZT02Yk5BU1ZaTnlodEJ3ZFpSZzBFL1NnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGM0MTkxNTgtNWY4ZS00OWFmLWI5NjYtNTgzYTJiMDgxZmU0/"
-      },
-      {
-        "name": "V+ TVI 🇵🇹",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/v%2Btvi-pt.png",
-        "group": "Portugal 🇵🇹",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/Vmais_TVI.m3u"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDg6NDY6MzUgUE0maGFzaF92YWx1ZT11Z0dGRitzOFg5eVAzcGlOYTNRK1ZRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTc2YzY3OTctOGYxNS00NWUxLTg4OTctMzk4ZTY1Zjc1OTll/"
       },
       {
         "name": "Porto Canal ⚽️ 🇵🇹",
@@ -6838,7 +6833,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDE6MjQ6MTggUE0maGFzaF92YWx1ZT11RFlnWklHVVlSM2JnSFZycHNtNlV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODdhOGRlYmMtNDhlMC00MDRhLTgwNjQtMzlkYzFmMWQ1NmQ5/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDg6NDY6MzUgUE0maGFzaF92YWx1ZT1JVUNrdjlrZEZtV3h6VDlkUWRCK2NBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTNiMjlhMjktMjc5Ni00M2VjLWI4MzQtNmZkYzY3NzFhYWM0/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -7505,13 +7500,6 @@
     ],
     "Channels 🇨🇿🇮🇳🇵🇭": [
       {
-        "name": "AXN (🔉💬🇬🇧)🇮🇳",
-        "logo": "https://logo.m3uassets.com/axn.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd"
-      },
-      {
         "name": "AXN White (🔉💬🇬🇧)🇨🇿",
         "logo": "https://logo.m3uassets.com/axnwhite.png",
         "group": "Channels 🇨🇿🇮🇳🇵🇭",
@@ -7530,63 +7518,7 @@
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo.png",
         "group": "Channels 🇨🇿🇮🇳🇵🇭",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
-      },
-      {
-        "name": "HBO Signature (🔉💬🇬🇧)🇵🇭",
-        "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hbo_signature._SL170_FMpng_.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd"
-      },
-      {
-        "name": "HBO Signature (🔉💬🇬🇧)🇮🇳",
-        "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hbo_signature._SL170_FMpng_.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
-      },
-      {
-        "name": "HBO Family (🔉💬🇬🇧)🇵🇭",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd"
-      },
-      {
-        "name": "HBO Family (🔉💬🇬🇧)🇮🇳",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
-      },
-      {
-        "name": "HBO Hits (🔉💬🇬🇧)🇵🇭",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/hbohits.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd"
-      },
-      {
-        "name": "HBO Hits (🔉💬🇬🇧)",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/hbohits.png",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
-      },
-      {
-        "name": "Cinemax (🔉💬🇬🇧)🇮🇳",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd"
-      },
-      {
-        "name": "Cinemax (🔉💬🇬🇧)🇮🇳",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp",
-        "group": "Channels 🇨🇿🇮🇳🇵🇭",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd"
       },
       {
         "name": "Cinemax (🔉💬🇬🇧) 🇨🇿",
@@ -7864,25 +7796,11 @@
         "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
       },
       {
-        "name": "Discovery Channel (🔉💬🇬🇧)🇵🇭",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png",
-        "group": "Documentaries 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd?wowzasessionid=@iprtlk"
-      },
-      {
         "name": "Discovery Channel (🔉💬🇬🇧)🇨🇿",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png",
         "group": "Documentaries 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd"
-      },
-      {
-        "name": "Discovery Science (🔉💬🇬🇧)🇭🇰",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png",
-        "group": "Documentaries 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk"
       },
       {
         "name": "Discovery Science (🔉💬🇬🇧)🇮🇪",
@@ -7892,39 +7810,11 @@
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd?wowzasessionid=@iprtlk"
       },
       {
-        "name": "IDDiscovery",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp",
-        "group": "Documentaries 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561805/index.mpd?wowzasessionid=@iprtlk"
-      },
-      {
-        "name": "Crime & Investigation (🔉💬🇬🇧)🇵🇭",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png",
-        "group": "Documentaries 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd?wowzasessionid=@iprtlk"
-      },
-      {
         "name": "Crime & Investigation (🔉💬🇬🇧)🇨🇿",
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png",
         "group": "Documentaries 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd"
-      },
-      {
-        "name": "National Geographic (🔉💬🇬🇧)🇷🇺",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/natgeographic.png",
-        "group": "Documentaries 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561901/index.mpd?wowzasessionid=@iprtlk"
-      },
-      {
-        "name": "Nat Geo Wild 🇮🇳",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png",
-        "group": "Documentaries 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd"
       },
       {
         "name": "Nat Geo Wild (🔉💬🇬🇧🇷🇺)",
@@ -7945,7 +7835,7 @@
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png",
         "group": "Documentaries 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
+        "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd"
       },
       {
         "name": "Love Nature 🇺🇸",
@@ -8401,20 +8291,6 @@
         "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8?wowzasessionid=@iprtlk"
       },
       {
-        "name": "Старт",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cc/Start_Russia.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://iptv.tvzatak.uk:80/live/HxnSbJgDPX/bhYQUR31B/888.ts"
-      },
-      {
-        "name": "Ring 🇧🇬",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://85.14.32.26:8800/udp/239.100.10.81:5000"
-      },
-      {
         "name": "Cazetv 🇧🇷⚽️🎾🏐",
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",
         "group": "All Sports 🌎",
@@ -8503,7 +8379,7 @@
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd"
+        "url": "http://141.94.193.53:80/Sport_1_HD/index.m3u8"
       },
       {
         "name": "Sport 2 🇨🇿⚽️🎾🃏",
@@ -8525,13 +8401,6 @@
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd"
-      },
-      {
-        "name": "Arena Sport 2 🇨🇿 🏍🏎️",
-        "logo": "https://github.com/iprtl/p1/raw/master/logo/ArenaSport2.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd"
       },
       {
         "name": "Arena Sport 2 🇨🇿 🏍🏎️",
@@ -8594,63 +8463,7 @@
         "logo": "https://logo.m3uassets.com/spotv.png",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd"
-      },
-      {
-        "name": "Spotv 🇮🇳 🏍🏎️",
-        "logo": "https://logo.m3uassets.com/spotv.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd"
-      },
-      {
-        "name": "Now Sports PL 1 🇭🇰⚽️",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o="
-      },
-      {
-        "name": "Now Sports PL 3 🇭🇰⚽️",
-        "logo": "https://i.imgur.com/kKFsIHz.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y="
-      },
-      {
-        "name": "Now Sports 4 🇭🇰",
-        "logo": "https://logo.m3uassets.com/nowsports4.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc="
-      },
-      {
-        "name": "Now Sports 5 🇭🇰",
-        "logo": "https://logo.m3uassets.com/nowsports5.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B25&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWx1ME5PZnRHZ2c="
-      },
-      {
-        "name": "Now Sports 6 🇭🇰",
-        "logo": "https://logo.m3uassets.com/nowsports6.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM="
-      },
-      {
-        "name": "Now Sports 7 🇭🇰",
-        "logo": "https://logo.m3uassets.com/nowsports7.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc="
-      },
-      {
-        "name": "Матч ТВ 🇷🇺",
-        "logo": "https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd"
       },
       {
         "name": "Матч!Футбол 1 🇷🇺",
@@ -8685,7 +8498,7 @@
         "logo": "https://i.imgur.com/k1U8bVZ.png",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://69.30.246.194/live/cctv16.m3u8"
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub"
       },
       {
         "name": "Turkmenistan Sport 🇹🇲",
@@ -8729,36 +8542,13 @@
         "url": "https://jmp2.uk/stvp-FR200016Y5"
       }
     ],
-    "All Sports 🌎;Liga Betclic⚽️": [
-      {
-        "name": "Arena Sport 1 🇨🇿 🏍🏎️",
-        "logo": "https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png",
-        "group": "All Sports 🌎;Liga Betclic⚽️",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd"
-      }
-    ],
     "All Sports 🌎;Formula1🏎️;MotoGP🏍": [
       {
         "name": "Spotv 2 🇮🇳 🏍🏎️",
         "logo": "https://logo.m3uassets.com/spotv2.png",
         "group": "All Sports 🌎;Formula1🏎️;MotoGP🏍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/beib2/manifest.mpd"
-      },
-      {
-        "name": "Spotv 2 🇮🇳 🏍🏎️",
-        "logo": "https://logo.m3uassets.com/spotv2.png",
-        "group": "All Sports 🌎;Formula1🏎️;MotoGP🏍",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
-      },
-      {
-        "name": "Spotv 2 🇮🇳 🏍🏎️",
-        "logo": "https://logo.m3uassets.com/spotv2.png",
-        "group": "All Sports 🌎;Formula1🏎️;MotoGP🏍",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd"
+        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd.mpd"
       }
     ],
     " Music": [
