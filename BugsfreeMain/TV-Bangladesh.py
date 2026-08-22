@@ -256,16 +256,11 @@ class M3UCollector:
 
 def main():
     # Specific M3U sources (12 sources)
-    source_urls = [        
-        "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",        
-        "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u",       
-        "https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/all.m3u",        
-        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/main/playlist.m3u",
-        "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+    source_urls = [
+        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",            
+        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/main/playlist.m3u",        
         "https://raw.githubusercontent.com/mhmimxl/filoox-bdix-selected/main/playlist.m3u",        
-        "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/main/RoarZone.m3u",
-        "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/main/toffee_all_player.m3u",
+        "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/main/RoarZone.m3u",        
         "https://raw.githubusercontent.com/AHIL44444/GAZI-LIVE-TV-M3U8/refs/heads/main/index.html",
         "https://raw.githubusercontent.com/mr-masudrana/Web_Player-IPTV/refs/heads/main/channels.json",
         "https://iptv-org.github.io/iptv/countries/bd.m3u",
