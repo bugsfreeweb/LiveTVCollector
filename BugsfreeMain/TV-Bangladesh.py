@@ -256,8 +256,9 @@ class M3UCollector:
 
 def main():
     # Specific M3U sources (12 sources)
-    source_urls = [
-        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",            
+    source_urls = [        
+        "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u", 
+        "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/main/playlist.m3u",        
         "https://raw.githubusercontent.com/mhmimxl/filoox-bdix-selected/main/playlist.m3u",        
         "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/main/RoarZone.m3u",        
