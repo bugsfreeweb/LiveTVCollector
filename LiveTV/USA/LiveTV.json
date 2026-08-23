@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22 21:54:09",
+  "date": "2026-08-23 06:51:04",
   "channels": {
     "Movies": [
       {
@@ -316,13 +316,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8"
-      },
-      {
-        "name": "MoreMax East HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8"
       },
       {
         "name": "Movies! (480p)",
@@ -843,6 +836,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "Faith TV (1080p)",
+        "logo": "https://i.imgur.com/lUBnKK1.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8"
       },
       {
         "name": "GBN Global Buddhist Network (1080p)",
@@ -11336,6 +11336,13 @@
         "url": "https://stream-tampa.scientology.org/master.m3u8"
       },
       {
+        "name": "SEC Network (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8"
+      },
+      {
         "name": "Semillitas TV (576p)",
         "logo": "https://i.imgur.com/u3yujUd.png",
         "group": "Undefined",
@@ -11502,6 +11509,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "The Walk TV",
+        "logo": "https://i.imgur.com/p3RAxjp.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8"
       },
       {
         "name": "The Walking Dead en español (720p)",
@@ -14525,6 +14539,15 @@
         "group": "Education;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://46.151.196.223:14382"
+      }
+    ],
+    "News;Sports": [
+      {
+        "name": "ESPNews (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+        "group": "News;Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://41.205.93.154/ESPNNEWS/index.m3u8"
       }
     ],
     "Entertainment;Family": [
