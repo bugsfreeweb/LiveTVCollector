@@ -12237,13 +12237,6 @@ Logo: https://i.imgur.com/bmkXfIE.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
-Group: Business;Series
-Name: CNBC-e
-URL: https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-Logo: https://s.cnbce.com/dist/images/logo-nav.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-
 Group: Culture
 Name: Luys TV (1080p)
 URL: https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
@@ -12284,6 +12277,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: National Geographic Wild (1080p) [Geo-blocked]
 URL: https://saran-live.ercdn.net/natgeowild/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: TRT Belgesel (720p)
+URL: https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",Viasat History (720p)
@@ -12332,11 +12330,6 @@ URL: https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 Logo: https://i.imgur.com/wlfyj5l.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: NOW TV (720p)
-URL: https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-Logo: https://i.imgur.com/5EYjWK7.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Persiana Turkiye
 URL: https://turkhls.persiana.live/hls/stream.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -12344,11 +12337,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
 Group: General
-Name: A2TV (1080p)
-URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-Logo: https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Aksu TV (720p)
 URL: https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 Logo: https://i.imgur.com/mgDCKiy.png
@@ -12499,11 +12487,6 @@ URL: https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 Logo: https://i.imgur.com/xj1gvrq.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: NTV
-URL: https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: On4 TV (1080p)
 URL: https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 Logo: https://i.imgur.com/qGRa1KI.png
@@ -12535,30 +12518,79 @@ Logo: https://i.imgur.com/rTBX6lS.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
+Group: Global
+Name: TRT WORLD
+URL: https://tv-trtworld.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TRT AVAZ
+URL: https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TRT KURDÎ
+URL: https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TRT ARABİ
+URL: https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+
+Group: Haber
+Name: TRT HABER
+URL: https://tv-trthaber.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: HABERTÜRK
+URL: https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: NTV
+URL: https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: A HABER
+URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: HALK TV
+URL: https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TGRT HABER
+URL: https://canli.tgrthaber.com/tgrt.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: 24
+URL: https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: BLOOMBERG HT
+URL: https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: EKOL TV
+URL: https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+
 Group: Kids
 Name: BabyTV Turkiye (1080p) [Geo-blocked]
 URL: https://saran-live.ercdn.net/babytv/index.m3u8
 Logo: https://i.imgur.com/4BDJ5FT.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: Minika Cocuk (720p)
-URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-Logo: https://i.imgur.com/VCywMTv.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: Minika Go (720p)
-URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-Logo: https://i.imgur.com/qIoipDq.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TRT Cocuk (1440p)
-URL: https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TRT Diyanet Çocuk (720p)
-URL: https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-Logo: https://i.imgur.com/8PmXz9t.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
@@ -12674,11 +12706,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
 Group: News
-Name: A Haber (1080p)
-URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Almahriah TV (576p)
 URL: https://starmenajo.com/hls/almahriah/index.m3u8
 Logo: https://i.imgur.com/GgEeTNr.png
@@ -12729,16 +12756,6 @@ URL: https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3
 Logo: https://i.imgur.com/e9ca6gc.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: TRT Haber (720p)
-URL: https://tv-trthaber.medya.trt.com.tr/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TV 24 (720p)
-URL: https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-Logo: https://i.imgur.com/8FO41es.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 
 Group: Religious
 Name: Al Rafidain (720p) [Not 24/7]
@@ -12757,20 +12774,22 @@ Logo: https://i.imgur.com/qWkHjRA.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
-Group: Sports
-Name: A Spor (1080p)
+Group: Spor
+Name: A SPOR
 URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-Logo: https://i.imgur.com/ZhkZzLf.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
 --------------------------------------------------
+Name: HT SPOR
+URL: https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+
+Group: Sports
 Name: FB TV
 URL: http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 Logo: https://i.imgur.com/qBVqtYd.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: HTSpor TV (1080p)
-URL: https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-Logo: https://www.htspor.com/images/manifest/social-share-logo.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: S Sport (720p)
@@ -12804,108 +12823,78 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
-Group: TURK HD+ LINE
-Name: TRT1
-URL: https://tv-trt1.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: STAR TV
-URL: http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: ATV
-URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: SHOW TV
-URL: https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TEVE2
-URL: https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TV100
-URL: https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: HALK TV
-URL: https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT HABER
-URL: https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TGRT HABER
-URL: https://canli.tgrthaber.com/tgrt.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: HABERTURK
-URL: https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: DOST TV
-URL: https://dost.stream.emsal.im/tv/live.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dost-tv-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: A SPOR
-URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: SPORTS TV
-URL: https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT EBA ORTAKUL
-URL: https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-ortaokul-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT BELGESEL
-URL: https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT AVAZ
-URL: https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT KURDI
-URL: https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT ARABI
-URL: https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-Name: TRT WORLD
-URL: https://tv-trtworld.medya.trt.com.tr/master.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png
-Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
---------------------------------------------------
-
 Group: Travel
 Name: like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",RTG int.
 URL: http://213.91.179.28:8000/play/a0bw
 Logo: https://i.imgur.com/ZpUNou4.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
+Group: Ulusal
+Name: TRT 1
+URL: https://tv-trt1.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TRT TÜRK
+URL: https://tv-trtturk.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: ATV
+URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: A2
+URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: KANAL D
+URL: https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: SHOW TV
+URL: https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: NOW TV
+URL: https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TV 8
+URL: https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TV 8.5
+URL: https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: KANAL 7 AVRUPA
+URL: https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TEVE2
+URL: https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: CNBC-e
+URL: https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: ÜLKE TV
+URL: https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
 --------------------------------------------------
 
 Group: Uncategorized
@@ -13021,11 +13010,6 @@ URL: https://tv-trt3.live.trt.com.tr/master.m3u8
 Logo: https://i.imgur.com/JrWFwBd.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: TRT Türk (720p)
-URL: https://tv-trtturk.medya.trt.com.tr/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: TV 1 (720p)
 URL: https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 Logo: https://i.imgur.com/8CtrYVb.png
@@ -13085,6 +13069,40 @@ Name: Zarok TV (720p)
 URL: https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 Logo: https://i.imgur.com/o0eevnb.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
+Group: Yaşam & Lifestyle
+Name: DOST TV
+URL: https://dost.stream.emsal.im/tv/live.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+
+Group: Çocuk
+Name: TRT ÇOCUK
+URL: https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TRT ÇOCUK DİYANET
+URL: https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: TRT EBA ORTAOKUL
+URL: https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: MINIKA ÇOCUK
+URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
+--------------------------------------------------
+Name: MINIKA GO
+URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
 --------------------------------------------------
 
 Group: 🌍 AF : Afghanistan
