@@ -2928,6 +2928,12 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxvpmiCnoGHXYiTzY0lp1E0UXdRSPg69f3Q&s"
   },
   {
+    "name": "W-SPORTS",
+    "type": "Sports",
+    "url": "https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSCaqcY24706lMrLyVT8H35bpvwyRlTp6cQ&s"
+  },
+  {
     "name": "SPORTSTARS 04 HD",
     "type": "Sports",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/",
@@ -3220,6 +3226,12 @@
     "type": "Sports",
     "url": "http://202.169.224.202:8800/udp/239.9.1.11:1234",
     "img": "https://mimipipi22.github.io/logo/sports/champions3.jpg"
+  },
+  {
+    "name": "V+ Live 6",
+    "type": "Sports",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/288/191288-LOGO-l.png"
   },
   {
     "name": "NBC SPORTS",
@@ -15150,6 +15162,12 @@
     "img": "https://i.imgur.com/WRoIfCr.png"
   },
   {
+    "name": "06. RCTI 1",
+    "type": "INDONESIA TV",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png"
+  },
+  {
     "name": "06. RCTI 2",
     "type": "INDONESIA TV",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
@@ -15164,7 +15182,7 @@
   {
     "name": "05. MNCTV 1",
     "type": "INDONESIA TV",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png"
   },
   {
@@ -15176,7 +15194,7 @@
   {
     "name": "08. GTV 1",
     "type": "INDONESIA TV",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png"
   },
   {
@@ -15188,13 +15206,13 @@
   {
     "name": "15. INEWS 1",
     "type": "INDONESIA TV",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png"
   },
   {
     "name": "07. SCTV 2",
     "type": "INDONESIA TV",
-    "url": "http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png"
   },
   {
@@ -15212,7 +15230,7 @@
   {
     "name": "03. INDOSIAR 2",
     "type": "INDONESIA TV",
-    "url": "http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png"
   },
   {
@@ -15457,243 +15475,171 @@
   },
   {
     "name": "HBO",
-    "type": "MOVIES",
+    "type": "📂 HIBURAN",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://i.ibb.co.com/qMWw8Tph/HBO.png"
   },
   {
     "name": "HBO Hits",
-    "type": "MOVIES",
+    "type": "📂 HIBURAN",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png"
   },
   {
     "name": "HBO Family",
-    "type": "MOVIES",
+    "type": "📂 HIBURAN",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png"
   },
   {
     "name": "HBO Signature",
-    "type": "MOVIES",
+    "type": "📂 HIBURAN",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png"
   },
   {
     "name": "CINEMAX",
-    "type": "MOVIES",
+    "type": "📂 HIBURAN",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://i.ibb.co.com/0pWPCfLb/CINEMAX.png"
   },
   {
-    "name": "GALAXY PREMIUM",
-    "type": "MOVIES",
-    "url": "https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd",
-    "img": "https://i.ibb.co.com/93HkxQz4/GALAXY-P.png"
+    "name": "iMC",
+    "type": "📂 HIBURAN",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/342/10342-LOGO-m.png"
   },
   {
-    "name": "HITS",
-    "type": "MOVIES",
-    "url": "https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd",
-    "img": "https://i.ibb.co.com/ccgPWYGK/HITS.png"
+    "name": "Hits Now",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/376/612376-LOGO-m.png"
   },
   {
-    "name": "SPORTSTARS 4",
-    "type": "SPORTS",
+    "name": "FTV",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/317/604317-LOGO-m.png"
+  },
+  {
+    "name": "SET",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/548/604548-LOGO-m.png"
+  },
+  {
+    "name": "ENT",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/632/632-LOGO-m.png"
+  },
+  {
+    "name": "LIFETIME",
+    "type": "📂 HIBURAN",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/639/639-LOGO-m.png"
+  },
+  {
+    "name": "VISION PRIME",
+    "type": "📂 HIBURAN",
+    "url": "https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/641/641-LOGO-m.png"
+  },
+  {
+    "name": "Celebrities Tv",
+    "type": "📂 HIBURAN",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/642/642-LOGO-m.png"
+  },
+  {
+    "name": "Xing Kong TV",
+    "type": "📂 HIBURAN",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/858/858-LOGO-m.png"
+  },
+  {
+    "name": "Dragon TV",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/683/683-LOGO-m.png"
+  },
+  {
+    "name": "Hunan TV",
+    "type": "📂 HIBURAN",
+    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/853/853-LOGO-m.png"
+  },
+  {
+    "name": "JSTV",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/685/685-LOGO-m.png"
+  },
+  {
+    "name": "NHK World Japan",
+    "type": "📂 HIBURAN",
+    "url": "https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/686/686-LOGO-m.png"
+  },
+  {
+    "name": "Tv5 Monde",
+    "type": "📂 HIBURAN",
+    "url": "https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/311/580311-LOGO-m.png"
+  },
+  {
+    "name": "Arirang",
+    "type": "📂 HIBURAN",
+    "url": "https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/688/688-LOGO-m.png"
+  },
+  {
+    "name": "ABC Tv",
+    "type": "📂 HIBURAN",
+    "url": "https://d2gr3zenqo3tg4.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/689/689-LOGO-m.png"
+  },
+  {
+    "name": "Drama World",
+    "type": "📂 HIBURAN",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/427/173427-LOGO-m.png"
+  },
+  {
+    "name": "Sportstars 4",
+    "type": "📂 SPORT",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/sportstars4.jpg"
+    "img": "https://www.visionplus.id/images/repository/691/691-LOGO-m.png"
   },
   {
-    "name": "SOCCER CHANNEL",
-    "type": "SPORTS",
+    "name": "Soccer Channel",
+    "type": "📂 SPORT",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/soccer.jpg"
+    "img": "https://www.visionplus.id/images/repository/655/655-LOGO-m.png"
   },
   {
-    "name": "SPOTV (V+)",
-    "type": "SPORTS",
+    "name": "SPOTV",
+    "type": "📂 SPORT",
     "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/spotv.jpg"
+    "img": "https://www.visionplus.id/images/repository/856/522856-LOGO-m.png"
   },
   {
-    "name": "SPOTV 2 (V+)",
-    "type": "SPORTS",
+    "name": "SPOTV 2",
+    "type": "📂 SPORT",
     "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/spotv2.jpg"
+    "img": "https://www.visionplus.id/images/repository/366/525366-LOGO-m.png"
   },
   {
-    "name": "BEIN SPORTS 4 (V+)",
-    "type": "SPORTS",
+    "name": "beIN SPORTS 4",
+    "type": "📂 SPORT",
     "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/beinsports4.jpg"
+    "img": "https://www.visionplus.id/images/repository/884/522884-LOGO-m.png"
   },
   {
-    "name": "BEIN SPORTS 5 (V+)",
-    "type": "SPORTS",
+    "name": "beIN SPORTS 5",
+    "type": "📂 SPORT",
     "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/beinsports5.jpg"
-  },
-  {
-    "name": "CHAMPIONS GOLF 1 HD (XL1)",
-    "type": "SPORTS",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd",
-    "img": "http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png"
-  },
-  {
-    "name": "CHAMPIONS GOLF 2 HD (XL1)",
-    "type": "SPORTS",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd",
-    "img": "http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/419.png"
-  },
-  {
-    "name": "V+ SPORTS",
-    "type": "SPORTS",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/883/124883-LOGO-l.png"
-  },
-  {
-    "name": "V+ LIVE 3",
-    "type": "SPORTS",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/698/129698-LOGO-l.png"
-  },
-  {
-    "name": "V+ LIVE 5",
-    "type": "SPORTS",
-    "url": "https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/287/191287-LOGO-l.png"
-  },
-  {
-    "name": "V+ LIVE 6",
-    "type": "SPORTS",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/288/191288-LOGO-l.png"
-  },
-  {
-    "name": "V+ LIVE 8",
-    "type": "SPORTS",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/290/191290-LOGO-m.png"
-  },
-  {
-    "name": "V+ Live 9",
-    "type": "SPORTS",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/402/552402-LOGO-m.png"
-  },
-  {
-    "name": "FIGHT SPORTS (MAX)",
-    "type": "SPORTS",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/fightsports.jpg"
-  },
-  {
-    "name": "EUROSPORT 1 🇸",
-    "type": "SPORTS",
-    "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd",
-    "img": "https://mimipipi22.github.io/logo/antik/eurosport1.jpg"
-  },
-  {
-    "name": "NBA TV",
-    "type": "SPORTS",
-    "url": "http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8",
-    "img": "https://mimipipi22.github.io/logo/sports/nbatv.jpg"
-  },
-  {
-    "name": "VOLI TV",
-    "type": "SPORTS",
-    "url": "https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/16.m3u8",
-    "img": "https://mimipipi22.github.io/logo/sports/volitv.jpg"
-  },
-  {
-    "name": "TVRI SPORT (DNS)",
-    "type": "SPORTS",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport",
-    "img": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg"
-  },
-  {
-    "name": "TVRI SPORT",
-    "type": "SPORTS",
-    "url": "http://119.82.250.109:8080/nl.m3u8?id=1167",
-    "img": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg"
-  },
-  {
-    "name": "TVRI SPORT",
-    "type": "SPORTS",
-    "url": "https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/33.m3u8",
-    "img": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg"
-  },
-  {
-    "name": "MAX SPORT (MAX)",
-    "type": "SPORTS",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg"
-  },
-  {
-    "name": "MAX STREAK (MAX)",
-    "type": "SPORTS",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg"
-  },
-  {
-    "name": "FIRST WARRIORS (XL1)",
-    "type": "SPORTS",
-    "url": "https://atemeshield2-voe.sysln.id/live/eds/FirstWarriorsHD/mediampd/FirstWarriorsHD.mpd",
-    "img": "http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/300.png"
-  },
-  {
-    "name": "W-SPORTS 🇸🇬",
-    "type": "SPORTS",
-    "url": "https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/wsports.jpg"
-  },
-  {
-    "name": "MOTORVISION+ (DNS)",
-    "type": "SPORTS",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B",
-    "img": "https://mimipipi22.github.io/logo/sports/motorvision.jpg"
-  },
-  {
-    "name": "WE DO SPORT (DNS)",
-    "type": "SPORTS",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports",
-    "img": "https://mimipipi22.github.io/logo/sports/wedotvsports.jpg"
-  },
-  {
-    "name": "GOLF+",
-    "type": "SPORTS",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/golf+.jpg"
-  },
-  {
-    "name": "FOOTBALL TV",
-    "type": "SPORTS",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/footballtv.jpg"
-  },
-  {
-    "name": "SPORTS TV",
-    "type": "SPORTS",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/sportstv.jpg"
-  },
-  {
-    "name": "XTREAM SPORTS",
-    "type": "SPORTS",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/xtreamsports.jpg"
-  },
-  {
-    "name": "SPEED TV",
-    "type": "SPORTS",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/sports/speedtv.jpg"
-  },
-  {
-    "name": "FIGHT TV PREMIUM",
-    "type": "SPORTS",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.",
-    "img": "https://mimipipi22.github.io/logo/sports/fighttv.jpg"
+    "img": "https://www.visionplus.id/images/repository/898/198898-LOGO-m.png"
   },
   {
     "name": "Attention !!!",
@@ -16062,6 +16008,12 @@
     "img": "https://www.visionplus.id/images/repository/655/655-LOGO-m.png"
   },
   {
+    "name": "R+ LIVE",
+    "type": "No SignaL 📺",
+    "url": "https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/817/138817-LOGO-m.png"
+  },
+  {
     "name": "V+ SPORT",
     "type": "No SignaL 📺",
     "url": "https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
@@ -16150,6 +16102,36 @@
     "type": "No SignaL 📺",
     "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=lite&chname=W-Sport",
     "img": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg"
+  },
+  {
+    "name": "Golf+ 🔴",
+    "type": "No SignaL 📺",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec40cec31736f/7a5da94bdbd24ff790b84f892d4aa1e6.png"
+  },
+  {
+    "name": "Football TV 🔴",
+    "type": "No SignaL 📺",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b703a262be7/8cc7a41bcc724b4ea668a5ca1aecac90.jpg"
+  },
+  {
+    "name": "Sports TV 🔴",
+    "type": "No SignaL 📺",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd",
+    "img": "https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060afdef540bc/5e2d673bff2f48cc8b8bf76018911952.jpg"
+  },
+  {
+    "name": "Xtrem Sports 🔴",
+    "type": "No SignaL 📺",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a4379740b7/85457b08d53449118c75e2f51186ddcb.jpg"
+  },
+  {
+    "name": "Speed TV 🔴",
+    "type": "No SignaL 📺",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg"
   },
   {
     "name": "Fight TV Premium 🔴",
@@ -16624,6 +16606,12 @@
     "type": "No SignaL 📺",
     "url": "https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GTV (R+)",
+    "type": "No SignaL 📺",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
+    "img": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png"
   },
   {
     "name": "FS 1 🇺🇸",
@@ -17668,6 +17656,18 @@
     "type": "NasioNaL DiGitaL 📡",
     "url": "https://popmi.my.id/tes.m3u8?id=19046",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png"
+  },
+  {
+    "name": "MNC TV (R+)",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png"
+  },
+  {
+    "name": "iNews (R+)",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png"
   },
   {
     "name": "aLLplay Ent ⁱ",
@@ -30768,22 +30768,10 @@
     "img": "https://mimipipi22.github.io/logo/nasional/inews.jpg"
   },
   {
-    "name": "SCTV (MAX)",
-    "type": "TV BackUP",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/sctv.jpg"
-  },
-  {
     "name": "SCTV (VDO)",
     "type": "TV BackUP",
     "url": "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
     "img": "https://mimipipi22.github.io/logo/nasional/sctv.jpg"
-  },
-  {
-    "name": "INDOSIAR (MAX)",
-    "type": "TV BackUP",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/indosiar.jpg"
   },
   {
     "name": "INDOSIAR (VDO)",
