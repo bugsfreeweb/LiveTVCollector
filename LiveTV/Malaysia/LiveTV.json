@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-30 00:49:17",
+  "date": "2026-08-30 10:18:45",
   "channels": {
     "Entertainment": [
       {
-        "name": "8TV",
+        "name": "8TV (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/Jkx9W88.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "http://cdn6.163189.xyz/163189/8tv"
+        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325"
       }
     ],
     "General": [
@@ -77,6 +77,24 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
       }
     ],
+    "Education": [
+      {
+        "name": "DidikTV KPM (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/7qehib0.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324"
+      }
+    ],
+    "Series": [
+      {
+        "name": "Drama Sangat (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/BqIVmN1.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342"
+      }
+    ],
     "Legislative": [
       {
         "name": "RTM Parlimen (Dewan Negara) [Geo-blocked]",
@@ -113,6 +131,13 @@
     ],
     "Undefined": [
       {
+        "name": "TV3 (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/bHcZgIo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323"
+      },
+      {
         "name": "TV6 [Geo-blocked]",
         "logo": "https://i.imgur.com/bK8UH9D.png",
         "group": "Undefined",
@@ -120,11 +145,11 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
       },
       {
-        "name": "TV9",
+        "name": "TV9 (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/Krh1F8d.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326"
       },
       {
         "name": "TVIKIM (1080p)",
