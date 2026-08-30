@@ -5732,13 +5732,13 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MTM6NSBBTSZoYXNoX3ZhbHVlPS9zZThhUk5MQmhmN1RXUVBuNHFGZmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ODM3YjI2YS04OTJjLTQ1MGMtOTNiZS1hNDA5ZTY3MTNjZDA=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDEwOjQyOjIyIFBNJmhhc2hfdmFsdWU9ekZXQXJiWmhST1UyOEZXeC9FN05mdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTczYTA4ODllLTJlZDktNGU5ZC05ZTQzLTE1OWQ5YTIzMzY0NQ==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MTM6NCBBTSZoYXNoX3ZhbHVlPVRid1g1aWNZaTFLc21Ca0FhNUVwalE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZGI4MTkzMi1jZDgxLTQyMzAtYjM2OS0yNmQ1NWY5Y2NlZmI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDEwOjQyOjIxIFBNJmhhc2hfdmFsdWU9cGJ2RDV5dVdIN1JtM1F6bXlmRG5iUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiY2NjY2Q2LTA5YjQtNDE2NC04MzFiLWFhYTYyMTM1YTZkYw==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -5816,7 +5816,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MTM6NSBBTSZoYXNoX3ZhbHVlPWlJb0VJakp3Mko5RlhJVzVCb2JpaGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05Y2I1ODZkZC1jMmU2LTRjMjUtYTQzMy1jNTI2MTU4ZmNlYmQ=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDEwOjQyOjIxIFBNJmhhc2hfdmFsdWU9L3gxdEk2cCt6V0hXT0kxeW5aWVRzdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmNmQ4NjFmLTI2NmEtNDBlMS1iMjMwLTQzNDg3MzQ5MzM5Zg==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -7358,68 +7358,20 @@
   {
     "name": "Bein Sports 1 🇫🇷⚽️🏉🏀",
     "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd",
+    "url": "http://99.27.51.147:8080/BeinSport/index.m3u8",
     "img": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png"
   },
   {
     "name": "Bein Sports 2 🇫🇷🏈",
     "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd",
+    "url": "http://99.27.51.147:8080/BeinSport2/index.m3u8",
     "img": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png"
   },
   {
     "name": "Bein Sports 3 🇫🇷🎾🤾‍",
     "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd",
+    "url": "http://99.27.51.147:8080/BeinSport3/index.m3u8",
     "img": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png"
-  },
-  {
-    "name": "Bein Sports 4 🇫🇷🎾🤾‍",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd",
-    "img": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png"
-  },
-  {
-    "name": "Bein Sports MAX 4 🇫🇷⚽️",
-    "type": "All Sports 🌎",
-    "url": "http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917423&extension=ts&play_token=DQ5HNSwg7B",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png"
-  },
-  {
-    "name": "Bein Sports MAX 5 🇫🇷",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png"
-  },
-  {
-    "name": "Bein Sports MAX 6 🇫🇷",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-6.png"
-  },
-  {
-    "name": "Bein Sports MAX 7 🇫🇷⚽️🏒🐴",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-7.png"
-  },
-  {
-    "name": "Bein Sports MAX 8 🇫🇷⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png"
-  },
-  {
-    "name": "Bein Sports MAX 9 🇫🇷⚽️🤾‍",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-9.png"
-  },
-  {
-    "name": "Bein Sports MAX 10 🇫🇷⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd",
-    "img": "https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-10.png"
   },
   {
     "name": "Bein Sports 1 🇦🇺",
@@ -7602,12 +7554,6 @@
     "img": "https://logo.m3uassets.com/spotv2.png"
   },
   {
-    "name": "S Sport 🇹🇷",
-    "type": "All Sports 🌎",
-    "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sssport/playlist.m3u8",
-    "img": "https://logo.m3uassets.com/ssport.png"
-  },
-  {
     "name": "Матч!Футбол 1 🇷🇺",
     "type": "All Sports 🌎",
     "url": "http://stream.mcquack.net/130/index.m3u8",
@@ -7666,12 +7612,6 @@
     "type": "Auto 🏍🏎️",
     "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts",
     "img": "https://i.imgur.com/JLSHiTp.png"
-  },
-  {
-    "name": "Rai Sport 🇮🇹",
-    "type": "All Sports 🌎;Tennis🎾",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv",
-    "img": "https://logo.m3uassets.com/raisport.png"
   },
   {
     "name": "la chaine L'Equipe 🇫🇷",
