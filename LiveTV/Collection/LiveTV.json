@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30 07:39:10",
+  "date": "2026-08-30 18:53:17",
   "channels": {
     "Uncategorized": [
       {
@@ -794,6 +794,13 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8"
       },
       {
+        "name": "HRT int HD",
+        "logo": "https://picserve.netplus.ch/channels/hrt4.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-dash/hrt4.mpd"
+      },
+      {
         "name": "video italia HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1561,7 +1568,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8"
+        "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1"
       },
       {
         "name": "KALAC TV HD",
@@ -1662,7 +1669,7 @@
         "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
       },
       {
-        "name": "SPORTDIGITAL FREE HD",
+        "name": "SPORTDIGITAL FREE HD deutsch",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
