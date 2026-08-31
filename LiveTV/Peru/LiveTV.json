@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30 00:31:13",
+  "date": "2026-08-31 07:58:46",
   "channels": {
     "General": [
       {
@@ -1243,32 +1243,14 @@
         "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8"
       }
     ],
-    "Documentary": [
-      {
-        "name": "History Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8"
-      }
-    ],
-    "Legislative": [
-      {
-        "name": "JNE TV (720p)",
-        "logo": "https://i.imgur.com/b25XfCj.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
-      },
-      {
-        "name": "Justicia TV (1080p)",
-        "logo": "https://i.imgur.com/VOjLXJd.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
-      }
-    ],
     "Sports": [
+      {
+        "name": "DSports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+      },
       {
         "name": "L1 (1080p)",
         "logo": "https://i.imgur.com/eRmXneK.png",
@@ -1310,6 +1292,31 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8"
+      }
+    ],
+    "Documentary": [
+      {
+        "name": "History Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8"
+      }
+    ],
+    "Legislative": [
+      {
+        "name": "JNE TV (720p)",
+        "logo": "https://i.imgur.com/b25XfCj.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
+      },
+      {
+        "name": "Justicia TV (1080p)",
+        "logo": "https://i.imgur.com/VOjLXJd.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
       }
     ],
     "Series": [
