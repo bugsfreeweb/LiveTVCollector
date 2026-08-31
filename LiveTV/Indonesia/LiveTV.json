@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-31 08:07:29",
+  "date": "2026-08-31 21:12:27",
   "channels": {
     "INDONESIA": [
       {
@@ -13627,10 +13627,10 @@
     "Indonesia Channels": [
       {
         "name": "RCTI",
-        "logo": "https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png",
         "group": "Indonesia Channels",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti"
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti"
       },
       {
         "name": "MNC TV",
@@ -13704,10 +13704,10 @@
       },
       {
         "name": "iNews",
-        "logo": "https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png",
         "group": "Indonesia Channels",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews"
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
       },
       {
         "name": "Kompas TV HD",
@@ -15202,13 +15202,6 @@
       }
     ],
     "NASIONAL": [
-      {
-        "name": "RCTI 1 ON (+)",
-        "logo": "https://i.imgur.com/C0a9fdx.jpeg",
-        "group": "NASIONAL",
-        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti"
-      },
       {
         "name": "RCTI 2 ON",
         "logo": "https://i.imgur.com/C0a9fdx.jpeg",
@@ -17982,6 +17975,13 @@
     ],
     "INDONESIA TV": [
       {
+        "name": "06. RCTI 1",
+        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png",
+        "group": "INDONESIA TV",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti"
+      },
+      {
         "name": "06. RCTI 2",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png",
         "group": "INDONESIA TV",
@@ -18008,6 +18008,13 @@
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd"
+      },
+      {
+        "name": "15. INEWS 1",
+        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png",
+        "group": "INDONESIA TV",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews"
       },
       {
         "name": "SINDONEWS (MAX)",
@@ -20862,13 +20869,6 @@
         "group": "NasioNaL DiGitaL 📡",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
-      },
-      {
-        "name": "iNews (R+)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",
-        "group": "NasioNaL DiGitaL 📡",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
       }
     ],
     "Nasional 🇮🇩": [
