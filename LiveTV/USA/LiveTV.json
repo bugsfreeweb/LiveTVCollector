@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03 00:38:49",
+  "date": "2026-09-03 07:57:57",
   "channels": {
     "Movies": [
       {
@@ -52,11 +52,11 @@
         "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8"
       },
       {
-        "name": "AMC (720p)",
+        "name": "AMC (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.239.31.26:8989/amc/index.m3u8"
+        "url": "http://41.205.93.154/AMC/index.m3u8"
       },
       {
         "name": "AMC East (720p)",
@@ -95,7 +95,7 @@
       },
       {
         "name": "Charge! (1080p)",
-        "logo": "https://i.imgur.com/1rxmu2u.png",
+        "logo": "https://i.imgur.com/ocs2DeU.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8"
@@ -283,13 +283,6 @@
         "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8"
       },
       {
-        "name": "KPVM Movies!",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8"
-      },
-      {
         "name": "Lifetime Movies (1080p)",
         "logo": "https://i.imgur.com/BWmqYTO.png",
         "group": "Movies",
@@ -325,6 +318,13 @@
         "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8"
       },
       {
+        "name": "Movies! KPVM-LD",
+        "logo": "https://i.imgur.com/gAGn3mK.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8"
+      },
+      {
         "name": "MovieSphere (1080p)",
         "logo": "https://i.imgur.com/h1ejU90.png",
         "group": "Movies",
@@ -347,7 +347,7 @@
       },
       {
         "name": "NOST (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/960px-This_TV_logo.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8"
@@ -545,7 +545,7 @@
     "Religious": [
       {
         "name": "3ABN Dare To Dream Network",
-        "logo": "https://i.imgur.com/oNUpXA9.png",
+        "logo": "https://i.imgur.com/ONsAt3Z.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8"
@@ -769,7 +769,7 @@
       },
       {
         "name": "Cornerstone TV (720p)",
-        "logo": "https://i.imgur.com/d6ADcR5.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Cornerstone_Television_logo.png/960px-Cornerstone_Television_logo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8"
@@ -783,21 +783,21 @@
       },
       {
         "name": "CTN (720p)",
-        "logo": "https://i.imgur.com/mHCabmJ.png",
+        "logo": "https://i.imgur.com/42UdwD0.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8"
       },
       {
         "name": "Daystar Español (720p)",
-        "logo": "https://i.imgur.com/4nP7j4M.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8"
       },
       {
         "name": "Daystar TV (1080p)",
-        "logo": "https://i.imgur.com/IjzCv8f.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8"
@@ -873,13 +873,6 @@
         "url": "http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8"
       },
       {
-        "name": "God's Learning Channel (480p)",
-        "logo": "https://i.imgur.com/w1bK8YN.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8"
-      },
-      {
         "name": "GoodLife 45 (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/AQfVNMK.png",
         "group": "Religious",
@@ -951,7 +944,7 @@
       },
       {
         "name": "In Touch+ (1080p) [Geo-blocked]",
-        "logo": "https://d2cc5gnf1jy2pj.cloudfront.net/custom_landing_pages/intouchplus/intouchplus_logo.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
@@ -983,20 +976,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "KQSL Channel 8 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
-      },
-      {
-        "name": "KSCE Vida Cristiana (360p)",
-        "logo": "https://i.imgur.com/970zAEn.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
       },
       {
         "name": "La Voz de Jesus HD (720p)",
@@ -1245,7 +1224,7 @@
       },
       {
         "name": "SBN TV (720p)",
-        "logo": "https://i.imgur.com/tspT2dF.png",
+        "logo": "https://i.imgur.com/XLGIz2O.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8"
@@ -3601,6 +3580,13 @@
         "url": "https://cafetradehls.wns.live/hls/stream.m3u8"
       },
       {
+        "name": "CNBC (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://41.205.93.154/CNBC/index.m3u8"
+      },
+      {
         "name": "EntrepreneurTV (720p)",
         "logo": "https://i.imgur.com/isRfHYZ.png",
         "group": "Business",
@@ -3636,27 +3622,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://30a-tv.com/ln.m3u8"
-      },
-      {
-        "name": "ABC 2 Baltimore MD (WMAR) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8"
-      },
-      {
-        "name": "ABC 9 Orlando FL (WFTV) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "ABC 27 Tallahassee FL (WTXL) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8"
       },
       {
         "name": "ABC (WPLG-DT1) Miami FL (720p)",
@@ -3734,13 +3699,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8"
-      },
-      {
-        "name": "ABC WWAY 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8"
       },
       {
         "name": "Alhurra Iraq (720p)",
@@ -3946,27 +3904,6 @@
         "url": "https://iranefardalive.com/stream/live.m3u8"
       },
       {
-        "name": "KPVM Newsmax 2",
-        "logo": "https://i.imgur.com/iE1izWq.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8"
-      },
-      {
-        "name": "KPVM OAN Plus",
-        "logo": "https://i.imgur.com/T9VhMAD.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8"
-      },
-      {
-        "name": "KPVM Real America's Voice",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8"
-      },
-      {
         "name": "Lindell TV (720p)",
         "logo": "https://ml.globenewswire.com/Resource/Download/93a3878f-0cee-4b51-b851-bd519049af8d",
         "group": "News",
@@ -3986,20 +3923,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://cdn.haititivi.com/MSNBC/index.m3u8"
-      },
-      {
-        "name": "NBC 8 Lancaster PA (WGAL) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8"
-      },
-      {
-        "name": "NBC 12 Winston-Salem NC (WXII) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8"
       },
       {
         "name": "NBC News NOW (1080p)",
@@ -4101,7 +4024,7 @@
       },
       {
         "name": "Newsmax 2 (1080p)",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/960px-This_TV_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
@@ -4147,6 +4070,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
+      },
+      {
+        "name": "OAN Plus KPVM-LD",
+        "logo": "https://i.imgur.com/T9VhMAD.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8"
       },
       {
         "name": "OANPlus (1080p)",
@@ -4261,32 +4191,11 @@
         "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8"
       },
       {
-        "name": "WGGS-DT2 (720p)",
-        "logo": "https://i.imgur.com/UfN6aAi.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8"
-      },
-      {
-        "name": "WJBK-DT1 (1080p)",
-        "logo": "https://i.imgur.com/EL9Bwtf.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
-      },
-      {
         "name": "WSOC Now (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/tUb1mdc.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8"
-      },
-      {
-        "name": "WTMO-CD 31.1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8"
       },
       {
         "name": "Zoom TV Kurdish (720p)",
@@ -4336,7 +4245,7 @@
       },
       {
         "name": "Biz TV (1080p)",
-        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/960px-As_seen_on_TV.svg.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
@@ -4449,6 +4358,13 @@
         "url": "https://30a-tv.com/music.m3u8"
       },
       {
+        "name": "ACE Country Radio KPVM-LD",
+        "logo": "https://i.imgur.com/iPtuku6.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
+      },
+      {
         "name": "Avang TV (1080p)",
         "logo": "https://i.imgur.com/3I1n7fO.png",
         "group": "Music",
@@ -4485,7 +4401,7 @@
       },
       {
         "name": "CMC-USA Country Music Channel (720p)",
-        "logo": "https://i.imgur.com/QsANRSu.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
@@ -4545,13 +4461,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
-      },
-      {
-        "name": "KPVM Ace Country Radio",
-        "logo": "https://i.imgur.com/iPtuku6.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
       },
       {
         "name": "La Que Buena Atlanta",
@@ -6986,7 +6895,7 @@
       },
       {
         "name": "Laff (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://tvsen7.aynascope.net/laff/index.m3u8"
@@ -7352,7 +7261,7 @@
       },
       {
         "name": "Bark TV (1080p)",
-        "logo": "https://images.squarespace-cdn.com/content/v1/6a233007201fda6808a47ff9/f4f45cba-d340-4963-860a-37edaf91bc7f/BarkTV_Horizontal_Color.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8"
@@ -7408,7 +7317,7 @@
       },
       {
         "name": "Buzzr (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/0mk7F5ao.png/revision/latest/scale-to-width-down/512",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8"
@@ -7457,7 +7366,7 @@
       },
       {
         "name": "Comet (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8"
@@ -7583,7 +7492,7 @@
       },
       {
         "name": "Game Show Central (720p)",
-        "logo": "https://i.imgur.com/Uuc5h1s.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8"
@@ -7604,7 +7513,7 @@
       },
       {
         "name": "Great Entertainment Television (720p)",
-        "logo": "https://i.imgur.com/evOWORd.png",
+        "logo": "https://i.imgur.com/ocs2DeU.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8"
@@ -7618,14 +7527,14 @@
       },
       {
         "name": "Heartland (720p)",
-        "logo": "https://i.imgur.com/djCq2Z5.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8"
       },
       {
         "name": "Heartland",
-        "logo": "https://i.imgur.com/djCq2Z5.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8"
@@ -7653,14 +7562,14 @@
       },
       {
         "name": "ION (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
+        "logo": "https://i.imgur.com/ocs2DeU.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8"
       },
       {
         "name": "ION Plus (1080p)",
-        "logo": "https://i.imgur.com/1dgCvNE.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8"
@@ -7673,32 +7582,11 @@
         "url": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8"
       },
       {
-        "name": "KCKS-LD 25.3 (720p)",
-        "logo": "https://i.imgur.com/KtXQeeZ.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8"
-      },
-      {
-        "name": "KFTR-DT1 [Geo-blocked]",
-        "logo": "https://i.imgur.com/e3Z2wzG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
-      },
-      {
         "name": "KMCT-TV 39.1",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/KMCT_Monroe%27s_Christian_Television_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8"
-      },
-      {
-        "name": "KQED-DT2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8"
       },
       {
         "name": "KRGV-DT2 [Geo-blocked]",
@@ -7708,20 +7596,6 @@
         "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8"
       },
       {
-        "name": "KVIE-DT2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8"
-      },
-      {
-        "name": "KVVB-TV 33 Victor Valley (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/IXC8PXf.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
-      },
-      {
         "name": "LATV (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/fJxySUg.png",
         "group": "Entertainment",
@@ -7729,11 +7603,11 @@
         "url": "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8"
       },
       {
-        "name": "Lifetime (576p)",
+        "name": "Lifetime (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
+        "url": "http://41.205.93.154/LIFETIME/index.m3u8"
       },
       {
         "name": "Live Music",
@@ -7765,7 +7639,7 @@
       },
       {
         "name": "MeTV (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+        "logo": "https://play-lh.googleusercontent.com/PO0C2_-FdOtMVn1rw_Q0_iystfcf6Ab8h1Q37P8fEgSLuAkQJBCI9kax_FIkUgXppgs4",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8"
@@ -7813,13 +7687,6 @@
         "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8"
       },
       {
-        "name": "myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
-      },
-      {
         "name": "NBC Universo (720p)",
         "logo": "https://i.imgur.com/RZ8pIKe.png",
         "group": "Entertainment",
@@ -7856,7 +7723,7 @@
       },
       {
         "name": "Oxygen (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
+        "logo": "https://i.imgur.com/GPoucaV.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://198.58.104.90:8989/oxygen/index.m3u8"
@@ -7898,7 +7765,7 @@
       },
       {
         "name": "Roar (1080p)",
-        "logo": "https://iili.io/FxYNwOB.md.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8"
@@ -8082,28 +7949,28 @@
       },
       {
         "name": "HSN (720p)",
-        "logo": "https://i.imgur.com/rnZN7rD.png",
+        "logo": "https://m.media-amazon.com/images/I/419RyCp4+WL.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8"
       },
       {
         "name": "HSN2 (720p)",
-        "logo": "https://i.imgur.com/R6oC2A3.png",
+        "logo": "https://i.imgur.com/qCJ9Poe.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8"
       },
       {
         "name": "HSN West (720p)",
-        "logo": "https://i.imgur.com/rnZN7rD.png",
+        "logo": "https://m.media-amazon.com/images/I/419RyCp4+WL.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8"
       },
       {
         "name": "Jewelry Television (720p)",
-        "logo": "https://i.imgur.com/mBcwks7.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8"
@@ -8124,14 +7991,14 @@
       },
       {
         "name": "QVC (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png",
+        "logo": "https://play-lh.googleusercontent.com/58IEgCECrId5YdLMZWL9ohHzyZCY1lNduLVxK9QF1P5EZuSIJScTWEMaw2efd88zMkc",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
       },
       {
         "name": "QVC 2 (720p)",
-        "logo": "https://i.imgur.com/NxbDjfI.png",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest/scale-to-width-down/512",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
@@ -8145,7 +8012,7 @@
       },
       {
         "name": "Shop LC (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd"
@@ -8779,7 +8646,7 @@
       },
       {
         "name": "True Crime Network+ (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
@@ -9289,17 +9156,10 @@
       },
       {
         "name": "FNX (1080p)",
-        "logo": "https://i.imgur.com/wcVntg7.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fnx.lls.pbs.org/index.m3u8"
-      },
-      {
-        "name": "FNX [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+        "url": "https://fnx.lls.pbs.org/index.m3u8"
       },
       {
         "name": "Fox Soul (1080p)",
@@ -9402,109 +9262,11 @@
         "url": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8"
       },
       {
-        "name": "ABC 2 Portland OR (KATU) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 4 Seattle WA (KOMO) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KOMO-TV_(2021).svg/960px-KOMO-TV_(2021).svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8"
-      },
-      {
-        "name": "ABC 5 Boston MA (WCVB) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/WCVB-TV_alternate_2021.svg",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
-      },
-      {
-        "name": "ABC 5 St. Paul MN (KSTP) (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "ABC 6 Austin TX (KAAL) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "ABC 7 Albuquerque NM (KOAT) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8"
-      },
-      {
-        "name": "ABC 7 Denver CO (KMGH) (720p)",
-        "logo": "https://i.imgur.com/MWvoICD.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-      },
-      {
-        "name": "ABC 9 Tucson AZ (KGUN) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8"
-      },
-      {
-        "name": "ABC 10 San Diego CA (KGTV) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8"
-      },
-      {
-        "name": "ABC 12 Milwaukee WI (WISN) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8"
-      },
-      {
-        "name": "ABC 13 Las Vegas NV (KTNV) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/960px-KTNV_2023.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
-      },
-      {
         "name": "ABC 15 Phoenix AZ (KNXV) (720p)",
         "logo": "https://i.imgur.com/43s7KXt.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8"
-      },
-      {
-        "name": "ABC 23 Bakersfield CA (KERO) (720p)",
-        "logo": "https://i.imgur.com/CMANZWk.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8"
-      },
-      {
-        "name": "ABC 25 News Central Texas (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8"
       },
       {
         "name": "ABC West (720p)",
@@ -9711,7 +9473,7 @@
       },
       {
         "name": "Binge",
-        "logo": "https://i.imgur.com/kEETRln.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Azteca_America_2011_logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8"
@@ -9788,52 +9550,10 @@
       },
       {
         "name": "CBS (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://stream.cammonitorplus.net/1783/index.m3u8"
-      },
-      {
-        "name": "CBS 2 Salt Lake City UT (KUTV) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "CBS 3 Omaha NE (KMTV) (720p)",
-        "logo": "https://i.imgur.com/E4PkyqN.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8"
-      },
-      {
-        "name": "CBS 4 El Paso TX (KDBC) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "CBS 8 Des Moines IA (KCCI) (720p)",
-        "logo": "https://i.imgur.com/6xjshQj.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8"
-      },
-      {
-        "name": "CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8"
-      },
-      {
-        "name": "CBS 42 Austin TX (KEYE) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8"
       },
       {
         "name": "CCX1 (1080p)",
@@ -9921,7 +9641,7 @@
       },
       {
         "name": "CW (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8"
@@ -9984,49 +9704,14 @@
       },
       {
         "name": "Fox (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8"
       },
       {
-        "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
-      },
-      {
-        "name": "FOX 13 Seattle WA (KCPQ) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
-      },
-      {
-        "name": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",
-        "logo": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8"
-      },
-      {
-        "name": "FOX 25 Oklahoma City OK (KOKH) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "FOX 26 Visalia CA (KMPH) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8"
-      },
-      {
         "name": "Fox West (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://stream.cammonitorplus.net/1799/index.m3u8"
@@ -10109,130 +9794,11 @@
         "url": "https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8"
       },
       {
-        "name": "KATC 3.1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://stream.cammonitorplus.net/1753/index.m3u8"
-      },
-      {
-        "name": "KDFW-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
-      },
-      {
-        "name": "KIRO-DT1 (1080p)",
-        "logo": "https://i.imgur.com/suvT0TN.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "KITV 4 Island News (720p)",
-        "logo": "https://i.imgur.com/pj0O5nu.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8"
-      },
-      {
-        "name": "KMEX-DT1 [Geo-blocked]",
-        "logo": "https://i.imgur.com/D65iNay.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
-      },
-      {
-        "name": "KNTV-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
-      },
-      {
-        "name": "KOKI-DT1 (1080p)",
-        "logo": "https://i.imgur.com/pRKEMb1.jpg",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
-      },
-      {
         "name": "KPVM Prime TV25",
         "logo": "https://i.imgur.com/dGoQ88j.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8"
-      },
-      {
-        "name": "KRCA-TV Estrella Los Angeles (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
-      },
-      {
-        "name": "KRIS-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8"
-      },
-      {
-        "name": "KRIV-DT1 (1080p)",
-        "logo": "https://i.imgur.com/AZ8MWRp.jpg",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8"
-      },
-      {
-        "name": "KSAZ-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/960px-Fts-phoenix-a.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
-      },
-      {
-        "name": "KSHB 41 (Kansas City MO) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8"
-      },
-      {
-        "name": "KTBC-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fts-austin-a.svg/960px-Fts-austin-a.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8"
-      },
-      {
-        "name": "KTTV-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
-      },
-      {
-        "name": "KUVN-DT1",
-        "logo": "https://i.imgur.com/PGJOFD4.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8"
-      },
-      {
-        "name": "KXAS-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KXAS_2023.svg/960px-KXAS_2023.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL"
-      },
-      {
-        "name": "KZTV-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8"
       },
       {
         "name": "Lakewood CityTV (720p)",
@@ -10369,52 +9935,17 @@
       },
       {
         "name": "NBC (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8"
       },
       {
-        "name": "NBC 3 Las Vegas NV (KSNV) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/KSNV_logo.svg/960px-KSNV_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "NBC 3 Sacramento CA (KCRA) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8"
-      },
-      {
-        "name": "NBC 6 Santa Barbara CA (KSBY) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8"
-      },
-      {
-        "name": "NBC 8 Salinas CA (KSBW) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8"
-      },
-      {
         "name": "NBC West (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://stream.cammonitorplus.net/1800/index.m3u8"
-      },
-      {
-        "name": "NBC West (San Diego) (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
       },
       {
         "name": "NCM Main Channel",
@@ -10432,14 +9963,14 @@
       },
       {
         "name": "NTD TV (1080p)",
-        "logo": "https://i.imgur.com/QtFM5Oo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8"
       },
       {
         "name": "NTD TV West (720p)",
-        "logo": "https://i.imgur.com/QtFM5Oo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://ntd02.akamaized.net/HD-LA/index.m3u8"
@@ -10670,7 +10201,7 @@
       },
       {
         "name": "Telemundo (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+        "logo": "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela-thumbnail.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8"
@@ -10684,21 +10215,21 @@
       },
       {
         "name": "Telemundo East HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+        "logo": "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela-thumbnail.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://45.190.13.8/TelemundoHD/index.m3u8"
       },
       {
         "name": "Telemundo West (2160p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+        "logo": "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela-thumbnail.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://168.228.44.241:9997/play/a07g/index.m3u8"
       },
       {
         "name": "Telemundo West HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+        "logo": "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela-thumbnail.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://streamer.metronethn.com/Telemundo/index.m3u8"
@@ -10837,13 +10368,6 @@
         "url": "https://cdn.whiplash.cc/whiplash-2/index.m3u8"
       },
       {
-        "name": "WHPS Detroit",
-        "logo": "https://i.imgur.com/KW1iQ5W.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8"
-      },
-      {
         "name": "WITN 22 (Wilmington DE) (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/Esu8PyB.png",
         "group": "General",
@@ -10856,1158 +10380,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8"
-      }
-    ],
-    "Undefined": [
-      {
-        "name": "ABC 4 Charleston SC (WCIV) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 6 Columbus OH (WSYX) (1080p)",
-        "logo": "https://i.imgur.com/Lv6HuCT.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 7 Washington DC (WJLA) (1080p)",
-        "logo": "https://i.imgur.com/NfqhdBC.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 10 Duluth MN (WDIO) (1080p)",
-        "logo": "https://i.imgur.com/ZQ5uRhr.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "ABC 13 Asheville NC (WLOS) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 15 Myrtle Beach FL (WPDE) (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC 22 Dayton OH (WKEF) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Atlanta's 57 WATC TOO 57.2 (720p)",
-        "logo": "https://i.imgur.com/RAfuLul.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8"
-      },
-      {
-        "name": "Beverly Hills Television 10 (720p)",
-        "logo": "https://i.imgur.com/NRrJ6xb.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8"
-      },
-      {
-        "name": "Beverly Hills Television 35 (720p)",
-        "logo": "https://i.imgur.com/3Gqc5f2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8"
-      },
-      {
-        "name": "Big Ten Network (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8"
-      },
-      {
-        "name": "Bounce (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8"
-      },
-      {
-        "name": "Bravo (720p)",
-        "logo": "https://i.imgur.com/JmTIRLF.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.205.93.154/BRAVO/index.m3u8"
-      },
-      {
-        "name": "BYUtv (1080p)",
-        "logo": "https://i.imgur.com/mruGyuu.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8"
-      },
-      {
-        "name": "Calabasas Channel (480p)",
-        "logo": "https://i.imgur.com/N5uiIJo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8"
-      },
-      {
-        "name": "CBS 3 Kalamazoo MI (WWMT) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "CBS 6 Richmond VA (WTVR) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8"
-      },
-      {
-        "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "CBS 12 West Palm Beach FL (WPEC) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "CBS 22 South Bend IN (WSBT) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Celebrity Scene TV (720p)",
-        "logo": "https://i.imgur.com/n36jriB.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8"
-      },
-      {
-        "name": "Charlotte County CC-TV (Charlotte County FA) (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Cinemax Latino (480p)",
-        "logo": "https://i.imgur.com/GfsmfGK.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streamer.metronethn.com/Cinemax/index.m3u8"
-      },
-      {
-        "name": "CoastTV NBC (WRDE-LD) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live.field59.com/wrde/wrde1/playlist.m3u8"
-      },
-      {
-        "name": "Crímenes imperfectos",
-        "logo": "https://i.imgur.com/kzUrWR5.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8"
-      },
-      {
-        "name": "CSI en Español",
-        "logo": "https://i.imgur.com/ifarQil.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8"
-      },
-      {
-        "name": "Dungeon TV (720p)",
-        "logo": "https://i.imgur.com/cwazXHb.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226"
-      },
-      {
-        "name": "El Reino Infantil",
-        "logo": "https://i.imgur.com/u7DOoBK.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
-      },
-      {
-        "name": "Extrema TV (720p)",
-        "logo": "https://i.imgur.com/Z1QVkqu.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8"
-      },
-      {
-        "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
-      },
-      {
-        "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Gilroy CMAP TV Channel 19 (720p)",
-        "logo": "https://i.imgur.com/wlYUEYc.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Homeful (1080p)",
-        "logo": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "Lakewood Channel 8 (Lakewood CO) (720p)",
-        "logo": "https://i.imgur.com/5ibsRhM.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
-      },
-      {
-        "name": "Lompoc TAP TV Channel 23 (720p)",
-        "logo": "https://i.imgur.com/5mhYHtD.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Los nuevos detectives",
-        "logo": "https://i.imgur.com/Iru8tqj.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
-      },
-      {
-        "name": "Love Nature en Espanol (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/7uNdcWB.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8"
-      },
-      {
-        "name": "Midpen Media Center Government etc Channel 26 (720p)",
-        "logo": "https://i.imgur.com/aX1GkCD.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
-      },
-      {
-        "name": "MotorTrend FAST TV (720p)",
-        "logo": "https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8"
-      },
-      {
-        "name": "MTC TV",
-        "logo": "https://i.imgur.com/JxoAR4j.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://mtchls.wns.live/hls/stream.m3u8"
-      },
-      {
-        "name": "NBC 4 Milwaukee WI (WTMJ) (720p)",
-        "logo": "https://i.imgur.com/HC85eBq.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8"
-      },
-      {
-        "name": "NBC 4 San Antonio TX (WOAI) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "NBC 5 Chicago Live News (1080p)",
-        "logo": "https://i.imgur.com/wblxisu.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI"
-      },
-      {
-        "name": "NBC 6 Johnstown PA (WJAC) (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
-      },
-      {
-        "name": "NBC 9 Steubenville OH (WTOV) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "NBC 10 Providence MA (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/960px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8"
-      },
-      {
-        "name": "NBC 10 Rochester NY (WHEC) (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "NBC 11 Baltimore MD (WBAL) (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8"
-      },
-      {
-        "name": "NBC 13 Albany NY (WNYT) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "NBC 26 Green Bay WI (WGBA) (720p)",
-        "logo": "https://i.imgur.com/bzgfmRL.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8"
-      },
-      {
-        "name": "PBS KET KY (480p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
-      },
-      {
-        "name": "PBS KET World (480p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
-      },
-      {
-        "name": "PBS MPT Baltimore MD (WMPB) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"
-      },
-      {
-        "name": "PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8"
-      },
-      {
-        "name": "PixL TV",
-        "logo": "https://i.imgur.com/ysRh3Nl.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
-      },
-      {
-        "name": "Pomona Internet Streaming Channel (Pomona CA) (720p)",
-        "logo": "https://i.imgur.com/80gaUbq.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8"
-      },
-      {
-        "name": "Portlandia (720p)",
-        "logo": "https://i.imgur.com/I4KDvu9.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8"
-      },
-      {
-        "name": "Pursuit Channel (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai World Premium (1080p)",
-        "logo": "https://i.imgur.com/tDuKkh3.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
-      },
-      {
-        "name": "Rainbow Ruby (720p)",
-        "logo": "https://i.imgur.com/eHNU2OQ.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dt9mwqwe98q7o.cloudfront.net/master.m3u8"
-      },
-      {
-        "name": "Real America's Voice (1080p)",
-        "logo": "https://i.imgur.com/l7tmTjX.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8"
-      },
-      {
-        "name": "Real Wild (1080p)",
-        "logo": "https://i.imgur.com/T9HHmAO.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Rev and Roll (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8"
-      },
-      {
-        "name": "Revolt (720p)",
-        "logo": "https://i.imgur.com/eaYnGpH.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8"
-      },
-      {
-        "name": "RFD-TV",
-        "logo": "https://i.imgur.com/FcT3beY.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8"
-      },
-      {
-        "name": "Rifle Community TV RCTV (Rifle CO) (720p)",
-        "logo": "https://i.imgur.com/DWwequ0.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "RTN",
-        "logo": "https://i.imgur.com/jjUzuLV.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
-      },
-      {
-        "name": "RVTV (1080p)",
-        "logo": "https://i.imgur.com/pBBb0wx.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8"
-      },
-      {
-        "name": "Samsung Wild Life (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/x06npU2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8"
-      },
-      {
-        "name": "Scientology Network (1080p)",
-        "logo": "https://i.imgur.com/HOYF8NA.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream6.scientology.org/master.m3u8"
-      },
-      {
-        "name": "Scientology Network KSCN-DT1",
-        "logo": "https://i.imgur.com/HFmkjiR.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream-losangeles.scientology.org/master.m3u8"
-      },
-      {
-        "name": "Scientology Network WFTT-DT1",
-        "logo": "https://i.imgur.com/HFmkjiR.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream-tampa.scientology.org/master.m3u8"
-      },
-      {
-        "name": "SEC Network (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8"
-      },
-      {
-        "name": "Semillitas TV (576p)",
-        "logo": "https://i.imgur.com/u3yujUd.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://45.5.117.99:8000/play/a0g3/index.m3u8"
-      },
-      {
-        "name": "Shemaroo Bollywood (1080p)",
-        "logo": "https://i.imgur.com/TFxLj80.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
-      },
-      {
-        "name": "SLO County Channel 21 (360p)",
-        "logo": "https://i.imgur.com/CyQ472C.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8"
-      },
-      {
-        "name": "Sony KAL Hindi (1080p)",
-        "logo": "https://i.imgur.com/9Qq8DKh.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8"
-      },
-      {
-        "name": "Starz (1080p)",
-        "logo": "https://i.imgur.com/N7oSm4d.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8"
-      },
-      {
-        "name": "Starz Edge (720p)",
-        "logo": "https://i.imgur.com/MvH3Cz2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://168.228.44.241:9998/play/a0e0/index.m3u8"
-      },
-      {
-        "name": "Starz Encore Spanish (720p)",
-        "logo": "https://i.imgur.com/5aibRWY.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://168.228.44.241:9998/play/a0e1/index.m3u8"
-      },
-      {
-        "name": "Story Television",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8"
-      },
-      {
-        "name": "SuperChannel Orlando (WACX-DT1) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/960px-WACX_logo_2021.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8"
-      },
-      {
-        "name": "Taiwan Plus TV (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
-      },
-      {
-        "name": "Tapesh 2",
-        "logo": "https://i.imgur.com/q0rCXDs.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://maxtvhls.wns.live/hls/stream.m3u8"
-      },
-      {
-        "name": "TBN Armenia",
-        "logo": "https://i.imgur.com/U5XsT3j.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
-      },
-      {
-        "name": "TBN Pacific",
-        "logo": "https://i.imgur.com/yWJTxKk.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8"
-      },
-      {
-        "name": "TBN Україна (720p)",
-        "logo": "https://i.imgur.com/PhbrGyM.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8"
-      },
-      {
-        "name": "TCT (1080p)",
-        "logo": "https://i.imgur.com/J5iRMgi.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8"
-      },
-      {
-        "name": "TED (1080p)",
-        "logo": "https://i.imgur.com/KeIhwNP.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8"
-      },
-      {
-        "name": "Temecula TV (Temecula CA) (1080p)",
-        "logo": "https://i.imgur.com/El16S4C.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8"
-      },
-      {
-        "name": "Tempe Channel 11",
-        "logo": "https://i.imgur.com/KMeHRV3.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8"
-      },
-      {
-        "name": "The Hill TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/Ioh5xbx.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "The Walk TV",
-        "logo": "https://i.imgur.com/p3RAxjp.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8"
-      },
-      {
-        "name": "The Walking Dead en español (720p)",
-        "logo": "https://i.imgur.com/h17lAxc.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8"
-      },
-      {
-        "name": "Tribeca Channel (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/JCpFAll.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "True Crime Now (1080p)",
-        "logo": "https://i.imgur.com/Y6Hix17.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "True History (720p)",
-        "logo": "https://i.imgur.com/1BHDGXx.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "TSTV (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflector.watchtstv.com/hls/livestream.m3u8"
-      },
-      {
-        "name": "TUDN (1080p)",
-        "logo": "https://i.imgur.com/oT5CAvd.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://45.190.13.8/TUDNHD/index.m3u8"
-      },
-      {
-        "name": "TVE Internacional America (1080p)",
-        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8"
-      },
-      {
-        "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
-        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
-      },
-      {
-        "name": "UniMas Central (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://190.197.41.183/Unimas/mono.m3u8"
-      },
-      {
-        "name": "UniMas Mountain (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://168.228.44.241:9997/play/a09e/index.m3u8"
-      },
-      {
-        "name": "Univision (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://190.197.41.183/Univision/index.m3u8"
-      },
-      {
-        "name": "Univision East HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://45.190.13.8/UnivisionHD/index.m3u8"
-      },
-      {
-        "name": "VICE TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8"
-      },
-      {
-        "name": "VSiN (720p)",
-        "logo": "https://i.imgur.com/C4wIRxg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8"
-      },
-      {
-        "name": "WATC TV57 (1080p)",
-        "logo": "https://i.imgur.com/FhIRe7O.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8"
-      },
-      {
-        "name": "WBBJ (Jackson TN) (432p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
-      },
-      {
-        "name": "WBTS-CD1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/960px-WBTS-LD_NBC_10_Boston_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS"
-      },
-      {
-        "name": "WBTV News (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
-      },
-      {
-        "name": "WCAU-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/960px-WCAUlogo2.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI"
-      },
-      {
-        "name": "WCBI (Columbus MI) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8"
-      },
-      {
-        "name": "WDEF-TV News Chattanooga TN (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/WDEF_2015.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8"
-      },
-      {
-        "name": "WEDQ-DT4 (1080p)",
-        "logo": "https://i.imgur.com/FfEebzW.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8"
-      },
-      {
-        "name": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
-        "logo": "https://i.imgur.com/p3L2vSL.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
-      },
-      {
-        "name": "WFLD-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
-      },
-      {
-        "name": "WFTX News Fort Myers FL (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
-      },
-      {
-        "name": "WFUT-DT1 (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8"
-      },
-      {
-        "name": "WFXT-DT2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8"
-      },
-      {
-        "name": "WGBO-DT 66.1 (2160p)",
-        "logo": "https://i.imgur.com/5RIEi99.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null"
-      },
-      {
-        "name": "WGGS-TV 16.1",
-        "logo": "https://i.imgur.com/Btw83JA.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8"
-      },
-      {
-        "name": "WGTV-DT3 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8"
-      },
-      {
-        "name": "WHBQ-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/WHBQ_%282015%29.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "WHIO-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "White Plains Community Media (360p)",
-        "logo": "https://i.imgur.com/XGQfBbW.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
-      },
-      {
-        "name": "Window TV (720p)",
-        "logo": "https://whiplash.cc/assets/img/channels/windowtv.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8"
-      },
-      {
-        "name": "Wine Watches Whiskey (1080p)",
-        "logo": "https://i.imgur.com/MN89dfS.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8"
-      },
-      {
-        "name": "Wired2Fish (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/zAtt7oq.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "WITI-DT1 (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8"
-      },
-      {
-        "name": "WJAX-DT1 (1080p)",
-        "logo": "https://i.imgur.com/TBjVU9L.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "WJXT News4JAX (Jacksonville FL) (720p)",
-        "logo": "https://i.imgur.com/mrWo0P1.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
-      },
-      {
-        "name": "WLNG Radio (410p) [Not 24/7]",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
-      },
-      {
-        "name": "WLTV-DT 23.1 (720p)",
-        "logo": "https://i.imgur.com/Sr3EoK5.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://168.228.44.241:9997/play/a09d/index.m3u8"
-      },
-      {
-        "name": "WMBC-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/WMBC_logo.jpg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8"
-      },
-      {
-        "name": "WMGT-TV News (Macon GA) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8"
-      },
-      {
-        "name": "WMPT-DT2 (PBS Create)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8"
-      },
-      {
-        "name": "WNBC-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/960px-WNBC_4_NY.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY"
-      },
-      {
-        "name": "WNYW-DT1 (1080p)",
-        "logo": "https://i.imgur.com/zZd9Tkt.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
-      },
-      {
-        "name": "Women's Sports Network (1080p)",
-        "logo": "https://i.imgur.com/rhIwUcQ.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8"
-      },
-      {
-        "name": "World Harvest TV (360p)",
-        "logo": "https://i.imgur.com/xtbkDDN.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
-      },
-      {
-        "name": "WPIX-HD (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tvsen6.aynaott.com/pix11/index.m3u8"
-      },
-      {
-        "name": "WPTV News West Palm Beach FL (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
-      },
-      {
-        "name": "WPXI-DT1 (1080p)",
-        "logo": "https://i.imgur.com/MNSBpDW.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "WSBS-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8"
-      },
-      {
-        "name": "WSLF-LD 35.1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8"
-      },
-      {
-        "name": "WSOC-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "WTNH-DT1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw=="
-      },
-      {
-        "name": "WTTG-DT1 (1080p)",
-        "logo": "https://i.imgur.com/ktLKla7.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
-      },
-      {
-        "name": "WTVJ-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WTVJ_2023.svg/960px-WTVJ_2023.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8"
-      },
-      {
-        "name": "WTVQ ABC 36 News (Lexington KY) (720p)",
-        "logo": "https://i.imgur.com/XIoBeja.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8"
-      },
-      {
-        "name": "WTVT-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
-      },
-      {
-        "name": "WTXF-DT1 (1080p)",
-        "logo": "https://i.imgur.com/fRjmk5r.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
-      },
-      {
-        "name": "WVIT-DT1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/960px-WVIT_Logo_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT"
-      },
-      {
-        "name": "WVVH-CD 18.1 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/WVVH-CD_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
-      },
-      {
-        "name": "WWOR-DT1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
-      },
-      {
-        "name": "WXTV-DT1",
-        "logo": "https://i.imgur.com/Q7xrM2w.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
-      },
-      {
-        "name": "WXXV-TV News (Biloxi MS) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
-      },
-      {
-        "name": "Yes Network (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8"
-      },
-      {
-        "name": "Yu-Gi-Oh! en espanol (1080p)",
-        "logo": "https://i.imgur.com/VH8RiHg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8"
-      }
-    ],
-    "News;Weather": [
-      {
-        "name": "ABC 9 Manchester NH (WMUR-TV) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/72/WMURCurrentLogo.png",
-        "group": "News;Weather",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8"
-      },
-      {
-        "name": "WBRZ Weather Channel Baton Rouge LA (480p)",
-        "logo": "https://i.imgur.com/n057TgX.png",
-        "group": "News;Weather",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8"
       }
     ],
     "Movies;Religious": [
@@ -12868,7 +11240,7 @@
     "Family": [
       {
         "name": "AMG TV (1080p)",
-        "logo": "https://i.imgur.com/m5Anun9.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
@@ -12896,7 +11268,7 @@
       },
       {
         "name": "Positiv TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png",
+        "logo": "https://i.imgur.com/WYM3tj8.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8"
@@ -12960,13 +11332,6 @@
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-      },
-      {
-        "name": "Blues TV",
-        "logo": "https://i.imgur.com/px0CSti.png",
-        "group": "Animation",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
       },
       {
         "name": "Crunchyroll (720p)",
@@ -13046,274 +11411,6 @@
         "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8"
       }
     ],
-    "Education": [
-      {
-        "name": "Arkansas PBS [Geo-blocked]",
-        "logo": "https://i.imgur.com/dNBZLtD.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8"
-      },
-      {
-        "name": "BATV Educational Channel",
-        "logo": "https://i.imgur.com/eDoJqtg.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",
-        "logo": "https://i.imgur.com/tUgEAUJ.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8"
-      },
-      {
-        "name": "BUTV10 (Boston University) (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Iv1Fe67.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8"
-      },
-      {
-        "name": "Cloudflare TV (720p)",
-        "logo": "https://i.imgur.com/l4m0is8.jpeg",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cloudflare.tv/hls/live.m3u8"
-      },
-      {
-        "name": "Create (1080p)",
-        "logo": "https://i.imgur.com/OIJTECP.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://create.lls.pbs.org/index.m3u8"
-      },
-      {
-        "name": "CreaTV Classrooms Channel 28 (San Jose CA) (720p)",
-        "logo": "https://i.imgur.com/rvQdzL1.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
-      },
-      {
-        "name": "DC.gov DKN (Washington DC) (1080p)",
-        "logo": "https://i.imgur.com/DIau0GB.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://video.oct.dc.gov/out/u/DKN.m3u8"
-      },
-      {
-        "name": "Detroit Channel 22",
-        "logo": "https://i.imgur.com/zAdcg9m.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8"
-      },
-      {
-        "name": "Fresno CMAC 2 Education Channel (720p)",
-        "logo": "https://i.imgur.com/O0sYOED.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
-      },
-      {
-        "name": "Gillette Public Access Television Channel 189",
-        "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8"
-      },
-      {
-        "name": "Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/AYzdlMz.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
-      },
-      {
-        "name": "HCTV Educational Access Channel",
-        "logo": "https://i.imgur.com/bVbpgiD.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8"
-      },
-      {
-        "name": "KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",
-        "logo": "https://i.imgur.com/YFVrphZ.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8"
-      },
-      {
-        "name": "KCAT Public Media TV (1080p)",
-        "logo": "https://i.imgur.com/ZAypRkk.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
-      },
-      {
-        "name": "Leominster TV Educational (720p)",
-        "logo": "https://i.imgur.com/Cy94oLl.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Los Angeles Local Television Channel 36 (1080p)",
-        "logo": "https://i.imgur.com/JxTzUEq.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
-      },
-      {
-        "name": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
-        "logo": "https://i.imgur.com/x0lJqSp.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
-      },
-      {
-        "name": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
-        "logo": "https://i.imgur.com/RPJiolQ.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-      },
-      {
-        "name": "Mobile County Public Schools TV Network (MCPSS)",
-        "logo": "https://i.imgur.com/qo5sk1g.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
-      },
-      {
-        "name": "Monroe Community Media Education Channel",
-        "logo": "https://i.imgur.com/gS4x0uX.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8"
-      },
-      {
-        "name": "Nashua ETV Channel 22 Nashua NH (720p)",
-        "logo": "https://i.imgur.com/iv9Vfcb.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Natick Education Channel (720p)",
-        "logo": "https://i.imgur.com/VKU9qwy.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)",
-        "logo": "https://i.imgur.com/6C71KwP.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
-      },
-      {
-        "name": "Payam Javan TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/GYfsHh9.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-      },
-      {
-        "name": "PBS Honolulu HI (KHET) (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/O5uOeQh.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8"
-      },
-      {
-        "name": "PBS KET Louisville KY (WKMJ-TV) (720p)",
-        "logo": "https://i.imgur.com/U9HFzJk.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-      },
-      {
-        "name": "PBS Lincoln NE (KUON) (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/sfwIILW.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8"
-      },
-      {
-        "name": "PBS National East (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
-      },
-      {
-        "name": "PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
-      },
-      {
-        "name": "Poudre School District TV (PSD TV) (Fort Collins CO) (720p)",
-        "logo": "https://i.imgur.com/djT0Q8q.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
-      },
-      {
-        "name": "Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ICcQUCH.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
-      },
-      {
-        "name": "Santa Maria Community Television Education Channel (720p)",
-        "logo": "https://i.imgur.com/4Autljp.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "St Lucie Public Schools",
-        "logo": "https://i.imgur.com/wnB0fWG.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8"
-      },
-      {
-        "name": "TUTV (1080p)",
-        "logo": "https://i.imgur.com/At0BPeA.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      },
-      {
-        "name": "UCTV University of California (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ehMz9T5.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-      },
-      {
-        "name": "World Channel (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://world.lls.pbs.org/index.m3u8"
-      },
-      {
-        "name": "WPS TV (360p)",
-        "logo": "https://i.imgur.com/zwzmwse.jpg",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
-      }
-    ],
     "Classic;Movies": [
       {
         "name": "Artflix Movie Classics (720p)",
@@ -13337,6 +11434,659 @@
         "group": "General;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8"
+      }
+    ],
+    "Undefined": [
+      {
+        "name": "Atlanta's 57 WATC TOO 57.2 (720p)",
+        "logo": "https://i.imgur.com/RAfuLul.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8"
+      },
+      {
+        "name": "Beverly Hills Television 10 (720p)",
+        "logo": "https://i.imgur.com/NRrJ6xb.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8"
+      },
+      {
+        "name": "Beverly Hills Television 35 (720p)",
+        "logo": "https://i.imgur.com/3Gqc5f2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8"
+      },
+      {
+        "name": "Big Ten Network (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8"
+      },
+      {
+        "name": "Bounce (720p)",
+        "logo": "https://play-lh.googleusercontent.com/7sw8veBR7JtyzyaRHR2KHA_UoLL9sCb56zaLuPqYVbdQ88x2Ga2ZHgAz_Mfr-f2GVtk",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8"
+      },
+      {
+        "name": "Bravo (720p)",
+        "logo": "https://i.imgur.com/JmTIRLF.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://41.205.93.154/BRAVO/index.m3u8"
+      },
+      {
+        "name": "BYUtv (1080p)",
+        "logo": "https://i.imgur.com/mruGyuu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8"
+      },
+      {
+        "name": "Calabasas Channel (480p)",
+        "logo": "https://i.imgur.com/N5uiIJo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8"
+      },
+      {
+        "name": "Celebrity Scene TV (720p)",
+        "logo": "https://i.imgur.com/n36jriB.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8"
+      },
+      {
+        "name": "Charlotte County CC-TV (Charlotte County FA) (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Cinemax Latino (480p)",
+        "logo": "https://i.imgur.com/GfsmfGK.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://streamer.metronethn.com/Cinemax/index.m3u8"
+      },
+      {
+        "name": "Crímenes imperfectos",
+        "logo": "https://i.imgur.com/kzUrWR5.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8"
+      },
+      {
+        "name": "CSI en Español",
+        "logo": "https://i.imgur.com/ifarQil.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8"
+      },
+      {
+        "name": "Dungeon TV (720p)",
+        "logo": "https://i.imgur.com/cwazXHb.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226"
+      },
+      {
+        "name": "El Reino Infantil",
+        "logo": "https://i.imgur.com/u7DOoBK.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
+      },
+      {
+        "name": "Extrema TV (720p)",
+        "logo": "https://i.imgur.com/Z1QVkqu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8"
+      },
+      {
+        "name": "Gilroy CMAP TV Channel 19 (720p)",
+        "logo": "https://i.imgur.com/wlYUEYc.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Homeful (1080p)",
+        "logo": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8"
+      },
+      {
+        "name": "Lakewood Channel 8 (Lakewood CO) (720p)",
+        "logo": "https://i.imgur.com/5ibsRhM.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
+      },
+      {
+        "name": "Lompoc TAP TV Channel 23 (720p)",
+        "logo": "https://i.imgur.com/5mhYHtD.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Los nuevos detectives",
+        "logo": "https://i.imgur.com/Iru8tqj.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
+      },
+      {
+        "name": "Love Nature en Espanol (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/7uNdcWB.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8"
+      },
+      {
+        "name": "Midpen Media Center Government etc Channel 26 (720p)",
+        "logo": "https://i.imgur.com/aX1GkCD.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
+      },
+      {
+        "name": "MotorTrend FAST TV (720p)",
+        "logo": "https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8"
+      },
+      {
+        "name": "MTC TV",
+        "logo": "https://i.imgur.com/JxoAR4j.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://mtchls.wns.live/hls/stream.m3u8"
+      },
+      {
+        "name": "PixL TV",
+        "logo": "https://i.imgur.com/ysRh3Nl.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
+      },
+      {
+        "name": "Pomona Internet Streaming Channel (Pomona CA) (720p)",
+        "logo": "https://i.imgur.com/80gaUbq.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8"
+      },
+      {
+        "name": "Portlandia (720p)",
+        "logo": "https://i.imgur.com/I4KDvu9.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8"
+      },
+      {
+        "name": "Pursuit Channel (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai World Premium (1080p)",
+        "logo": "https://i.imgur.com/tDuKkh3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
+      },
+      {
+        "name": "Rainbow Ruby (720p)",
+        "logo": "https://i.imgur.com/eHNU2OQ.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://dt9mwqwe98q7o.cloudfront.net/master.m3u8"
+      },
+      {
+        "name": "Real America's Voice (1080p)",
+        "logo": "https://i.imgur.com/l7tmTjX.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8"
+      },
+      {
+        "name": "Real America's Voice KPVM-LD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8"
+      },
+      {
+        "name": "Real Wild (1080p)",
+        "logo": "https://i.imgur.com/T9HHmAO.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Rev and Roll (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8"
+      },
+      {
+        "name": "Revolt (720p)",
+        "logo": "https://i.imgur.com/eaYnGpH.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8"
+      },
+      {
+        "name": "RFD-TV",
+        "logo": "https://i.imgur.com/FcT3beY.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8"
+      },
+      {
+        "name": "Rifle Community TV RCTV (Rifle CO) (720p)",
+        "logo": "https://i.imgur.com/DWwequ0.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "RTN",
+        "logo": "https://i.imgur.com/jjUzuLV.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
+      },
+      {
+        "name": "RVTV (1080p)",
+        "logo": "https://i.imgur.com/pBBb0wx.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8"
+      },
+      {
+        "name": "Samsung Wild Life (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/x06npU2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8"
+      },
+      {
+        "name": "Scientology Network (1080p)",
+        "logo": "https://i.imgur.com/HOYF8NA.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://stream6.scientology.org/master.m3u8"
+      },
+      {
+        "name": "Scientology Network KSCN-TV",
+        "logo": "https://i.imgur.com/HOYF8NA.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://stream-losangeles.scientology.org/master.m3u8"
+      },
+      {
+        "name": "Scientology Network WFTT-TV",
+        "logo": "https://i.imgur.com/HOYF8NA.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://stream-tampa.scientology.org/master.m3u8"
+      },
+      {
+        "name": "SEC Network (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8"
+      },
+      {
+        "name": "Semillitas TV (576p)",
+        "logo": "https://i.imgur.com/u3yujUd.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://45.5.117.99:8000/play/a0g3/index.m3u8"
+      },
+      {
+        "name": "Shemaroo Bollywood (1080p)",
+        "logo": "https://i.imgur.com/TFxLj80.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+      },
+      {
+        "name": "SLO County Channel 21 (360p)",
+        "logo": "https://i.imgur.com/CyQ472C.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8"
+      },
+      {
+        "name": "Sony KAL Hindi (1080p)",
+        "logo": "https://i.imgur.com/9Qq8DKh.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8"
+      },
+      {
+        "name": "Starz (1080p)",
+        "logo": "https://i.imgur.com/N7oSm4d.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8"
+      },
+      {
+        "name": "Starz Edge (720p)",
+        "logo": "https://i.imgur.com/MvH3Cz2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://168.228.44.241:9998/play/a0e0/index.m3u8"
+      },
+      {
+        "name": "Starz Encore Spanish (720p)",
+        "logo": "https://i.imgur.com/5aibRWY.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://168.228.44.241:9998/play/a0e1/index.m3u8"
+      },
+      {
+        "name": "Story Television KPVM-LD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/500px-LocalNow_logo_2020.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
+      },
+      {
+        "name": "SuperChannel Orlando (WACX-DT1) (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/960px-WACX_logo_2021.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8"
+      },
+      {
+        "name": "Taiwan Plus TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+      },
+      {
+        "name": "Tapesh 2",
+        "logo": "https://i.imgur.com/q0rCXDs.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://maxtvhls.wns.live/hls/stream.m3u8"
+      },
+      {
+        "name": "TBN Armenia",
+        "logo": "https://i.imgur.com/U5XsT3j.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
+      },
+      {
+        "name": "TBN Pacific",
+        "logo": "https://i.imgur.com/yWJTxKk.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8"
+      },
+      {
+        "name": "TBN Україна (720p)",
+        "logo": "https://i.imgur.com/PhbrGyM.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8"
+      },
+      {
+        "name": "TCT (1080p)",
+        "logo": "https://i.imgur.com/J5iRMgi.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8"
+      },
+      {
+        "name": "TED (1080p)",
+        "logo": "https://i.imgur.com/KeIhwNP.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8"
+      },
+      {
+        "name": "Temecula TV (Temecula CA) (1080p)",
+        "logo": "https://i.imgur.com/El16S4C.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8"
+      },
+      {
+        "name": "Tempe Channel 11",
+        "logo": "https://i.imgur.com/KMeHRV3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8"
+      },
+      {
+        "name": "The Hill TV (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/Ioh5xbx.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "The Walk TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8"
+      },
+      {
+        "name": "The Walking Dead en español (720p)",
+        "logo": "https://i.imgur.com/h17lAxc.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8"
+      },
+      {
+        "name": "Tribeca Channel (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/JCpFAll.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "True Crime Now (1080p)",
+        "logo": "https://i.imgur.com/Y6Hix17.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8"
+      },
+      {
+        "name": "True History (720p)",
+        "logo": "https://i.imgur.com/1BHDGXx.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "TSTV (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflector.watchtstv.com/hls/livestream.m3u8"
+      },
+      {
+        "name": "TUDN (1080p)",
+        "logo": "https://i.imgur.com/oT5CAvd.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://45.190.13.8/TUDNHD/index.m3u8"
+      },
+      {
+        "name": "TVE Internacional America (1080p)",
+        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8"
+      },
+      {
+        "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
+        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
+      },
+      {
+        "name": "UniMas Central (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://190.197.41.183/Unimas/mono.m3u8"
+      },
+      {
+        "name": "UniMas Mountain (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://168.228.44.241:9997/play/a09e/index.m3u8"
+      },
+      {
+        "name": "Univision (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://190.197.41.183/Univision/index.m3u8"
+      },
+      {
+        "name": "Univision East HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://45.190.13.8/UnivisionHD/index.m3u8"
+      },
+      {
+        "name": "VICE TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8"
+      },
+      {
+        "name": "VSiN (720p)",
+        "logo": "https://i.imgur.com/C4wIRxg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8"
+      },
+      {
+        "name": "WATC TV57 (1080p)",
+        "logo": "https://i.imgur.com/FhIRe7O.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8"
+      },
+      {
+        "name": "WBTV News (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+      },
+      {
+        "name": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
+        "logo": "https://i.imgur.com/p3L2vSL.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+      },
+      {
+        "name": "WGGS-TV 16.1",
+        "logo": "https://i.imgur.com/Btw83JA.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8"
+      },
+      {
+        "name": "White Plains Community Media (360p)",
+        "logo": "https://i.imgur.com/XGQfBbW.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
+      },
+      {
+        "name": "Window TV (720p)",
+        "logo": "https://whiplash.cc/assets/img/channels/windowtv.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8"
+      },
+      {
+        "name": "Wine Watches Whiskey (1080p)",
+        "logo": "https://i.imgur.com/MN89dfS.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8"
+      },
+      {
+        "name": "Wired2Fish (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/zAtt7oq.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "WLNG Radio (410p) [Not 24/7]",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
+      },
+      {
+        "name": "Women's Sports Network (1080p)",
+        "logo": "https://i.imgur.com/rhIwUcQ.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8"
+      },
+      {
+        "name": "World Harvest TV (360p)",
+        "logo": "https://i.imgur.com/xtbkDDN.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+      },
+      {
+        "name": "WVVH-CD 18.1 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/WVVH-CD_logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
+      },
+      {
+        "name": "Yes Network (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8"
+      },
+      {
+        "name": "Yu-Gi-Oh! en espanol (1080p)",
+        "logo": "https://i.imgur.com/VH8RiHg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8"
       }
     ],
     "Documentary": [
@@ -13377,7 +12127,7 @@
       },
       {
         "name": "Court TV (1080p)",
-        "logo": "https://i.imgur.com/qkfe3o9.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
@@ -13460,22 +12210,8 @@
         "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
       },
       {
-        "name": "KPVM Story Television",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
-      },
-      {
-        "name": "KTOO 360TV 3 (FNX)",
-        "logo": "https://i.imgur.com/ppn5oJy.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
-      },
-      {
         "name": "Law & Crime (720p)",
-        "logo": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Quest_logo.png/960px-Quest_logo.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8"
@@ -14129,6 +12865,239 @@
         "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8"
       }
     ],
+    "Education": [
+      {
+        "name": "BATV Educational Channel",
+        "logo": "https://i.imgur.com/eDoJqtg.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",
+        "logo": "https://i.imgur.com/tUgEAUJ.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8"
+      },
+      {
+        "name": "BUTV10 (Boston University) (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Iv1Fe67.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8"
+      },
+      {
+        "name": "Cloudflare TV (720p)",
+        "logo": "https://i.imgur.com/l4m0is8.jpeg",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cloudflare.tv/hls/live.m3u8"
+      },
+      {
+        "name": "Create (1080p)",
+        "logo": "https://worldchannel.org/static/images/logo-world-channel.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://create.lls.pbs.org/index.m3u8"
+      },
+      {
+        "name": "CreaTV Classrooms Channel 28 (San Jose CA) (720p)",
+        "logo": "https://i.imgur.com/rvQdzL1.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
+      },
+      {
+        "name": "DC.gov DKN (Washington DC) (1080p)",
+        "logo": "https://i.imgur.com/DIau0GB.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://video.oct.dc.gov/out/u/DKN.m3u8"
+      },
+      {
+        "name": "Detroit Channel 22",
+        "logo": "https://i.imgur.com/zAdcg9m.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8"
+      },
+      {
+        "name": "Fresno CMAC 2 Education Channel (720p)",
+        "logo": "https://i.imgur.com/O0sYOED.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
+      },
+      {
+        "name": "Gillette Public Access Television Channel 189",
+        "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8"
+      },
+      {
+        "name": "Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/AYzdlMz.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
+      },
+      {
+        "name": "HCTV Educational Access Channel",
+        "logo": "https://i.imgur.com/bVbpgiD.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8"
+      },
+      {
+        "name": "KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",
+        "logo": "https://i.imgur.com/YFVrphZ.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8"
+      },
+      {
+        "name": "KCAT Public Media TV (1080p)",
+        "logo": "https://i.imgur.com/ZAypRkk.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
+      },
+      {
+        "name": "Leominster TV Educational (720p)",
+        "logo": "https://i.imgur.com/Cy94oLl.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Los Angeles Local Television Channel 36 (1080p)",
+        "logo": "https://i.imgur.com/JxTzUEq.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
+      },
+      {
+        "name": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
+        "logo": "https://i.imgur.com/x0lJqSp.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
+      },
+      {
+        "name": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
+        "logo": "https://i.imgur.com/RPJiolQ.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+      },
+      {
+        "name": "Mobile County Public Schools TV Network (MCPSS)",
+        "logo": "https://i.imgur.com/qo5sk1g.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+      },
+      {
+        "name": "Monroe Community Media Education Channel",
+        "logo": "https://i.imgur.com/gS4x0uX.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8"
+      },
+      {
+        "name": "Nashua ETV Channel 22 Nashua NH (720p)",
+        "logo": "https://i.imgur.com/iv9Vfcb.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Natick Education Channel (720p)",
+        "logo": "https://i.imgur.com/VKU9qwy.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)",
+        "logo": "https://i.imgur.com/6C71KwP.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
+      },
+      {
+        "name": "Payam Javan TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/GYfsHh9.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+      },
+      {
+        "name": "PBS National East (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
+      },
+      {
+        "name": "Poudre School District TV (PSD TV) (Fort Collins CO) (720p)",
+        "logo": "https://i.imgur.com/djT0Q8q.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+      },
+      {
+        "name": "Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/ICcQUCH.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
+      },
+      {
+        "name": "Santa Maria Community Television Education Channel (720p)",
+        "logo": "https://i.imgur.com/4Autljp.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "St Lucie Public Schools",
+        "logo": "https://i.imgur.com/wnB0fWG.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8"
+      },
+      {
+        "name": "TUTV (1080p)",
+        "logo": "https://i.imgur.com/At0BPeA.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "UCTV University of California (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/ehMz9T5.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+      },
+      {
+        "name": "World Channel (1080p)",
+        "logo": "https://worldchannel.org/static/images/logo-world-channel.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://world.lls.pbs.org/index.m3u8"
+      },
+      {
+        "name": "WPS TV (360p)",
+        "logo": "https://i.imgur.com/zwzmwse.jpg",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+      }
+    ],
     "Travel": [
       {
         "name": "Beach TV Florida & Alabama (720p)",
@@ -14454,13 +13423,6 @@
         "group": "Culture;News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pemirateshls.persiana.live/hls/stream.m3u8"
-      },
-      {
-        "name": "Geb Tv (KBPX LD5) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/960px-GEB_logo_blue.png",
-        "group": "Culture;News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
       }
     ],
     "Auto;Series": [
@@ -14542,6 +13504,13 @@
         "url": "https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8"
       },
       {
+        "name": "KidOO (1080p) [Geo-blocked]",
+        "logo": "https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://15.204.246.24:8080/KidooHD/index.m3u8"
+      },
+      {
         "name": "Mr. Bean Animated (1080p)",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
         "group": "Animation;Kids",
@@ -14604,15 +13573,6 @@
         "group": "Kids;Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
-      }
-    ],
-    "Lifestyle;Travel": [
-      {
-        "name": "KPVM AWE Plus",
-        "logo": "https://i.imgur.com/hL8i7Ar.png",
-        "group": "Lifestyle;Travel",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8"
       }
     ],
     "Movies;Shop": [
@@ -14768,7 +13728,7 @@
     "Auto;Outdoor;Series;Sports": [
       {
         "name": "Rev'n Action (720p)",
-        "logo": "https://i.imgur.com/xsm8mMd.png",
+        "logo": "https://i.imgur.com/zOXN7hX.png",
         "group": "Auto;Outdoor;Series;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8"
@@ -14777,7 +13737,7 @@
     "Entertainment;Sports": [
       {
         "name": "RightNow TV (720p)",
-        "logo": "https://i.imgur.com/OxbIla4.png",
+        "logo": "https://i.imgur.com/u8zXUOg.png",
         "group": "Entertainment;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8"
@@ -17767,6 +16727,13 @@
         "url": "https://d3ip9j8kiqtf8w.cloudfront.net/out/v1/b657cac5158e405faad7c2cc27860ef1/ADHOC-KABC-02-cmaf-manifest/ADHOC-KABC-02-index.m3u8"
       },
       {
+        "name": "KTTV-TV FOX 11 24/7 News (Los Angeles CA)",
+        "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
+        "group": "24/7 Local News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+      },
+      {
         "name": "WNBC-TV NBC 4 24/7 News (New York NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "24/7 Local News",
@@ -17893,6 +16860,13 @@
         "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/master.m3u8?ads.xumo_channelId=99951168"
       },
       {
+        "name": "WFXT-CD FOX 25 24/7 News (Boston MA)",
+        "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
+        "group": "24/7 Local News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
+      },
+      {
         "name": "WTAE-TV ABC 4 24/7 News (Pittsburgh PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "24/7 Local News",
@@ -17947,6 +16921,13 @@
         "group": "24/7 Local News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8"
+      },
+      {
+        "name": "WFTV-TV ABC 9 24/7 News (Orlando FL)",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "group": "24/7 Local News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8"
       },
       {
         "name": "WFTV-TV ABC 9 Now (Orlando FL)",
@@ -18075,6 +17056,13 @@
         "url": "https://amg00312-amg00312c3-vizio-us-2632.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-kvvufox5vegas-vizious/playlist.m3u8"
       },
       {
+        "name": "KTNV-TV ABC 13 24/7 News (Las Vegas NV)",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "group": "24/7 Local News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
+      },
+      {
         "name": "KNSD-TV NBC 7/39 24/7 News (San Diego CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "24/7 Local News",
@@ -18178,6 +17166,13 @@
         "group": "24/7 Local News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://zeam-playlist.aws.syncbak.com/cpl/17186466/dai2v6/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTU5ODIsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjhmNzVmNjlmYWY0NjQzMTY4ZmY0NzM1NzgxZDg1OTg5IiwiaXAiOiIzNC4yMjguMjE4LjUzIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzbiI6IldlYiAxNDhhOTcyMDBmICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMTcxODY0NjYiLCJtZDUiOiI3YWRhNDA5ZjY5MjgxMjhmNjM0MTFjMTE4NGYxN2Y0NiIsImlhdCI6MTc0NjQxMjAwOSwiZXhwIjoxNzQ2NDEyMDk5LCJpc3MiOiJXTFMiLCJzdWIiOiI1MDk1Y2I1Yi04NmQ1LTQwYTctOTk1Ny0yMWNmYjgyMTQ1NzIifQ.sDYNZPYKTS6MVudEcivLw8rlC2sIbhjkfJpwVqK0CY0"
+      },
+      {
+        "name": "WSOC-TV ABC 9 24/7 News (Charlotte NC)",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "group": "24/7 Local News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
       },
       {
         "name": "KERO-TV ABC 23 24/7 News (Bakersfield CA)",
@@ -19563,6 +18558,13 @@
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/470366"
       },
       {
+        "name": "WEDQ-TV PBS 3.4 (Tampa Bay FL)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8"
+      },
+      {
         "name": "KTCA-TV PBS 2 (Minneapolis/St. Paul MN)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
@@ -19626,11 +18628,25 @@
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/446801"
       },
       {
+        "name": "KQED-DT KQED+ PBS 9.2 (San Francisco CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8"
+      },
+      {
         "name": "KVIE-TV PBS 6.1 (Sacramento CA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/470374"
+      },
+      {
+        "name": "KVIE-DT PBS 6.2 (Sacramento CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8"
       },
       {
         "name": "KUED-TV Utah PBS 7 (Salt Lake City UT)",
@@ -20524,6 +19540,13 @@
         "url": "https://dai2-playlistserver.aws.syncbak.com/cpl/13786111/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjMxOSwiY2lkIjoxMjM0NiwibWlkIjoxMzc4NjExMSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI0Ny4xNTkuMTgzLjEzMyIsInVpcCI6IjQ3LjE1OS4xODMuMTMzIiwiZG1hIjo4NTUsInNzaWQiOiI1NDUwOTA1MWU1M2E0NzEzYTUzMWJhMzg5MGM4Y2U1ZiIsInNuIjoiV2ViIGUzYThlYjdmNzkgKCBudWxsICkiLCJ1aWQiOm51bGwsImFwc3QiOm51bGwsInNiZXAiOmZhbHNlLCJjc2IiOmZhbHNlLCJtZDUiOiIwYjhlNzBmNDcwZmJlZWI1NDI2MWZiYTVjOTNjNjljYiIsImlhdCI6MTczODIwODc4NSwiZXhwIjoxNzM4MjA5MDg1LCJhdWQiOiJodHRwczovL3BsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbSIsImlzcyI6IlN5bmNiYWsgR3JhcGhRTCBBUEkiLCJzdWIiOiIxTjB3RTI3ZkFKUVNWaUhQQ3A3Y1ZBSVdLUXdLcGNVVVJ1b1JFbTRGRXh1MlphdWc4NiJ9.O6O7Ro_KLNEmGxvWywYZ6ARcmmW7Rxh6pBbJIgrhdNI"
       },
       {
+        "name": "KTOO-TV 360TV (Anchorage AK)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Local Public Access",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
+      },
+      {
         "name": "NECAT Network Access Nashville (Nashville TN)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Local Public Access",
@@ -20885,6 +19908,20 @@
         "url": "https://tkx.mp.lura.rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n"
       },
       {
+        "name": "KMEX-TV Univision 34 (Los Angeles CA)",
+        "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
+      },
+      {
+        "name": "KFTR-TV UniMás 46 (Los Angeles CA)",
+        "logo": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
+      },
+      {
         "name": "KVEA-TV Telemundo 52 (Corona/Los Angeles CA)",
         "logo": "https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png",
         "group": "Latino (Spanish)",
@@ -20892,11 +19929,25 @@
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2394"
       },
       {
+        "name": "WXTV-TV Univision 41 (New York NY)",
+        "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
+      },
+      {
         "name": "WNJU-TV Telemundo 47 (New York NY)",
         "logo": "https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89690"
+      },
+      {
+        "name": "WFUT-TV/WFTY-DT UniMás 67 (New York NY)",
+        "logo": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8"
       },
       {
         "name": "WLTV-TV Univision 23 (Miami FL)",
@@ -21093,6 +20144,13 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2390"
+      },
+      {
+        "name": "KUVN-TV Univision 23 (Ft. Worth/Dallas TX)",
+        "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8"
       },
       {
         "name": "KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)",
