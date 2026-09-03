@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03 00:36:03",
+  "date": "2026-09-03 07:37:27",
   "channels": {
     "Religious": [
       {
@@ -98,6 +98,38 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
         "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+      }
+    ],
+    "Documentary": [
+      {
+        "name": "National Geographic HD (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.165.93.31:8095/nationalGeographic/index.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Nick Jr. (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+      },
+      {
+        "name": "Sonic (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
       }
     ],
     "Entertainment;General": [
