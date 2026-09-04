@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04 00:36:45",
+  "date": "2026-09-04 08:34:54",
   "channels": {
     "General": [
       {
@@ -400,6 +400,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8"
+      },
+      {
+        "name": "Rumbo Minero TV (1080p)",
+        "logo": "https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.70.201.81:8000/play/a018/index.m3u8"
       },
       {
         "name": "Siscom TV",
@@ -1122,7 +1129,7 @@
         "logo": "https://i.imgur.com/GtNkuAc.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
+        "url": "https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8"
       },
       {
         "name": "Studio Universal Latin America (1080p)",
@@ -1202,6 +1209,43 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://187.102.210.46/IPE/index.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Chikitoonz (1080p)",
+        "logo": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.70.201.81:8000/play/a00p/index.m3u8"
+      },
+      {
+        "name": "Nick Jr. Latin America (1080p)",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon Latin America (1080p)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://15.204.246.24:8080/NickHD/index.m3u8"
+      },
+      {
+        "name": "Pakapaka (576p)",
+        "logo": "https://i.imgur.com/GJbRWwH.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://138.121.113.175:8000/play/a04d/index.m3u8"
+      },
+      {
+        "name": "Peques TV (720p)",
+        "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8"
       }
     ],
     "Comedy": [
@@ -1326,29 +1370,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://45.171.108.253:8888/LATINA/index.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Nick Jr. Latin America (1080p)",
-        "logo": "https://i.imgur.com/KT4tdQs.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8"
-      },
-      {
-        "name": "Nickelodeon Latin America (1080p)",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://15.204.246.24:8080/NickHD/index.m3u8"
-      },
-      {
-        "name": "Peques TV (720p)",
-        "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8"
       }
     ],
     "Movies;Series": [
@@ -1829,6 +1850,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "80 | SOL TV |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
       },
       {
         "name": "81 | AMAZONICA TV |",
