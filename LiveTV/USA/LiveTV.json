@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05 07:54:11",
+  "date": "2026-09-06 07:50:18",
   "channels": {
     "Movies": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "name": "30A TV Classic Movies (720p)",
-        "logo": "https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
@@ -162,6 +162,20 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8"
+      },
+      {
+        "name": "Cinemax Classics (1080p)",
+        "logo": "https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8"
+      },
+      {
+        "name": "Cinemax Hits (1080p)",
+        "logo": "https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8"
       },
       {
         "name": "Cinevault 80s (720p)",
@@ -309,13 +323,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "MoreMax (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8"
       },
       {
         "name": "Movies! (480p)",
@@ -4265,6 +4272,13 @@
         "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8"
       },
       {
+        "name": "Aspire TV Life (1080p)",
+        "logo": "https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "Autentic Travel (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "group": "Lifestyle",
@@ -7288,11 +7302,11 @@
         "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "AMC en Español (720p) [Geo-blocked]",
+        "name": "AMC en Espanol",
         "logo": "https://i.imgur.com/L1h6W5Q.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8"
       },
       {
         "name": "America's Next Top Model",
@@ -8841,6 +8855,20 @@
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8"
+      },
+      {
+        "name": "HBO Hits (720p)",
+        "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+      },
+      {
+        "name": "HBO Movies (720p)",
+        "logo": "https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8"
       },
       {
         "name": "OuterSphere (1080p)",
@@ -12136,7 +12164,7 @@
       },
       {
         "name": "Showtime Family Zone (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8"
@@ -12677,13 +12705,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Cinemax Latino (480p)",
-        "logo": "https://i.imgur.com/GfsmfGK.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streamer.metronethn.com/Cinemax/index.m3u8"
       },
       {
         "name": "Crímenes imperfectos",
