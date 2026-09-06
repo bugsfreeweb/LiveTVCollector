@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05 23:27:40",
+  "date": "2026-09-06 08:48:52",
   "channels": {
     "Uncategorized": [
       {
@@ -2427,13 +2427,6 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
-      },
-      {
-        "name": "UAA TV (1080p)",
-        "logo": "https://i.imgur.com/brCSiGh.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8"
       }
     ],
     "Entertainment;Family": [
@@ -2488,6 +2481,15 @@
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
+      }
+    ],
+    "Culture;Education;Public": [
+      {
+        "name": "UAA TV (1080p)",
+        "logo": "https://i.imgur.com/brCSiGh.png",
+        "group": "Culture;Education;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8"
       }
     ],
     "Weather": [
