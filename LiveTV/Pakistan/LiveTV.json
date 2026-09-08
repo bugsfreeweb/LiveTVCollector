@@ -1,43 +1,34 @@
 {
-  "date": "2026-09-08 01:03:28",
+  "date": "2026-09-08 08:15:51",
   "channels": {
-    "Music": [
-      {
-        "name": "8XM (576p)",
-        "logo": "https://i.imgur.com/KLrfKRn.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://115.42.65.142:9981/stream/channelid/582886861"
-      },
-      {
-        "name": "ARY Musik (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8"
-      },
-      {
-        "name": "Jalwa TV",
-        "logo": "https://i.imgur.com/HWb5Iat.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8"
-      },
-      {
-        "name": "JooMusic (720p)",
-        "logo": "https://i.imgur.com/KHuKQQL.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
-      }
-    ],
     "News": [
       {
+        "name": "7 News (720p)",
+        "logo": "https://i.imgur.com/PTl92P5.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://sscsott.com/7news/live/index.m3u8"
+      },
+      {
+        "name": "24 News HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
+      },
+      {
         "name": "92 News HD (720p)",
-        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+        "logo": "https://i.imgur.com/eqKrL9S.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+      },
+      {
+        "name": "365 News",
+        "logo": "https://i.imgur.com/8I6PWof.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
       },
       {
         "name": "Aaj News (576p)",
@@ -73,6 +64,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
+      },
+      {
+        "name": "Capital TV",
+        "logo": "https://i.imgur.com/UxAE5O4.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8"
       },
       {
         "name": "City 41 (576p)",
@@ -220,6 +218,43 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://103.250.28.74:8000/play/a00w/index.m3u8"
+      }
+    ],
+    "Music": [
+      {
+        "name": "8XM (576p)",
+        "logo": "https://i.imgur.com/KLrfKRn.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://115.42.65.142:9981/stream/channelid/582886861"
+      },
+      {
+        "name": "8XM HD",
+        "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8"
+      },
+      {
+        "name": "ARY Musik (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8"
+      },
+      {
+        "name": "Jalwa TV",
+        "logo": "https://i.imgur.com/HWb5Iat.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8"
+      },
+      {
+        "name": "JooMusic (720p)",
+        "logo": "https://i.imgur.com/KHuKQQL.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
       }
     ],
     "Entertainment": [
