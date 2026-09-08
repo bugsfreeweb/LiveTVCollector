@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08 01:03:38",
+  "date": "2026-09-08 08:23:48",
   "channels": {
     "TV": [
       {
@@ -6481,14 +6481,39 @@
         "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8"
       }
     ],
-    "Sports": [
+    "Kids": [
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 5",
-        "logo": "https://i.imgur.com/HD2XaeS.png",
-        "group": "Sports",
+        "name": "Disney Channel (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8"
+        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8"
+      }
+    ],
+    "News": [
+      {
+        "name": "Euronews Portuguese (720p)",
+        "logo": "https://i.imgur.com/8t9mdg9.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
       },
+      {
+        "name": "RTP Noticias (504p) [Not 24/7]",
+        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
+      },
+      {
+        "name": "Trailers (1080p)",
+        "logo": "https://i.imgur.com/RwZ1hCN.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
+      }
+    ],
+    "Sports": [
       {
         "name": "FIFA+ Portuguese (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
@@ -6537,38 +6562,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Disney Channel (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8"
-      }
-    ],
-    "News": [
-      {
-        "name": "Euronews Portuguese (720p)",
-        "logo": "https://i.imgur.com/8t9mdg9.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
-      },
-      {
-        "name": "RTP Noticias (504p) [Not 24/7]",
-        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
-      },
-      {
-        "name": "Trailers (1080p)",
-        "logo": "https://i.imgur.com/RwZ1hCN.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
       }
     ],
     "Animation;Kids;Religious": [
@@ -6768,14 +6761,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjYgMjoyMDoyMCBQTSZoYXNoX3ZhbHVlPW9NcjkzOWdrd1JvSUhrR0tldGh4VlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNjEwODQ3Ny1iOGE0LTQ3MzMtYTUyNy1mZjk2OTM3NWE4Zjk=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjYgMTA6NTU6MTggUE0maGFzaF92YWx1ZT1mRzhpNlBDdHpKNTZoaS8rcURUZlJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTJhNDUzN2YtMmIyYS00YjgyLWE4NWUtNDkwMjZjMWMzY2Y4/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjYgMjoyMDoxOSBQTSZoYXNoX3ZhbHVlPW90c0VnaVpvdWVwTmkxMDlodVpyb1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMzg5ZmFmNy02MDliLTQ0NjMtOTZmNi1iNzhmYTRiMTZmZTg=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjYgMTA6NTU6MTcgUE0maGFzaF92YWx1ZT1aZ0d1bnBuSEI0RFMxNWd4Z0pFSHdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2E4MzU2OGMtZjhlZi00NWQ2LWEwOTctZGZlY2I1ZTJjNTZj/"
       },
       {
         "name": "Porto Canal ⚽️ 🇵🇹",
@@ -6875,7 +6868,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjYgMjoyMDoxOSBQTSZoYXNoX3ZhbHVlPUVuQ0xhZVVtRUphRVhTeEhKVWhvOWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZGNmMDJhYS05YzY1LTQyZTQtOWY2Zi01ZjZlNmJjOTU2MjY=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjYgMTA6NTU6MTggUE0maGFzaF92YWx1ZT1PYnkwS21yL1RaTnFTckJLc2YzbkpBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDRmMTgyNTYtNjUwNS00YzljLThiYmMtMDI2MDIyZGRkZmU5/"
       },
       {
         "name": "Euronews 🇵🇹",
