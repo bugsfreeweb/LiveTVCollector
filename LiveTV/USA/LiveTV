@@ -216,12 +216,6 @@
     "img": "https://i.imgur.com/rgNQYAl.png"
   },
   {
-    "name": "FX Movie Channel HD (1080p)",
-    "type": "Movies",
-    "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png"
-  },
-  {
     "name": "Girlfriends",
     "type": "Movies",
     "url": "https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8",
@@ -7764,9 +7758,9 @@
     "img": "https://i.imgur.com/PVt8OPN.png"
   },
   {
-    "name": "Nick Jr. (1080p)",
+    "name": "Nick Jr. (720p)",
     "type": "Kids",
-    "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
     "img": "https://i.imgur.com/KT4tdQs.png"
   },
   {
@@ -7776,9 +7770,9 @@
     "img": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png"
   },
   {
-    "name": "Nickelodeon (1080p)",
+    "name": "Nickelodeon (720p)",
     "type": "Kids",
-    "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+    "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
     "img": "https://i.imgur.com/E84jnP8.png"
   },
   {
@@ -7788,9 +7782,9 @@
     "img": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png"
   },
   {
-    "name": "Nicktoons (1080p)",
+    "name": "Nicktoons (720p)",
     "type": "Kids",
-    "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "img": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png"
   },
   {
@@ -11140,12 +11134,6 @@
     "type": "Undefined",
     "url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8",
     "img": "https://i.imgur.com/9Qq8DKh.png"
-  },
-  {
-    "name": "Starz (1080p)",
-    "type": "Undefined",
-    "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-    "img": "https://i.imgur.com/N7oSm4d.png"
   },
   {
     "name": "Starz Edge (720p)",
@@ -21532,6 +21520,12 @@
     "type": "Children Channels",
     "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png"
+  },
+  {
+    "name": "Nickelodeon (West)",
+    "type": "Children Channels",
+    "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {
     "name": "Nickelodeon (East)",
