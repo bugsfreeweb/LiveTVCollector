@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-12 23:36:52",
+  "date": "2026-09-13 08:52:50",
   "channels": {
     "General": [
       {
@@ -1390,13 +1390,6 @@
     ],
     "TV PERU": [
       {
-        "name": "01 | WILLAX |",
-        "logo": "https://i.imgur.com/4NMlwrm.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "http://187.102.210.46/WILLAX/index.m3u8"
-      },
-      {
         "name": "02 | LATINA TV ᴴᴰ |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg",
         "group": "TV PERU",
@@ -1600,11 +1593,25 @@
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
       },
       {
+        "name": "28.2 | L1 MAX/DEPORTES |",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8"
+      },
+      {
         "name": "29 | BICOLOR+/DEPORTES |",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/playlist.m3u8"
+      },
+      {
+        "name": "29.2 | MOVISTAR PLUS |",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8"
       },
       {
         "name": "30 | CONTACTO TV/DEPORTES |",
@@ -1782,13 +1789,6 @@
         "url": "https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8"
       },
       {
-        "name": "61 | USMP TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usmp.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://streamusmptv.ddns.net/live/stream.m3u8"
-      },
-      {
         "name": "62 | CAYETANO PLUS |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CayetanoPlus.jpg",
         "group": "TV PERU",
@@ -1824,13 +1824,6 @@
         "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8"
       },
       {
-        "name": "70 | GENIOS TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios1.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "72 | VIA ALTOMAYO TV |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Altomayo.jpg",
         "group": "TV PERU",
@@ -1852,13 +1845,6 @@
         "url": "https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "76 | NOVA STAR TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8"
-      },
-      {
         "name": "77 | TV PLUS CHINCHA |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ChinchaTv.jpg",
         "group": "TV PERU",
@@ -1871,13 +1857,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "80 | SOL TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
       },
       {
         "name": "81 | AMAZONICA TV |",
@@ -2006,20 +1985,6 @@
         "url": "https://s3.tvdatta.com:3908/stream/play.m3u8"
       },
       {
-        "name": "103 | CANAL X TV |",
-        "logo": "https://i.imgur.com/UXUXNqD.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://protv.xtv.pe/xtv/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "104 | CANAL X TV PLUS |",
-        "logo": "https://i.imgur.com/vYWNy8z.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://protv.xtv.pe/xtvmas/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "106 | RTV TOTAL |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/RTvTotal.jpg",
         "group": "TV PERU",
@@ -2062,14 +2027,14 @@
         "url": "https://stmv2.srvif.com/solartv/solartv/playlist.m3u8"
       },
       {
-        "name": "113 | COSITEL PUNO TV |",
+        "name": "113 | COSITEL PERU TV |",
         "logo": "https://i.imgur.com/smtfr3v.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://vivo.iks.lat/Cositel_Juliaca_hls/tracks-v1a1/mono.m3u8"
+        "url": "https://stream.radionexcloud.com/CositelTV/tracks-v1a1/mono.ts.m3u8"
       },
       {
-        "name": "113.1 | COSITEL PERU TV |",
+        "name": "113.1 | SILLUSTANI TV |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/cositel.jpg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
@@ -2279,7 +2244,7 @@
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8"
       },
       {
-        "name": "151 | UNICENTRO TV |",
+        "name": "151 | NEXXOR TV |",
         "logo": "https://i.imgur.com/lbgpXyV.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
