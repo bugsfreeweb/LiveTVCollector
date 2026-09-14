@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14 00:03:02",
+  "date": "2026-09-14 09:03:36",
   "channels": {
     "General": [
       {
@@ -1023,22 +1023,6 @@
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "AXN Latin America Andes (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://177.234.249.178:8888/AXN/index.m3u8"
-      },
-      {
-        "name": "Cinecanal Pacific (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8"
-      }
-    ],
     "Undefined": [
       {
         "name": "Bella Abanquina TV (720p)",
@@ -1227,11 +1211,11 @@
         "url": "http://45.70.201.81:8000/play/a00p/index.m3u8"
       },
       {
-        "name": "Nick Jr. Latin America (1080p)",
+        "name": "Nick Jr. Latin America (720p)",
         "logo": "https://i.imgur.com/KT4tdQs.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8"
+        "url": "https://streamer.metronethn.com/NickJr/index.m3u8"
       },
       {
         "name": "Nickelodeon Latin America (1080p)",
@@ -1241,18 +1225,20 @@
         "url": "http://15.204.246.24:8080/NickHD/index.m3u8"
       },
       {
-        "name": "Pakapaka (576p)",
-        "logo": "https://i.imgur.com/GJbRWwH.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://138.121.113.175:8000/play/a04d/index.m3u8"
-      },
-      {
         "name": "Peques TV (720p)",
         "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "Cinecanal Pacific (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8"
       }
     ],
     "Comedy": [
