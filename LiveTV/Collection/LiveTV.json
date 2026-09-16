@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16 00:55:13",
+  "date": "2026-09-16 08:19:19",
   "channels": {
     "Uncategorized": [
       {
@@ -2176,7 +2176,7 @@
         "name": "ERT Cosmos HD",
         "logo": "https://picserve.netplus.ch/channels/ert3.png",
         "group": "GR news",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8"
       }
     ],
@@ -2481,6 +2481,13 @@
         "group": "IT generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8?"
+      },
+      {
+        "name": "CANALE Italia",
+        "logo": "https://picserve.netplus.ch/channels/canaleit.png",
+        "group": "IT generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://liveac115b.b-cdn.net/canale1.smil/m.m3u8"
       }
     ],
     "IT home": [
@@ -2510,6 +2517,24 @@
         "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8"
       }
     ],
+    "CN news": [
+      {
+        "name": "CGTN news HD",
+        "logo": "https://picserve.netplus.ch/channels/cctvnews.png",
+        "group": "CN news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8"
+      }
+    ],
+    "ES generalist": [
+      {
+        "name": "Canal Sur Andalucia TV",
+        "logo": "https://picserve.netplus.ch/channels/andaluciatelevision.png",
+        "group": "ES generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8"
+      }
+    ],
     "CH Regional": [
       {
         "name": "Canal9 FHD",
@@ -2533,7 +2558,7 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8"
       },
       {
-        "name": "Rhone TV",
+        "name": "Rhone TV HD",
         "logo": "https://picserve.netplus.ch/channels/rhonefmtv.png",
         "group": "CH Regional",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
@@ -2707,15 +2732,6 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8"
       }
     ],
-    "ES generalist": [
-      {
-        "name": "Canal Sur Andalucia TV",
-        "logo": "https://picserve.netplus.ch/channels/andaluciatelevision.png",
-        "group": "ES generalist",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8"
-      }
-    ],
     "UA generalist": [
       {
         "name": "Al Arabiya HD",
@@ -2768,15 +2784,6 @@
         "group": "HR generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-HLS8/hrt4.m3u8"
-      }
-    ],
-    "CN news": [
-      {
-        "name": "CGTN news HD",
-        "logo": "https://picserve.netplus.ch/channels/cctvnews.png",
-        "group": "CN news",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8"
       }
     ]
   }

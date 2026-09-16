@@ -2064,6 +2064,12 @@
     "img": "https://static.epg.best/it/realtime.it.png"
   },
   {
+    "name": "CANALE Italia",
+    "type": "IT generalist",
+    "url": "https://liveac115b.b-cdn.net/canale1.smil/m.m3u8",
+    "img": "https://picserve.netplus.ch/channels/canaleit.png"
+  },
+  {
     "name": "HGTV IT Home & Garden HD",
     "type": "IT home",
     "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
@@ -2080,6 +2086,18 @@
     "type": "IT news",
     "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8",
     "img": "https://static.epg.best/it/euronews.it.png"
+  },
+  {
+    "name": "CGTN news HD",
+    "type": "CN news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
+    "img": "https://picserve.netplus.ch/channels/cctvnews.png"
+  },
+  {
+    "name": "Canal Sur Andalucia TV",
+    "type": "ES generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8",
+    "img": "https://picserve.netplus.ch/channels/andaluciatelevision.png"
   },
   {
     "name": "Canal9 FHD",
@@ -2100,7 +2118,7 @@
     "img": "https://picserve.netplus.ch/channels/canalbfr.png"
   },
   {
-    "name": "Rhone TV",
+    "name": "Rhone TV HD",
     "type": "CH Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/rhonefmtv/browser-HLS8/rhonefmtv.m3u8",
     "img": "https://picserve.netplus.ch/channels/rhonefmtv.png"
@@ -2232,12 +2250,6 @@
     "img": "https://picserve.netplus.ch/channels/quest.png"
   },
   {
-    "name": "Canal Sur Andalucia TV",
-    "type": "ES generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8",
-    "img": "https://picserve.netplus.ch/channels/andaluciatelevision.png"
-  },
-  {
     "name": "Al Arabiya HD",
     "type": "UA generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8",
@@ -2272,11 +2284,5 @@
     "type": "HR generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-HLS8/hrt4.m3u8",
     "img": "https://picserve.netplus.ch/channels/hrt4.png"
-  },
-  {
-    "name": "CGTN news HD",
-    "type": "CN news",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
-    "img": "https://picserve.netplus.ch/channels/cctvnews.png"
   }
 ]
