@@ -5553,11 +5553,6 @@ URL: https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
-Name: TVRI Jawa Tengah (720p)
-URL: https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png
-Source: https://iptv-org.github.io/iptv/countries/id.m3u
---------------------------------------------------
 Name: TVRI Kalimantan Barat (480p)
 URL: https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png
@@ -5969,6 +5964,11 @@ URL: http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: 03. INDOSIAR 2
+URL: http://filex.me:8080/live/3114654477/5787654467/302264.ts
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: 26. MOJI TV 1
 URL: http://filex.me:8080/live/3114654477/5787654467/302279.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg
@@ -6064,8 +6064,13 @@ URL: https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/beritasatu.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 33. TVRI WORLD (MAX)
-URL: https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
+Name: 01. TVRI NASIONAL 2
+URL: https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 33. TVRI JATENG
+URL: https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/tvriworld.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -21512,9 +21517,9 @@ URL: https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030
 Logo: https://mimipipi22.github.io/logo/nasional/tvri.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: TVRI NASIONAL (DNS)
-URL: https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
-Logo: https://mimipipi22.github.io/logo/nasional/tvri.jpg
+Name: TVRI WORLD (MAX)
+URL: https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
+Logo: https://mimipipi22.github.io/logo/nasional/tvriworld.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: BN TV (INTECH)

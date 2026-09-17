@@ -5131,6 +5131,8 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 http://filex.me:8080/live/3114654477/5787654467/302301.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV",03. INDOSIAR 1
 http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV",03. INDOSIAR 2
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV",26. MOJI TV 1
 http://filex.me:8080/live/3114654477/5787654467/302279.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="INDONESIA TV",20. MENTARI TV 1
@@ -5169,8 +5171,10 @@ https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w99197013
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",31. BERITASATU (MAX)
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="INDONESIA TV",33. TVRI WORLD (MAX)
-https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV",01. TVRI NASIONAL 2
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="INDONESIA TV",33. TVRI JATENG
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="INDONESIA TV",34. DAAI TV (XL1)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="INDONESIA TV",34. DAAI TV (FEED)
@@ -10547,8 +10551,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="TV BackUP",TVRI NASIONAL (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="TV BackUP",TVRI NASIONAL (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="TV BackUP",TVRI WORLD (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="TV BackUP",BN TV (INTECH)
 https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="TV BackUP",MAGNA (DNS)
@@ -10943,8 +10947,6 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Jawa Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Jawa Tengah (720p)
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Kalimantan Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Kalimantan Selatan (720p)
