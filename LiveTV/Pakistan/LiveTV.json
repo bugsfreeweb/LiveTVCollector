@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18 18:08:40",
+  "date": "2026-09-19 00:19:12",
   "channels": {
     "News": [
       {
@@ -52,7 +52,7 @@
         "url": "http://115.42.65.142:9981/stream/channelid/966869781"
       },
       {
-        "name": "Aik News",
+        "name": "Aik News SD",
         "logo": "https://i.imgur.com/svPXoAP.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
@@ -80,7 +80,7 @@
         "url": "http://163.61.227.29:8000/play/a02r/index.m3u8"
       },
       {
-        "name": "Dunya News (INT Feed) (720p) [Not 24/7]",
+        "name": "Dunya News (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/1PbtW0y.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
@@ -273,7 +273,7 @@
         "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
       },
       {
-        "name": "ATV (1080p)",
+        "name": "ATV (Pakistan) (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
@@ -450,7 +450,7 @@
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
-        "name": "Quran TV (576p)",
+        "name": "Quran TV (Pakistan) (576p)",
         "logo": "https://i.imgur.com/nc7X3Ux.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
@@ -480,7 +480,7 @@
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
       },
       {
-        "name": "BSTV (576p)",
+        "name": "BSTV (Pakistan) (576p)",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
@@ -528,6 +528,13 @@
     ],
     "Kids;Religious": [
       {
+        "name": "God Stands Kids Club TV",
+        "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+        "group": "Kids;Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+      },
+      {
         "name": "God Stands Kids Club TV Arabic",
         "logo": "https://i.imgur.com/FxDBbpz.jpeg",
         "group": "Kids;Religious",
@@ -540,13 +547,6 @@
         "group": "Kids;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
-      },
-      {
-        "name": "God Stands Kids Club TV English",
-        "logo": "https://i.imgur.com/FxDBbpz.jpeg",
-        "group": "Kids;Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
       },
       {
         "name": "God Stands Kids Club TV Urdu",
@@ -581,7 +581,7 @@
         "url": "http://103.250.28.74:8000/play/a04m/index.m3u8"
       },
       {
-        "name": "Minimax (360p)",
+        "name": "Minimax (Pakistan) (360p)",
         "logo": "https://i.imgur.com/TJvf8vd.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
@@ -590,7 +590,7 @@
     ],
     "Family": [
       {
-        "name": "LTN Family (576p)",
+        "name": "LTN Family SD (576p)",
         "logo": "https://i.imgur.com/n4CenYn.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
