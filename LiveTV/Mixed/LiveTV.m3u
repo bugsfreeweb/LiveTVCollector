@@ -22,9 +22,9 @@ http://45.232.210.1:18000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es" group-title="NACIONAL",VIA X
 http://45.232.210.1:18000/play/a092/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL",CANAL 13C
-http://38.44.109.41:8003/play/a0f1/index.m3u8
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/REC_%28Septiembre_2015%29.png/revision/latest?cb=20170712210509&path-prefix=es" group-title="NACIONAL",REC TV
-http://45.186.254.75:8000/play/a0fj/index.m3u8
+http://38.7.195.44:8000/play/a0e8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="NACIONAL",Tevex
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="NACIONAL",TVR
@@ -183,6 +183,10 @@ http://38.226.49.253:8000/play/a066/index.m3u8
 http://190.61.46.92:8009/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x180/Y2gwMTAwMDAwMDAwMDgxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x180.png?timestamp=1778915725134" group-title="CINE Y SERIES",AZCINEMA
 http://201.174.175.3:8000/play/a0y9/index.m3u88
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSveLVIjh4LUAzIZc6zMBbbkbsS-TjyvYJ4PcOguPs8ig&s=10" group-title="CINE Y SERIES",AVI CINE
+http://45.70.201.81:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhch0DZTLGF8Tfguxznztv0fq800d5E3PNqyc1VWDYzw&s" group-title="CINE Y SERIES",AVI REWIND
+http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778940911589" group-title="CINE Y SERIES",CINECANAL
 http://38.226.49.253:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530" group-title="CINE Y SERIES",CINEMAX
@@ -249,12 +253,18 @@ http://190.108.90.142:8000/play/a017/index.m3u8
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES",SONY CHANNEL
 http://45.167.2.101:8000/play/a0qc/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVnwxAJAHsn8hbw_ZXGvugo4e4xC7iRcdqw&s" group-title="CINE Y SERIES",SONY ACCION
-https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES",SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES",SONY MOVIES
 http://181.78.8.199:8000/play/a0k7/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_ComedyTV_ChannelTile_1920x1080_ES._SL500_FMpng_.png" group-title="CINE Y SERIES",SONY ACCION
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_Faves_ChannelTile_1920x1080_ES._SL500_FMpng_.png" group-title="CINE Y SERIES",SONY ONE EXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_ComedyHits_ChannelTile_1920x1080_ES._SL500_FMpng_.png" group-title="CINE Y SERIES",SONY HITS COMEDIA
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVnwxAJAHsn8hbw_ZXGvugo4e4xC7iRcdqw&s" group-title="CINE Y SERIES",SONY HITS ACCION
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT SERIES
@@ -285,6 +295,8 @@ http://168.228.44.241:9997/play/a011/index.m3u8
 http://168.228.44.241:9997/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE Y SERIES",WARNER
 http://38.226.49.253:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180612/tbo/kisspng-logo-brand-automotive-design-car-5b1f998bb8e084.0622651615287975797573.jpg" group-title="CINE Y SERIES",WARZONE CHANNEL
+http://45.70.201.81:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/256794835/display_1500/stock-vector-western-logo-256794835.jpg" group-title="CINE Y SERIES",WESTERN
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/256794835/display_1500/stock-vector-western-logo-256794835.jpg" group-title="CINE Y SERIES",WEST

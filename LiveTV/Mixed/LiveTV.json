@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19 17:54:36",
+  "date": "2026-09-20 00:01:46",
   "channels": {
     "NACIONAL": [
       {
@@ -84,14 +84,14 @@
         "logo": "https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.44.109.41:8003/play/a0f1/index.m3u8"
+        "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
       },
       {
         "name": "REC TV",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7b/REC_%28Septiembre_2015%29.png/revision/latest?cb=20170712210509&path-prefix=es",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://45.186.254.75:8000/play/a0fj/index.m3u8"
+        "url": "http://38.7.195.44:8000/play/a0e8"
       },
       {
         "name": "Tevex",
@@ -653,6 +653,20 @@
         "url": "http://201.174.175.3:8000/play/a0y9/index.m3u88"
       },
       {
+        "name": "AVI CINE",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSveLVIjh4LUAzIZc6zMBbbkbsS-TjyvYJ4PcOguPs8ig&s=10",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://45.70.201.81:8000/play/a00z/index.m3u8"
+      },
+      {
+        "name": "AVI REWIND",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhch0DZTLGF8Tfguxznztv0fq800d5E3PNqyc1VWDYzw&s",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://45.70.201.81:8000/play/a010/index.m3u8"
+      },
+      {
         "name": "CINECANAL",
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778940911589",
         "group": "CINE Y SERIES",
@@ -884,18 +898,11 @@
         "url": "http://45.167.2.101:8000/play/a0qc/index.m3u8"
       },
       {
-        "name": "SONY ACCION",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVnwxAJAHsn8hbw_ZXGvugo4e4xC7iRcdqw&s",
-        "group": "CINE Y SERIES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://de9yx47crxs6l.cloudfront.net/playlist.m3u8"
-      },
-      {
         "name": "SONY CINE",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8"
+        "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
       },
       {
         "name": "SONY MOVIES",
@@ -903,6 +910,34 @@
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://181.78.8.199:8000/play/a0k7/index.m3u8"
+      },
+      {
+        "name": "SONY ACCION",
+        "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_ComedyTV_ChannelTile_1920x1080_ES._SL500_FMpng_.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8"
+      },
+      {
+        "name": "SONY ONE EXITOS",
+        "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_Faves_ChannelTile_1920x1080_ES._SL500_FMpng_.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
+      },
+      {
+        "name": "SONY HITS COMEDIA",
+        "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fast_Amazon_ComedyHits_ChannelTile_1920x1080_ES._SL500_FMpng_.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8"
+      },
+      {
+        "name": "SONY HITS ACCION",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVnwxAJAHsn8hbw_ZXGvugo4e4xC7iRcdqw&s",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://de9yx47crxs6l.cloudfront.net/playlist.m3u8"
       },
       {
         "name": "TNT",
@@ -1008,6 +1043,13 @@
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://38.226.49.253:8000/play/a061/index.m3u8"
+      },
+      {
+        "name": "WARZONE CHANNEL",
+        "logo": "https://banner2.cleanpng.com/20180612/tbo/kisspng-logo-brand-automotive-design-car-5b1f998bb8e084.0622651615287975797573.jpg",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://45.70.201.81:8000/play/a00v/index.m3u8"
       },
       {
         "name": "WESTERN",
