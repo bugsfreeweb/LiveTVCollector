@@ -91,10 +91,22 @@ Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netpl
 --------------------------------------------------
 
 Group: CH generalist
+Name: 3+ ADRENALIN HD CH.de
+URL: https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+Logo: https://picserve.netplus.ch/channels/tv24.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: carac1 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 Logo: https://picserve.netplus.ch/channels/rougetv.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
+Group: CH health
+Name: QS24.TV HD
+URL: https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8
+Logo: https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
 Group: CH local
@@ -248,10 +260,15 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: ES generalist
+Name: Canal Sur Andalucia TV HD
+URL: https://dfk2a268yviz9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/a4d3099d-d098-470f-9fa9-0dcfaaa16a4a/0.m3u8
+Logo: https://picserve.netplus.ch/channels/andaluciatelevision.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: Canal Sur Andalucia TV
 URL: https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8
 Logo: https://picserve.netplus.ch/channels/andaluciatelevision.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: FR Religion
@@ -941,11 +958,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: Tele Bielingue HD
 URL: https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: tv24 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1742,11 +1754,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: DW English (1080p)
 URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: SUR 1 ANDALUCÍA
-URL: https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-Logo: https://i.ibb.co/Qb7LPVN/andartv.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: arte d HD
