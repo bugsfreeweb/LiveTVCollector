@@ -570,12 +570,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LOKSHAHI/images/LOGO_HD/image.png"
   },
   {
-    "name": "M Sign Media (720p) [Not 24/7]",
-    "type": "News",
-    "url": "http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8",
-    "img": "https://i.imgur.com/8fdUkOl.png"
-  },
-  {
     "name": "Madhimugam TV (576p)",
     "type": "News",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
@@ -586,12 +580,6 @@
     "type": "News",
     "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8",
     "img": "https://i.imgur.com/buT76vR.png"
-  },
-  {
-    "name": "Malabar News (720p) [Not 24/7]",
-    "type": "News",
-    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
-    "img": "https://i.imgur.com/Un2gxt4.png"
   },
   {
     "name": "Malai Murasu TV (576p)",
@@ -1722,9 +1710,9 @@
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png"
   },
   {
-    "name": "Sangeet Bhojpuri (1080p)",
+    "name": "Sangeet Bhojpuri (576p)",
     "type": "Music",
-    "url": "http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -1734,9 +1722,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png"
   },
   {
-    "name": "Songdew TV (576p)",
+    "name": "Songdew TV (396p)",
     "type": "Music",
-    "url": "http://103.72.101.252:8080/live/1411.m3u8",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "img": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540"
   },
   {
@@ -2058,9 +2046,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png"
   },
   {
-    "name": "Shemaroo Josh (720p)",
+    "name": "Shemaroo Josh (576p)",
     "type": "Movies",
-    "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540"
   },
   {
@@ -3488,7 +3476,7 @@
   {
     "name": "Shemaroo Marathi Bana (720p)",
     "type": "Undefined",
-    "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]",
+    "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png"
   },
   {
@@ -3912,6 +3900,84 @@
     "img": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg"
   },
   {
+    "name": "CBeebies Asia India (576p)",
+    "type": "Kids",
+    "url": "http://202.70.146.135:8000/play/a0a2/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"
+  },
+  {
+    "name": "Chithiram (576p)",
+    "type": "Kids",
+    "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
+    "img": "https://i.imgur.com/xv9cWSh.png"
+  },
+  {
+    "name": "Disney Channel (India) (576p)",
+    "type": "Kids",
+    "url": "http://202.70.146.135:8000/play/a01q/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Disney Channel (India) HD (1080p)",
+    "type": "Kids",
+    "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Disney International HD (1080p)",
+    "type": "Kids",
+    "url": "http://202.70.146.135:8000/play/a04p/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Epic Kids Digital (1080p)",
+    "type": "Kids",
+    "url": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "ETV Bal Bharat (576p)",
+    "type": "Kids",
+    "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
+    "img": "https://i.imgur.com/zsTxPV9.png"
+  },
+  {
+    "name": "Hungama TV (576p)",
+    "type": "Kids",
+    "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Nick Jr. (India) (576p)",
+    "type": "Kids",
+    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Nickelodeon (India) (576p)",
+    "type": "Kids",
+    "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Sonic (576p)",
+    "type": "Kids",
+    "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "The Jungle Book (1080p)",
+    "type": "Kids",
+    "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+    "img": "https://pash.ink/storage/uploads/JungleBook_Logo.png"
+  },
+  {
+    "name": "ZB Cartoon (1080p)",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
+  },
+  {
     "name": "CCV (480p)",
     "type": "General",
     "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
@@ -4152,12 +4218,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Mayyazhi (720p) [Not 24/7]",
-    "type": "General",
-    "url": "http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8",
-    "img": "https://i.imgur.com/E3WYWF5.jpg"
-  },
-  {
     "name": "MBC TV (576p)",
     "type": "General",
     "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8",
@@ -4252,84 +4312,6 @@
     "type": "General",
     "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8",
     "img": "https://i.imgur.com/iZufxya.jpg"
-  },
-  {
-    "name": "Chithiram (576p)",
-    "type": "Kids",
-    "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
-    "img": "https://i.imgur.com/xv9cWSh.png"
-  },
-  {
-    "name": "Disney Channel (India) (576p)",
-    "type": "Kids",
-    "url": "http://202.70.146.135:8000/play/a01q/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Disney Channel (India) HD (1080p)",
-    "type": "Kids",
-    "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Disney International HD (1080p)",
-    "type": "Kids",
-    "url": "http://202.70.146.135:8000/play/a04p/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Epic Kids Digital (1080p)",
-    "type": "Kids",
-    "url": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ETV Bal Bharat (576p)",
-    "type": "Kids",
-    "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
-    "img": "https://i.imgur.com/zsTxPV9.png"
-  },
-  {
-    "name": "Hungama TV (576p)",
-    "type": "Kids",
-    "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Nick HD+ (1080p)",
-    "type": "Kids",
-    "url": "http://103.72.101.252:8080/live/1226.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Nick Jr. (India) (576p)",
-    "type": "Kids",
-    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Nickelodeon (India) (576p)",
-    "type": "Kids",
-    "url": "http://103.185.24.134:3001/NICK/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sonic (576p)",
-    "type": "Kids",
-    "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "The Jungle Book (1080p)",
-    "type": "Kids",
-    "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
-    "img": "https://pash.ink/storage/uploads/JungleBook_Logo.png"
-  },
-  {
-    "name": "ZB Cartoon (1080p)",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
   },
   {
     "name": "CNBC Awaaz (1080p)",
@@ -4592,7 +4574,7 @@
   {
     "name": "Sirippoli TV (576p)",
     "type": "Comedy",
-    "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8",
+    "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540"
   },
   {
@@ -4718,7 +4700,7 @@
   {
     "name": "Shemaroo Filmi Gaane (1080p)",
     "type": "Movies;Music",
-    "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
+    "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png"
   },
   {
