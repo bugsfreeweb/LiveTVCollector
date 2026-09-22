@@ -261,14 +261,9 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 
 Group: ES generalist
 Name: Canal Sur Andalucia TV HD
-URL: https://dfk2a268yviz9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/a4d3099d-d098-470f-9fa9-0dcfaaa16a4a/0.m3u8
+URL: https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 Logo: https://picserve.netplus.ch/channels/andaluciatelevision.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: Canal Sur Andalucia TV
-URL: https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8
-Logo: https://picserve.netplus.ch/channels/andaluciatelevision.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: FR Religion
@@ -352,6 +347,11 @@ Name: Real Time IT HD
 URL: https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8?
 Logo: https://static.epg.best/it/realtime.it.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: LA5 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/la5/browser-HLS8/la5.m3u8
+Logo: https://picserve.netplus.ch/channels/la5.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 Name: CANALE Italia
 URL: https://liveac115b.b-cdn.net/canale1.smil/m.m3u8
@@ -1467,12 +1467,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: CGTN news english
-URL: https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-Logo: https://picserve.netplus.ch/channels/cgtn.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: CGTN français
-URL: https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+URL: https://english-livebkali.cgtn.com/live/encgtn.m3u8
 Logo: https://picserve.netplus.ch/channels/cgtn.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
