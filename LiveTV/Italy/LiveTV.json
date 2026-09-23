@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-22 18:39:01",
+  "date": "2026-09-23 09:09:31",
   "channels": {
     "Entertainment": [
       {
@@ -106,13 +106,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8"
-      },
-      {
-        "name": "MTV Catfish TV Show",
-        "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8"
       },
       {
         "name": "Passione Lotto (300p)",
@@ -2454,13 +2447,6 @@
         "group": "Classic;Series",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8"
-      },
-      {
-        "name": "Dynasty (Germany)",
-        "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
-        "group": "Classic;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8"
       }
     ],
     "Movies": [
@@ -2946,43 +2932,6 @@
         "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
       }
     ],
-    "Movies;Series": [
-      {
-        "name": "Mission Impossible (Germany) IT",
-        "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8"
-      },
-      {
-        "name": "Pluto TV Horror (Germany) IT",
-        "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
-      },
-      {
-        "name": "Pluto TV Sci-Fi (Germany) IT",
-        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
-      },
-      {
-        "name": "Star Trek: Voyager (Germany) IT",
-        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8"
-      },
-      {
-        "name": "Twentyseven [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
-      }
-    ],
     "Animation;Kids": [
       {
         "name": "Mr Bean Animated IT (1080p)",
@@ -3022,13 +2971,27 @@
         "url": "https://iptv.peer.biz/live/peertv.m3u8"
       }
     ],
-    "Animation": [
+    "Movies;Series": [
       {
-        "name": "Pluto TV Anime (Germany) IT",
-        "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
-        "group": "Animation",
+        "name": "Pluto TV Sci-Fi (Germany) IT",
+        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+        "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8"
+        "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
+      },
+      {
+        "name": "Star Trek: Voyager (Germany) IT",
+        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8"
+      },
+      {
+        "name": "Twentyseven [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
       }
     ],
     "Documentary;Series": [
