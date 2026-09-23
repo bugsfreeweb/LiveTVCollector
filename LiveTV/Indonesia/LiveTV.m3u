@@ -5119,8 +5119,8 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV",03. INDOSIAR 2
-http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV",03. INDOSIAR 1
+http://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="INDONESIA TV",20. MENTARI TV 2
 http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="INDONESIA TV",20. MENTARI TV 1
@@ -5148,13 +5148,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnn.png" group-title="INDONESIA TV",16. CNN INDONESIA (FEED)
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV",17. CNBC INDONESIA (FEED)
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789702265200&wowzatokenhash=9f3SPkpykhy1CwWI86fqvUTdIOscyPIvwMV5kuUza4c%3D
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" group-title="INDONESIA TV",19. VTV
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",31. BERITASATU (MAX)
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV",01. TVRI NASIONAL 2
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+https://tencent-css-live.byteplaycdn.com/vos/DASH/tvrijateng/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="INDONESIA TV",33. TVRI JATENG
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_500000=10007-mp4a_64000=20002.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="INDONESIA TV",34. DAAI TV (XL1)
@@ -6011,8 +6011,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1q2r4l.png" group-title="Nasional 🇮🇩",BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKEJwhD.png" group-title="Nasional 🇮🇩",CNBC Indonesia
-https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩",Indosiar
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dtbl1.png" group-title="Nasional 🇮🇩",Magna Channel
@@ -10579,6 +10577,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="TV BackUP",TVRI NASIONAL (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="TV BackUP",TVRI NASIONAL (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="TV BackUP",TVRI WORLD (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="TV BackUP",BN TV (INTECH)
