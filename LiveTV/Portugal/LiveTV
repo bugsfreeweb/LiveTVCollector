@@ -3852,6 +3852,12 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg"
   },
   {
+    "name": "PCNELID - 25/9/2026",
+    "type": "PCNELID",
+    "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/09/25/e0a7169a-4003-42a8-9090-259a025f4aa1/video.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg"
+  },
+  {
     "name": "PCNELID - 18/9/2026",
     "type": "PCNELID",
     "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/09/18/ac63fd3c-613d-4c19-bec0-a27ef6ef03ce/video.m3u8",
@@ -6314,7 +6320,7 @@
   {
     "name": "TVP World 🇬🇧",
     "type": "World News 🌍",
-    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8?wowzasessionid=@iprtlk",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8",
     "img": "https://logo.m3uassets.com/tvpworld.png"
   },
   {
@@ -6346,12 +6352,6 @@
     "type": "World News 🌍",
     "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?wowzasessionid=@iprtlk",
     "img": "https://logo.m3uassets.com/cna.png"
-  },
-  {
-    "name": "Sky News Weather 🇺🇸",
-    "type": "Meteorology 🌎",
-    "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8?wowzasessionid=@iprtlk",
-    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/SkyNewsWeather.png"
   },
   {
     "name": "WeatherSpy 🇺🇸",
@@ -6397,81 +6397,105 @@
   },
   {
     "name": "AXN White (🔉💬🇬🇧)🇨🇿",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd",
     "img": "https://logo.m3uassets.com/axnwhite.png"
   },
   {
     "name": "AXN Black (🔉💬🇬🇧)🇨🇿",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd",
     "img": "https://logo.m3uassets.com/axnblack.png"
   },
   {
+    "name": "HBO Zone 🇺🇸",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp"
+  },
+  {
+    "name": "HBO Comedy 🇺🇸",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd",
+    "img": "https://logo.m3uassets.com/hbocomedy.png"
+  },
+  {
+    "name": "HBO 2 East 🇺🇸",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png"
+  },
+  {
+    "name": "HBO West 🇺🇸",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd",
+    "img": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png"
+  },
+  {
+    "name": "❖HBO East 🇺🇸",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd",
+    "img": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png"
+  },
+  {
+    "name": "❖HBO Latino 🇺🇸",
+    "type": "Entertainment 🌎",
+    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd",
+    "img": "https://lo1.in/us/hboltt.png"
+  },
+  {
     "name": "Cinemax (🔉💬🇬🇧) 🇨🇿",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd",
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp"
   },
   {
     "name": "Cinemax 2 (🔉💬🇬🇧)🇨🇿",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd",
     "img": "https://logo.m3uassets.com/cinemax2.png"
   },
   {
     "name": "Warner Channel (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8",
     "img": "https://logo.m3uassets.com/warnerchannel.png"
   },
   {
     "name": "TLC (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?wowzasessionid=@iprtlk",
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp"
   },
   {
     "name": "MN+ (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
     "img": "https://logo.m3uassets.com/mnplus.png"
   },
   {
     "name": "MNX (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
     "img": "https://logo.m3uassets.com/mnx.png"
   },
   {
     "name": "Movies Now (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
     "img": "https://logo.m3uassets.com/moviesnow.png"
   },
   {
-    "name": "Suprerrix (🔉💬🇬🇧)🇮🇩",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
-    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd",
-    "img": "https://i.imgur.com/3naGwk4.png"
-  },
-  {
     "name": "Cineedge (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd",
     "img": "https://i.imgur.com/VEcyLT2.png"
   },
   {
     "name": "Originals (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
+    "type": "Entertainment 🌎",
     "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
     "img": "https://i.imgur.com/c2f7gji.png"
-  },
-  {
-    "name": "Galaxy (🔉💬🇬🇧)🇮🇳",
-    "type": "Channels 🇨🇿🇮🇳🇵🇭",
-    "url": "https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd",
-    "img": "https://i.imgur.com/101onyA.png"
   },
   {
     "name": "Love Wine 🇬🇧",

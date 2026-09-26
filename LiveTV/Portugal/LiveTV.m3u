@@ -1283,6 +1283,8 @@ https://cdn.jwplayer.com/manifests/Mbkr8pJ8.m3u8
 https://cdn.jwplayer.com/manifests/3AhzNuqR.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 15/4/2022
 https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg" group-title="PCNELID",PCNELID - 25/9/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/09/25/e0a7169a-4003-42a8-9090-259a025f4aa1/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg" group-title="PCNELID",PCNELID - 18/9/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/09/18/ac63fd3c-613d-4c19-bec0-a27ef6ef03ce/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg" group-title="PCNELID",PCNELID - 11/9/2026
@@ -2104,7 +2106,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="World News 🌍",TRT World 🇬🇧
 https://tv-trtworld.medya.trt.com.tr/master.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tvpworld.png" group-title="World News 🌍",TVP World 🇬🇧
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8?wowzasessionid=@iprtlk
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cgtn.png" group-title="World News 🌍",CGTN News 🇬🇧
 https://english-livebkali.cgtn.com/live/encgtn.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/presstv.png" group-title="World News 🌍",Press Tvᴸᴼᵂ 🇺🇸
@@ -2115,8 +2117,6 @@ https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8?wowzasessionid=@iprtlk
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wowzasessionid=@iprtlk?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cna.png" group-title="World News 🌍",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?wowzasessionid=@iprtlk
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkyNewsWeather.png" group-title="Meteorology 🌎",Sky News Weather 🇺🇸
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png" group-title="Meteorology 🌎",WeatherSpy 🇺🇸
 https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fox_weather_station_logo_16x9.png" group-title="Meteorology 🌎",Fox Weather 🇺🇸
@@ -2131,32 +2131,40 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwor
 https://streaming.meteonews.net/hls/stream.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n057TgX.png" group-title="Meteorology 🌎",WBRZ Weather Channel Baton Rouge LA 🇺🇸
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/axnwhite.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",AXN White (🔉💬🇬🇧)🇨🇿
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/axnwhite.png" group-title="Entertainment 🌎",AXN White (🔉💬🇬🇧)🇨🇿
 https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/axnblack.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",AXN Black (🔉💬🇬🇧)🇨🇿
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/axnblack.png" group-title="Entertainment 🌎",AXN Black (🔉💬🇬🇧)🇨🇿
 https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax (🔉💬🇬🇧) 🇨🇿
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-title="Entertainment 🌎",HBO Zone 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="Entertainment 🌎",HBO Comedy 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png" group-title="Entertainment 🌎",HBO 2 East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Entertainment 🌎",HBO West 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Entertainment 🌎",❖HBO East 🇺🇸
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+#EXTINF:-1 tvg-logo="https://lo1.in/us/hboltt.png" group-title="Entertainment 🌎",❖HBO Latino 🇺🇸
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-title="Entertainment 🌎",Cinemax (🔉💬🇬🇧) 🇨🇿
 https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax2.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax 2 (🔉💬🇬🇧)🇨🇿
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cinemax2.png" group-title="Entertainment 🌎",Cinemax 2 (🔉💬🇬🇧)🇨🇿
 https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/warnerchannel.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Warner Channel (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/warnerchannel.png" group-title="Entertainment 🌎",Warner Channel (🔉💬🇬🇧)🇮🇳
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp" group-title="Channels 🇨🇿🇮🇳🇵🇭",TLC (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp" group-title="Entertainment 🌎",TLC (🔉💬🇬🇧)🇮🇳
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?wowzasessionid=@iprtlk
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mnplus.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",MN+ (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mnplus.png" group-title="Entertainment 🌎",MN+ (🔉💬🇬🇧)🇮🇳
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mnx.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",MNX (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mnx.png" group-title="Entertainment 🌎",MNX (🔉💬🇬🇧)🇮🇳
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/moviesnow.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Movies Now (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/moviesnow.png" group-title="Entertainment 🌎",Movies Now (🔉💬🇬🇧)🇮🇳
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3naGwk4.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Suprerrix (🔉💬🇬🇧)🇮🇩
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VEcyLT2.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cineedge (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEcyLT2.png" group-title="Entertainment 🌎",Cineedge (🔉💬🇬🇧)🇮🇳
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2f7gji.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Originals (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2f7gji.png" group-title="Entertainment 🌎",Originals (🔉💬🇬🇧)🇮🇳
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/101onyA.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Galaxy (🔉💬🇬🇧)🇮🇳
-https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 #EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Lovewine.webp" group-title="Documentaries 🌎",Love Wine 🇬🇧
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/funroads.png" group-title="Documentaries 🌎",Fun Roads TV 🇺🇸
