@@ -582,12 +582,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "cnn europe HD",
-    "type": "Uncategorized",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "fashiontv HD",
     "type": "Uncategorized",
     "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
@@ -1034,7 +1028,7 @@
   {
     "name": "Nautical Channel HD",
     "type": "Uncategorized",
-    "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/1.m3u8",
+    "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8",
     "img": "https://picserve.netplus.ch/channels/fast_nauticalchannel.png"
   },
   {
@@ -1048,12 +1042,6 @@
     "type": "Uncategorized",
     "url": "https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "CGTN news english",
-    "type": "Uncategorized",
-    "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
-    "img": "https://picserve.netplus.ch/channels/cgtn.png"
   },
   {
     "name": "Figaro TV HD",
@@ -1626,6 +1614,18 @@
     "img": "https://picserve.netplus.ch/channels/rougetv.png"
   },
   {
+    "name": "cnn europe HD",
+    "type": "US news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8",
+    "img": "https://picserve.netplus.ch/channels/cnn.png"
+  },
+  {
+    "name": "CGTN news HD",
+    "type": "CN news",
+    "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+    "img": "https://picserve.netplus.ch/channels/cctvnews.png"
+  },
+  {
     "name": "My Gospel TV HD",
     "type": "music;religious",
     "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
@@ -1980,12 +1980,6 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png"
   },
   {
-    "name": "ERT cosmos HD",
-    "type": "GR generic",
-    "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8",
-    "img": "https://static.epg.best/gr/ertcosmos.gr.png"
-  },
-  {
     "name": "canalb fr HD",
     "type": "CH local",
     "url": "https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8",
@@ -2088,12 +2082,6 @@
     "img": "https://static.epg.best/it/euronews.it.png"
   },
   {
-    "name": "CGTN news HD",
-    "type": "CN news",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
-    "img": "https://picserve.netplus.ch/channels/cctvnews.png"
-  },
-  {
     "name": "Canal Sur Andalucia TV HD",
     "type": "ES generalist",
     "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
@@ -2104,6 +2092,12 @@
     "type": "CH health",
     "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8",
     "img": "https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png"
+  },
+  {
+    "name": "Class CNBC IT HD",
+    "type": "IT news financial",
+    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(4ZafIrySVZdYTLblsU8Z6XsM33pqmmcmZSLj3P7dmLGB6E2Eg7q_F0ApJqqS9UPGgbv9L-NdxOUkbhoezsIsD2rszM3RYFEjlnoK5jF4gsSH5-az7_EWkvk8Ao6Qf42f)/cloud/3/x91c8ww/s/live-720@60.m3u8",
+    "img": "https://classcnbc.it/"
   },
   {
     "name": "Canal9 FHD",

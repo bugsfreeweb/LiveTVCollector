@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27 00:24:14",
+  "date": "2026-09-27 08:34:08",
   "channels": {
     "Uncategorized": [
       {
@@ -682,13 +682,6 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8"
       },
       {
-        "name": "cnn europe HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8"
-      },
-      {
         "name": "fashiontv HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1211,7 +1204,7 @@
         "logo": "https://picserve.netplus.ch/channels/fast_nauticalchannel.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/1.m3u8"
+        "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8"
       },
       {
         "name": "AUTOMOTION FHD",
@@ -1226,13 +1219,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8"
-      },
-      {
-        "name": "CGTN news english",
-        "logo": "https://picserve.netplus.ch/channels/cgtn.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
       },
       {
         "name": "Figaro TV HD",
@@ -1904,6 +1890,24 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
       }
     ],
+    "US news": [
+      {
+        "name": "cnn europe HD",
+        "logo": "https://picserve.netplus.ch/channels/cnn.png",
+        "group": "US news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8"
+      }
+    ],
+    "CN news": [
+      {
+        "name": "CGTN news HD",
+        "logo": "https://picserve.netplus.ch/channels/cctvnews.png",
+        "group": "CN news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
+      }
+    ],
     "music;religious": [
       {
         "name": "My Gospel TV HD",
@@ -2371,15 +2375,6 @@
         "url": "https://jmp2.uk/stvp-CH700006GD"
       }
     ],
-    "GR generic": [
-      {
-        "name": "ERT cosmos HD",
-        "logo": "https://static.epg.best/gr/ertcosmos.gr.png",
-        "group": "GR generic",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8"
-      }
-    ],
     "CH local": [
       {
         "name": "canalb fr HD",
@@ -2519,15 +2514,6 @@
         "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8"
       }
     ],
-    "CN news": [
-      {
-        "name": "CGTN news HD",
-        "logo": "https://picserve.netplus.ch/channels/cctvnews.png",
-        "group": "CN news",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8"
-      }
-    ],
     "ES generalist": [
       {
         "name": "Canal Sur Andalucia TV HD",
@@ -2544,6 +2530,15 @@
         "group": "CH health",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8"
+      }
+    ],
+    "IT news financial": [
+      {
+        "name": "Class CNBC IT HD",
+        "logo": "https://classcnbc.it/",
+        "group": "IT news financial",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(4ZafIrySVZdYTLblsU8Z6XsM33pqmmcmZSLj3P7dmLGB6E2Eg7q_F0ApJqqS9UPGgbv9L-NdxOUkbhoezsIsD2rszM3RYFEjlnoK5jF4gsSH5-az7_EWkvk8Ao6Qf42f)/cloud/3/x91c8ww/s/live-720@60.m3u8"
       }
     ],
     "CH Regional": [
