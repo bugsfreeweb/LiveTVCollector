@@ -137,8 +137,8 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
 Group: Culture;Documentary
-Name: BBC Four (720p) [Geo-blocked]
-URL: https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+Name: BBC Four
+URL: https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -380,13 +380,13 @@ URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 Logo: https://i.imgur.com/vFpjggf.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC Alba [Geo-blocked]
-URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
+Name: BBC Alba
+URL: https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 Logo: https://i.imgur.com/36KDxLg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC One (720p) [Geo-blocked]
-URL: https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+Name: BBC One
+URL: https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -490,13 +490,18 @@ URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC Scotland (720p) [Geo-blocked]
-URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+Name: BBC Scotland
+URL: https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: BBC Three (720p) [Geo-blocked]
 URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: BBC Three HD
+URL: https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -604,8 +609,18 @@ URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc
 Logo: https://i.imgur.com/tk8G4CU.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: CBeebies (720p) [Geo-blocked]
+Name: CBBC HD
+URL: https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
+Logo: https://i.imgur.com/tk8G4CU.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: CBeebies (United Kingdom) (720p) [Geo-blocked]
 URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: CBeebies (United Kingdom) HD
+URL: https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -651,8 +666,8 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
 Group: Legislative
-Name: BBC Parliament (720p) [Geo-blocked]
-URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+Name: BBC Parliament
+URL: https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------

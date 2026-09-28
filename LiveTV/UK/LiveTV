@@ -738,15 +738,15 @@
     "img": "https://i.imgur.com/vFpjggf.png"
   },
   {
-    "name": "BBC Alba [Geo-blocked]",
+    "name": "BBC Alba",
     "type": "General",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd",
     "img": "https://i.imgur.com/36KDxLg.png"
   },
   {
-    "name": "BBC One (720p) [Geo-blocked]",
+    "name": "BBC One",
     "type": "General",
-    "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
   },
   {
@@ -870,15 +870,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
   },
   {
-    "name": "BBC Scotland (720p) [Geo-blocked]",
+    "name": "BBC Scotland",
     "type": "General",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png"
   },
   {
     "name": "BBC Three (720p) [Geo-blocked]",
     "type": "General",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"
+  },
+  {
+    "name": "BBC Three HD",
+    "type": "General",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"
   },
   {
@@ -1020,9 +1026,9 @@
     "img": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png"
   },
   {
-    "name": "BBC Four (720p) [Geo-blocked]",
+    "name": "BBC Four",
     "type": "Culture;Documentary",
-    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png"
   },
   {
@@ -1320,9 +1326,9 @@
     "img": "https://i.imgur.com/TERVtWT.png"
   },
   {
-    "name": "BBC Parliament (720p) [Geo-blocked]",
+    "name": "BBC Parliament",
     "type": "Legislative",
-    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png"
   },
   {
@@ -1338,9 +1344,21 @@
     "img": "https://i.imgur.com/tk8G4CU.png"
   },
   {
-    "name": "CBeebies (720p) [Geo-blocked]",
+    "name": "CBBC HD",
+    "type": "Kids",
+    "url": "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd",
+    "img": "https://i.imgur.com/tk8G4CU.png"
+  },
+  {
+    "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
     "type": "Kids",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "CBeebies (United Kingdom) HD",
+    "type": "Kids",
+    "url": "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
   },
   {

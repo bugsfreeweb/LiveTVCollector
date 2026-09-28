@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28 01:05:58",
+  "date": "2026-09-28 09:44:02",
   "channels": {
     "Series": [
       {
@@ -878,18 +878,18 @@
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8"
       },
       {
-        "name": "BBC Alba [Geo-blocked]",
+        "name": "BBC Alba",
         "logo": "https://i.imgur.com/36KDxLg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd"
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd"
       },
       {
-        "name": "BBC One (720p) [Geo-blocked]",
+        "name": "BBC One",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd"
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd"
       },
       {
         "name": "BBC One East (720p) [Geo-blocked]",
@@ -1032,11 +1032,11 @@
         "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd"
       },
       {
-        "name": "BBC Scotland (720p) [Geo-blocked]",
+        "name": "BBC Scotland",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd"
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd"
       },
       {
         "name": "BBC Three (720p) [Geo-blocked]",
@@ -1044,6 +1044,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd"
+      },
+      {
+        "name": "BBC Three HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd"
       },
       {
         "name": "BBC Two HD (720p)",
@@ -1213,11 +1220,11 @@
     ],
     "Culture;Documentary": [
       {
-        "name": "BBC Four (720p) [Geo-blocked]",
+        "name": "BBC Four",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
         "group": "Culture;Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd"
       }
     ],
     "Animation;General;Kids": [
@@ -1569,11 +1576,11 @@
     ],
     "Legislative": [
       {
-        "name": "BBC Parliament (720p) [Geo-blocked]",
+        "name": "BBC Parliament",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd"
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd"
       }
     ],
     "Animation;Family;Kids": [
@@ -1594,11 +1601,25 @@
         "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd"
       },
       {
-        "name": "CBeebies (720p) [Geo-blocked]",
+        "name": "CBBC HD",
+        "logo": "https://i.imgur.com/tk8G4CU.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd"
+      },
+      {
+        "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd"
+      },
+      {
+        "name": "CBeebies (United Kingdom) HD",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd"
       },
       {
         "name": "Moonbug Kids (1080p)",
