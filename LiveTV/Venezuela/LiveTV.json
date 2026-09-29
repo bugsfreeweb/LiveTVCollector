@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28 21:54:54",
+  "date": "2026-09-29 09:35:21",
   "channels": {
     "News": [
       {
@@ -45,11 +45,11 @@
         "url": "https://streaming.canal-i.com/canal-i/live/master.m3u8"
       },
       {
-        "name": "Telesur (720p)",
+        "name": "Telesur (1080p)",
         "logo": "https://i.imgur.com/P50VjRX.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8"
+        "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8"
       },
       {
         "name": "Telesur English (480p)",
@@ -292,11 +292,11 @@
         "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8"
       },
       {
-        "name": "Televen (576p)",
+        "name": "Televen (1080p)",
         "logo": "https://i.imgur.com/cxvkUvK.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://181.78.8.199:8000/play/a09j/index.m3u8"
+        "url": "http://38.134.250.110:8000/play/a02i/index.m3u8"
       },
       {
         "name": "Torococo TV (720p) [Not 24/7]",
@@ -518,6 +518,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
+      },
+      {
+        "name": "Ve Plus (720p)",
+        "logo": "https://i.imgur.com/uc3zqcP.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://186.148.196.100:8000/play/a01d"
       }
     ],
     "Religious": [
