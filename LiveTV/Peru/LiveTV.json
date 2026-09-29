@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28 21:58:23",
+  "date": "2026-09-29 09:56:30",
   "channels": {
     "General": [
       {
@@ -939,11 +939,11 @@
         "url": "http://45.171.108.253:8888/ATV/index.m3u8"
       },
       {
-        "name": "Canal N (576p)",
+        "name": "Canal N (1080p)",
         "logo": "https://i.imgur.com/Xytvw3J.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8"
+        "url": "http://187.102.208.209:8000/play/a0az/index.m3u8"
       },
       {
         "name": "Conecta2TV (720p) [Not 24/7]",
@@ -1021,6 +1021,22 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "AXN Latin America Andes (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://181.78.8.199:8000/play/a0cu/index.m3u8"
+      },
+      {
+        "name": "Cinecanal Pacific (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8"
       }
     ],
     "Undefined": [
@@ -1232,15 +1248,6 @@
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "Cinecanal Pacific (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8"
-      }
-    ],
     "Comedy": [
       {
         "name": "Comedy Central Latin America (1080p)",
@@ -1282,11 +1289,11 @@
     ],
     "Sports": [
       {
-        "name": "DSports (720p)",
+        "name": "DSports (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://15.204.146.163:8002/play/a00g/index.m3u8"
+        "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
       },
       {
         "name": "L1 (1080p)",
@@ -1437,6 +1444,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8"
+      },
+      {
+        "name": "8 | CANAL N |",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8"
       },
       {
         "name": "09 | ATV ᴴᴰ |",
