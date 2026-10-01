@@ -120,12 +120,6 @@
     "img": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png"
   },
   {
-    "name": "Cinemax Action East HD (1080p)",
-    "type": "Movies",
-    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png"
-  },
-  {
     "name": "Cinemax Classics (1080p)",
     "type": "Movies",
     "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
@@ -684,9 +678,9 @@
     "img": "https://i.imgur.com/uVdKHMG.png"
   },
   {
-    "name": "Daystar TV Espanol (720p)",
+    "name": "Daystar TV Espanol (1080p)",
     "type": "Religious",
-    "url": "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8",
+    "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png"
   },
   {
@@ -6870,12 +6864,6 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU"
   },
   {
-    "name": "Discovery Turbo (1080p)",
-    "type": "Auto",
-    "url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png"
-  },
-  {
     "name": "Fierro a Fondo TV (1080p)",
     "type": "Auto",
     "url": "http://45.70.201.81:8000/play/a00x/index.m3u8",
@@ -7494,12 +7482,6 @@
     "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png"
   },
   {
-    "name": "HBO Drama West (1080p)",
-    "type": "Movies;Series",
-    "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png"
-  },
-  {
     "name": "HBO Hits West HD (1080p)",
     "type": "Movies;Series",
     "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
@@ -7638,9 +7620,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png"
   },
   {
-    "name": "Disney Junior (United States) (720p)",
+    "name": "Disney Junior (United States) (480p)",
     "type": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png"
   },
   {
@@ -8586,6 +8568,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
   },
   {
+    "name": "Fox (United States) WSVN (1080p)",
+    "type": "General",
+    "url": "http://190.197.41.183/Fox/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
+  },
+  {
     "name": "Fox (United States) WTTG (1080p)",
     "type": "General",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8",
@@ -8955,6 +8943,12 @@
     "name": "NBC WRDE-LD (720p) [Not 24/7]",
     "type": "General",
     "url": "https://live.field59.com/wrde/wrde1/playlist.m3u8",
+    "img": "https://i.imgur.com/nxY84W5.png"
+  },
+  {
+    "name": "NBC WTLV (1080p)",
+    "type": "General",
+    "url": "http://190.197.41.183/NBC/index.m3u8",
     "img": "https://i.imgur.com/nxY84W5.png"
   },
   {
@@ -10371,6 +10365,12 @@
     "name": "Toonami Aftermath (480p)",
     "type": "Animation",
     "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "img": "https://i.imgur.com/aSjhZK7.png"
+  },
+  {
+    "name": "Toonami Aftermath West (480p)",
+    "type": "Animation",
+    "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
     "img": "https://i.imgur.com/aSjhZK7.png"
   },
   {
@@ -11920,6 +11920,12 @@
     "type": "Undefined",
     "url": "https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8",
     "img": "https://i.imgur.com/KeIhwNP.png"
+  },
+  {
+    "name": "TeleXitos (1080p)",
+    "type": "Undefined",
+    "url": "http://190.197.41.183/TELEXITOS/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Temecula TV (1080p)",
@@ -21507,12 +21513,6 @@
     "name": "ToonOvation",
     "type": "Children Channels",
     "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/M43FCP9IGELUIOH4IAVQ/hls3/now,-1m/m.m3u8",
-    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
-  },
-  {
-    "name": "Toonami Aftermath (West)",
-    "type": "Children Channels",
-    "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
     "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {
