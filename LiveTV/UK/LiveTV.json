@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02 02:21:35",
+  "date": "2026-10-02 10:03:45",
   "channels": {
     "Series": [
       {
@@ -362,6 +362,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8"
+      },
+      {
+        "name": "Star Bharat (United Kingdom) (576p)",
+        "logo": "https://i.imgur.com/Q8ajPij.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8"
       },
       {
         "name": "Star Vijay UK (396p)",
@@ -1067,11 +1074,11 @@
         "url": "http://193.46.58.239:8080/BBCTwoHD/index.m3u8"
       },
       {
-        "name": "BBC Two Northern Ireland (540p) [Geo-blocked]",
+        "name": "BBC Two Northern Ireland",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8"
+        "url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd"
       },
       {
         "name": "BBC Two Northern Ireland HD (720p) [Geo-blocked]",
@@ -1163,6 +1170,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
+      },
+      {
+        "name": "ITV1 London +1",
+        "logo": "https://i.imgur.com/xwPekCF.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://xyktmobile00.s.gy/TICK_44100"
       },
       {
         "name": "ITV2 HD (1080p)",
