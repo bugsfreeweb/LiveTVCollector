@@ -3030,9 +3030,9 @@
     "img": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png"
   },
   {
-    "name": "CNBC (720p)",
+    "name": "CNBC (720p) [Geo-blocked]",
     "type": "Business",
-    "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
+    "url": "http://41.205.93.154/CNBC/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
   },
   {
@@ -3042,9 +3042,9 @@
     "img": "https://i.imgur.com/isRfHYZ.png"
   },
   {
-    "name": "Fox Business Network (720p)",
+    "name": "Fox Business Network (576p)",
     "type": "Business",
-    "url": "http://5.254.89.106/6187/index.m3u8",
+    "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png"
   },
   {
@@ -5880,12 +5880,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png"
   },
   {
-    "name": "Laff WJLP (576p)",
-    "type": "Comedy",
-    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png"
-  },
-  {
     "name": "More TV Sitcoms",
     "type": "Comedy",
     "url": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
@@ -8080,12 +8074,6 @@
     "type": "General",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8",
     "img": "https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel55-147x150-square.png"
-  },
-  {
-    "name": "Albanian TV America (1080p)",
-    "type": "General",
-    "url": "http://5.254.89.106/8711/index.m3u8",
-    "img": "https://albtvusa.com/wp-content/uploads/2021/10/logo.final_.png"
   },
   {
     "name": "AMGA TV (720p) [Not 24/7]",
@@ -11262,12 +11250,6 @@
     "img": "https://i.imgur.com/8c8isLj.png"
   },
   {
-    "name": "PBS WNET (720p)",
-    "type": "Education",
-    "url": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test",
-    "img": "https://i.imgur.com/8c8isLj.png"
-  },
-  {
     "name": "PBS WNJT (1080p) [Not 24/7]",
     "type": "Education",
     "url": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8",
@@ -12048,9 +12030,9 @@
     "img": "https://i.imgur.com/UpnzXnr.png"
   },
   {
-    "name": "UniMas WFUT-DT (1080p)",
+    "name": "UniMas WFUT-DT (720p) [Geo-blocked]",
     "type": "Undefined",
-    "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png"
   },
   {
@@ -12508,6 +12490,12 @@
     "type": "Comedy;Movies;Series",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
     "img": "https://i.imgur.com/avBL8pQ.png"
+  },
+  {
+    "name": "USA Network (720p)",
+    "type": "Comedy;Movies;Series;Sports",
+    "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
   },
   {
     "name": "KCBS-TV CBS 2 (Los Angeles CA)",
@@ -17692,12 +17680,6 @@
     "type": "Latino (Spanish)",
     "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89690",
     "img": "https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png"
-  },
-  {
-    "name": "WFUT-TV/WFTY-DT UniMás 67 (New York NY)",
-    "type": "Latino (Spanish)",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8",
-    "img": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png"
   },
   {
     "name": "WLTV-TV Univision 23 (Miami FL)",
