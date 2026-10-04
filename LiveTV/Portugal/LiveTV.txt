@@ -213,14 +213,14 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&
 Logo: https://github.com/iprtl/p1/raw/master/logo/GPTV.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Fast & FunBox 🇬🇧
-URL: https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-Logo: https://logo.m3uassets.com/fastfunbox.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
 Name: Acelerados 🇧🇷
 URL: https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
 Logo: https://i.imgur.com/bEA7KyI.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Fast & FunBox 🇬🇧
+URL: https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+Logo: https://logo.m3uassets.com/fastfunbox.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Garage TV 🇦🇷🏎️🏍
@@ -229,7 +229,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ElGaragetv.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: We Love Cars 🇺🇸🏎️
-URL: https://30a-tv.com/feeds/vidaa/cars.m3u8?wowzasessionid=@iprtlk
+URL: https://30a-tv.com/feeds/720p/54.m3u8
 Logo: https://30a-tv.com/wp-content/uploads/2024/06/user-profile-30atv-2024.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -303,26 +303,6 @@ URL: https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/n
 Logo: https://logo.m3uassets.com/canal5.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Cazetv 🇧🇷⚽️🎾🏐 (vpn 🇺🇸)
-URL: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Cazetv 🇧🇷⚽️🎾🏐 (Eventos)
-URL: https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
-URL: https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?wowzasessionid=@iprtlk
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Eurosport 2 (🔊🇬🇧🇨🇿)🏌🏼‍⛷⛸️🐴
-URL: https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?wowzasessionid=@iprtlk
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
 Name: UNIVERSO West 🇺🇸🇲🇽⚽️
 URL: https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 Logo: https://i.ibb.co/99KrFvMC/UNIVERSO.png
@@ -343,8 +323,38 @@ URL: https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU
 Logo: https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
+Name: Cazetv 🇧🇷⚽️🎾🏐 (vpn 🇺🇸)
+URL: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Cazetv 🇧🇷⚽️🎾🏐 (Eventos)
+URL: https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
+URL: https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?wowzasessionid=@iprtlk
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Eurosport 2 (🔊🇬🇧🇨🇿)🏌🏼‍⛷⛸️🐴
+URL: https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?wowzasessionid=@iprtlk
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: TUDN 🇺🇸
 URL: https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: TUDN 🇺🇸
+URL: https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: TUDN 🇺🇸
+URL: https://new8k.deadpooll.workers.dev/playlist?id=6980
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -388,14 +398,14 @@ URL: https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
+Name: laliga hypermotion 🇪🇸
+URL: https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+Logo: https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: tdp 🇪🇸
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=%5BLMT%5D&dnt=%5BDNS%5D&us_privacy=%5BUS_PRIVACY%5D&did=%5BDEVICE_ID%5D&ip=%5BIP%5D&ua=%5BUA%5D&ifa_type=%5BIFA_TYPE%5D&app_bundle=%5BAPP_BUNDLE%5D
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: FS1 🇺🇸
-URL: https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: FS1 🇺🇸
@@ -423,6 +433,11 @@ URL: https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n0
 Logo: https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/primier.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
+Name: CBS Sports SN 🇺🇸
+URL: https://new8k.deadpooll.workers.dev/playlist?id=1336
+Logo: https://logo.m3uassets.com/cbssportsnetwork.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: CBS Sports 🇺🇸
 URL: https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 Logo: https://logo.m3uassets.com/cbssportsnetwork.png
@@ -441,6 +456,16 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: Sky Sport Premier League 🇬🇧
 URL: https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Sky Sport Premier League 🇬🇧
+URL: https://new8k.deadpooll.workers.dev/playlist?id=367
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Sky Sport Main Event 🇬🇧
+URL: https://new8k.deadpooll.workers.dev/playlist?id=363
+Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Sky Sport Main Event 🇬🇧
@@ -513,11 +538,6 @@ URL: https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/o
 Logo: https://iili.io/KWn2Z0u.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: laliga hypermotion 🇪🇸
-URL: https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-Logo: https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
 Name: Bein Sports Xtra 🇬🇧🇲🇽
 URL: https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png
@@ -570,17 +590,17 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: Eleven Sports 2 🇵🇱
 URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2517/index.m3u8
-Logo: https://logo.m3uassets.com/elevensport2.png
+Logo: https://epg.iptvx.one/picons/eleven-sports-2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Eleven Sports 3 🇵🇱⚽️
 URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/32018/index.m3u8
-Logo: https://logo.m3uassets.com/elevensport3.png
+Logo: https://epg.iptvx.one/picons/eleven-sports-3.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Eleven Sports 4 🇵🇱
 URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/32042/index.m3u8
-Logo: https://logo.m3uassets.com/elevensport4.png
+Logo: https://epg.iptvx.one/picons/eleven-sports-4.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Setanta Sports 1 🇺🇦
@@ -590,7 +610,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: Setanta Sports 2 🇺🇦
 URL: http://stream.mcquack.net/235/index.m3u8
-Logo: https://logo.m3uassets.com/setantasports.png
+Logo: https://epg.iptvx.one/picons/setanta2-ge.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Sport 1 🇺🇦
@@ -649,7 +669,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Sports 1 🇩🇪
-URL: https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
+URL: https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
 Logo: https://github.com/iprtl/tv-logos/raw/main/countries/germany/sport1-de.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -661,36 +681,6 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: Kanal 1Xtra 🇨🇿 🏍🏎️
 URL: https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 Logo: https://github.com/iprtl/p1/raw/master/logo/KANAL1XTRA.webp
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Digi Sport 1 🇷🇴⚽️
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2523/index.m3u8
-Logo: https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Digi Sport 2 🇷🇴⚽️🤾‍
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2522/index.m3u8
-Logo: https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Digi Sport 3 🇷🇴⚽️
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2524/index.m3u8
-Logo: https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Digi Sport 4 🇷🇴⚽️🤾‍
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2538/index.m3u8
-Logo: https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Prima Sport 1 🇷🇴
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/7059/index.m3u8
-Logo: https://logo.m3uassets.com/primasport1.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Prima Sport 2 🇷🇴
-URL: http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/7060/index.m3u8
-Logo: https://logo.m3uassets.com/primasport2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Nova Sport 1 🇸🇰
@@ -733,21 +723,6 @@ URL: https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 Logo: https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: CCTV5+
-URL: http://198.204.228.26/live/cctv5hd.m3u8
-Logo: https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: CCTV16
-URL: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-Logo: https://i.imgur.com/k1U8bVZ.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: CCTV football
-URL: http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-Logo: https://i.imgur.com/k1U8bVZ.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
 
 Group: All Sports 🌎;Rugby&NFL🏈🏉
 Name: la chaine L'Equipe 🇫🇷
@@ -761,13 +736,6 @@ Name: Kuriakos Kids (1080p)
 URL: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 Logo: https://i.imgur.com/SRX6EPY.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
-
-Group: Auto 🏍🏎️
-Name: Cars.TV 🇺🇸
-URL: https://dvrfl04.tulix.tv/teleup-carstv/mpegts
-Logo: https://i.imgur.com/JLSHiTp.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 
 Group: Beachcam
@@ -3301,11 +3269,6 @@ URL: https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%7B%7Bcb%7D%7D&AV_APPPKG
 Logo: https://github.com/iprtl/p1/raw/master/logo/EnglishClubTV.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: AXN (🔉💬🇬🇧)🇮🇳
-URL: https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
-Logo: https://logo.m3uassets.com/axn.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
 Name: ZDF 🇩🇪⚽️
 URL: https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 Logo: https://epg.iptvx.one/picons/zdf.png
@@ -3319,6 +3282,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: Sat.1 🇦🇹⚽️
 URL: https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 Logo: https://logo.m3uassets.com/sat1.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: AXN (🔉💬🇬🇧)🇮🇳
+URL: https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
+Logo: https://logo.m3uassets.com/axn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: AXN White (🔉💬🇬🇧)🇨🇿
@@ -3338,7 +3306,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: BBC First 🇬🇧
 URL: https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/5/50/BBC_First_%282014%29_%28Boxless%29.svg/revision/latest/scale-to-width-down/1000?cb=20220624203829
+Logo: https://epg.iptvx.one/picons/bbc-first-pl.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: More4 🇬🇧
@@ -3364,6 +3332,16 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: E4 🇬🇧
 URL: https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 Logo: https://logo.m3uassets.com/e4.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: USA Network 🇺🇸⚽️
+URL: https://new8k.deadpooll.workers.dev/playlist?id=153
+Logo: https://logo.m3uassets.com/usanetwork.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: TNT 🇺🇸
+URL: https://new8k.deadpooll.workers.dev/playlist?id=179
+Logo: https://logo.m3uassets.com/tnt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: BBC América 🇺🇸
