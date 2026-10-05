@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05 00:25:59",
+  "date": "2026-10-05 09:00:33",
   "channels": {
     "Uncategorized": [
       {
@@ -1906,6 +1906,13 @@
         "group": "CN news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
+      },
+      {
+        "name": "CGTN news HD",
+        "logo": "https://picserve.netplus.ch/channels/cctvnews.png",
+        "group": "CN news",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8"
       }
     ],
     "music;religious": [
@@ -2559,9 +2566,18 @@
         "url": "https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/playlist.m3u8"
       }
     ],
+    "CN news french": [
+      {
+        "name": "CGTN français HD",
+        "logo": "https://static.epg.best/cn/CGTNFrench.cn.png",
+        "group": "CN news french",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8"
+      }
+    ],
     "CH Regional": [
       {
-        "name": "Canal9 FHD",
+        "name": "Canal9 HD",
         "logo": "https://picserve.netplus.ch/channels/canal9.png",
         "group": "CH Regional",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
@@ -2575,7 +2591,7 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8"
       },
       {
-        "name": "Canal B fr",
+        "name": "Canal B fr HD",
         "logo": "https://picserve.netplus.ch/channels/canalbfr.png",
         "group": "CH Regional",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
@@ -2617,7 +2633,7 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8"
       },
       {
-        "name": "Canal B de",
+        "name": "Canal B de HD",
         "logo": "https://picserve.netplus.ch/channels/canalbde.png",
         "group": "CH Regional",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
@@ -2651,20 +2667,11 @@
     ],
     "FR religion": [
       {
-        "name": "kto",
+        "name": "kto HD",
         "logo": "https://picserve.netplus.ch/channels/kto.png",
         "group": "FR religion",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8"
-      }
-    ],
-    "FR Religion": [
-      {
-        "name": "DieuTV HD",
-        "logo": "https://picserve.netplus.ch/channels/maxtv.png",
-        "group": "FR Religion",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8"
       }
     ],
     "FR regional": [
@@ -2687,25 +2694,11 @@
     ],
     "DE generalist": [
       {
-        "name": "ARD1 Das Erste HD",
-        "logo": "https://picserve.netplus.ch/channels/daserstehd.png",
-        "group": "DE generalist",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
-      },
-      {
         "name": "ndr HD",
         "logo": "https://picserve.netplus.ch/channels/ndr.png",
         "group": "DE generalist",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
         "url": "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8"
-      },
-      {
-        "name": "mdr HD",
-        "logo": "https://picserve.netplus.ch/channels/mdr.png",
-        "group": "DE generalist",
-        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
       },
       {
         "name": "ARD alpha HD",
@@ -2728,7 +2721,7 @@
         "logo": "https://picserve.netplus.ch/channels/skynews.png",
         "group": "UK news",
         "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
-        "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8"
+        "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8"
       },
       {
         "name": "AlJazeera En HD",

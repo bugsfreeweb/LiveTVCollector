@@ -18,7 +18,7 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: CH Regional
-Name: Canal9 FHD
+Name: Canal9 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
 Logo: https://picserve.netplus.ch/channels/canal9.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
@@ -28,7 +28,7 @@ URL: https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m
 Logo: https://picserve.netplus.ch/channels/lemanbleu.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
-Name: Canal B fr
+Name: Canal B fr HD
 URL: https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8
 Logo: https://picserve.netplus.ch/channels/canalbfr.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
@@ -58,7 +58,7 @@ URL: https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m
 Logo: https://picserve.netplus.ch/channels/teleswizz.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
-Name: Canal B de
+Name: Canal B de HD
 URL: https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8
 Logo: https://picserve.netplus.ch/channels/canalbde.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
@@ -127,6 +127,18 @@ URL: https://english-livebkali.cgtn.com/live/encgtn.m3u8
 Logo: https://picserve.netplus.ch/channels/cctvnews.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: CGTN news HD
+URL: https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8
+Logo: https://picserve.netplus.ch/channels/cctvnews.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
+Group: CN news french
+Name: CGTN français HD
+URL: https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+Logo: https://static.epg.best/cn/CGTNFrench.cn.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 
 Group: Cinéma
 Name: SONY ONE HITS ACTION
@@ -166,19 +178,9 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: DE generalist
-Name: ARD1 Das Erste HD
-URL: https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-Logo: https://picserve.netplus.ch/channels/daserstehd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
 Name: ndr HD
 URL: https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
 Logo: https://picserve.netplus.ch/channels/ndr.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: mdr HD
-URL: https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-Logo: https://picserve.netplus.ch/channels/mdr.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 Name: ARD alpha HD
@@ -273,13 +275,6 @@ Logo: https://picserve.netplus.ch/channels/andaluciatelevision.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: FR Religion
-Name: DieuTV HD
-URL: https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8
-Logo: https://picserve.netplus.ch/channels/maxtv.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
 Group: FR news
 Name: 20 Minutes TV HD
 URL: https://live-20minutestv.digiteka.com/1961167769/tracks-v2a1/mono.ts.m3u8
@@ -295,7 +290,7 @@ Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netpl
 --------------------------------------------------
 
 Group: FR religion
-Name: kto
+Name: kto HD
 URL: https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 Logo: https://picserve.netplus.ch/channels/kto.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
@@ -587,7 +582,7 @@ Logo: https://picserve.netplus.ch/channels/bbcworld.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 Name: sky news
-URL: https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+URL: https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 Logo: https://picserve.netplus.ch/channels/skynews.png
 Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------

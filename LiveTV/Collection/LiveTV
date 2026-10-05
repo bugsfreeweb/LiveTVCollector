@@ -1626,6 +1626,12 @@
     "img": "https://picserve.netplus.ch/channels/cctvnews.png"
   },
   {
+    "name": "CGTN news HD",
+    "type": "CN news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
+    "img": "https://picserve.netplus.ch/channels/cctvnews.png"
+  },
+  {
     "name": "My Gospel TV HD",
     "type": "music;religious",
     "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
@@ -2112,7 +2118,13 @@
     "img": "https://.png"
   },
   {
-    "name": "Canal9 FHD",
+    "name": "CGTN français HD",
+    "type": "CN news french",
+    "url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
+    "img": "https://static.epg.best/cn/CGTNFrench.cn.png"
+  },
+  {
+    "name": "Canal9 HD",
     "type": "CH Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8",
     "img": "https://picserve.netplus.ch/channels/canal9.png"
@@ -2124,7 +2136,7 @@
     "img": "https://picserve.netplus.ch/channels/lemanbleu.png"
   },
   {
-    "name": "Canal B fr",
+    "name": "Canal B fr HD",
     "type": "CH Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalbfr.png"
@@ -2160,7 +2172,7 @@
     "img": "https://picserve.netplus.ch/channels/teleswizz.png"
   },
   {
-    "name": "Canal B de",
+    "name": "Canal B de HD",
     "type": "CH Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalbde.png"
@@ -2184,16 +2196,10 @@
     "img": "https://picserve.netplus.ch/channels/canalalphaju.png"
   },
   {
-    "name": "kto",
+    "name": "kto HD",
     "type": "FR religion",
     "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8",
     "img": "https://picserve.netplus.ch/channels/kto.png"
-  },
-  {
-    "name": "DieuTV HD",
-    "type": "FR Religion",
-    "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8",
-    "img": "https://picserve.netplus.ch/channels/maxtv.png"
   },
   {
     "name": "8Mont-Blanc HD",
@@ -2208,22 +2214,10 @@
     "img": "https://picserve.netplus.ch/channels/canalalphane.png"
   },
   {
-    "name": "ARD1 Das Erste HD",
-    "type": "DE generalist",
-    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
-    "img": "https://picserve.netplus.ch/channels/daserstehd.png"
-  },
-  {
     "name": "ndr HD",
     "type": "DE generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8",
     "img": "https://picserve.netplus.ch/channels/ndr.png"
-  },
-  {
-    "name": "mdr HD",
-    "type": "DE generalist",
-    "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/mdr.png"
   },
   {
     "name": "ARD alpha HD",
@@ -2240,7 +2234,7 @@
   {
     "name": "sky news",
     "type": "UK news",
-    "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8",
     "img": "https://picserve.netplus.ch/channels/skynews.png"
   },
   {
