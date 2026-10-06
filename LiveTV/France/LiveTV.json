@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05 22:02:47",
+  "date": "2026-10-06 09:12:08",
   "channels": {
     "Entertainment": [
       {
@@ -29,6 +29,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://145.239.5.177/361/index.m3u8"
+      },
+      {
+        "name": "Canal+ (720p)",
+        "logo": "https://i.imgur.com/5HcyMnW.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8"
       },
       {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",M6 HD (1080p)",
@@ -129,11 +136,11 @@
         "url": "https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"
       },
       {
-        "name": "W9 (1080p)",
+        "name": "W9 (1086p)",
         "logo": "https://i.imgur.com/reYeMuE.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8"
+        "url": "http://5.180.164.197:8080/W9/index.m3u8"
       },
       {
         "name": "Y'a que la verite qui compte",
@@ -471,11 +478,25 @@
         "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8"
       },
       {
+        "name": "Europe 1 TV (1080p)",
+        "logo": "https://i.ibb.co/rGqB5FcH/Europe1-TV.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8"
+      },
+      {
         "name": "France 24 (1080p)",
         "logo": "https://i.imgur.com/u8N6uoj.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"News\",Franceinfo (1080p)",
+        "logo": "https://i.imgur.com/eITXz6A.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8"
       },
       {
         "name": "LCI HD (1080p)",
@@ -1319,6 +1340,13 @@
         "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
       },
       {
+        "name": "Nicktoons (France) (1080p)",
+        "logo": "https://i.imgur.com/OWRUPA4.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://193.254.245.162/NICKELODEON/index.m3u8"
+      },
+      {
         "name": "Pluto TV Kids Classics FR (720p)",
         "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
         "group": "Kids",
@@ -1421,6 +1449,15 @@
         "group": "Kids;Series",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8"
+      }
+    ],
+    "Legislative": [
+      {
+        "name": "LCP (477p)",
+        "logo": "https://i.imgur.com/k7UImOJ.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
       }
     ],
     "Culture": [
