@@ -1830,9 +1830,9 @@
     "img": "https://i.imgur.com/w9R9IIX.png"
   },
   {
-    "name": "Fish TV (720p)",
+    "name": "Fish TV (1080p)",
     "type": "Outdoor",
-    "url": "http://45.162.64.114/FISH_TV/index.m3u8",
+    "url": "http://190.128.214.97:64333/play/a006/index.m3u8",
     "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
   },
   {
@@ -1890,9 +1890,9 @@
     "img": "https://i.imgur.com/G0x4xqa.png"
   },
   {
-    "name": "GloboNews (720p)",
+    "name": "GloboNews (1080p)",
     "type": "News",
-    "url": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8",
+    "url": "http://79.127.238.228:14093",
     "img": "https://i.imgur.com/3yZyaCm.png"
   },
   {
@@ -2026,12 +2026,6 @@
     "type": "Undefined",
     "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8",
     "img": "https://i.imgur.com/chHsCzB.png"
-  },
-  {
-    "name": "Megapix (720p)",
-    "type": "Undefined",
-    "url": "http://177.52.24.163/MEGAPIX-HD/index.m3u8",
-    "img": "https://i.imgur.com/qTYv5jt.png"
   },
   {
     "name": "Nova Era TV (1080p) [Not 24/7]",
@@ -2478,21 +2472,15 @@
     "img": "https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png"
   },
   {
-    "name": "Gloobinho (720p)",
-    "type": "Kids",
-    "url": "http://177.52.24.163/GLOOBINHO-HD/index.m3u8",
-    "img": "https://i.imgur.com/UWkHErt.png"
-  },
-  {
     "name": "Nick Jr. Club (United States) BR (720p)",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
     "img": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png"
   },
   {
-    "name": "Nickelodeon (Brazil) (480p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (Brazil) (480p)",
     "type": "Kids",
-    "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+    "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "img": "https://i.imgur.com/E84jnP8.png"
   },
   {
@@ -2622,9 +2610,15 @@
     "img": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg"
   },
   {
-    "name": "SporTV 3 (720p)",
+    "name": "SporTV 2 (1080p)",
     "type": "Sports",
-    "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
+    "url": "http://195.178.110.110/sportv2/index.m3u8",
+    "img": "https://i.imgur.com/pBiUnb2.png"
+  },
+  {
+    "name": "SporTV 3 (1080p)",
+    "type": "Sports",
+    "url": "http://195.178.110.110/sportv3/index.m3u8",
     "img": "https://i.imgur.com/mWOR8pi.png"
   },
   {
@@ -3184,12 +3178,6 @@
     "type": "Animation;Kids",
     "url": "https://bob.x1colegal.com/hls/stream.m3u8",
     "img": "https://x1colegal.com/nickonlinebobesponja.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",NickToons Brasil (480p)",
-    "type": "Animation;Kids",
-    "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png"
   },
   {
     "name": "NTV (Brazil) (720p)",
