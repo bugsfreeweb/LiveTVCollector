@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05 22:21:54",
+  "date": "2026-10-06 10:46:17",
   "channels": {
     "Movies": [
       {
@@ -204,13 +204,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8"
-      },
-      {
-        "name": "FMH Movies (1080p)",
-        "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8"
       },
       {
         "name": "FrightFlix (720p)",
@@ -551,11 +544,11 @@
         "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8"
       },
       {
-        "name": "3ABN Latino",
+        "name": "3ABN Latino (1080p)",
         "logo": "https://i.imgur.com/Ugb4AFo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
+        "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8"
       },
       {
         "name": "3ABN Proclaim! Network",
@@ -2232,6 +2225,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+      },
+      {
+        "name": "WWE Network (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls"
       },
       {
         "name": "XFC TV (720p)",
@@ -8442,11 +8442,11 @@
         "url": "https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "Novelisima",
+        "name": "Novelisima (1080p)",
         "logo": "https://i.imgur.com/8dUS3Ih.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+        "url": "http://138.59.177.78:9999/play/a0gg/index.m3u8"
       },
       {
         "name": "PBS Antiques Roadshow (1080p)",
@@ -8905,7 +8905,7 @@
         "logo": "https://i.imgur.com/4BDJ5FT.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8"
+        "url": "http://38.44.109.41:8003/play/a0eh"
       },
       {
         "name": "BBC Kids (720p)",
@@ -8948,13 +8948,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
-      },
-      {
-        "name": "FMH Kids (1080p)",
-        "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8"
       },
       {
         "name": "Forever Kids",
@@ -10219,11 +10212,11 @@
         "url": "https://ch8.littletongov.org/live-2/live/live.m3u8"
       },
       {
-        "name": "MBC 1 USA (1080p) [Geo-blocked]",
+        "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",MBC 1 USA",
         "logo": "https://i.imgur.com/CiA3plN.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8"
+        "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8"
       },
       {
         "name": "MBC Masr USA (1080p)",
@@ -14061,11 +14054,11 @@
         "url": "http://45.190.13.8/TUDNHD/index.m3u8"
       },
       {
-        "name": "TVE Internacional America (1080p)",
+        "name": "TVE Internacional America (576p) [Geo-blocked]",
         "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8"
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8"
       },
       {
         "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
