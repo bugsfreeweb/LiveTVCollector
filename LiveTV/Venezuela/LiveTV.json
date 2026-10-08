@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08 02:28:30",
+  "date": "2026-10-08 09:52:26",
   "channels": {
     "News": [
       {
@@ -332,6 +332,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8"
+      },
+      {
+        "name": "TVes (1080p)",
+        "logo": "https://i.imgur.com/QX5DVUB.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
       },
       {
         "name": "TVM para ti (1080p)",
@@ -866,25 +873,14 @@
         "url": "http://181.78.8.199:8000/play/a0fo/index.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "Cinecanal (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8"
-      }
-    ],
-    "Comedy": [
-      {
-        "name": "Comedy Central Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
-      }
-    ],
     "Animation;Kids": [
+      {
+        "name": "Cartoon Network Latin America North Atlantic (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
+      },
       {
         "name": "Disney Channel Latin America (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
@@ -919,6 +915,24 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "Cinecanal (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Comedy Central Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
       }
     ],
     "Science": [
@@ -966,6 +980,13 @@
         "url": "http://15.204.246.24:8080/StudioUniversalHD/index.m3u8"
       },
       {
+        "name": "TNT Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://45.171.64.30:6060/play/a03i/index.m3u8"
+      },
+      {
         "name": "Universal TV Latin America (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
         "group": "Undefined",
@@ -980,6 +1001,15 @@
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "http://168.196.127.137:6001/play/a06p/index.m3u8"
+      }
+    ],
+    "Series": [
+      {
+        "name": "TNT Series Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://168.196.127.137:6001/play/a095/index.m3u8"
       }
     ],
     "Family": [
