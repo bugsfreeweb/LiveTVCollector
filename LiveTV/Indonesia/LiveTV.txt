@@ -5532,8 +5532,8 @@ URL: https://mgstv.siar.us/live/mgstv.m3u8
 Logo: https://i.imgur.com/MYU7dsZ.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
-Name: MNCTV HD (720p)
-URL: https://mncmedia.malingtv.workers.dev/mnctv.m3u8
+Name: MNCTV HD
+URL: http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/SK8pjQy.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
@@ -5552,7 +5552,7 @@ URL: http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/EMmOvnQ.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
-Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",TVRI SD (480p) [Geo-blocked]
+Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",TVRI (480p) [Geo-blocked]
 URL: https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
@@ -5850,18 +5850,33 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 --------------------------------------------------
 
 Group: INDONESIA TV
+Name: 06. RCTI 2
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 05. MNCTV 2
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 08. GTV 2
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: SINDONEWS (MAX)
-URL: https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/sindonews.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 07. SCTV 1
-URL: http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+URL: https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 03. INDOSIAR 1
-URL: http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+URL: https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -5880,24 +5895,19 @@ URL: https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b7
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 04. TRANS TV 2
-URL: http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: 10. TRANS 7 1
 URL: https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 10. TRANS 7 2
-URL: http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 02. ANTV 2
-URL: http://filex.me:8080/live/3114654477/5787654467/302206.ts
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png
+Name: 12. RTV 2
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 12. RTV 1
@@ -5936,7 +5946,7 @@ Logo: https://mimipipi22.github.io/logo/nasional/beritasatu.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 01. TVRI NASIONAL 2
-URL: https://tencent-css-live.byteplaycdn.com/vos/DASH/tvrijateng/manifest.mpd
+URL: https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -5953,11 +5963,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: 34. DAAI TV (FEED)
 URL: https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/daaitv.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: 13. MDTV 2
-URL: http://202.150.161.212:5000/live/channel31/playlist.m3u8
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 50. BN TV (INTECH)
@@ -11981,29 +11986,14 @@ URL: http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: RCTI
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-Logo: https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: RCTI 1
 URL: https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786276114~hmac=d9a8e3490aae17f54d3f46aa4bda11f49ce959615a46e31057b6082af655a51c
 Logo: https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: MNCTV
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-Logo: https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: MNCTV 1
 URL: https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786276114~hmac=2b9bece66aa2c8f0c6f0384fd89ce62f976867e108544923d054cb82745e3363
 Logo: https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: GTV
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-Logo: https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: GTV 1
@@ -13552,11 +13542,6 @@ URL: http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 Logo: https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: Soccer Channel 🔵
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-Logo: https://www.visionplus.id/images/repository/655/655-LOGO-m.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: Soccer Channel 🔵 2
 URL: https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 Logo: https://www.visionplus.id/images/repository/655/655-LOGO-m.png
@@ -13630,16 +13615,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: CTV 3 (SERI A)
 URL: https://seprai.jasoncreak8.workers.dev/play.mpd?id=19404&type=dash
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Sportstars 🔵
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-Logo: https://www.visionplus.id/images/repository/652/652-LOGO-m.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Sportstars 4 🔵
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-Logo: https://www.visionplus.id/images/repository/652/652-LOGO-m.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Fight Sports 🔵
@@ -14125,11 +14100,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: BTV (CBM)
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 Logo: https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Trans7
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-Logo: https://images.indihometv.com/logo_trans7_ver1.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Kilat TV
@@ -15012,11 +14982,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: AL QURAN KAREEM (DNS)
 URL: https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
 Logo: https://mimipipi22.github.io/logo/religion/alqurankareem.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: Alquran AlKarem
-URL: https://ogietv.biz.id:443/Livetv/234/1479.m3u8
-Logo: https://www.visionplus.id/images/repository/677/677-LOGO-m.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 
@@ -15990,13 +15955,23 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 
 Group: SPORTS
 Name: BEIN Sports 1 HD
-URL: http://filex.me:8080/live/3114654477/5787654467/501229.ts
+URL: https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 Logo: http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: BEIN Sports 3 HD
-URL: http://filex.me:8080/live/3114654477/5787654467/501230.ts
-Logo: http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png
+Name: Soccer
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_101.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Sportstars 1
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_102.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Sportstars 4
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_88.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 
@@ -16284,11 +16259,6 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: MOTOR VISION+
 URL: https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
 Logo: https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: BeIN Sports AU 1
-URL: https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-Logo: https://shorter.me/sYn-B
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Prima Sport 1
@@ -20348,11 +20318,6 @@ URL: http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: INDOSIAR 1
-URL: https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: INDOSIAR 2
 URL: https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png
@@ -20456,11 +20421,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: MOJI TV (Video)
 URL: https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
 Logo: https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: RTV (V+)
-URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
-Logo: https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: RTV (Vidio)
@@ -21581,6 +21541,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: INEWS (MAX)
 URL: https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/inews.jpg
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: SINDONEWS (MAX)
+URL: https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+Logo: https://mimipipi22.github.io/logo/nasional/sindonews.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: SCTV (MAX)
@@ -23348,11 +23313,6 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 Name: Radar Tasikmalaya TV (720p) [Not 24/7]
 URL: https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png
-Source: https://iptv-org.github.io/iptv/countries/id.m3u
---------------------------------------------------
-Name: Rajawali TV (1080p)
-URL: http://202.150.172.59/RajawaliTV/index.m3u8
-Logo: https://i.imgur.com/dlsv1sl.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: RRI Net (1080p)
