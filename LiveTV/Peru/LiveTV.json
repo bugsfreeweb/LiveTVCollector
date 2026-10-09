@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09 02:32:20",
+  "date": "2026-10-09 10:14:42",
   "channels": {
     "General": [
       {
@@ -1146,6 +1146,13 @@
         "url": "https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8"
       },
       {
+        "name": "Space (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.171.64.30:6060/play/a04n/index.m3u8"
+      },
+      {
         "name": "Studio Universal Latin America (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
         "group": "Undefined",
@@ -1225,6 +1232,43 @@
         "url": "http://187.102.210.46/IPE/index.m3u8"
       }
     ],
+    "Animation;Kids": [
+      {
+        "name": "Cartoon Network Latin America South Pacific (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.167.1.138:8000/play/a00w"
+      },
+      {
+        "name": "Disney Channel Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
+      },
+      {
+        "name": "Disney Channel Latin America Panregional HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+      },
+      {
+        "name": "Disney Jr. Latin America South (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8"
+      },
+      {
+        "name": "Disney Jr. Latin America South HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8"
+      }
+    ],
     "Kids": [
       {
         "name": "Chikitoonz (1080p)",
@@ -1262,36 +1306,6 @@
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Disney Channel Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
-      },
-      {
-        "name": "Disney Channel Latin America Panregional HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
-      },
-      {
-        "name": "Disney Jr. Latin America South (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://45.185.163.75:8000/play/a016/index.m3u8"
-      },
-      {
-        "name": "Disney Jr. Latin America South HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8"
       }
     ],
     "Sports": [
@@ -1395,6 +1409,15 @@
         "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8"
       }
     ],
+    "Lifestyle": [
+      {
+        "name": "TLC Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://38.134.250.110:8000/play/a00n/index.m3u8"
+      }
+    ],
     "TV PERU": [
       {
         "name": "02 | LATINA TV ᴴᴰ |",
@@ -1465,13 +1488,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8"
-      },
-      {
-        "name": "09 | ATV ᴴᴰ |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://da4beup24mhfa.cloudfront.net/7_4/index.m3u8"
       },
       {
         "name": "10 | ATV PLUS |",
@@ -1621,6 +1637,13 @@
         "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8"
       },
       {
+        "name": "29.3 | MOVISTAR DEPORTES |",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://195.178.110.110/movistar/index.m3u8"
+      },
+      {
         "name": "30 | CONTACTO TV/DEPORTES |",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "TV PERU",
@@ -1731,20 +1754,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
-      },
-      {
-        "name": "51 | IDENTIDAD TV |",
-        "logo": "https://i.imgur.com/R2s9c5D.jpeg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://stream.mediacorp.pe/srt/2/chunks.m3u8"
-      },
-      {
-        "name": "49.1 | VITAL TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://stream.mediacorp.pe/srt/1/chunks.m3u8"
       },
       {
         "name": "52 | DUNAS TV ᴴᴰ |",
@@ -2279,7 +2288,7 @@
         "url": "https://7.innovatestream.pe:19360/tvcliente0026/tvcliente0026.m3u8"
       },
       {
-        "name": "167 | ANDES TV |",
+        "name": "167 | ANDES TV SICUANI |",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
