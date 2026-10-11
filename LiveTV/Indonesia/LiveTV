@@ -10338,12 +10338,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"
   },
   {
-    "name": "iNews HD (1080p)",
-    "type": "News",
-    "url": "http://202.150.172.59/iNews/index.m3u8",
-    "img": "https://i.imgur.com/M2R3lfg.png"
-  },
-  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",Kompas TV [Geo-blocked]",
     "type": "News",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8",
@@ -16028,37 +16022,25 @@
   {
     "name": "06. RCTI 2",
     "type": "INDONESIA TV",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
+    "url": "http://202.150.172.59/RCTIHD/index.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png"
   },
   {
     "name": "05. MNCTV 2",
     "type": "INDONESIA TV",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png"
-  },
-  {
-    "name": "05. MNCTV 1",
-    "type": "INDONESIA TV",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
+    "url": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png"
   },
   {
     "name": "08. GTV 2",
     "type": "INDONESIA TV",
-    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd",
+    "url": "http://202.150.172.59/GTVHD/index.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png"
   },
   {
-    "name": "08. GTV 1",
+    "name": "15. INEWS 2",
     "type": "INDONESIA TV",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png"
-  },
-  {
-    "name": "15. INEWS 1",
-    "type": "INDONESIA TV",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
+    "url": "http://202.150.172.59/iNews/index.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png"
   },
   {
@@ -16066,6 +16048,12 @@
     "type": "INDONESIA TV",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd",
     "img": "https://mimipipi22.github.io/logo/nasional/sindonews.jpg"
+  },
+  {
+    "name": "07. SCTV 2",
+    "type": "INDONESIA TV",
+    "url": "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png"
   },
   {
     "name": "07. SCTV 1",
@@ -16076,7 +16064,13 @@
   {
     "name": "03. INDOSIAR 1",
     "type": "INDONESIA TV",
-    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash",
+    "url": "http://202.150.172.59/Indosiar/index.m3u8",
+    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png"
+  },
+  {
+    "name": "03. INDOSIAR 2",
+    "type": "INDONESIA TV",
+    "url": "http://tvratu.my.id/vid/index.mpd?id=205&type=dash",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png"
   },
   {
@@ -16114,12 +16108,6 @@
     "type": "INDONESIA TV",
     "url": "http://tvratu.my.id/nissa/index.mpd?id=782&type=dash",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png"
-  },
-  {
-    "name": "12. RTV 2",
-    "type": "INDONESIA TV",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png"
   },
   {
     "name": "12. RTV 1",
@@ -16166,7 +16154,7 @@
   {
     "name": "01. TVRI NASIONAL 2",
     "type": "INDONESIA TV",
-    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash",
+    "url": "http://202.150.172.59/TVRI/index.m3u8",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png"
   },
   {
@@ -17598,6 +17586,12 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "GTV (R+)",
+    "type": "No SignaL 📺",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
+    "img": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png"
+  },
+  {
     "name": "FS 1 🇺🇸",
     "type": "No SignaL 📺",
     "url": "http://1tv41.icu:8080/live/aQwbj3/140716/1846.ts",
@@ -17910,16 +17904,34 @@
     "img": "https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png"
   },
   {
+    "name": "RCTI",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png"
+  },
+  {
     "name": "RCTI 1",
     "type": "NasioNaL DiGitaL 📡",
     "url": "https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786276114~hmac=d9a8e3490aae17f54d3f46aa4bda11f49ce959615a46e31057b6082af655a51c",
     "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png"
   },
   {
+    "name": "MNCTV",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png"
+  },
+  {
     "name": "MNCTV 1",
     "type": "NasioNaL DiGitaL 📡",
     "url": "https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786276114~hmac=2b9bece66aa2c8f0c6f0384fd89ce62f976867e108544923d054cb82745e3363",
     "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png"
+  },
+  {
+    "name": "GTV",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png"
   },
   {
     "name": "GTV 1",
@@ -18670,6 +18682,18 @@
     "type": "NasioNaL DiGitaL 📡",
     "url": "https://popmi.my.id/tes.m3u8?id=19046",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png"
+  },
+  {
+    "name": "MNC TV (R+)",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png"
+  },
+  {
+    "name": "iNews (R+)",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png"
   },
   {
     "name": "BN Channel",
@@ -30552,6 +30576,12 @@
     "img": "https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png"
   },
   {
+    "name": "INDOSIAR 1",
+    "type": "TV BackUP",
+    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash",
+    "img": "https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png"
+  },
+  {
     "name": "INDOSIAR 2",
     "type": "TV BackUP",
     "url": "https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8",
@@ -30676,6 +30706,12 @@
     "type": "TV BackUP",
     "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206",
     "img": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"
+  },
+  {
+    "name": "RTV (V+)",
+    "type": "TV BackUP",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd",
+    "img": "https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png"
   },
   {
     "name": "RTV (Vidio)",
@@ -33174,18 +33210,6 @@
     "img": "https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png"
   },
   {
-    "name": "GTV (Indonesia) HD (1080p)",
-    "type": "General",
-    "url": "http://202.150.172.59/GTVHD/index.m3u8",
-    "img": "https://i.imgur.com/jjuKnYs.png"
-  },
-  {
-    "name": "Indosiar HD (1080p)",
-    "type": "General",
-    "url": "http://202.150.172.59/Indosiar/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png"
-  },
-  {
     "name": "Jambi TV",
     "type": "General",
     "url": "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8",
@@ -33264,28 +33288,10 @@
     "img": "https://i.imgur.com/MYU7dsZ.png"
   },
   {
-    "name": "MNCTV HD",
-    "type": "General",
-    "url": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/SK8pjQy.png"
-  },
-  {
     "name": "Padang TV (720p) [Not 24/7]",
     "type": "General",
     "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
     "img": "https://i.imgur.com/EL2BfxY.png"
-  },
-  {
-    "name": "RCTI HD (1080p)",
-    "type": "General",
-    "url": "http://202.150.172.59/RCTIHD/index.m3u8",
-    "img": "https://i.imgur.com/iLFx8ia.png"
-  },
-  {
-    "name": "SCTV",
-    "type": "General",
-    "url": "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/EMmOvnQ.png"
   },
   {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TVRI (480p) [Geo-blocked]",
