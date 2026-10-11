@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11 01:26:40",
+  "date": "2026-10-11 10:49:48",
   "channels": {
     "NACIONAL": [
       {
@@ -408,7 +408,7 @@
         "logo": "https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.68.134.207/live/ry6utrh/s.m3u8"
+        "url": "http://200.115.96.66:4000/play/a0dn/index.m3u8"
       },
       {
         "name": "TELEMUNDO DEPORTES",
@@ -551,11 +551,25 @@
         "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
       },
       {
+        "name": "NBA",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nba.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491495"
+      },
+      {
         "name": "RALLY TV",
         "logo": "https://static-resources.redbull.tv/images/smarttv/rallytv/logos/logo-dark.svg",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
+      },
+      {
+        "name": "DAZN LA LIGA",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://200.115.120.1:8000/play/ca081/index.m3u8"
       }
     ],
     "Uncategorized": [
@@ -650,14 +664,14 @@
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/884x202/Y2gwMTAwMDAwMDAwMjE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_884x202.png?timestamp=1778916405945",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.61.46.92:8009/play/a0fb/index.m3u8"
+        "url": "http://38.7.195.44:8000/play/a0d6"
       },
       {
         "name": "AZCINEMA",
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x180/Y2gwMTAwMDAwMDAwMDgxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x180.png?timestamp=1778915725134",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://201.174.175.3:8000/play/a0y9/index.m3u88"
+        "url": "http://186.148.196.100:8000/play/a013"
       },
       {
         "name": "AVI CINE",
@@ -678,14 +692,14 @@
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778940911589",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.49.253:8000/play/a05z/index.m3u8"
+        "url": "http://38.187.7.252:8000/play/a05z/index.m3u8"
       },
       {
         "name": "CINEMAX",
         "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.49.253:8000/play/a0ax/index.m3u8"
+        "url": "http://38.44.109.41:8003/play/a0ek/index.m3u8"
       },
       {
         "name": "CINE FAMILIAR",
@@ -811,7 +825,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.226.49.253:8000/play/a07s/index.m3u8"
+        "url": "http://38.187.7.252:8000/play/a04e/index.m3u8"
       },
       {
         "name": "FX",
@@ -1569,6 +1583,13 @@
         "group": "CANALES ADULTOS",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://200.115.120.1:8000/play/ca98/index.m3u8"
+      },
+      {
+        "name": "group-title=\"CANALES ADULTOS\", HUSTLER",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "CANALES ADULTOS",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://200.115.120.1:8000/play/ca96/index.m3u8"
       }
     ],
     "20th Asian Games Aichi-Nagoya 2026": [
