@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11 01:20:40",
+  "date": "2026-10-11 09:58:50",
   "channels": {
     "Movies": [
       {
@@ -1931,6 +1931,20 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8"
+      },
+      {
+        "name": "ESPN 2 (United States) (720p)",
+        "logo": "https://i.imgur.com/00tsvjE.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
+      },
+      {
+        "name": "ESPN (United States) (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
       },
       {
         "name": "ESPN Deportes HD (720p)",
@@ -3890,11 +3904,11 @@
         "url": "https://estrella-news-oando.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "Fox News Channel (720p)",
+        "name": "Fox News Channel (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8"
+        "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
       },
       {
         "name": "Fox News Radio (720p)",
@@ -7463,7 +7477,7 @@
         "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8"
       },
       {
-        "name": "Discovery Channel (1080p) [Geo-blocked]",
+        "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -10821,11 +10835,18 @@
         "url": "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8"
       },
       {
-        "name": "TBS (720p)",
+        "name": "TBS (720p) [Geo-blocked]",
         "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://193.254.245.162/TBS/index.m3u8"
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8"
+      },
+      {
+        "name": "TBS West (720p) [Geo-blocked]",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8"
       },
       {
         "name": "Tele Pam (1080p)",
@@ -10898,11 +10919,18 @@
         "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8"
       },
       {
-        "name": "TNT (United States) (720p)",
+        "name": "TNT (United States) (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://193.254.245.162/TNT-HD/index.m3u8"
+        "url": "http://212.5.144.156/tnt/index.m3u8"
+      },
+      {
+        "name": "TNT (United States) West (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
       },
       {
         "name": "TV Daja (1080p) [Not 24/7]",
@@ -11730,6 +11758,13 @@
         "url": "https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8"
       },
       {
+        "name": "The Weather Channel (1080p)",
+        "logo": "https://i.imgur.com/PIaNjfa.png",
+        "group": "Weather",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8"
+      },
+      {
         "name": "WeatherNation (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png",
         "group": "Weather",
@@ -11795,7 +11830,7 @@
         "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
       },
       {
-        "name": "Food Network (720p)",
+        "name": "Food Network (United States) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -11930,14 +11965,14 @@
         "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8"
       },
       {
-        "name": "Animal Planet (720p)",
+        "name": "Animal Planet (United States) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.239.31.26:8989/animalplanet/index.m3u8"
       },
       {
-        "name": "Animal Planet East HD (720p)",
+        "name": "Animal Planet (United States) East HD (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -12056,7 +12091,7 @@
         "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8"
       },
       {
-        "name": "Investigation Discovery (1080p) [Geo-blocked]",
+        "name": "Investigation Discovery (United States) (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -12723,6 +12758,13 @@
         "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
       },
       {
+        "name": "Discovery Family (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Discovery_Family_Channel_%28DFC%29.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
+      },
+      {
         "name": "Dove Channel (1080p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Family",
@@ -13030,6 +13072,20 @@
         "group": "Classic;Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "TCM (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",
+        "group": "Classic;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
+      },
+      {
+        "name": "TCM West (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",
+        "group": "Classic;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8"
       }
     ],
     "General;Legislative": [
@@ -14157,6 +14213,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8"
+      },
+      {
+        "name": "truTV West (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8"
       },
       {
         "name": "TSTV (720p)",
@@ -25132,13 +25195,6 @@
         "group": "Weather News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/42308"
-      },
-      {
-        "name": "The Weather Channel+",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Weather News",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8"
       },
       {
         "name": "FOX Weather",
