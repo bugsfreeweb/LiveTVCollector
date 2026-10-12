@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12 01:26:46",
+  "date": "2026-10-12 10:11:01",
   "channels": {
     "Entertainment": [
       {
@@ -43,6 +43,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Discovery Channel (Italy) (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
       },
       {
         "name": "Geordie Shore (Germany)",
@@ -1707,6 +1714,13 @@
         "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8"
       },
       {
+        "name": "HGTV (1080p)",
+        "logo": "https://i.imgur.com/ejPii8T.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+      },
+      {
         "name": "Pluto TV Real Life",
         "logo": "https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png",
         "group": "Lifestyle",
@@ -1811,11 +1825,11 @@
         "url": "https://stream.paroledivita.org/bejoy.m3u8"
       },
       {
-        "name": "Disney Channel (Germany)",
+        "name": "Disney Channel (Germany) (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass"
+        "url": "https://s6.hopslan.com/disneyX/index.m3u8"
       },
       {
         "name": "Iunior TV (1080p)",
@@ -2431,6 +2445,29 @@
         "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
       }
     ],
+    "Animation;Kids": [
+      {
+        "name": "Cartoon Network (Italy) HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://zg9mhld.s.gy/HD-CARTOON-IT.ts"
+      },
+      {
+        "name": "Mr Bean Animated IT (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Teenage Mutant Ninja Turtles (720p)",
+        "logo": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8"
+      }
+    ],
     "Shop": [
       {
         "name": "Casa Italia 53 (720p)",
@@ -2477,13 +2514,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
-      },
-      {
-        "name": "Horror Channel (1080p)",
-        "logo": "https://i.imgur.com/VvNflYm.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://str2.iptvhd.ru:8080/Horror/index.m3u8"
       },
       {
         "name": "Pluto TV Alberto Sordi",
@@ -2812,6 +2842,15 @@
         "url": "https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-67884bd6d37f2fd48d6220db.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ReeL7vsBisvCW9xebomo"
       }
     ],
+    "Cooking": [
+      {
+        "name": "Food Network (Italy) (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
+      }
+    ],
     "Cooking;Lifestyle": [
       {
         "name": "Gambero Rosso Channel (720p)",
@@ -2944,22 +2983,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Mr Bean Animated IT (1080p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Teenage Mutant Ninja Turtles (720p)",
-        "logo": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8"
       }
     ],
     "Outdoor;Travel": [
