@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MjAgQU0maGFzaF92YWx1ZT1Ecm4wMElBREpENFUzcHNaaHBMdDR3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjNiZDYwOTUtOTUzOS00YWYyLTlkNWUtNjgyOWVjNzQ5YzEw/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiAxMTo0ODo0MSBQTSZoYXNoX3ZhbHVlPVFyQ2FJbitjdlZ2d3lZOHB2Z0pNOXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ZmQwYTNlZC1lMGU5LTRmZWUtYjE1YS1iYzRlMDFmZjNjODc=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MTkgQU0maGFzaF92YWx1ZT14VmN0TkFJVWRSTXV1RDc1R2MvckZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjQ1NDY3Y2EtY2VhOS00ODgwLWI0MjctNjg3OTk0MzY3MDZm/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiAxMTo0ODo0MCBQTSZoYXNoX3ZhbHVlPUlQbmJjM2tWQzlkMUw0THllajJOSUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMGJmOTRkZS1hMDg3LTQxMDEtOGE2NS01ZTExYzMzYjBlNzU=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -248,7 +248,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MTkgQU0maGFzaF92YWx1ZT13ZWxnUFNxR0M0TnNLQTQvNWIvTkhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmJhYmY1M2EtOTY2YS00NDUwLThkYmMtNjJmN2UwNjZkZTQx/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiAxMTo0ODo0MCBQTSZoYXNoX3ZhbHVlPThiVjhqZmFSdnM5U1I0Vm9uQzdXVWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMWM2OGU2Yy1mZjM1LTRhNTMtOGE1NC1kNTAyYTllNTMzODQ=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3258,6 +3258,12 @@
     "img": "https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg"
   },
   {
+    "name": "Boas Novas",
+    "type": "Variedades",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+    "img": "https://i.imgur.com/ZqhizdP.png"
+  },
+  {
     "name": "Canal 25 Jundiai",
     "type": "Variedades",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -3388,12 +3394,6 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
-  },
-  {
-    "name": "Fala Litoral",
-    "type": "Variedades",
-    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -4120,6 +4120,12 @@
     "type": "Notícia",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
     "img": "https://i.imgur.com/aMuMVvB.png"
+  },
+  {
+    "name": "TV A Folha",
+    "type": "Notícia",
+    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "img": "https://i.imgur.com/I7XGMhj.png"
   },
   {
     "name": "TV Brusque",
