@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12 01:27:15",
+  "date": "2026-10-12 10:12:25",
   "channels": {
     "Uncategorized": [
       {
@@ -1886,6 +1886,13 @@
         "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8"
       },
       {
+        "name": "Lifetime Latin America Mexico (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://streaming.onnethn.com/LIFETIME/index.m3u8"
+      },
+      {
         "name": "MTV Latin America (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
         "group": "Entertainment",
@@ -2102,32 +2109,14 @@
         "url": "https://video.cdmx.gob.mx/redes/stream.m3u8"
       }
     ],
-    "Comedy": [
-      {
-        "name": "Comedy Central Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Discovery Kids Latin America Mexico (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "http://38.65.175.84:8000/play/a0an/index.m3u8"
-      },
-      {
-        "name": "El Chavo TV (720p)",
-        "logo": "https://gia.tv/streams/pptv/211465.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
-      }
-    ],
     "Animation;Kids": [
+      {
+        "name": "Cartoon Network Latin America Mexico",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://zg9mhld.s.gy/HD-CARTOON-MX.ts"
+      },
       {
         "name": "Disney Channel Latin America Mexico (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
@@ -2155,6 +2144,31 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Comedy Central Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Discovery Kids Latin America Mexico (1080p)",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://38.65.175.84:8000/play/a0an/index.m3u8"
+      },
+      {
+        "name": "El Chavo TV (720p)",
+        "logo": "https://gia.tv/streams/pptv/211465.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
       }
     ],
     "Entertainment;News": [
