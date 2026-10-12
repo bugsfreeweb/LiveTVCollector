@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12 01:27:23",
+  "date": "2026-10-12 10:14:21",
   "channels": {
     "Movies": [
       {
@@ -143,7 +143,7 @@
         "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8"
       },
       {
-        "name": "Cinemax West (720p)",
+        "name": "Cinemax (United States) West (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -2078,6 +2078,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8"
+      },
+      {
+        "name": "NFL Network (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://198.58.104.90:8989/nfl/index.m3u8"
       },
       {
         "name": "NHL Network (1080p)",
@@ -8850,6 +8857,20 @@
         "url": "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8"
       },
       {
+        "name": "HBO (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://tvsen7.aynascope.net/hbo/index.m3u8"
+      },
+      {
+        "name": "HBO Hits (720p)",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+      },
+      {
         "name": "HBO Movies (720p)",
         "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
         "group": "Movies;Series",
@@ -8983,6 +9004,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8"
+      },
+      {
+        "name": "Boomerang (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
       },
       {
         "name": "Brat TV (1080p)",
@@ -9982,7 +10010,7 @@
       },
       {
         "name": "Fox (United States) (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://stream.cammonitorplus.net/1752/index.m3u8"
@@ -9996,98 +10024,98 @@
       },
       {
         "name": "Fox (United States) KCPQ (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
       },
       {
         "name": "Fox (United States) KDFW (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
       },
       {
         "name": "Fox (United States) KMPH-TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8"
       },
       {
         "name": "Fox (United States) KOKH-TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8"
       },
       {
         "name": "Fox (United States) KRIV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8"
       },
       {
         "name": "Fox (United States) KSAZ-TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
       },
       {
         "name": "Fox (United States) KTBC (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8"
       },
       {
         "name": "Fox (United States) KTTV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
       },
       {
         "name": "Fox (United States) WBFF (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
       },
       {
         "name": "Fox (United States) West (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://stream.cammonitorplus.net/1799/index.m3u8"
       },
       {
         "name": "Fox (United States) WFTX-TV (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
       },
       {
         "name": "Fox (United States) WFXT (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
       },
       {
         "name": "Fox (United States) WHBQ-TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8"
       },
       {
         "name": "Fox (United States) WITI (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8"
@@ -10101,28 +10129,28 @@
       },
       {
         "name": "Fox (United States) WNYW (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
       },
       {
         "name": "Fox (United States) WSVN (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://190.197.41.183/Fox/index.m3u8"
       },
       {
         "name": "Fox (United States) WTTG (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
       },
       {
         "name": "Fox (United States) WTVT (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
@@ -10136,7 +10164,7 @@
       },
       {
         "name": "Fox (United States) WXXV-TV (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
@@ -14515,6 +14543,50 @@
         "url": "http://66.242.170.53/hls/live/temp/index.m3u8"
       }
     ],
+    "Animation;Kids": [
+      {
+        "name": "Cartoon Network (United States) (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
+      },
+      {
+        "name": "Hasbro Legends (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/JDM9rEV.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8"
+      },
+      {
+        "name": "KidOO (1080p) [Geo-blocked]",
+        "logo": "https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://15.204.246.24:8080/KidooHD/index.m3u8"
+      },
+      {
+        "name": "Mr Bean Animated (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Nickelodeon Pluto TV (720p)",
+        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
+      },
+      {
+        "name": "Tooncast (1080p)",
+        "logo": "https://i.imgur.com/3yXRbQy.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://38.134.250.110:8000/play/a01t/index.m3u8"
+      }
+    ],
     "Culture;News": [
       {
         "name": "Channel One (United States)",
@@ -14583,43 +14655,6 @@
         "group": "Auto;Travel",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Hasbro Legends (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/JDM9rEV.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8"
-      },
-      {
-        "name": "KidOO (1080p) [Geo-blocked]",
-        "logo": "https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://15.204.246.24:8080/KidooHD/index.m3u8"
-      },
-      {
-        "name": "Mr Bean Animated (1080p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Nickelodeon Pluto TV (720p)",
-        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
-      },
-      {
-        "name": "Tooncast (1080p)",
-        "logo": "https://i.imgur.com/3yXRbQy.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://38.134.250.110:8000/play/a01t/index.m3u8"
       }
     ],
     "Classic;Comedy": [
