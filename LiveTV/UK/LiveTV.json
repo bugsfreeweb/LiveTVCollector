@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14 09:26:49",
+  "date": "2026-10-14 18:53:21",
   "channels": {
     "Series": [
       {
@@ -385,13 +385,6 @@
         "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8"
       },
       {
-        "name": "BBC News (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://xemzi.short.gy/1000015"
-      },
-      {
         "name": "BBC News UK HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
         "group": "News",
@@ -418,13 +411,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "GB News HD (2160p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://xemzi.short.gy/1000017"
       },
       {
         "name": "Iran International (1080p)",
@@ -1116,20 +1102,6 @@
         "url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd"
       },
       {
-        "name": "BBC UHD 1 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://xemzi.short.gy/1000001"
-      },
-      {
-        "name": "BBC UHD 2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://xemzi.short.gy/1000002"
-      },
-      {
         "name": "BBC UHD 4 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
         "group": "General",
@@ -1200,13 +1172,6 @@
         "url": "https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8"
       },
       {
-        "name": "ITV2 HD (1080p)",
-        "logo": "https://i.imgur.com/2BpUK0W.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://xemzi.short.gy/1000012"
-      },
-      {
         "name": "ITV4 (360p)",
         "logo": "https://i.imgur.com/DYI4IA2.png",
         "group": "General",
@@ -1265,6 +1230,99 @@
         "group": "Animation;Kids;Series",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "BabyTV (1080p)",
+        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://57.128.231.171:8080/310/index.m3u8"
+      },
+      {
+        "name": "CBBC (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/tk8G4CU.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd"
+      },
+      {
+        "name": "CBBC HD",
+        "logo": "https://i.imgur.com/tk8G4CU.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd"
+      },
+      {
+        "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd"
+      },
+      {
+        "name": "CBeebies (United Kingdom) HD",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd"
+      },
+      {
+        "name": "Moonbug Kids (1080p)",
+        "logo": "https://i.imgur.com/vZHtxQb.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Nickelodeon (United Kingdom) (576p)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8"
+      },
+      {
+        "name": "Pop Up (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/GdSotmS.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8"
+      },
+      {
+        "name": "Teletubbies (720p)",
+        "logo": "https://i.imgur.com/J9iWjWL.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8"
+      },
+      {
+        "name": "Tiny Pop (1080p)",
+        "logo": "https://i.imgur.com/zCTf71x.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8"
+      },
+      {
+        "name": "Tiny Pop +1 (576p)",
+        "logo": "https://i.imgur.com/zCTf71x.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://92.114.85.72:8000/play/a08p"
+      },
+      {
+        "name": "Totally Turtles (Germany) GB",
+        "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8"
+      },
+      {
+        "name": "YAAAS! (720p) [Geo-blocked]",
+        "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8"
       }
     ],
     "Culture;Documentary": [
@@ -1632,92 +1690,6 @@
         "group": "Animation;Family;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "http://193.46.58.239:8080/CBBCHD/index.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "CBBC (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/tk8G4CU.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd"
-      },
-      {
-        "name": "CBBC HD",
-        "logo": "https://i.imgur.com/tk8G4CU.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd"
-      },
-      {
-        "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd"
-      },
-      {
-        "name": "CBeebies (United Kingdom) HD",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd"
-      },
-      {
-        "name": "Moonbug Kids (1080p)",
-        "logo": "https://i.imgur.com/vZHtxQb.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Nickelodeon (United Kingdom) (576p)",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8"
-      },
-      {
-        "name": "Pop Up (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/GdSotmS.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8"
-      },
-      {
-        "name": "Teletubbies (720p)",
-        "logo": "https://i.imgur.com/J9iWjWL.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8"
-      },
-      {
-        "name": "Tiny Pop (1080p)",
-        "logo": "https://i.imgur.com/zCTf71x.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8"
-      },
-      {
-        "name": "Tiny Pop +1 (576p)",
-        "logo": "https://i.imgur.com/zCTf71x.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "http://92.114.85.72:8000/play/a08p"
-      },
-      {
-        "name": "Totally Turtles (Germany) GB",
-        "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8"
-      },
-      {
-        "name": "YAAAS! (720p) [Geo-blocked]",
-        "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8"
       }
     ],
     "Culture": [
