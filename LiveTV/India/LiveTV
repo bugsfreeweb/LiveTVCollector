@@ -258,6 +258,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/C_News_Bharat.png"
   },
   {
+    "name": "CNN News 18 (1080p)",
+    "type": "News",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "name": "CTVN AKD Plus (1080p)",
     "type": "News",
     "url": "https://live.legitpro.co.in/ctvnakdplus/index.m3u8",
@@ -2160,12 +2166,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png"
   },
   {
-    "name": "Star Movies Select HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Studio One + (720p)",
     "type": "Movies",
     "url": "https://cdn.pishow.tv/ott/live/276/master.m3u8",
@@ -3414,9 +3414,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
-    "name": "Zee Tamil HD (720p)",
+    "name": "Zee Tamil HD (1080p)",
     "type": "Entertainment",
-    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8",
+    "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540"
   },
   {
@@ -3448,6 +3448,72 @@
     "type": "Culture;Music",
     "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
     "img": "https://i.imgur.com/rmCBD3e.png"
+  },
+  {
+    "name": "Animal Planet (India) HD (720p)",
+    "type": "Documentary",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "DocuBay TV (1080p)",
+    "type": "Documentary",
+    "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
+    "img": "https://i.imgur.com/OGyeLLR.png"
+  },
+  {
+    "name": "Epic Crimes (1080p)",
+    "type": "Documentary",
+    "url": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
+    "img": "https://i.imgur.com/a5kaqDc.png"
+  },
+  {
+    "name": "History TV18 (576p)",
+    "type": "Documentary",
+    "url": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls",
+    "img": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "History TV18 HD",
+    "type": "Documentary",
+    "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
+    "img": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "INWILD (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "img": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"
+  },
+  {
+    "name": "National Geographic (India) (576p) [Geo-blocked]",
+    "type": "Documentary",
+    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+    "img": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "National Geographic (India) HD (1080p)",
+    "type": "Documentary",
+    "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "National Geographic Wild (India) HD (1080p)",
+    "type": "Documentary",
+    "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Safari TV (576p)",
+    "type": "Documentary",
+    "url": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Sony BBC Earth HD (1080p)",
+    "type": "Documentary",
+    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Animax Asia India (1080p) [Geo-blocked]",
@@ -3792,6 +3858,54 @@
     "img": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg"
   },
   {
+    "name": "Cartoon Network (India) (720p)",
+    "type": "Animation;Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Cartoon Network HD+ (720p)",
+    "type": "Animation;Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Mr Bean Animated (1080p)",
+    "type": "Animation;Kids",
+    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png"
+  },
+  {
+    "name": "Sony Yay! (576p)",
+    "type": "Animation;Kids",
+    "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Super Hungama (576p)",
+    "type": "Animation;Kids",
+    "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "WOW Kidz (720p)",
+    "type": "Animation;Kids",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "img": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png"
+  },
+  {
+    "name": "WOW Kidz Tamil (720p)",
+    "type": "Animation;Kids",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "img": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png"
+  },
+  {
+    "name": "WOW Kidz Telugu (720p)",
+    "type": "Animation;Kids",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "img": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png"
+  },
+  {
     "name": "CCV (480p)",
     "type": "General",
     "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
@@ -4122,6 +4236,12 @@
     "img": "https://i.imgur.com/xv9cWSh.png"
   },
   {
+    "name": "Discovery Kids (720p)",
+    "type": "Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
+    "img": "https://i.imgur.com/0iNQvoL.png"
+  },
+  {
     "name": "Disney Channel (India) HD (1080p)",
     "type": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
@@ -4386,66 +4506,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp"
   },
   {
-    "name": "DocuBay TV (1080p)",
-    "type": "Documentary",
-    "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
-    "img": "https://i.imgur.com/OGyeLLR.png"
-  },
-  {
-    "name": "Epic Crimes (1080p)",
-    "type": "Documentary",
-    "url": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
-    "img": "https://i.imgur.com/a5kaqDc.png"
-  },
-  {
-    "name": "History TV18 (576p)",
-    "type": "Documentary",
-    "url": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls",
-    "img": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "History TV18 HD",
-    "type": "Documentary",
-    "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
-    "img": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "INWILD (1080p)",
-    "type": "Documentary",
-    "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
-    "img": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"
-  },
-  {
-    "name": "National Geographic (India) (576p) [Geo-blocked]",
-    "type": "Documentary",
-    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
-    "img": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "National Geographic (India) HD (1080p)",
-    "type": "Documentary",
-    "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "National Geographic Wild (India) HD (1080p)",
-    "type": "Documentary",
-    "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Safari TV (576p)",
-    "type": "Documentary",
-    "url": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony BBC Earth HD (1080p)",
-    "type": "Documentary",
-    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540"
-  },
-  {
     "name": "ETV Comedy (1080p)",
     "type": "Comedy",
     "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
@@ -4516,42 +4576,6 @@
     "type": "Education;News;Science",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
     "img": "https://www.medibiztv.com/assets/logo-E76jcvP9.png"
-  },
-  {
-    "name": "Mr Bean Animated (1080p)",
-    "type": "Animation;Kids",
-    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png"
-  },
-  {
-    "name": "Sony Yay! (576p)",
-    "type": "Animation;Kids",
-    "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Super Hungama (576p)",
-    "type": "Animation;Kids",
-    "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "WOW Kidz (720p)",
-    "type": "Animation;Kids",
-    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "img": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png"
-  },
-  {
-    "name": "WOW Kidz Tamil (720p)",
-    "type": "Animation;Kids",
-    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "img": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png"
-  },
-  {
-    "name": "WOW Kidz Telugu (720p)",
-    "type": "Animation;Kids",
-    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "img": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png"
   },
   {
     "name": "Sansad TV 1 (1080p)",
