@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14 09:19:24",
+  "date": "2026-10-14 18:51:22",
   "channels": {
     "Entertainment": [
       {
@@ -1846,6 +1846,13 @@
         "url": "http://102.129.186.182:81/nick/index.m3u8"
       },
       {
+        "name": "Nickelodeon (Italy)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8"
+      },
+      {
         "name": "Pluto TV Teen IT (720p)",
         "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
         "group": "Kids",
@@ -2438,29 +2445,6 @@
         "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
       }
     ],
-    "Animation;Kids": [
-      {
-        "name": "Cartoon Network (Italy) HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073"
-      },
-      {
-        "name": "Mr Bean Animated IT (1080p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Teenage Mutant Ninja Turtles (720p)",
-        "logo": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8"
-      }
-    ],
     "Shop": [
       {
         "name": "Casa Italia 53 (720p)",
@@ -2983,6 +2967,22 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Mr Bean Animated IT (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+      },
+      {
+        "name": "Teenage Mutant Ninja Turtles (720p)",
+        "logo": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8"
       }
     ],
     "Outdoor;Travel": [
