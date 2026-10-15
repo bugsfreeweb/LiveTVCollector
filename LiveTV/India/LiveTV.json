@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15 09:24:26",
+  "date": "2026-10-15 18:41:08",
   "channels": {
     "News": [
       {
@@ -3392,6 +3392,13 @@
         "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8"
       },
       {
+        "name": "Discovery Channel (India) (720p)",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8"
+      },
+      {
         "name": "E 24 (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png",
         "group": "Entertainment",
@@ -4040,6 +4047,13 @@
     ],
     "Documentary": [
       {
+        "name": "Animal Planet (India) (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
+      },
+      {
         "name": "Animal Planet (India) HD (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
         "group": "Documentary",
@@ -4073,6 +4087,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng"
+      },
+      {
+        "name": "Investigation Discovery (India) (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
       },
       {
         "name": "INWILD (1080p)",
@@ -5179,6 +5200,13 @@
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
+        "name": "Eurosport (720p)",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
+      },
+      {
         "name": "Kabaddi 24x7 (576p)",
         "logo": "https://papaji.freetvindia.com/media/kabaddi_24x7.png",
         "group": "Sports",
@@ -5298,6 +5326,31 @@
         "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls"
       }
     ],
+    "Science": [
+      {
+        "name": "Discovery Science (720p)",
+        "logo": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8"
+      },
+      {
+        "name": "InWonder (1080p)",
+        "logo": "https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8"
+      }
+    ],
+    "Auto": [
+      {
+        "name": "Discovery Turbo (India) (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8"
+      }
+    ],
     "Comedy": [
       {
         "name": "ETV Comedy (1080p)",
@@ -5346,15 +5399,6 @@
         "group": "Movies;News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
-      }
-    ],
-    "Science": [
-      {
-        "name": "InWonder (1080p)",
-        "logo": "https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png",
-        "group": "Science",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8"
       }
     ],
     "Culture;Entertainment": [
