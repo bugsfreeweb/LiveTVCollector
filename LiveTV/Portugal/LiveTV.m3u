@@ -871,6 +871,8 @@ https://video-auth1.iol.pt/beachcam/bccabedelocablepark/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/matadouroskate/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Beachcam",Ria de Aveiro - Murtosa
 https://video-auth1.iol.pt/beachcam/murtosa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 15/10/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/10/15/3c5d9119-c6bd-4d62-a6ff-9ed41dbe42e6/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 8/10/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/10/08/c40cb03d-d796-4e8d-97cf-300d6c7d5ff6/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 1/10/2026
@@ -2177,10 +2179,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfpdcsvoyd/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png" group-title="Entertainment 🌎",Universal Reality 🇺🇾(🔉💬🇪🇸🇬🇧)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/unimas.png" group-title="Entertainment 🌎",Unimas 🇺🇸🇲🇽⚽️
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/unimas.png" group-title="Entertainment 🌎",Unimas East 🇺🇸🇲🇽⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/univision.png" group-title="Entertainment 🌎",Univision 🇺🇸🇲🇽⚽️
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/unimas.png" group-title="Entertainment 🌎",Unimas West 🇺🇸🇲🇽⚽️
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/dash.mpd
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/univision.png" group-title="Entertainment 🌎",Univision East 🇺🇸🇲🇽⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/univision.png" group-title="Entertainment 🌎",Univision West 🇺🇸🇲🇽⚽️
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/dash.mpd
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/canal5.png" group-title="Entertainment 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/canal5.png" group-title="Entertainment 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
@@ -2583,19 +2589,25 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MR
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png" group-title="All Sports 🌎",ESPN 🇦🇷
 https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2white.png" group-title="All Sports 🌎",ESPN 2 🇦🇷
+https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3white.png" group-title="All Sports 🌎",ESPN 3 🇦🇷
+https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4white.png" group-title="All Sports 🌎",ESPN 4 🇦🇷
+https://ciades.providers.com.ar/ESPN4/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-title="All Sports 🌎",ESPN Premium 🇦🇷
 https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
-#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/FoxSportsARYel.webp" group-title="All Sports 🌎",FOX Sports 🇦🇷
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/argentina/fox-sports-ar.png" group-title="All Sports 🌎",FOX Sports 🇦🇷
 https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
-#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp" group-title="All Sports 🌎",FOX Sports 2 🇦🇷
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/argentina/fox-sports-2-ar.png" group-title="All Sports 🌎",FOX Sports 2 🇦🇷
 https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-title="All Sports 🌎",FOX Sports 3 🇦🇷
 https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxsports.png" group-title="All Sports 🌎",Fox Sports 4k
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fox+.png" group-title="All Sports 🌎",Fox + 🇲🇽
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fox+.png" group-title="All Sports 🌎",Fox+ 🇲🇽
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-title="All Sports 🌎",Fox Sports Premium 🇲🇽
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/mexico/fox-sports-premium-mx.png" group-title="All Sports 🌎",Fox Sports Premium 🇲🇽
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="All Sports 🌎",Fox Deportes
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd

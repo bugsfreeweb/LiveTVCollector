@@ -2616,6 +2616,12 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png"
   },
   {
+    "name": "Eixo do Mal - 15/10/2026",
+    "type": "Eixo do Mal",
+    "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/10/15/3c5d9119-c6bd-4d62-a6ff-9ed41dbe42e6/video.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg"
+  },
+  {
     "name": "Eixo do Mal - 8/10/2026",
     "type": "Eixo do Mal",
     "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/10/08/c40cb03d-d796-4e8d-97cf-300d6c7d5ff6/video.m3u8",
@@ -6534,15 +6540,27 @@
     "img": "https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png"
   },
   {
-    "name": "Unimas 🇺🇸🇲🇽⚽️",
+    "name": "Unimas East 🇺🇸🇲🇽⚽️",
     "type": "Entertainment 🌎",
     "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n",
     "img": "https://logo.m3uassets.com/unimas.png"
   },
   {
-    "name": "Univision 🇺🇸🇲🇽⚽️",
+    "name": "Unimas West 🇺🇸🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/dash.mpd",
+    "img": "https://logo.m3uassets.com/unimas.png"
+  },
+  {
+    "name": "Univision East 🇺🇸🇲🇽⚽️",
     "type": "Entertainment 🌎",
     "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n",
+    "img": "https://logo.m3uassets.com/univision.png"
+  },
+  {
+    "name": "Univision West 🇺🇸🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/dash.mpd",
     "img": "https://logo.m3uassets.com/univision.png"
   },
   {
@@ -7752,6 +7770,24 @@
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png"
   },
   {
+    "name": "ESPN 2 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2white.png"
+  },
+  {
+    "name": "ESPN 3 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3white.png"
+  },
+  {
+    "name": "ESPN 4 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/ESPN4/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4white.png"
+  },
+  {
     "name": "ESPN Premium 🇦🇷",
     "type": "All Sports 🌎",
     "url": "https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
@@ -7761,13 +7797,13 @@
     "name": "FOX Sports 🇦🇷",
     "type": "All Sports 🌎",
     "url": "https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
-    "img": "https://github.com/iprtl/p1/raw/master/logo/FoxSportsARYel.webp"
+    "img": "https://github.com/iprtl/tv-logos/raw/main/countries/argentina/fox-sports-ar.png"
   },
   {
     "name": "FOX Sports 2 🇦🇷",
     "type": "All Sports 🌎",
     "url": "https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
-    "img": "https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp"
+    "img": "https://github.com/iprtl/tv-logos/raw/main/countries/argentina/fox-sports-2-ar.png"
   },
   {
     "name": "FOX Sports 3 🇦🇷",
@@ -7782,7 +7818,7 @@
     "img": "https://logo.m3uassets.com/foxsports.png"
   },
   {
-    "name": "Fox + 🇲🇽",
+    "name": "Fox+ 🇲🇽",
     "type": "All Sports 🌎",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
     "img": "https://logo.m3uassets.com/fox+.png"
@@ -7791,7 +7827,7 @@
     "name": "Fox Sports Premium 🇲🇽",
     "type": "All Sports 🌎",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp"
+    "img": "https://github.com/iprtl/tv-logos/raw/main/countries/mexico/fox-sports-premium-mx.png"
   },
   {
     "name": "Fox Deportes",
