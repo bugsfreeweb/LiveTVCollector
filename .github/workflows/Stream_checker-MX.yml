@@ -2,7 +2,7 @@ name: Stream Checker-MX
 
 on:
   schedule:
-    - cron: "0 */8 * * *" # Every 8 hours
+    - cron: '0 0 * * *'  # Runs once daily at 00:00 UTC
   workflow_dispatch:
 
 jobs:
