@@ -2,7 +2,7 @@ name: TV-Italy Update Files
 
 on:
   schedule:
-    - cron: '0 0,8,16 * * *'  # Runs at 00:00, 08:00, 16:00 UTC daily
+    - cron: '0 0 * * *'  # Runs once daily at 00:00 UTC
   workflow_dispatch:  # Allows manual triggering
 
 permissions:
