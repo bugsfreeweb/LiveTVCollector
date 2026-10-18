@@ -2,7 +2,7 @@ name: Special Collection M3U Links
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'  # Runs once daily at 00:00 UTC
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
