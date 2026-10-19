@@ -840,12 +840,6 @@
     "img": "https://i.imgur.com/Je3K25E.png"
   },
   {
-    "name": "HanoiTV2 (1080p) [Geo-blocked]",
-    "type": "General",
-    "url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/szivqh2.png"
-  },
-  {
     "name": "HTV1 (720p)",
     "type": "General",
     "url": "https://dethich.pw/htv1/index.m3u8",
@@ -858,16 +852,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp"
   },
   {
-    "name": "Khanh Hoa TV (1080p)",
+    "name": "Hung Yen TV (480p)",
     "type": "General",
-    "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video",
-    "img": "https://i.imgur.com/qLMcGPT.png"
+    "url": "https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8",
+    "img": "https://i.imgur.com/TH1DWdm.png"
   },
   {
-    "name": "Lam Dong TV (480p)",
+    "name": "Kon Tum TV (720p) [Geo-blocked]",
     "type": "General",
-    "url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8",
-    "img": "https://i.imgur.com/lSMoGlv.png"
+    "url": "https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1",
+    "img": "https://i.imgur.com/lLlu6ZA.png"
+  },
+  {
+    "name": "Lang Son TV (720p) [Geo-blocked]",
+    "type": "General",
+    "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
+    "img": "https://i.imgur.com/Sj7EjYT.png"
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MNB World (1080p)",
@@ -876,10 +876,10 @@
     "img": "https://www.mongolsat.mn/assets/img/channel/22.png"
   },
   {
-    "name": "Ninh Thuan TV (1080p)",
+    "name": "Nghe An TV (720p)",
     "type": "General",
-    "url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video",
-    "img": "https://i.imgur.com/HIyUzLM.png"
+    "url": "https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8",
+    "img": "https://i.imgur.com/d9YEEwC.png"
   },
   {
     "name": "Tay Ninh TV (720p)",
@@ -924,12 +924,6 @@
     "img": "https://i.ibb.co/VptvgFVx/IMG-2530.webp"
   },
   {
-    "name": "tvN Asia HD (720p)",
-    "type": "Entertainment",
-    "url": "http://58.8.186.128:10005/bysid/2518",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
-  },
-  {
     "name": "An Ninh TV HD (1080p)",
     "type": "Undefined",
     "url": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
@@ -966,9 +960,15 @@
     "img": "https://i.imgur.com/GQO7UNu.png"
   },
   {
+    "name": "Quang Nam TV",
+    "type": "Undefined",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=80",
+    "img": "https://i.imgur.com/uWiOoVg.png"
+  },
+  {
     "name": "SCTV2 SD (720p)",
     "type": "Undefined",
-    "url": "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8",
+    "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8",
     "img": "https://i.imgur.com/8i5DXIg.png"
   },
   {
@@ -1098,12 +1098,6 @@
     "img": "https://i.imgur.com/Vnnna1C.png"
   },
   {
-    "name": "VTV5 Tay Nam Bo HD (720p)",
-    "type": "Undefined",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8",
-    "img": "https://i.imgur.com/xiuHjEQ.png"
-  },
-  {
     "name": "VTV5 Tay Nguyen HD (1080p)",
     "type": "Undefined",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8",
@@ -1148,7 +1142,7 @@
   {
     "name": "Da Vinci Asia Vietnam (1080p)",
     "type": "Education",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=214",
+    "url": "https://vmttv.dpdns.org/tv360/?id=davinci-hd",
     "img": "https://i.imgur.com/iBx7K1M.png"
   },
   {
@@ -1158,9 +1152,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png"
   },
   {
-    "name": "Dong Nai TV 1 (720p)",
+    "name": "Dong Nai TV 1 (1080p)",
     "type": "General;News",
-    "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=53",
     "img": "https://i.imgur.com/oQyioVa.png"
   },
   {
@@ -1176,9 +1170,9 @@
     "img": "https://i.imgur.com/5YFsqPx.png"
   },
   {
-    "name": "Dong Nai TV 2 (720p)",
+    "name": "Dong Nai TV 2 (1080p)",
     "type": "Entertainment;Sports",
-    "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=255",
     "img": "https://i.imgur.com/tNKPSkO.png"
   },
   {
