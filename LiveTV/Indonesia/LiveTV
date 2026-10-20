@@ -690,6 +690,36 @@
     "img": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg"
   },
   {
+    "name": "HBO",
+    "type": "Movies",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg"
+  },
+  {
+    "name": "HBO Signature",
+    "type": "Movies",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOSignature.m3u8",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png"
+  },
+  {
+    "name": "HBO Hits",
+    "type": "Movies",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png"
+  },
+  {
+    "name": "HBO Family",
+    "type": "Movies",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png"
+  },
+  {
+    "name": "Cinemax",
+    "type": "Movies",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg"
+  },
+  {
     "name": "HBO [xgo]",
     "type": "Movies",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
@@ -2448,12 +2478,6 @@
     "img": "https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png"
   },
   {
-    "name": "SpoTV 2",
-    "type": "Sports",
-    "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-    "img": "https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png"
-  },
-  {
     "name": "SpoTV (Vision+)",
     "type": "Sports",
     "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -2608,6 +2632,12 @@
     "type": "Sports",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
     "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png"
+  },
+  {
+    "name": "SpoTV 2 HD",
+    "type": "Sports",
+    "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+    "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png"
   },
   {
     "name": "FOX SPORTS PREMIUM",
@@ -9222,6 +9252,36 @@
     "img": "https://telegra.ph/file/0c4afb9624d691ef282a4.png"
   },
   {
+    "name": "TV1 HD",
+    "type": "Malaysia",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8",
+    "img": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv1my.png"
+  },
+  {
+    "name": "TV2 HD",
+    "type": "Malaysia",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2",
+    "img": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv2my.png"
+  },
+  {
+    "name": "TV 3",
+    "type": "Malaysia",
+    "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd",
+    "img": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv3my.png"
+  },
+  {
+    "name": "TV6",
+    "type": "Malaysia",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "img": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv6my.png"
+  },
+  {
+    "name": "8TV",
+    "type": "Malaysia",
+    "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd",
+    "img": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv8my.png"
+  },
+  {
     "name": "ROLL",
     "type": "Malaysia",
     "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
@@ -11712,12 +11772,6 @@
     "img": "https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13"
   },
   {
-    "name": "RCTI",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/RCTI.m3u8",
-    "img": "https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png"
-  },
-  {
     "name": "RCTI (Vision+)",
     "type": "Indonesia Channels",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
@@ -11730,12 +11784,6 @@
     "img": "https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png"
   },
   {
-    "name": "MNC TV",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MNCTV.m3u8",
-    "img": "https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png"
-  },
-  {
     "name": "MNC TV (Vision+)",
     "type": "Indonesia Channels",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
@@ -11746,12 +11794,6 @@
     "type": "Indonesia Channels",
     "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd",
     "img": "https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png"
-  },
-  {
-    "name": "Global TV",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Gtv.m3u8",
-    "img": "https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png"
   },
   {
     "name": "Global TV (Vision+)",
@@ -11772,12 +11814,6 @@
     "img": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
   },
   {
-    "name": "TransTV",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TransTV.m3u8",
-    "img": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
-  },
-  {
     "name": "TransTV (Detik)",
     "type": "Indonesia Channels",
     "url": "https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8",
@@ -11787,12 +11823,6 @@
     "name": "Trans7 (Vision+)",
     "type": "Indonesia Channels",
     "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
-    "img": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png"
-  },
-  {
-    "name": "Trans7",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Trans7.m3u8",
     "img": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png"
   },
   {
@@ -11808,21 +11838,9 @@
     "img": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png"
   },
   {
-    "name": "SCTV",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/SCTV.m3u8",
-    "img": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png"
-  },
-  {
     "name": "Indosiar (Vision+)",
     "type": "Indonesia Channels",
     "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd",
-    "img": "https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png"
-  },
-  {
-    "name": "Indosiar",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Indosiar2.m3u8",
     "img": "https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png"
   },
   {
@@ -11847,12 +11865,6 @@
     "name": "ANTV HD (Vision+)",
     "type": "Indonesia Channels",
     "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd",
-    "img": "https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png"
-  },
-  {
-    "name": "ANTV HD",
-    "type": "Indonesia Channels",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/ANTV.m3u8",
     "img": "https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png"
   },
   {
@@ -12016,36 +12028,6 @@
     "type": "Indonesia Channels",
     "url": "https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8",
     "img": "https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png"
-  },
-  {
-    "name": "HBO",
-    "type": "HBO Group",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8",
-    "img": "https://iili.io/Ju79f8g.png"
-  },
-  {
-    "name": "HBO Hits",
-    "type": "HBO Group",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8",
-    "img": "https://iili.io/Ju79nwv.png"
-  },
-  {
-    "name": "HBO Signature",
-    "type": "HBO Group",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOSignature.m3u8",
-    "img": "https://iili.io/Ju79IMN.png"
-  },
-  {
-    "name": "HBO Family",
-    "type": "HBO Group",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8",
-    "img": "https://iili.io/Ju79otR.png"
-  },
-  {
-    "name": "Cinemax",
-    "type": "HBO Group",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8",
-    "img": "https://iili.io/Ju79znp.png"
   },
   {
     "name": "Hits (Vision+)",
@@ -12332,7 +12314,7 @@
   {
     "name": "HGTV",
     "type": "Knowledge and Documentary",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=99",
+    "url": "https://i.mjh.nz/.r/sky-hgtv.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png"
   },
   {
@@ -12534,9 +12516,9 @@
     "img": "https://www.visionplus.id/images/repository/909/162909-LOGO-m.png"
   },
   {
-    "name": "Mentari TV (VIDIO)",
+    "name": "Mentari TV (Vision+)",
     "type": "Kids Channel",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MentariTV.m3u8",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd",
     "img": "https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png"
   },
   {
@@ -12610,12 +12592,6 @@
     "type": "Kids Channel",
     "url": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
     "img": "https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png"
-  },
-  {
-    "name": "Mentari TV (V+)",
-    "type": "Kids Channel",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd",
-    "img": "https://object-streamo.emonaja.com/img/mentaritv.png"
   },
   {
     "name": "LIFE (Vision+)",
@@ -12792,142 +12768,40 @@
     "img": "example.png"
   },
   {
-    "name": "ASTHA TV",
-    "type": "Local Channels",
-    "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png"
-  },
-  {
-    "name": "JAWAPOS TV",
-    "type": "Local Channels",
-    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=9714",
-    "img": "https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png"
-  },
-  {
-    "name": "JTV (Vision+)",
+    "name": "JTV",
     "type": "Local Channels",
     "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd",
-    "img": "https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png"
+    "img": "https://www.visionplus.id/images/repository/856/856-LOGO-m.png"
+  },
+  {
+    "name": "JAKTV",
+    "type": "Local Channels",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/598/598-LOGO-m.png"
   },
   {
     "name": "Bali TV",
     "type": "Local Channels",
     "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd",
-    "img": "https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg"
-  },
-  {
-    "name": "JITV Jogja",
-    "type": "Local Channels",
-    "url": "https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1213012954.m3u8",
-    "img": "https://i.imgur.com/VEqQfTu.png"
-  },
-  {
-    "name": "Jogja TV",
-    "type": "Local Channels",
-    "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-    "img": "https://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png"
-  },
-  {
-    "name": "Lingkar TV",
-    "type": "Local Channels",
-    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-    "img": "https://lingkartv.com/assets/img/logo-square.png"
-  },
-  {
-    "name": "DavikaTV Lampung",
-    "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w997967539.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png"
-  },
-  {
-    "name": "CarubanTV",
-    "type": "Local Channels",
-    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png"
+    "img": "https://www.visionplus.id/images/repository/700/700-LOGO-m.png"
   },
   {
     "name": "Bandung TV",
     "type": "Local Channels",
     "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd",
-    "img": "https://iili.io/Jbtnh2j.png"
+    "img": "https://www.visionplus.id/images/repository/600/600-LOGO-m.png"
   },
   {
-    "name": "Kilisuci TV Kediri",
+    "name": "Kawanua TV",
     "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8",
-    "img": "https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png"
+    "url": "https://63b2dc7196c38.streamlock.net:1937/KAWANUATV/_definst_/myStream/chunklist_w552982770.m3u8",
+    "img": "https://kawanua.tv/wp/wp-content/themes/kawanua-tv/assets/img/ktv-color.png"
   },
   {
-    "name": "Dhoho TV- Kediri",
+    "name": "JITV Jogja",
     "type": "Local Channels",
-    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png"
-  },
-  {
-    "name": "TV Tabalong",
-    "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8",
-    "img": "https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png"
-  },
-  {
-    "name": "Bungo TV",
-    "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1429108522.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png"
-  },
-  {
-    "name": "Salira TV",
-    "type": "Local Channels",
-    "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png"
-  },
-  {
-    "name": "Sampit TV",
-    "type": "Local Channels",
-    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-    "img": "https://i.imgur.com/8cFJa8G.png"
-  },
-  {
-    "name": "StaraTV Sumedang",
-    "type": "Local Channels",
-    "url": "https://stream.staratv.id/hls/0/stream.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
-  },
-  {
-    "name": "StaraTV Malang",
-    "type": "Local Channels",
-    "url": "https://malang.staratv.id/hls/0/stream.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
-  },
-  {
-    "name": "StaraTV Cianjur",
-    "type": "Local Channels",
-    "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
-  },
-  {
-    "name": "BanjarTV",
-    "type": "Local Channels",
-    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
-    "img": "https://i.imgur.com/TA76a10.png"
-  },
-  {
-    "name": "BantenTV",
-    "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-    "img": "https://i.imgur.com/tbtF40p.png"
-  },
-  {
-    "name": "BanyumasTV",
-    "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
-    "img": "https://i.imgur.com/snMxng5.png"
-  },
-  {
-    "name": "BRTV",
-    "type": "Local Channels",
-    "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png"
+    "url": "https://jitv.jogjaprov.go.id/tv/stream/chunklist_w448928976.m3u8",
+    "img": "https://jitv.jogjaprov.go.id/assets/logo_jitv-d49121b3.png"
   },
   {
     "name": "Suara Surabaya FM",
@@ -13062,840 +12936,6 @@
     "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_TVMU_2025_03_17_15_03_28.png"
   },
   {
-    "name": "ANTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/QU5UVg/manifest.mpd?signature=ZTdkN2QxZGQxMjY2OGVhMmM0NjQwMWMzZDFjOGY5YTY=&time=77777777777&device_id=qlt27toOGNI8UMwutiaoZbIMArNXHoxU-iCpt-rB2kzSvN46PA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png"
-  },
-  {
-    "name": "Berita Satu",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=ZmFlM2FmNDhiYmI3YzA3NmJmYWZlMDUyNDA1ZjBmZTE=&time=77777777777&device_id=6SAxtWNrChRLII0CwmAxnMEBHbM0tDz0hwuFGkP8CVWk6I-jPg",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg"
-  },
-  {
-    "name": "BTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/QlRWIENoYW5uZWw/manifest.mpd?signature=NmVlZGMyMWY0ZGY5YmM4MDhmNzJmZmE0ZThlMzM3ZTU=&time=77777777777&device_id=VbtrEWJnR_w1Q6yZMlHS69rqpyRftUOtazxxC3Q5SXfEtsN6Qg",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png"
-  },
-  {
-    "name": "CNBC Indonesia",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnbcindonesia.png"
-  },
-  {
-    "name": "CNN Indonesia",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q05OaS1teQ/manifest.mpd?signature=ZTg3MDA5Yzg0MTZiMjA5ODRkMjU0YTg1YTFlMDIwY2U=&time=77777777777&device_id=VynxJ0R-jJuS-bDlYC8raLX1Ya28IkDvCxXZR2oIeB5e05wFyw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png"
-  },
-  {
-    "name": "GTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=ZjcxYzJiYTg3OWIzMjA1MTkxMTUyYTk4MDA4MjM3OGE=&time=77777777777&device_id=j4Pn0bA1JE5hgQIWJO4wwmE4JhNUDJIw2nUbK8Q3Ea9z-6sEXw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg"
-  },
-  {
-    "name": "Indosiar",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/SW5kb3NpYXI/manifest.mpd?signature=ZmZlNjA3NmQ2N2M1NTA4N2Y4MmFlMTBkNzAyOWE3NmE=&time=77777777777&device_id=4bkP2ViTbtSSEjPF7eOaRezbNtgxd3pwDEo3HCeYk4XmIoZavQ",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png"
-  },
-  {
-    "name": "Kompas TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/S29tcGFzIFRW/manifest.mpd?signature=M2M2YTVkMzExOGIxM2QyNzdlNzg0NTJhMGFjNDlmMDM=&time=77777777777&device_id=vVVl-OsEIAESnwrXX8zF8iBn3y5xneBw1poRRPk_xJbfNpIiHA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png"
-  },
-  {
-    "name": "MDTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/TURUVg/manifest.mpd?signature=YTBlZjQyODJkM2QxY2I1OTU0N2QxOTA3YzczODVlZDA=&time=77777777777&device_id=pUaPSjNRcG_ur2u0SBUcaA5Vk_FO91pWAHpKSpGSCqhj6tJEaA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg"
-  },
-  {
-    "name": "Metro TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/TWV0cm9UVg/manifest.mpd?signature=ZWQzN2JkYmNhMDg0OWU2YTNiNzE0ZGY5MWViZmQxMWY=&time=77777777777&device_id=6npA1x_b6EnG1ZVyLRVG04pjL62Ur8d94Cp46w4pPDqUTd5jxA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png"
-  },
-  {
-    "name": "MNCTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/TU5DVFY/manifest.mpd?signature=YjE3NGI5OWFhZjNmZDBlOWE1N2RiZWUwMTQ4OTg4ZDg=&time=77777777777&device_id=2hyIVWh1ZOuGubXNJabMMoN24xymf4c2e8lxsuEH2pw50mIM6Q",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg"
-  },
-  {
-    "name": "RCTI",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg"
-  },
-  {
-    "name": "RTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/cnR2IENobmw/manifest.mpd?signature=M2NlNTU5YmFhM2Y4NjJjNWM3NjA1Y2ViMzhiYjYyMTQ=&time=77777777777&device_id=_Komi8PF0qn-wx7r-Q3_hbQs9uIE8XZPX4ju_XqqMpeFetD9TQ",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png"
-  },
-  {
-    "name": "SCTV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/U0NUVi1teQ/manifest.mpd?signature=ZmQ2YzU2MWU0NmQ1OGRmNjY4YzMzYTEzOWVlYzgxYjQ=&time=77777777777&device_id=7fzdziLjFH5se80gAXFK-bjJ2uXIey6bu4jPWp2sx41OUbwZDw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png"
-  },
-  {
-    "name": "Trans7",
-    "type": "TransVision",
-    "url": "https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VFJBTlM3LW15/manifest.mpd?signature=YzBiZjU3ZWM1MmJhZmQ5MTA1Nzk2YmRjN2JiMWQ1ZWM=&time=77777777777&device_id=2yhUhN6FS8xWn1Ryq-5Jf5xb2CWvwVAi5DxMX4DjSrE5ugRSIMhK",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png"
-  },
-  {
-    "name": "TransTV",
-    "type": "TransVision",
-    "url": "https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=ZjUzZjQ3ZjE4YWJhYWY4NzQwNGViNzM5OTNjZTliZTc=&time=77777777777&device_id=ZnqYgHDAqliTA7J7f-d5iV_usYxtaID1MqD2jkYRwNWJzUs-vj3n",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png"
-  },
-  {
-    "name": "TVOne",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VFZPTkU/manifest.mpd?signature=MWQxNDgxM2ZlMWRkMDU3N2U4ZTFkZDllY2M5YjEyYTM=&time=77777777777&device_id=Dz5tY5nP9bziI0KILdMHmQVYDHEcuGbHsgD-eLsZXyGjlCbqsQ",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png"
-  },
-  {
-    "name": "CCTV4",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q0NUViA0/manifest.mpd?signature=ZDRiZTZmMWRlMTZhMWVhMGY2YjEwNWM1MTRmNTg2NWM=&time=77777777777&device_id=PZXe4W17gqUReDZnq_sZe0FHmPxbqRQxPrZHwbxevBpj4eoBqw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cctv4.png"
-  },
-  {
-    "name": "Dunia Lain",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=ZDgxOGY4YTcxNzhiM2JiY2Y0OGViMDI0NmU3MDQyYmE=&time=77777777777&device_id=3qBPI-VMdGO_z7u0ST5cIt29gOWrt_ujQBduxIYWxaYbm3tSwA",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4f477c14-5ec0-47d2-9665-925fe0056c64.png"
-  },
-  {
-    "name": "K Plus",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=Zjc0NjIwZGFmYThiMzk3ODZkOThhYzM3Zjc3MDI2OTg=&time=77777777777&device_id=xvfT1Unjt6MxKn7jiWIyvhNBDk0OyvwykMopXDXvVOdAgG1noA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png"
-  },
-  {
-    "name": "TV5Monde",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VFY1IE1vbmRl/manifest.mpd?signature=NmRiMzU5YmU1NzJkZmVmYTdjZWQwMzI4OGM0Yzc5NTY=&time=77777777777&device_id=nbKSE_8SeHwXLwpkAMc0nnbY3felv2OPFJMxXhvpdQg64UOalQ",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png"
-  },
-  {
-    "name": "Celestial Movies",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=Njk1NzJlOTg0ZWRhOWVlY2Q5MTAwZDU3YWVhMWRjZmI=&time=77777777777&device_id=W-KYtX4FF-iyLDAnNbbhkMqVH8mjAloJqsGAM1KsONf05UCQIg",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png"
-  },
-  {
-    "name": "tvN",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/dHZOQ2hhbm5lbA/manifest.mpd?signature=MDY4YmM5YzViZDIyNzQ1YTFiYWQxZmI4MTk3MGNhNzc=&time=77777777777&device_id=31hTlAswCVUSCphdU80IuVNFq9svW9ztrVLGuk2Hi8AXg_zbRw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png"
-  },
-  {
-    "name": "Cooking TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q29va2luZyBUVg/manifest.mpd?signature=YjU5YWU2OGM5NDAxOWFlNGZkMGU0NzZjOGE3M2JmMjE=&time=77777777777&device_id=TC_u8NKDhiMwpzNPlHe64dngB-RQJDt6OVusFUG6KdDCzJSpEA",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ded16232-f41b-418d-a666-c0c2a502e348.jpg"
-  },
-  {
-    "name": "Eat N Go",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/RWF0IE4gR28/manifest.mpd?signature=MGUyMTVjMDkxNTY5ZGU5ZjA0NzZjZDA3MWVmNmRlZmI=&time=77777777777&device_id=rAptU2xp55VCpP8p62yYRFkJ79Wu7YWKx-CcTtXSaew6RGTA4g",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_eat&go.png"
-  },
-  {
-    "name": "Fashion TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/RmFzaGlvbiBUVg/manifest.mpd?signature=NDI2OTFlYzFhYTU1NzdkY2UxNzQzNjM1Y2JhYTVjYTk=&time=77777777777&device_id=K6fApj3euoa4Eu1vXgGoVIX0PYP55j26C1WM4rp1e3Am4ON9Jw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fashiontv.png"
-  },
-  {
-    "name": "Cartoon TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q2FydG9vbiBUVg/manifest.mpd?signature=YjEzODZjNDI5NzEyOGE5ZmQ2NWIyMDA2ZWMxODA0Yzc=&time=77777777777&device_id=iW2H5zQ9_mnW9WJEF6Vm1W23rWHKVWNKUkyapUNnuPzi0Z3Nbg",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg"
-  },
-  {
-    "name": "Cartoon TV Classic",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd?signature=MmEwMTI4NjBiZjVhNGMzMDgyZWI2NzY5OTgwNDU0Yzk=&time=77777777777&device_id=8mpgGoJ8ib8CYMRUTq1vweL87EXOxri3ra8USkf_dajut8vqAQ",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg"
-  },
-  {
-    "name": "Cartoon TV Premium",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd?signature=ZThmZjkwMjZhYTc0MjgxNGY3NTNkOGZmN2ViMTU1MDE=&time=77777777777&device_id=DsAvLouE6aRFSfzgRbK9czP31LZMaBDET7IFwFF_G0hXblJNHQ",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg"
-  },
-  {
-    "name": "Dunia Anak",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/RHVuaWEgQW5haw/manifest.mpd?signature=YzFiMDczNTk5YzQ0YTAxM2U4ZDViODhmZWIzZDkwYzE=&time=77777777777&device_id=oqPcIJQPEgQxuPCsq77lFIwOcrQECY_B1ndbumvw1NNut3BBlg",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_duniaanak.png"
-  },
-  {
-    "name": "Bioskop Indonesia",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=NGYzMTczZWZlM2RmZDk2YjBiNzgzZTY0MTViY2NmODk=&time=77777777777&device_id=AY6jRPCj-4G7-FyBTzdTQOtlgKJZUlBSKOwz6RX9v2OCe7nVog",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bioskopindonesia.png"
-  },
-  {
-    "name": "Thrill",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VGhyaWxs/manifest.mpd?signature=MjBiMGZkMzk5MGVmY2JiZDEyYzA1ZDA4M2ZlMDViZWY=&time=77777777777&device_id=1E44vSq6A0FLs3YH9luxpgZmK1MW5h2vOrLTzVu9HM34VMPLfw",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png"
-  },
-  {
-    "name": "tvN Movies",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VFZOIE1vdmllcw/manifest.mpd?signature=MmIwYWZmMTRiZjRmZjYwMjBiYmU5NDJmYmJmZmQ2YzU=&time=77777777777&device_id=zbMFA3Dd4u1yE1EiZW0DHsLpTN_UltV9neTFNNL0X9RvdI31MA",
-    "img": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png"
-  },
-  {
-    "name": "Song TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/U29uZyBUVg/manifest.mpd?signature=NjQ1NzNkMjQyN2QyMzUzYTc1MGRkOTQyNjU3Njc4MGY=&time=77777777777&device_id=2KSEFBc9mcGCN5l8R-7Q_o1Cc8CRhMQKgy-SAD4aluPIWWE-3Q",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3974fd33-9c3a-44b2-acdb-66c90f9492e5.jpg"
-  },
-  {
-    "name": "Fight TV Premium",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/RmlnaHQgVFYgUHJlbWl1bQ/manifest.mpd?signature=NTlhZmI1MGZlZDA5MGUwZjE5NWM0YzE1NDhmNWM0OWQ=&time=77777777777&device_id=D6RwwdfTfQegy9dmnJzoaqPhz5pewldNGC8W6qPI5iCPkVnD_Q",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/65030d16-c4fc-4c89-9b03-1b809797964f.jpg"
-  },
-  {
-    "name": "Football TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/Rm9vdGJhbGwgVFY/manifest.mpd?signature=ZDhiMjRlMTJjZjVhNDc1YmU2ODdhMzEzZjkzNzk1OTk=&time=77777777777&device_id=-ugwu752ChEgHSO9LSxh-wVM2Zx6njIytpGXB10jHc17BMFVOg",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df2bdc3d-9bc6-43ca-a4e6-2002d47fdac1.jpg"
-  },
-  {
-    "name": "Golf Plus ID",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/R29sZi1DaGFubmVs/manifest.mpd?signature=NTk4OTA2MjE4M2E1ZDdhZjcxYTgyNDJjNWNlYjcwOWE=&time=77777777777&device_id=4MUAyCCQxsqQKmZxxb6o374a0FG0wo_w21xogTNYj4f8XA5jUw",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e5009dc7-2cae-4c8a-aa38-36bc224f7b8b.jpg"
-  },
-  {
-    "name": "PSJ TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/UFNKIFRW/manifest.mpd?signature=NDBiZjg1ZmRhZWFmOTMwMTQyMTE4ZDM3Njg1MGY4ZjM=&time=77777777777&device_id=pvrfqPBUfUMK1lTyqZcLO6gVoHv_2T6cjFnn5siXAZvJdGo-_Q",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/71b87cc7-a431-4ceb-a819-21c84c07b295.jpg"
-  },
-  {
-    "name": "Speed TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/U3BlZWQgVFY/manifest.mpd?signature=NThlOWY2YzQ0MGNmZGRkMmJkMWRiNzkwYjM1MTFmYzQ=&time=77777777777&device_id=szACVEa9GqsHJoyKdunj36WV3eqU3dBSgp_dNsQ-NN8Iokf7zg",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8e4b7fc8-624a-4d99-ae7c-a75ed13ede9a.jpg"
-  },
-  {
-    "name": "Sports TV",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/U3BvcnRzIFRW/manifest.mpd?signature=ZWY1MTU2NDZmYjM3YTdiMGUzNzQ5MjYzNGRlYmExMWM=&time=77777777777&device_id=U4tvHuEStNJPtCaA-my3C17eMJ7rnEj_v4N93RbrV-MBtciODQ",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f974ea07-54bf-4463-854a-fbbe51a70cc3.jpg"
-  },
-  {
-    "name": "Xtrem Sports",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/WHRyZW0gU3BvcnRz/manifest.mpd?signature=YWZkM2Q1NGEzYjU1NjYyMjExZWI5ODU5ZDEyOWMzMzY=&time=77777777777&device_id=3j8SeGidyKb-X89VxKrBUenGK_a0Niuo0wSySlIMjqKneBN4BQ",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/17f217c6-7009-45de-a54e-e7b15fa5f061.jpg"
-  },
-  {
-    "name": "TVRI Sport",
-    "type": "TransVision",
-    "url": "https://cdnjktcyber05.transvision.co.id/riutx01-7472893f4841818e2a59348212e5278f/dash/VFZSSSBTcG9ydA/manifest.mpd?signature=NmNkMGM1NmE5NWZjNDRhNjNiMjViNGFjNzZjZGNjZWY=&time=77777777777&device_id=9f0JFmH3a7e7j_1oU9YVaE3Wy3btHmVqIfgIxtAXf9iLrNJS7w",
-    "img": "https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e14b89e-d803-454f-a35a-752163f30803.png"
-  },
-  {
-    "name": "Trans TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg"
-  },
-  {
-    "name": "Trans 7 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685651d7bcc01651f0db0bf0097/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg"
-  },
-  {
-    "name": "MetroTV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png"
-  },
-  {
-    "name": "CNN Indonesia [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0e4ce10098/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg"
-  },
-  {
-    "name": "tvOne [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019b35eaf9785b64/56804c23ee4b43bda61b80cea09827fc.jpg"
-  },
-  {
-    "name": "CNBC Indonesia [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c68565fa79ce01665868040a343f/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/2a44add8d2a74e1e8cddb29f6935cb92.jpg"
-  },
-  {
-    "name": "SCTV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png"
-  },
-  {
-    "name": "Indosiar [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e773b02392/25aba9a19bfa424ea7012dd0c25613f2.png"
-  },
-  {
-    "name": "RCTI [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e825832393/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png"
-  },
-  {
-    "name": "GTV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e8eda22394/9e138905ec264209945921a5c4295dbe.png"
-  },
-  {
-    "name": "ANTV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f9082998232e0019b35e7220c5b63/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019b35eb56725b65/3e89e8a72a0d4d88a4d7b927e62fc6fd.jpg"
-  },
-  {
-    "name": "Jak tv [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg"
-  },
-  {
-    "name": "Kompas TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg"
-  },
-  {
-    "name": "MDTV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776bc7624307ab/c78ea2b0618a45b2894adb000fe4c9f5.png"
-  },
-  {
-    "name": "rtv [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg"
-  },
-  {
-    "name": "MNC TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png"
-  },
-  {
-    "name": "TVRI [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png"
-  },
-  {
-    "name": "jtv [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685730a42430173142e26ba7b17/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a42430173142e26ba7b17/5f7dff410fd1430f9baba0be909d9675.png"
-  },
-  {
-    "name": "Berita Satu [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cd06bed442f/9cd730cd0f734738a21347d1aa9d2f7a.png"
-  },
-  {
-    "name": "Garuda TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6859645ee4801965cf102264bf3/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cf102264bf3/decf82ff8ddd4bf1b0f895d4e2eab840.jpg"
-  },
-  {
-    "name": "Cartoon Network [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg"
-  },
-  {
-    "name": "Cartoon TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d144f21811dc9/fb19799254344b97a83bca4253360ede.jpg"
-  },
-  {
-    "name": "Dunia Anak [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png"
-  },
-  {
-    "name": "Cartoon TV Classics [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685840ff0490184560100c34363/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560100c34363/5550dd0409a04f948407c307a9468240.jpg"
-  },
-  {
-    "name": "Knowledge+ [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e018259716f7821f0/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68582449a2e018259716f7821f0/94bcf3d9f1564897bab055065f206550.jpg"
-  },
-  {
-    "name": "CGTN Documentary [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c86e3cf3bff/e39fcddc642549f99cedd05e3011c4d4.jpg"
-  },
-  {
-    "name": "AXN [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87da299e0b56/e35d526edf5e4c279acc3dfa717ebc3c.jpg"
-  },
-  {
-    "name": "Warner TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/fcfea055f6184564bd099acf3950de0e.png"
-  },
-  {
-    "name": "tvN [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/d6d16992f4d34a1e929cb40c1403dfd3.jpg"
-  },
-  {
-    "name": "KBS World [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png"
-  },
-  {
-    "name": "ONE [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/86b0e0ba565f4201a125338d37695196.png"
-  },
-  {
-    "name": "Channel Jowo [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685910daca60191a29de97f443a/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685910daca60191a29de97f443a/e3f6f5e28b8d4846a93ece320fe8ad8d.jpg"
-  },
-  {
-    "name": "!nsert [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdc51294b4f8e/ee3e2388b7ec4fbcacc9b4b5a8d46009.png"
-  },
-  {
-    "name": "Channel Seru! [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c921bc43c00/6e96692c60b64bf2b004e2672821b96c.jpg"
-  },
-  {
-    "name": "Dunia Lain [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856ea34e35016ef8e9fdf951c1/e55ef2d8ea58482b8b3f5f0e77c079ef.png"
-  },
-  {
-    "name": "CCTV 4 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017317e334101575/5da44d2f61874694b1806ced7e3afdf5.png"
-  },
-  {
-    "name": "TV5 Monde [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0642d33e6d20/62bc05d60c8e4649b66de781169e716b.png"
-  },
-  {
-    "name": "One TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff049018455ff15294362/3355e8a7631a416d8d6e2d9ecc15e43a.jpg"
-  },
-  {
-    "name": "Fashion TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ad6cc8b4c8b/379c1f236f734135b03dffc6f1fadcdf.jpg"
-  },
-  {
-    "name": "Song TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdncibi-kangmas.transvision.co.id:6236/Song_TV/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560acf62436a/da8be26503104e31811743fc6849a70b.jpg"
-  },
-  {
-    "name": "JAVA JAZZ 2026 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e728492e02dae/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019e728492e02dae/6fec7fd786ba43469765158ad3b4ae5c.jpg"
-  },
-  {
-    "name": "CNN International [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d063630b46d1c/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d063630b46d1c/72316b42d5124f58b3a67a443249bc1b.png"
-  },
-  {
-    "name": "CNA [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0640033e6d1f/86a5dd5d98e64d768e399fad561212c4.png"
-  },
-  {
-    "name": "ABC Australia [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856df6711d016e111c808d00a5/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856df6711d016e111c808d00a5/c9071b446cdc4497aac02bef64e4c026.png"
-  },
-  {
-    "name": "CNBC Asia [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6858e523590018e54a335c40489/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858e523590018e54a335c40489/0328d566844546929721eb460f485760.jpg"
-  },
-  {
-    "name": "Al Jazeera [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f0dbdf70005f5/17d42545564e4aa3b27fd871fc5500ad.png"
-  },
-  {
-    "name": "DW [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856f08326c016f0dbf97d305f6/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f0dbf97d305f6/e9e231a9133148fa81b8383108e7e794.png"
-  },
-  {
-    "name": "Euronews [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017f3100bab72abc/beb75788b6474eaeb790f2c8d112dea5.png"
-  },
-  {
-    "name": "France 24 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856f08326c016f556faa7a31b6/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f556faa7a31b6/5d21a0a86a61435399b0d362015f3547.png"
-  },
-  {
-    "name": "CGTN [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c8468973bfe/9230ad24c52b4740b806bf183ca164f3.jpg"
-  },
-  {
-    "name": "Russia Today [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68572841ba301729cea1be63c1b/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cea1be63c1b/b74a3e39eb14447fb1f01c9a55347377.jpg"
-  },
-  {
-    "name": "Arirang [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856fd0d66d01703417ea3a0901/1e9a3ac77f5e4fddab05020984d38710.png"
-  },
-  {
-    "name": "Wion TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68572841ba301729d434e393c21/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729d434e393c21/44e836e0492d42de9530488f17d4d9e6.png"
-  },
-  {
-    "name": "Amsterdam Marathon 2025 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/2c9f9082998232e00199c2826c66536f/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e00199c2826c66536f/7a19a7b6e02a4c33a6eb5dbd6055876c.jpg"
-  },
-  {
-    "name": "Channel Test [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjktidc01.transvision.co.id/kangmas/AXN/index.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019a03d24fa61ddf/b83c3113a01645d693e5486bf01c5130.jpg"
-  },
-  {
-    "name": "Al Quran Al Kareem [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a424301731849249d1577/f1b588a1aad141cb8e65450cd5c2a0e7.png"
-  },
-  {
-    "name": "tv Mu [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce8f25d3c1a/51d7344a49cd4aed8d31e75b0ce234f2.jpg"
-  },
-  {
-    "name": "TV9 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017321f12b4d2d08/582dae09301e46e79548c7df2c4ac957.jpg"
-  },
-  {
-    "name": "Nabawi TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68588e2da5a01892e3755c046bf/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68588e2da5a01892e3755c046bf/8571902888a8404bb37eb0745768d960.jpg"
-  },
-  {
-    "name": "DayStar [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68598610fad0198f5ac5af94a48/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68598610fad0198f5ac5af94a48/2683f211bcf9410691ae8bf0da5983d6.jpg"
-  },
-  {
-    "name": "DAAI TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68572841ba301729cbde4783c06/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cbde4783c06/a3c4bb94f6074815994eedaf7c8f7cfe.jpg"
-  },
-  {
-    "name": "Pijar TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017321f355172d0c/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017321f355172d0c/4c6b923b510940e38afb23ba4b3ba549.jpg"
-  },
-  {
-    "name": "TVRI Sport [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e4440cf661e3c/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019e4440cf661e3c/d2f27f8bf01644fbb0de47716c815ee2.png"
-  },
-  {
-    "name": "Football TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68582449a2e0182597777ec21f3/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68582449a2e0182597777ec21f3/3c2fa651e5f94f7aba31f615e0dc0aba.jpg"
-  },
-  {
-    "name": "Sports TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6857fe540a1018060afdef540bc/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68582449a2e0182597898d221f4/2e42a0ffaf0f402380bab8dd80ffc40e.jpg"
-  },
-  {
-    "name": "ROUND HAINAN CYCLING CHALLENGE 2026 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019d8a5083a47ebe/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019d8a5083a47ebe/1f834dcf43a94b3bbc053c9142cc29ab.jpg"
-  },
-  {
-    "name": "PSJ TV [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/000000008d1b3a72018dbfcd427f46ab/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/000000008d1b3a72018dbfcd427f46ab/9c147046f54e4c4dbc58ff45b44fd1e9.jpg"
-  },
-  {
-    "name": "SBY Cup 2026 [xgo]",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e16221de00ae2/manifest.mpd",
-    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019e16221de00ae2/1f34e4e3556f4936817fa5408daca5d9.jpg"
-  },
-  {
-    "name": "MNC TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd",
-    "img": "https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg"
-  },
-  {
-    "name": "INDOSIAR",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10"
-  },
-  {
-    "name": "RCTI",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU"
-  },
-  {
-    "name": "SCTV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s"
-  },
-  {
-    "name": "Trans TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10"
-  },
-  {
-    "name": "Garuda TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd",
-    "img": "https://i.imgur.com/aKmRvdb.png"
-  },
-  {
-    "name": "TV One",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd",
-    "img": "https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg"
-  },
-  {
-    "name": "CNN Indonesia",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s"
-  },
-  {
-    "name": "CNBC Indonesia",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Q-Rua93TgwQYu3phFVSTw5MuiFtC0jGQVQ&s"
-  },
-  {
-    "name": "JTV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7kokErvRkQq1jr16zOqRKQoxVDRWa8PEGQ&usqp=CAU"
-  },
-  {
-    "name": "Nusantara",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg"
-  },
-  {
-    "name": "Clubbing TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd",
-    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg"
-  },
-  {
-    "name": "NABAWI TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRM18i3RBTdS2HpCo5RelhsRwIu83d-ZLSw&usqp=CAU"
-  },
-  {
-    "name": "Lingua Channel",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/lingua.png"
-  },
-  {
-    "name": "DAAI TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg"
-  },
-  {
-    "name": "Series Zone",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd",
-    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg"
-  },
-  {
-    "name": "Dizi",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/DIZI%20PURPLE.jpg"
-  },
-  {
-    "name": "Gem TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg"
-  },
-  {
-    "name": "Joke TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd",
-    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg"
-  },
-  {
-    "name": "Gossip",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/new/GOSSIP.png"
-  },
-  {
-    "name": "Knowledge+",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-wZnNFd0zVZ363F7dZTh3nGjQe_Khy8YUQ&usqp=CAU"
-  },
-  {
-    "name": "HowTo",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd",
-    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg"
-  },
-  {
-    "name": "ABC Australia",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd",
-    "img": "https://i.postimg.cc/g0Shk5wc/abc-australia.png"
-  },
-  {
-    "name": "France 24",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd",
-    "img": "https://i.postimg.cc/c1QJF2sK/france-24.png"
-  },
-  {
-    "name": "Russia Today",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd",
-    "img": "https://i.postimg.cc/6Q2Wn1jp/RT.png"
-  },
-  {
-    "name": "Wion TV",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/wiontv.png"
-  },
-  {
-    "name": "Motor Racing",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd",
-    "img": "https://www.transvision.co.id/img/channel/new/MOTOR%20RACING.jpg"
-  },
-  {
-    "name": "DISCOVERY SCI",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd",
-    "img": "_____"
-  },
-  {
-    "name": "CINEMA WORLD",
-    "type": "TransVision",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33swb7abmMoHOyTrZZOYNRBr1VqHUqPrsmQ&s"
-  },
-  {
     "name": "RTV",
     "type": "Trial Channel",
     "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd",
@@ -13912,12 +12952,6 @@
     "type": "Trial Channel",
     "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd",
     "img": "https://www.visionplus.id/images/repository/593/593-LOGO-m.png"
-  },
-  {
-    "name": "JAKTV",
-    "type": "Trial Channel",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd",
-    "img": "https://www.visionplus.id/images/repository/598/598-LOGO-m.png"
   },
   {
     "name": "beIN SPORTS 4",
@@ -18984,6 +18018,12 @@
     "img": "https://i.imgur.com/7gWNch5.png"
   },
   {
+    "name": "MNCTV",
+    "type": "Nasional 🇮🇩",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MNCTV.m3u8",
+    "img": "https://i.imgur.com/7AX2huE.png"
+  },
+  {
     "name": "Moji",
     "type": "Nasional 🇮🇩",
     "url": "https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8",
@@ -18994,6 +18034,12 @@
     "type": "Nasional 🇮🇩",
     "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8",
     "img": "https://i.imgur.com/lZO4muM.png"
+  },
+  {
+    "name": "RCTI",
+    "type": "Nasional 🇮🇩",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/RCTI.m3u8",
+    "img": "https://i.imgur.com/n0pnMMg.png"
   },
   {
     "name": "Riau TV",
@@ -19050,6 +18096,12 @@
     "img": "https://static.wikia.nocookie.net/logo-tv/images/a/af/ATV_Malang_Logo_%282011%29.png/revision/latest/scale-to-width-down/250?cb=20210305150408"
   },
   {
+    "name": "BMSTV",
+    "type": "Daerah",
+    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png"
+  },
+  {
     "name": "CTV Banten",
     "type": "Daerah",
     "url": "http://103.23.201.170:1935/live/livestream/lihattv.m3u8?",
@@ -19066,6 +18118,12 @@
     "type": "Daerah",
     "url": "https://v2.siar.us/dutatv/live/playlist.m3u8",
     "img": "https://i.imgur.com/WHeb9Yt.png"
+  },
+  {
+    "name": "jtV ᵛ⁺",
+    "type": "Daerah",
+    "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+    "img": "https://www.dropbox.com/s/nmkxbt0g0ikwjbq/jtv.png?dl=1"
   },
   {
     "name": "JAK TV ᵛ⁺",
@@ -19170,6 +18228,12 @@
     "img": "https://i.imgur.com/3kGs7k0.png"
   },
   {
+    "name": "Dhoho TV",
+    "type": "Daerah",
+    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+    "img": "https://i.imgur.com/4Khyyfh.png"
+  },
+  {
     "name": "Dhamma TV",
     "type": "Daerah",
     "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
@@ -19180,6 +18244,12 @@
     "type": "Daerah",
     "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEWZFUeiAwlUSKxXBbpUDwyANh9F5affeDQ&usqp=CAU"
+  },
+  {
+    "name": "Lingkar TV Pati",
+    "type": "Daerah",
+    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+    "img": "https://lingkartv.com//assets/img/logo-lingkartv.png"
   },
   {
     "name": "Sampit TV",
@@ -19434,9 +18504,27 @@
     "img": "https://yt3.ggpht.com/a/AATXAJw0M_SfVS1d10Wp6ofhnFX0xLJrQODltIlvmg=s900-c-k-c0xffffffff-no-rj-mo"
   },
   {
+    "name": "STARA TV",
+    "type": "Daerah",
+    "url": "https://stream.staratv.id/hls/0/stream.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60jpFzjyNtsJ4-c6L4O5wKJmUrNDJHlWi2Q4c70A8tP7lWKFf6nY1k9SpRZ-zskLFnucCtZ6VoQjYKI6p_XXlhIB9SWxhX4SorBHAQVGgg5Gdv28KUBwC-0HESHoAfpZWo6q25a9YSLCqfL1oIAsFeLuWzRhNbuHBzKU3h1VEG4KQXDfYiImcjheqijg3/s700/STARA%20TV.png"
+  },
+  {
     "name": "STARA TV BANDUNG",
     "type": "Daerah",
     "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60jpFzjyNtsJ4-c6L4O5wKJmUrNDJHlWi2Q4c70A8tP7lWKFf6nY1k9SpRZ-zskLFnucCtZ6VoQjYKI6p_XXlhIB9SWxhX4SorBHAQVGgg5Gdv28KUBwC-0HESHoAfpZWo6q25a9YSLCqfL1oIAsFeLuWzRhNbuHBzKU3h1VEG4KQXDfYiImcjheqijg3/s700/STARA%20TV.png"
+  },
+  {
+    "name": "STARA TV CIANJUR",
+    "type": "Daerah",
+    "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60jpFzjyNtsJ4-c6L4O5wKJmUrNDJHlWi2Q4c70A8tP7lWKFf6nY1k9SpRZ-zskLFnucCtZ6VoQjYKI6p_XXlhIB9SWxhX4SorBHAQVGgg5Gdv28KUBwC-0HESHoAfpZWo6q25a9YSLCqfL1oIAsFeLuWzRhNbuHBzKU3h1VEG4KQXDfYiImcjheqijg3/s700/STARA%20TV.png"
+  },
+  {
+    "name": "STARA TV MALANG",
+    "type": "Daerah",
+    "url": "https://malang.staratv.id/hls/0/stream.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60jpFzjyNtsJ4-c6L4O5wKJmUrNDJHlWi2Q4c70A8tP7lWKFf6nY1k9SpRZ-zskLFnucCtZ6VoQjYKI6p_XXlhIB9SWxhX4SorBHAQVGgg5Gdv28KUBwC-0HESHoAfpZWo6q25a9YSLCqfL1oIAsFeLuWzRhNbuHBzKU3h1VEG4KQXDfYiImcjheqijg3/s700/STARA%20TV.png"
   },
   {
@@ -19972,6 +19060,12 @@
     "type": "Religi 🕋",
     "url": "https://rodjatv.com/rodjatv/live.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png"
+  },
+  {
+    "name": "BRTV HD",
+    "type": "Religi 🕋",
+    "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpOeYJ0iMH60mHTbosEBCji0UM9gS-00hnCDyUJ3pszXGkVO9axImEiSyp2SAAtpmGks-GRu-jGuq4qZuSggGwwWvvySL8Eb-gfKdYaSWKNd-t6pQriqYxYzvGOHXwWSu19gumF-K-BnF5Wyx_NWznW16Hi2gJmkpYihwEqtzUSIl-gG8l1ObcXRAg0eK2/s700/BRTV.png"
   },
   {
     "name": "MADANI TV",
@@ -20778,12 +19872,6 @@
     "img": "https://i.ibb.co.com/df9KzwF/20240903-015422.jpg"
   },
   {
-    "name": "TV 6_",
-    "type": "Malaysia 🇲🇾",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
-    "img": "https://i.ibb.co/LPVMhTq/tv6.png"
-  },
-  {
     "name": "TV 7",
     "type": "Malaysia 🇲🇾",
     "url": "https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8.mpd",
@@ -21172,6 +20260,588 @@
     "type": "Brunei 🇧🇳",
     "url": "https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8",
     "img": "https://static.mytuner.mobi/media/radios-150px/6AA32NhxbU.png"
+  },
+  {
+    "name": "Trans TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg"
+  },
+  {
+    "name": "Trans 7 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685651d7bcc01651f0db0bf0097/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg"
+  },
+  {
+    "name": "MetroTV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png"
+  },
+  {
+    "name": "CNN Indonesia [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0e4ce10098/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg"
+  },
+  {
+    "name": "tvOne [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019b35eaf9785b64/56804c23ee4b43bda61b80cea09827fc.jpg"
+  },
+  {
+    "name": "CNBC Indonesia [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c68565fa79ce01665868040a343f/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/2a44add8d2a74e1e8cddb29f6935cb92.jpg"
+  },
+  {
+    "name": "SCTV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png"
+  },
+  {
+    "name": "Indosiar [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e773b02392/25aba9a19bfa424ea7012dd0c25613f2.png"
+  },
+  {
+    "name": "RCTI [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e825832393/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png"
+  },
+  {
+    "name": "GTV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e8eda22394/9e138905ec264209945921a5c4295dbe.png"
+  },
+  {
+    "name": "ANTV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f9082998232e0019b35e7220c5b63/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019b35eb56725b65/3e89e8a72a0d4d88a4d7b927e62fc6fd.jpg"
+  },
+  {
+    "name": "Jak tv [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg"
+  },
+  {
+    "name": "Kompas TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg"
+  },
+  {
+    "name": "MDTV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776bc7624307ab/c78ea2b0618a45b2894adb000fe4c9f5.png"
+  },
+  {
+    "name": "rtv [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg"
+  },
+  {
+    "name": "MNC TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png"
+  },
+  {
+    "name": "TVRI [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png"
+  },
+  {
+    "name": "jtv [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685730a42430173142e26ba7b17/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a42430173142e26ba7b17/5f7dff410fd1430f9baba0be909d9675.png"
+  },
+  {
+    "name": "Berita Satu [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cd06bed442f/9cd730cd0f734738a21347d1aa9d2f7a.png"
+  },
+  {
+    "name": "Garuda TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6859645ee4801965cf102264bf3/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cf102264bf3/decf82ff8ddd4bf1b0f895d4e2eab840.jpg"
+  },
+  {
+    "name": "Cartoon Network [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg"
+  },
+  {
+    "name": "Cartoon TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d144f21811dc9/fb19799254344b97a83bca4253360ede.jpg"
+  },
+  {
+    "name": "Dunia Anak [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png"
+  },
+  {
+    "name": "Cartoon TV Classics [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685840ff0490184560100c34363/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560100c34363/5550dd0409a04f948407c307a9468240.jpg"
+  },
+  {
+    "name": "Knowledge+ [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e018259716f7821f0/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68582449a2e018259716f7821f0/94bcf3d9f1564897bab055065f206550.jpg"
+  },
+  {
+    "name": "CGTN Documentary [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c86e3cf3bff/e39fcddc642549f99cedd05e3011c4d4.jpg"
+  },
+  {
+    "name": "AXN [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87da299e0b56/e35d526edf5e4c279acc3dfa717ebc3c.jpg"
+  },
+  {
+    "name": "Warner TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/fcfea055f6184564bd099acf3950de0e.png"
+  },
+  {
+    "name": "tvN [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/d6d16992f4d34a1e929cb40c1403dfd3.jpg"
+  },
+  {
+    "name": "KBS World [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png"
+  },
+  {
+    "name": "ONE [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/86b0e0ba565f4201a125338d37695196.png"
+  },
+  {
+    "name": "Channel Jowo [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685910daca60191a29de97f443a/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685910daca60191a29de97f443a/e3f6f5e28b8d4846a93ece320fe8ad8d.jpg"
+  },
+  {
+    "name": "!nsert [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdc51294b4f8e/ee3e2388b7ec4fbcacc9b4b5a8d46009.png"
+  },
+  {
+    "name": "Channel Seru! [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c921bc43c00/6e96692c60b64bf2b004e2672821b96c.jpg"
+  },
+  {
+    "name": "Dunia Lain [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856ea34e35016ef8e9fdf951c1/e55ef2d8ea58482b8b3f5f0e77c079ef.png"
+  },
+  {
+    "name": "CCTV 4 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017317e334101575/5da44d2f61874694b1806ced7e3afdf5.png"
+  },
+  {
+    "name": "TV5 Monde [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0642d33e6d20/62bc05d60c8e4649b66de781169e716b.png"
+  },
+  {
+    "name": "One TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff049018455ff15294362/3355e8a7631a416d8d6e2d9ecc15e43a.jpg"
+  },
+  {
+    "name": "Fashion TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ad6cc8b4c8b/379c1f236f734135b03dffc6f1fadcdf.jpg"
+  },
+  {
+    "name": "Song TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdncibi-kangmas.transvision.co.id:6236/Song_TV/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560acf62436a/da8be26503104e31811743fc6849a70b.jpg"
+  },
+  {
+    "name": "JAVA JAZZ 2026 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e728492e02dae/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019e728492e02dae/6fec7fd786ba43469765158ad3b4ae5c.jpg"
+  },
+  {
+    "name": "CNN International [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d063630b46d1c/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d063630b46d1c/72316b42d5124f58b3a67a443249bc1b.png"
+  },
+  {
+    "name": "CNA [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0640033e6d1f/86a5dd5d98e64d768e399fad561212c4.png"
+  },
+  {
+    "name": "ABC Australia [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856df6711d016e111c808d00a5/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856df6711d016e111c808d00a5/c9071b446cdc4497aac02bef64e4c026.png"
+  },
+  {
+    "name": "CNBC Asia [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6858e523590018e54a335c40489/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858e523590018e54a335c40489/0328d566844546929721eb460f485760.jpg"
+  },
+  {
+    "name": "Al Jazeera [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f0dbdf70005f5/17d42545564e4aa3b27fd871fc5500ad.png"
+  },
+  {
+    "name": "DW [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856f08326c016f0dbf97d305f6/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f0dbf97d305f6/e9e231a9133148fa81b8383108e7e794.png"
+  },
+  {
+    "name": "Euronews [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017f3100bab72abc/beb75788b6474eaeb790f2c8d112dea5.png"
+  },
+  {
+    "name": "France 24 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856f08326c016f556faa7a31b6/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f556faa7a31b6/5d21a0a86a61435399b0d362015f3547.png"
+  },
+  {
+    "name": "CGTN [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c8468973bfe/9230ad24c52b4740b806bf183ca164f3.jpg"
+  },
+  {
+    "name": "Russia Today [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68572841ba301729cea1be63c1b/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cea1be63c1b/b74a3e39eb14447fb1f01c9a55347377.jpg"
+  },
+  {
+    "name": "Arirang [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856fd0d66d01703417ea3a0901/1e9a3ac77f5e4fddab05020984d38710.png"
+  },
+  {
+    "name": "Wion TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68572841ba301729d434e393c21/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729d434e393c21/44e836e0492d42de9530488f17d4d9e6.png"
+  },
+  {
+    "name": "Amsterdam Marathon 2025 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/2c9f9082998232e00199c2826c66536f/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e00199c2826c66536f/7a19a7b6e02a4c33a6eb5dbd6055876c.jpg"
+  },
+  {
+    "name": "Channel Test [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjktidc01.transvision.co.id/kangmas/AXN/index.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019a03d24fa61ddf/b83c3113a01645d693e5486bf01c5130.jpg"
+  },
+  {
+    "name": "Al Quran Al Kareem [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a424301731849249d1577/f1b588a1aad141cb8e65450cd5c2a0e7.png"
+  },
+  {
+    "name": "tv Mu [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce8f25d3c1a/51d7344a49cd4aed8d31e75b0ce234f2.jpg"
+  },
+  {
+    "name": "TV9 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017321f12b4d2d08/582dae09301e46e79548c7df2c4ac957.jpg"
+  },
+  {
+    "name": "Nabawi TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68588e2da5a01892e3755c046bf/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68588e2da5a01892e3755c046bf/8571902888a8404bb37eb0745768d960.jpg"
+  },
+  {
+    "name": "DayStar [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68598610fad0198f5ac5af94a48/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68598610fad0198f5ac5af94a48/2683f211bcf9410691ae8bf0da5983d6.jpg"
+  },
+  {
+    "name": "DAAI TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68572841ba301729cbde4783c06/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cbde4783c06/a3c4bb94f6074815994eedaf7c8f7cfe.jpg"
+  },
+  {
+    "name": "Pijar TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017321f355172d0c/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a4243017321f355172d0c/4c6b923b510940e38afb23ba4b3ba549.jpg"
+  },
+  {
+    "name": "TVRI Sport [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e4440cf661e3c/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019e4440cf661e3c/d2f27f8bf01644fbb0de47716c815ee2.png"
+  },
+  {
+    "name": "Football TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68582449a2e0182597777ec21f3/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68582449a2e0182597777ec21f3/3c2fa651e5f94f7aba31f615e0dc0aba.jpg"
+  },
+  {
+    "name": "Sports TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6857fe540a1018060afdef540bc/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68582449a2e0182597898d221f4/2e42a0ffaf0f402380bab8dd80ffc40e.jpg"
+  },
+  {
+    "name": "ROUND HAINAN CYCLING CHALLENGE 2026 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019d8a5083a47ebe/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019d8a5083a47ebe/1f834dcf43a94b3bbc053c9142cc29ab.jpg"
+  },
+  {
+    "name": "PSJ TV [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/000000008d1b3a72018dbfcd427f46ab/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/000000008d1b3a72018dbfcd427f46ab/9c147046f54e4c4dbc58ff45b44fd1e9.jpg"
+  },
+  {
+    "name": "SBY Cup 2026 [xgo]",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e16221de00ae2/manifest.mpd",
+    "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f90829cf5a35a019e16221de00ae2/1f34e4e3556f4936817fa5408daca5d9.jpg"
+  },
+  {
+    "name": "MNC TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd",
+    "img": "https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg"
+  },
+  {
+    "name": "INDOSIAR",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10"
+  },
+  {
+    "name": "RCTI",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU"
+  },
+  {
+    "name": "SCTV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s"
+  },
+  {
+    "name": "Trans TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10"
+  },
+  {
+    "name": "Garuda TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd",
+    "img": "https://i.imgur.com/aKmRvdb.png"
+  },
+  {
+    "name": "TV One",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd",
+    "img": "https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg"
+  },
+  {
+    "name": "CNN Indonesia",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s"
+  },
+  {
+    "name": "CNBC Indonesia",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Q-Rua93TgwQYu3phFVSTw5MuiFtC0jGQVQ&s"
+  },
+  {
+    "name": "JTV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7kokErvRkQq1jr16zOqRKQoxVDRWa8PEGQ&usqp=CAU"
+  },
+  {
+    "name": "Nusantara",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg"
+  },
+  {
+    "name": "Clubbing TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd",
+    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg"
+  },
+  {
+    "name": "NABAWI TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRM18i3RBTdS2HpCo5RelhsRwIu83d-ZLSw&usqp=CAU"
+  },
+  {
+    "name": "Lingua Channel",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/lingua.png"
+  },
+  {
+    "name": "DAAI TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg"
+  },
+  {
+    "name": "Series Zone",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd",
+    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg"
+  },
+  {
+    "name": "Dizi",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/DIZI%20PURPLE.jpg"
+  },
+  {
+    "name": "Gem TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg"
+  },
+  {
+    "name": "Joke TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd",
+    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg"
+  },
+  {
+    "name": "Gossip",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/new/GOSSIP.png"
+  },
+  {
+    "name": "Knowledge+",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-wZnNFd0zVZ363F7dZTh3nGjQe_Khy8YUQ&usqp=CAU"
+  },
+  {
+    "name": "HowTo",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd",
+    "img": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg"
+  },
+  {
+    "name": "ABC Australia",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd",
+    "img": "https://i.postimg.cc/g0Shk5wc/abc-australia.png"
+  },
+  {
+    "name": "France 24",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd",
+    "img": "https://i.postimg.cc/c1QJF2sK/france-24.png"
+  },
+  {
+    "name": "Russia Today",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd",
+    "img": "https://i.postimg.cc/6Q2Wn1jp/RT.png"
+  },
+  {
+    "name": "Wion TV",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/wiontv.png"
+  },
+  {
+    "name": "Motor Racing",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/new/MOTOR%20RACING.jpg"
+  },
+  {
+    "name": "DISCOVERY SCI",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd",
+    "img": "_____"
+  },
+  {
+    "name": "CINEMA WORLD",
+    "type": "TransVision",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33swb7abmMoHOyTrZZOYNRBr1VqHUqPrsmQ&s"
   },
   {
     "name": "QURAN KAREEM TV",
@@ -31194,6 +30864,12 @@
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2403UeJ10gquJWdTP361RZdej2P0DW9NroMYfw2uoQxFudZXNNVxKEs14W2RLdtzWdTGCPwCu-AYHUhNUZmgjTAUl4mqI0iHytsS4xzG5DS5tdPcNtHfBczSI8NIpaVzcG2YCZ5UQ-dR657pDeR1sIYzMfCvyWf2mOwZcEoedissuV4Q9yh2QqZYWJ-ob/s700/TV%20PARLEMEN.png"
   },
   {
+    "name": "ASTHA TV",
+    "type": "TV BackUP",
+    "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv4fyz67GC8WFR91BAGCjO1Qu8l6WlQ8Kro2RiFUjKAMkqJFgdLfpq7mzF_CW44TnqQUsUXJaL9UHysSKKStc024974d93P9FTL-PIxi7_VT5E8qQA1YEEfS0zeZL_RGOLEV9zqgRh3wOqm7FGVWkx2Y8ura2x8qbDwq_OzvzcJXy0eVNq4aO0H-x_vdTk/s700/ASTHA%20TV.png"
+  },
+  {
     "name": "JAGANTARA",
     "type": "TV BackUP",
     "url": "https://flv.intechmedia.net/live/ch119.m3u8",
@@ -33138,6 +32814,12 @@
     "img": "https://i.imgur.com/iLFx8ia.png"
   },
   {
+    "name": "Sampit TV (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+    "img": "https://i.imgur.com/8cFJa8G.png"
+  },
+  {
     "name": "SCTV",
     "type": "General",
     "url": "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8",
@@ -33390,6 +33072,24 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png"
   },
   {
+    "name": "Banjar TV (720p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
+    "img": "https://i.imgur.com/TA76a10.png"
+  },
+  {
+    "name": "Banten TV (720p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+    "img": "https://i.imgur.com/tbtF40p.png"
+  },
+  {
+    "name": "Caruban TV (1080p)",
+    "type": "Undefined",
+    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png"
+  },
+  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Channel Jowo [Geo-blocked]",
     "type": "Undefined",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8",
@@ -33562,6 +33262,12 @@
     "type": "Culture;General;Music;News",
     "url": "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8",
     "img": "https://i.imgur.com/E9CCIpP.jpg"
+  },
+  {
+    "name": "Salira TV (720p)",
+    "type": "Culture;Lifestyle",
+    "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png"
   },
   {
     "name": "The Indonesia Channel (1080p)",
