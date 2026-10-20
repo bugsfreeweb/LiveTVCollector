@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19 09:35:44",
+  "date": "2026-10-20 09:48:12",
   "channels": {
     "Uncategorized": [
       {
@@ -1290,13 +1290,6 @@
         "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8"
       },
       {
-        "name": "VTV5 Tay Nguyen HD (1080p)",
-        "logo": "https://i.imgur.com/Hlcnqqt.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8"
-      },
-      {
         "name": "VTV7 HD (1080p)",
         "logo": "https://i.imgur.com/ZwoP823.png",
         "group": "Undefined",
@@ -1464,6 +1457,15 @@
         "url": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
       }
     ],
+    "Series": [
+      {
+        "name": "ON Cine",
+        "logo": "https://i.ibb.co/Jw0J5fnW/IMG-2509.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+      }
+    ],
     "Kids": [
       {
         "name": "ON Kids (720p)",
@@ -1489,6 +1491,15 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
+      }
+    ],
+    "Music": [
+      {
+        "name": "ON Music (1080p)",
+        "logo": "https://i.ibb.co/DHk2gv86/IMG-2524.webp",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185"
       }
     ],
     "Outdoor": [
