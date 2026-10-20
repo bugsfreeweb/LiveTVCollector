@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19 08:29:07",
+  "date": "2026-10-20 08:38:45",
   "channels": {
     "News": [
       {
@@ -1833,7 +1833,7 @@
       },
       {
         "name": "Dhool TV (576p)",
-        "logo": "https://i.ibb.co/Rk78p2LB/dhooltv.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DhoolTV.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8"
@@ -2268,13 +2268,6 @@
         "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls"
       },
       {
-        "name": "Colors Cineplex Bollywood (576p) [Geo-blocked]",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT"
-      },
-      {
         "name": "Epic Bhojpuri (576p)",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
         "group": "Movies",
@@ -2602,13 +2595,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.151.60.162:2122/play/a024/index.m3u8?hls"
-      },
-      {
-        "name": "Zee Cinemalu HD (720p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
       },
       {
         "name": "Zee South Flix (1080p)",
@@ -4029,11 +4015,11 @@
         "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8"
       },
       {
-        "name": "Zee Telugu HD (720p)",
+        "name": "Zee Telugu HD (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8"
       },
       {
         "name": "Zee TV (576p)",
@@ -5221,18 +5207,18 @@
     ],
     "Sports": [
       {
-        "name": "DD Sports (720p)",
-        "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
-      },
-      {
-        "name": "DD Sports SD (1080p)",
+        "name": "DD Sports (1080p)",
         "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+      },
+      {
+        "name": "DD Sports HD (720p)",
+        "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
       },
       {
         "name": "Eurosport (720p)",
@@ -5416,15 +5402,6 @@
         "group": "Cooking;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
-      }
-    ],
-    "Documentary;News": [
-      {
-        "name": "India TV Aap Ki Adalat (1080p) [Geo-blocked]",
-        "logo": "https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA",
-        "group": "Documentary;News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8"
       }
     ],
     "Movies;News": [
