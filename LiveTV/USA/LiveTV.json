@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20 08:22:18",
+  "date": "2026-10-21 08:16:31",
   "channels": {
     "Movies": [
       {
@@ -465,7 +465,7 @@
         "url": "https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8"
       },
       {
-        "name": "Pluto TV Thrillers (United States)",
+        "name": "Pluto TV Thrillers",
         "logo": "https://i.imgur.com/ULKvDN7.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -1875,6 +1875,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.239.31.26:8989/accnetwork/index.m3u8"
+      },
+      {
+        "name": "American Ninja Warrior (1080p)",
+        "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318"
       },
       {
         "name": "beIN SPORTS XTRA (1080p)",
@@ -4482,6 +4489,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.239.31.26:8989/axstv/index.m3u8"
+      },
+      {
+        "name": "Botflix Radioo (1080p)",
+        "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://hls.botflix.tv/radioo/index.m3u8"
       },
       {
         "name": "BPX TV Radio",
@@ -7834,7 +7848,7 @@
         "url": "https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8"
       },
       {
-        "name": "Pluto TV Reality (United States)",
+        "name": "Pluto TV Reality",
         "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -8913,7 +8927,7 @@
         "url": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8"
       },
       {
-        "name": "Pluto TV Romance (United States)",
+        "name": "Pluto TV Romance",
         "logo": "https://i.imgur.com/GJBxfyf.png",
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -10014,13 +10028,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8"
-      },
-      {
-        "name": "Fox (United States) (720p)",
-        "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://stream.cammonitorplus.net/1752/index.m3u8"
       },
       {
         "name": "Fox (United States) KBSI (720p) [Not 24/7]",
@@ -14511,6 +14518,15 @@
         "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8"
       }
     ],
+    "Animation;Entertainment": [
+      {
+        "name": "Botflix TV (1080p)",
+        "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+        "group": "Animation;Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://hls.botflix.tv/tv/index.m3u8"
+      }
+    ],
     "General;News": [
       {
         "name": "BX Inform (1080p)",
@@ -14825,7 +14841,7 @@
     ],
     "Documentary;Science": [
       {
-        "name": "Pluto TV Science (United States)",
+        "name": "Pluto TV Science",
         "logo": "https://i.imgur.com/uhunRoU.png",
         "group": "Documentary;Science",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
