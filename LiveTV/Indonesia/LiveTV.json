@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25 07:42:21",
+  "date": "2026-10-26 07:42:59",
   "channels": {
     "INDONESIA": [
       {
@@ -22321,25 +22321,32 @@
     ],
     "INDONESIA TV": [
       {
+        "name": "06. RCTI 1",
+        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png",
+        "group": "INDONESIA TV",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://rplus.inisemar.my.id/rcti.m3u8"
+      },
+      {
         "name": "05. MNCTV 1",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
+        "url": "https://rplus.inisemar.my.id/mnctv.m3u8"
       },
       {
         "name": "08. GTV 1",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
+        "url": "https://rplus.inisemar.my.id/gtv.m3u8"
       },
       {
         "name": "15. INEWS 1",
         "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png",
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
+        "url": "https://rplus.inisemar.my.id/inews.m3u8"
       },
       {
         "name": "SINDONEWS (MAX)",
@@ -22417,13 +22424,6 @@
         "group": "INDONESIA TV",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w25391797_b1492000_sleng.m3u8"
-      },
-      {
-        "name": "12. METRO TV 1",
-        "logo": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png",
-        "group": "INDONESIA TV",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
       },
       {
         "name": "30. BTV (V+)",
@@ -23986,6 +23986,13 @@
         "url": "https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8"
       },
       {
+        "name": "GTV (R+)",
+        "logo": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png",
+        "group": "No SignaL 📺",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
+      },
+      {
         "name": "FS 1 🇺🇸",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
         "group": "No SignaL 📺",
@@ -25260,6 +25267,20 @@
         "group": "NasioNaL DiGitaL 📡",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://popmi.my.id/tes.m3u8?id=19046"
+      },
+      {
+        "name": "MNC TV (R+)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png",
+        "group": "NasioNaL DiGitaL 📡",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
+      },
+      {
+        "name": "iNews (R+)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",
+        "group": "NasioNaL DiGitaL 📡",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
       }
     ],
     "Nasional 🇮🇩": [
