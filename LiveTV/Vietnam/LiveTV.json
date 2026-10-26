@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25 09:35:13",
+  "date": "2026-10-26 09:39:05",
   "channels": {
     "Uncategorized": [
       {
@@ -1078,6 +1078,13 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
       },
       {
+        "name": "ON Vie Dramas (1080i)",
+        "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+      },
+      {
         "name": "ON Vie Giai Tri (1080p)",
         "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png",
         "group": "Entertainment",
@@ -1427,11 +1434,11 @@
     ],
     "Sports": [
       {
-        "name": "HTV Sports",
+        "name": "HTV Sports (1080i)",
         "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://dethich.pw/htvthethao/index.m3u8"
+        "url": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao"
       },
       {
         "name": "VTV6 (1080p)",
@@ -1439,6 +1446,54 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8"
+      }
+    ],
+    "Family": [
+      {
+        "name": "HTVC Family (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htvcgiadinh/index.m3u8"
+      }
+    ],
+    "Movies;Series": [
+      {
+        "name": "HTVC Movies (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htvcphim/index.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "HTVC Women (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://dethich.pw/htvcphunu/index.m3u8"
+      },
+      {
+        "name": "ON Life (720p)",
+        "logo": "https://i.ibb.co/XxtcgQQv/IMG-2513.webp",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+      },
+      {
+        "name": "ON O2TV (1080p)",
+        "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+      },
+      {
+        "name": "ON Style TV (1080p)",
+        "logo": "https://i.ibb.co/JFw65Mtk/IMG-2529.webp",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
       }
     ],
     "Shop": [
@@ -1487,22 +1542,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179"
-      }
-    ],
-    "Lifestyle": [
-      {
-        "name": "ON Life (720p)",
-        "logo": "https://i.ibb.co/XxtcgQQv/IMG-2513.webp",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188"
-      },
-      {
-        "name": "ON O2TV (1080p)",
-        "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
       }
     ],
     "Movies": [
