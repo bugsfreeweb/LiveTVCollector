@@ -266,7 +266,7 @@
   {
     "name": "Rakuten TV - Top Movies",
     "type": "TV",
-    "url": "https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8",
+    "url": "https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6741-playout/master.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RakutenTVTopMovies.es.png"
   },
   {
@@ -586,12 +586,6 @@
     "type": "TV",
     "url": "https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB2.es.png"
-  },
-  {
-    "name": "EITB Basque",
-    "type": "TV",
-    "url": "https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETBBasque.es.png"
   },
   {
     "name": "Canal Extremadura TV",
@@ -5906,13 +5900,13 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMDo0MjoxOCBQTSZoYXNoX3ZhbHVlPXlJUXFiRU96MEQrMkJydU9CRzhNd0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00YWU2MzQ1Zi0xNzZmLTRhZGMtYTQwYi1lOWE2MzMxNzIwMGQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiA5OjY6MTYgUE0maGFzaF92YWx1ZT1nSjZ3a2JEU1VRc3grL0cwRkdPM0t3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzI5ZmNjYzMtZTIxOS00ZWRiLTg2YzktYTJhYzE0MWM1ZTE1/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMDo0MjoxNyBQTSZoYXNoX3ZhbHVlPTBSR2hKMzE1dXVhV2tKRzAvYmxIWXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMjBmYjc3MS0zNDMyLTQzODEtODM0OS1iY2QwYzlkOWYyNWM=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiA5OjY6MTUgUE0maGFzaF92YWx1ZT1CWDFvSkNCT2NielU0SUlRSndMd1RBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTQzMjQ5YTQtNGQ2YS00YzY1LWI1ZDUtZWVkYjhjZjk5MDZk/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -5926,6 +5920,12 @@
     "type": "Portugal 🇵🇹",
     "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152?RecordInteriorBR",
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/recordtv.webp"
+  },
+  {
+    "name": "Top Movies (💬🇧🇷)",
+    "type": "Portugal 🇵🇹",
+    "url": "https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8",
+    "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png"
   },
   {
     "name": "Teledifusão de Macau 🇲🇴",
@@ -5984,7 +5984,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMDo0MjoxOCBQTSZoYXNoX3ZhbHVlPVN6ejNPRjBuaWlndGVyVWdLelJQNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lODdkOTVkNi05OTNkLTRhNjAtOGIxNC0yMTdjZDNiMDI3ZTg=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiA5OjY6MTUgUE0maGFzaF92YWx1ZT1XaS81ZHowL25kejcrNVljS0tqQm5RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjkxMzEwMDktZDQ4Mi00MWFkLWFmYmMtZmJiMTZkODEwNTQ0/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
