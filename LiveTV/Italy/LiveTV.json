@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27 08:39:57",
+  "date": "2026-10-28 08:53:47",
   "channels": {
     "Entertainment": [
       {
@@ -1909,6 +1909,29 @@
         "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8"
       }
     ],
+    "Outdoor": [
+      {
+        "name": "Caccia e Pesca (720p)",
+        "logo": "https://i.imgur.com/uZr0cXB.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://102.129.186.182:81/cacciapesca/index.m3u8"
+      },
+      {
+        "name": "Italian Fishing TV (1080p)",
+        "logo": "https://i.imgur.com/qrn6tUO.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://fms.premio.link/fishingtv/playlist.m3u8"
+      },
+      {
+        "name": "Pesca e Caccia (720p)",
+        "logo": "https://i.imgur.com/nW5dJBl.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://102.129.186.182:81/pescacaccia/index.m3u8"
+      }
+    ],
     "Undefined": [
       {
         "name": "CafeTV24 (720p)",
@@ -2420,6 +2443,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://www.gruppotv7.com:8090/hls/ireporter.m3u8"
+      },
+      {
+        "name": "TV8 (Italy) (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TV8_logo.svg/500px-TV8_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://102.129.186.182:81/tv8/index.m3u8"
       },
       {
         "name": "TV Prato (1080p)",
@@ -3030,15 +3060,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
-      }
-    ],
-    "Outdoor": [
-      {
-        "name": "Italian Fishing TV (1080p)",
-        "logo": "https://i.imgur.com/qrn6tUO.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://fms.premio.link/fishingtv/playlist.m3u8"
       }
     ],
     "Documentary": [
