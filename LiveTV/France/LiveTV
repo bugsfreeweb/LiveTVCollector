@@ -216,9 +216,9 @@
     "img": "https://i.ibb.co/X2yd0zL/logo-tv3v.jpg"
   },
   {
-    "name": "TV5Monde France Belgium Switzerland Monaco",
+    "name": "TV5Monde France Belgium Switzerland Monaco (1080p) [Geo-blocked]",
     "type": "General",
-    "url": "http://5.78.65.164/TV5Monde/index.m3u8",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8",
     "img": "https://i.imgur.com/WmRbudc.png"
   },
   {
@@ -384,9 +384,9 @@
     "img": "https://i.imgur.com/u8N6uoj.png"
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"News\",Franceinfo (1080p)",
+    "name": "Franceinfo (1080p)",
     "type": "News",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8",
+    "url": "http://149.62.177.107:9999/franceinfo:/index.m3u8",
     "img": "https://i.imgur.com/eITXz6A.png"
   },
   {
@@ -618,10 +618,46 @@
     "img": "https://i.imgur.com/7y7ancc.png"
   },
   {
-    "name": "Canal+ Cinemas (720p)",
-    "type": "Movies",
-    "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-    "img": "https://i.imgur.com/fvPoNEa.jpeg"
+    "name": "Canal+ Sport (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
+    "img": "https://i.imgur.com/EOXnU15.png"
+  },
+  {
+    "name": "Equidia (1080p)",
+    "type": "Sports",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+    "img": "https://i.imgur.com/QPpbRcZ.png"
+  },
+  {
+    "name": "FIFA+ French (720p)",
+    "type": "Sports",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "name": "Golf + (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
+    "img": "https://i.imgur.com/WHnddkg.png"
+  },
+  {
+    "name": "Kozoom TV (1080p)",
+    "type": "Sports",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+    "img": "https://i.imgur.com/M1Ee79b.png"
+  },
+  {
+    "name": "like Gecko) Chrome/133.0.0.0 Safari/537.36\" group-title=\"Sports\",L'Equipe (1080p)",
+    "type": "Sports",
+    "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+    "img": "https://i.imgur.com/t35zhM9.png"
+  },
+  {
+    "name": "Trace Sport Stars (1080p)",
+    "type": "Sports",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/FabFP5A.png"
   },
   {
     "name": "Cine 666 by Pluto TV",
@@ -748,48 +784,6 @@
     "type": "Movies",
     "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
     "img": "https://i.imgur.com/4CJIDKQ.png"
-  },
-  {
-    "name": "Canal+ Sport (1080p) [Geo-blocked]",
-    "type": "Sports",
-    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-    "img": "https://i.imgur.com/EOXnU15.png"
-  },
-  {
-    "name": "Equidia (1080p)",
-    "type": "Sports",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
-    "img": "https://i.imgur.com/QPpbRcZ.png"
-  },
-  {
-    "name": "FIFA+ French (720p)",
-    "type": "Sports",
-    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
-  },
-  {
-    "name": "Golf + (1080p) [Geo-blocked]",
-    "type": "Sports",
-    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-    "img": "https://i.imgur.com/WHnddkg.png"
-  },
-  {
-    "name": "Kozoom TV (1080p)",
-    "type": "Sports",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
-    "img": "https://i.imgur.com/M1Ee79b.png"
-  },
-  {
-    "name": "like Gecko) Chrome/133.0.0.0 Safari/537.36\" group-title=\"Sports\",L'Equipe (1080p)",
-    "type": "Sports",
-    "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-    "img": "https://i.imgur.com/t35zhM9.png"
-  },
-  {
-    "name": "Trace Sport Stars (1080p)",
-    "type": "Sports",
-    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/FabFP5A.png"
   },
   {
     "name": "Clubbing TV France",
