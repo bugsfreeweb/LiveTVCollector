@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30 09:15:13",
+  "date": "2026-10-31 08:59:24",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -36114,11 +36114,11 @@
         "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8"
       },
       {
-        "name": "TRT Belgesel (1080p)",
+        "name": "TRT Belgesel (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8"
+        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
       },
       {
         "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Turkiye) (720p)",
@@ -36137,16 +36137,14 @@
         "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
       }
     ],
-    "Culture;Education": [
-      {
-        "name": "Ciftci TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/CLzP4vL.png",
-        "group": "Culture;Education",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
-      }
-    ],
     "Animation;Kids": [
+      {
+        "name": "Cartoon Network (Turkiye)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://176.65.153.40:6002/play/a013/index.m3u8"
+      },
       {
         "name": "Disney Jr. (Turkiye) (1080p) [Geo-blocked]",
         "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
@@ -36160,6 +36158,15 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8"
+      }
+    ],
+    "Culture;Education": [
+      {
+        "name": "Ciftci TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/CLzP4vL.png",
+        "group": "Culture;Education",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
       }
     ],
     "Music": [
