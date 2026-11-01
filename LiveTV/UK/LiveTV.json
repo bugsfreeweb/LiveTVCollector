@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31 09:56:06",
+  "date": "2026-11-01 10:15:25",
   "channels": {
     "Series": [
       {
@@ -243,6 +243,13 @@
         "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8"
       },
       {
+        "name": "Discovery Channel (United Kingdom)",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://37.49.224.5/stream/11/index.m3u8"
+      },
+      {
         "name": "E4 (360p)",
         "logo": "https://i.imgur.com/22MfjF4.png",
         "group": "Entertainment",
@@ -436,6 +443,13 @@
         "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
       },
       {
+        "name": "Animal Planet (United Kingdom)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://37.49.224.5/stream/10/index.m3u8"
+      },
+      {
         "name": "Autentic History (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
         "group": "Documentary",
@@ -448,6 +462,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8"
+      },
+      {
+        "name": "Discovery History",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://37.49.224.5/stream/12/index.m3u8"
       },
       {
         "name": "FBI Files",
@@ -1455,6 +1476,13 @@
         "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8"
       },
       {
+        "name": "Really",
+        "logo": "https://i.imgur.com/lY5sFgo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://37.49.224.5/stream/36/index.m3u8"
+      },
+      {
         "name": "RugbyPass TV (720p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Undefined",
@@ -1801,6 +1829,31 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8"
+      }
+    ],
+    "Science": [
+      {
+        "name": "Discovery Science Europe UK",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://37.49.224.5/stream/9/index.m3u8"
+      },
+      {
+        "name": "Wonder (1080p)",
+        "logo": "https://i.imgur.com/LquGNbh.png",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
+      }
+    ],
+    "Auto": [
+      {
+        "name": "Discovery Turbo (United Kingdom)",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2409.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://37.49.224.5/stream/13/index.m3u8"
       }
     ],
     "Comedy": [
@@ -2163,15 +2216,6 @@
         "group": "Documentary;Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
-      }
-    ],
-    "Science": [
-      {
-        "name": "Wonder (1080p)",
-        "logo": "https://i.imgur.com/LquGNbh.png",
-        "group": "Science",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
       }
     ]
   }
