@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" group-title="Uncategorized",PUTERA PERLIS MULTIMEDIA
 http://youtube
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/09/65/00/32/360_F_965003211_5kFkgnZqmEKpIZ3ALIE2JCVqS8K3aaY8.jpg" group-title="Uncategorized",LIVE MAKKAH
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/masjid-png/png-masjid-nabawi-transparent-masjid-nabawi-images-28.png" group-title="Uncategorized",LIVE MADINAH
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png" group-title="Uncategorized",BRUNEI AUDIO🇧🇳
 http://youtube.com
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Uncategorized",Unnamed Channel
@@ -17,6 +13,10 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Uncategorized",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
 https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/09/65/00/32/360_F_965003211_5kFkgnZqmEKpIZ3ALIE2JCVqS8K3aaY8.jpg" group-title="RELIGI",LIVE MAKKAH
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/masjid-png/png-masjid-nabawi-transparent-masjid-nabawi-images-28.png" group-title="RELIGI",LIVE MADINAH
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/20/xppvO6.png" group-title="ASTRO AUDIO",HITZ FM
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/20/xppJZq.png" group-title="ASTRO AUDIO",MY FM
@@ -203,8 +203,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVS.png" group-title="MALAYSIA🇲🇾",TVS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+https://abeott.short.gy/Cwgk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Oasis.png" group-title="MALAYSIA🇲🇾",ASTRO OASIS HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Prima.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA
+https://abeott.short.gy/UO4U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png" group-title="MALAYSIA🇲🇾",ASTRO RIA
+https://abeott.short.gy/UFJT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Tutor%20TV.png" group-title="MALAYSIA🇲🇾",ASTRO TUTOR TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Anmol_Cinema_2025_" group-title="INDIAN",ANMOL CINEMA
@@ -820,15 +826,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="MOVIES",BOO HD
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/CINEMAX%20HD.png" group-title="MOVIES",CINEMAX
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/CINEMAX%20HD.png" group-title="MOVIES",CINEMAX
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/FLICKS%20OF%20FURY.webp" group-title="MOVIES",FLICKS OF FURY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Galaxy.png" group-title="MOVIES",GALAXY
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png" group-title="MOVIES",HBO
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png" group-title="MOVIES",HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png" group-title="MOVIES",HBO
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/HBO%20FAMILY%20HD.png" group-title="MOVIES",HBO FAMILY HD
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HITS%20HD.png" group-title="MOVIES",HBO HITS HD
@@ -855,8 +863,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="MOVIES",SUPERRIX
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/THRILL.png" group-title="MOVIES",THRILL
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="MOVIES",UNIQUES
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Myanmar",MRTV
