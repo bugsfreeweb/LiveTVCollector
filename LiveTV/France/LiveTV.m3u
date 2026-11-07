@@ -137,8 +137,8 @@ http://149.62.177.107:9999/LCI/index.m3u8
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="News",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p)
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
 #EXTINF:-1 tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News;Sports",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Series",Alerte a Malibu
@@ -181,6 +181,12 @@ https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="News;Science",like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Religious",BTL TV (Netherlands) (1080p)
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="Religious",Evandis Gospel TV (1080p)
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Religious",KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="Undefined",Generations TV (576p)
@@ -271,8 +277,8 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Music",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music",MCM Pop (580p)
-http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music",MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music",MCM Top (France)
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Music",Mezzo (576p)
@@ -331,10 +337,6 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 http://149.62.177.107:9999/France_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli (1080p)
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (France) (504p)
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior (1080p)
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Kids",Pluto TV Kids Classics FR (720p)
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" group-title="Kids",Pluto TV Super Kids
@@ -359,10 +361,6 @@ https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Documentary",Pluto TV Histoire (720p)
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="Religious",Evandis Gospel TV (1080p)
-https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Religious",KTO (404p) [Not 24/7]
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06 09:17:47",
+  "date": "2026-11-07 08:51:25",
   "channels": {
     "Entertainment": [
       {
@@ -492,11 +492,11 @@
         "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"
       },
       {
-        "name": "TV5Monde Info (1080p) [Geo-blocked]",
+        "name": "TV5Monde Info (1080p)",
         "logo": "https://i.imgur.com/AJx5Fy2.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
+        "url": "http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0"
       }
     ],
     "News;Sports": [
@@ -652,6 +652,29 @@
         "group": "News;Science",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
+      }
+    ],
+    "Religious": [
+      {
+        "name": "BTL TV (Netherlands) (1080p)",
+        "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
+      },
+      {
+        "name": "Evandis Gospel TV (1080p)",
+        "logo": "https://i.imgur.com/v8TiqhH.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8"
+      },
+      {
+        "name": "KTO (404p) [Not 24/7]",
+        "logo": "https://i.imgur.com/EY6TsdV.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
       }
     ],
     "Undefined": [
@@ -977,11 +1000,11 @@
         "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc"
       },
       {
-        "name": "MCM Pop (580p)",
+        "name": "MCM Pop",
         "logo": "https://i.imgur.com/j31lBL7.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://188.115.15.121:8000/play/a014"
+        "url": "http://176.65.153.78:8201/play/a070/index.m3u8"
       },
       {
         "name": "MCM Top (France)",
@@ -1191,20 +1214,6 @@
         "url": "http://99.27.51.147:8080/Gulli/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (France) (504p)",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
-      },
-      {
-        "name": "Nickelodeon Junior (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
-      },
-      {
         "name": "Pluto TV Kids Classics FR (720p)",
         "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
         "group": "Kids",
@@ -1289,22 +1298,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8"
-      }
-    ],
-    "Religious": [
-      {
-        "name": "Evandis Gospel TV (1080p)",
-        "logo": "https://i.imgur.com/v8TiqhH.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8"
-      },
-      {
-        "name": "KTO (404p) [Not 24/7]",
-        "logo": "https://i.imgur.com/EY6TsdV.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
       }
     ],
     "Lifestyle": [
