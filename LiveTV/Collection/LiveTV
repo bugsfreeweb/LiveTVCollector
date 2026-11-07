@@ -276,6 +276,18 @@
     "img": "https://picserve.netplus.ch/channels/ab3.png"
   },
   {
+    "name": "NEXT TV",
+    "type": "FR series",
+    "url": "https://video1.getstreamhosting.com:1936/NextTV/live/main_stream.m3u8",
+    "img": "https://gamako.net/iptv/logos/blacklogos/nexttv_logobbg.png"
+  },
+  {
+    "name": "NEXT TV",
+    "type": "FR series",
+    "url": "https://video1.getstreamhosting.com:1936/StarPlusNovelas/live/main_stream.m3u8",
+    "img": "https://gamako.net/iptv/logos/blacklogos/starplus_logobbg.png"
+  },
+  {
     "name": "TCM CINEMA F HD",
     "type": "FR movie",
     "url": "https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8",
@@ -336,6 +348,12 @@
     "img": "https://picserve.netplus.ch/channels/canalplusclair.png"
   },
   {
+    "name": "LGF Pop HD",
+    "type": "FR generalist",
+    "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
+    "img": "https://lgfmedias.com/logos/pop-mono.svg"
+  },
+  {
     "name": "BFM TV HD",
     "type": "FR news",
     "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
@@ -394,6 +412,12 @@
     "type": "FR music",
     "url": "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8",
     "img": "https://picserve.netplus.ch/channels/mezzo.png"
+  },
+  {
+    "name": "Madras FM TV HD",
+    "type": "FR music",
+    "url": "https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+    "img": "https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png"
   },
   {
     "name": "MTV France HD",
@@ -1251,13 +1275,13 @@
     "name": "Africa24 HD",
     "type": "Uncategorized",
     "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/africa24.png"
+    "img": "https://gamako.net/iptv/logos/blacklogos/africa24_logobbg.png"
   },
   {
     "name": "Africa24 Sport HD",
     "type": "Uncategorized",
     "url": "https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/africa24sport.png"
+    "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/africa24sport_logobbg.png"
   },
   {
     "name": "africanews. HD",
@@ -1275,31 +1299,31 @@
     "name": "TV5MONDE Info (1080p) [Geo-blocked]",
     "type": "Uncategorized",
     "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
-    "img": "https://picserve.netplus.ch/channels/tv5mondeinfo.png"
+    "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondeinfo_logobbg.png"
   },
   {
-    "name": "RT Russia Today en français HD",
+    "name": "RT Russia Today France HD",
     "type": "Uncategorized",
     "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://thumb.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-500px-RT_France.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
   },
   {
     "name": "The Explorers HD",
     "type": "Uncategorized",
     "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d7b8d2d2-30c5-4362-8735-ac91f9e17134/458be94d-45ec-44e7-a92b-eca318c910c6/2.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://assets.theexplorers.com/img/layout/logo_the_explorer_bleu.svg"
   },
   {
     "name": "Voyages+ FHD",
     "type": "Uncategorized",
     "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/07e41745-4900-4d3e-ba9e-526a6e821bdf/1ea1f2e1-1299-4db2-be2f-3c76a446f085/2.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://picserve.netplus.ch/channels/fast_voyagesplus.png"
   },
   {
     "name": "travelxp HD",
     "type": "Uncategorized",
     "url": "https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://picserve.netplus.ch/channels/fast_travelxpfr.png"
   },
   {
     "name": "Wellbeing TV HD",
@@ -1329,19 +1353,19 @@
     "name": "ADN Animation Digital Network HD",
     "type": "Uncategorized",
     "url": "https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://picserve.netplus.ch/channels/fast_adn.png"
   },
   {
     "name": "Figaro TV HD",
     "type": "Uncategorized",
     "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
-    "img": "https://picserve.netplus.ch/channels/figarotv.png"
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Canal32 HD 1080p",
     "type": "Uncategorized",
     "url": "https://canal32-lineaire.b-cdn.net/master.m3u8",
-    "img": "https://picserve.netplus.ch/channels/canal32.png"
+    "img": "https://www.canal32.fr/wp-content/uploads/2026/04/logo-canal-32.svg"
   },
   {
     "name": "wetter.tv HD",
@@ -1371,7 +1395,7 @@
     "name": "teletecino HD",
     "type": "Uncategorized",
     "url": "https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8",
-    "img": "https://picserve.netplus.ch/channels/teletecino.png"
+    "img": "https://www.teleticino.ch/corporate/Teleticino.svg"
   },
   {
     "name": "BFMTV Alsace",
@@ -1413,19 +1437,19 @@
     "name": "DBMTV HD Digital Black Music HD",
     "type": "Uncategorized",
     "url": "http://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/dbmtv.png"
+    "img": "https://gamako.net/iptv/logos/blacklogos/dbm_logobbg.png"
   },
   {
     "name": "Generations TV HD",
     "type": "Uncategorized",
     "url": "https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/generations.png"
+    "img": "https://generations.fr/media/option/thumb/161x68_logo-generations-50770.webp"
   },
   {
     "name": "ivoire channel",
     "type": "Uncategorized",
     "url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/ivoire.png"
+    "img": "https://gamako.net/iptv/logos/blacklogos/ivoirechannel_logobbg.png"
   },
   {
     "name": "TRACE URBAN HD",
@@ -1479,7 +1503,7 @@
     "name": "Frequence Novelas F HD",
     "type": "Uncategorized",
     "url": "https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/frequencenovelas.png"
+    "img": "https://picserve.netplus.ch/channels/fast_frequencenovelas.png"
   },
   {
     "name": "SCREAM IN F HD",
@@ -1602,12 +1626,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "KALAC TV HD",
-    "type": "Uncategorized",
-    "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Musig24 Schweizer musik schlager",
     "type": "Uncategorized",
     "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
@@ -1644,16 +1662,10 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Espace TV Ghana",
+    "name": "LGF Talk",
     "type": "Uncategorized",
-    "url": "https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
-    "img": "https://i.imgur.com/R5tbzFI.png"
-  },
-  {
-    "name": "Madras FM TV HD",
-    "type": "Uncategorized",
-    "url": "https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "url": "https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8",
+    "img": "https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png"
   },
   {
     "name": "DW English (1080p)",
@@ -1665,7 +1677,7 @@
     "name": "arte d HD",
     "type": "Uncategorized",
     "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://api-cdn.arte.tv/img/v2/image/EJNxrqJoyTicNtX7uuZTTC/1920x1080"
   },
   {
     "name": "arirang korea HD",
@@ -1764,18 +1776,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "RTS Couleur3 TV",
-    "type": "Uncategorized",
-    "url": "https://visualradio-rts-couleur3-d.akamaized.net/out/v1/lsvs/visual-radio-rts-couleur-3/cmaf/hls-index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "My Gospel TV HD",
-    "type": "music;religious",
-    "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
-    "img": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png"
-  },
-  {
     "name": "Vevo '70s & '80s",
     "type": "Musique",
     "url": "https://jmp2.uk/stvp-GBBD1900009UD",
@@ -1821,13 +1821,13 @@
     "name": "CINE NANAR",
     "type": "Cinéma",
     "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
-    "img": "https://static.wixstatic.com/media/6ba705_4a8e930e0e1e4231b059e29e951d15ad~mv2.png"
+    "img": "https://picserve.netplus.ch/channels/fast_cinenanar.png"
   },
   {
     "name": "EMOTION'L HD",
     "type": "Cinéma",
     "url": "https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8",
-    "img": "https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png"
+    "img": "https://picserve.netplus.ch/channels/fast_emotionl.png"
   },
   {
     "name": "SONY ONE THE BLACKLIST",
@@ -1869,7 +1869,7 @@
     "name": "Bénin TV HD",
     "type": "",
     "url": "https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8",
-    "img": "https://static.epg.best/bj/ORTB.bj.png"
+    "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/benintv_logobbg.png"
   },
   {
     "name": "TECH&CO",
@@ -1923,7 +1923,7 @@
     "name": "TV5 Monde Voyage",
     "type": "Voyages et Gastronomie",
     "url": "https://jmp2.uk/stvp-FR1800004EP",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20251013T054046SQUARE.png"
+    "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondevoyage_logobbg.png"
   },
   {
     "name": "Global Buddhist Network HD",
