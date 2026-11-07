@@ -10,13 +10,6 @@ Logo: https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_174
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
-Group: Animation;Family;Kids
-Name: BBC Three/CBBC (720p)
-URL: http://193.46.58.239:8080/CBBCHD/index.m3u8
-Logo: https://i.imgur.com/CGXC5fp.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-
 Group: Animation;General;Kids
 Name: BBC Four/CBeebies (720p)
 URL: http://193.46.58.239:8080/CbeebiesHD/index.m3u8
@@ -354,7 +347,7 @@ URL: https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 Logo: https://i.imgur.com/NmxhvAE.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Star Bharat (576p)
+Name: Star Bharat (United Kingdom) (576p)
 URL: https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 Logo: https://i.imgur.com/Q8ajPij.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
@@ -430,8 +423,8 @@ URL: https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 Logo: https://i.imgur.com/36KDxLg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC One
-URL: https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
+Name: BBC One (720p) [Geo-blocked]
+URL: https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -451,7 +444,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_202
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: BBC One London HD (720p)
-URL: http://193.46.58.239:8080/BBCOneHD/index.m3u8
+URL: http://193.239.186.231/BBC1/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -535,8 +528,8 @@ URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC Scotland
-URL: https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
+Name: BBC Scotland (720p) [Geo-blocked]
+URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -545,18 +538,13 @@ URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC Three HD
-URL: https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: BBC Two HD (720p)
-URL: http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+Name: BBC Two HD (720p) [Geo-blocked]
+URL: https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC Two Northern Ireland
-URL: https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+Name: BBC Two Northern Ireland (540p) [Geo-blocked]
+URL: https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -565,8 +553,8 @@ URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: BBC Two Wales
-URL: https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+Name: BBC Two Wales (720p) [Geo-blocked]
+URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -669,11 +657,6 @@ URL: https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/vZHtxQb.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Nickelodeon (United Kingdom) (576p)
-URL: http://tvsen7.aynascope.net/nicklodean/index.m3u8
-Logo: https://i.imgur.com/E84jnP8.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
 Name: Pop Up (1080p) [Geo-blocked]
 URL: https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 Logo: https://i.imgur.com/GdSotmS.png
@@ -706,8 +689,8 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
 Group: Legislative
-Name: BBC Parliament
-URL: https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+Name: BBC Parliament (720p) [Geo-blocked]
+URL: https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -957,6 +940,16 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
 Group: Religious
+Name: Aastha UK (576p)
+URL: https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+Logo: https://i.imgur.com/IqgrV92.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: Aastha International (576p)
+URL: https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: Ahlulbayt TV (1080p)
 URL: https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 Logo: https://i.imgur.com/lNGJGjy.png
@@ -965,6 +958,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Akaal Channel (396p) [Geo-blocked]
 URL: https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 Logo: https://i.imgur.com/K81vNbk.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: BTL TV (Netherlands) (1080p)
+URL: https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
+Logo: https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: Eman Channel (576p)
@@ -1308,6 +1306,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",Sky Sports F1 (720p)
 URL: https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Sky Sports News (576p)
+URL: https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",Sky Sports NFL (720p)
