@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06 10:01:39",
+  "date": "2026-11-07 09:28:13",
   "channels": {
     "Entertainment": [
       {
@@ -1860,6 +1860,13 @@
         "url": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8"
       },
       {
+        "name": "DeA Kids",
+        "logo": "https://i.imgur.com/ixnJAuq.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://185.227.34.104/stream/113/index.m3u8"
+      },
+      {
         "name": "Disney Channel (Germany) (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "group": "Kids",
@@ -1881,11 +1888,11 @@
         "url": "http://102.129.186.182:81/nick/index.m3u8"
       },
       {
-        "name": "Nickelodeon (Italy)",
+        "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (Italy)",
         "logo": "https://i.imgur.com/E84jnP8.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8"
+        "url": "http://185.227.34.104/stream/117/index.m3u8"
       },
       {
         "name": "Pluto TV Teen IT (720p)",
@@ -1921,6 +1928,85 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8"
+      }
+    ],
+    "Religious": [
+      {
+        "name": "BTL TV (Netherlands) (1080p)",
+        "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
+      },
+      {
+        "name": "Giovanni Paolo TV (1080p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
+      },
+      {
+        "name": "Maria Vision Italia (1080p)",
+        "logo": "https://i.imgur.com/gP3XAlV.jpeg",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
+      },
+      {
+        "name": "Medjugorje Italia TV (480p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+      },
+      {
+        "name": "Padre Pio TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+      },
+      {
+        "name": "Parole di Vita (1080p)",
+        "logo": "https://i.imgur.com/vkFlXbR.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stream.paroledivita.org/paroledivita.m3u8"
+      },
+      {
+        "name": "Telepace 1 (1080p)",
+        "logo": "https://i.imgur.com/TpdsPWG.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Telepace 4 (1080p)",
+        "logo": "https://i.imgur.com/JKHEL1H.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Telepace Trento (540p)",
+        "logo": "https://tvtvtv.ru/icons/telepace_trento.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
+      },
+      {
+        "name": "TeleSanDomenico (1080p)",
+        "logo": "https://i.imgur.com/l52v9uv.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
+      },
+      {
+        "name": "TV2000 (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
       }
     ],
     "Outdoor": [
@@ -2079,6 +2165,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8"
+      },
+      {
+        "name": "Rai 2 HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://team-tv.co:81/rai2/index.m3u8"
       },
       {
         "name": "Rai 3 (1080p)",
@@ -2568,6 +2661,13 @@
     ],
     "Animation;Kids": [
       {
+        "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoon Network (Italy)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://185.227.34.104/stream/122/index.m3u8"
+      },
+      {
         "name": "Cartoonito HD (720p)",
         "logo": "https://i.imgur.com/6vYWCD0.png",
         "group": "Animation;Kids",
@@ -3002,78 +3102,6 @@
         "group": "Cooking;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8"
-      }
-    ],
-    "Religious": [
-      {
-        "name": "Giovanni Paolo TV (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
-      },
-      {
-        "name": "Maria Vision Italia (1080p)",
-        "logo": "https://i.imgur.com/gP3XAlV.jpeg",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
-      },
-      {
-        "name": "Medjugorje Italia TV (480p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
-      },
-      {
-        "name": "Padre Pio TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
-      },
-      {
-        "name": "Parole di Vita (1080p)",
-        "logo": "https://i.imgur.com/vkFlXbR.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stream.paroledivita.org/paroledivita.m3u8"
-      },
-      {
-        "name": "Telepace 1 (1080p)",
-        "logo": "https://i.imgur.com/TpdsPWG.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Telepace 4 (1080p)",
-        "logo": "https://i.imgur.com/JKHEL1H.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Telepace Trento (540p)",
-        "logo": "https://tvtvtv.ru/icons/telepace_trento.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
-      },
-      {
-        "name": "TeleSanDomenico (1080p)",
-        "logo": "https://i.imgur.com/l52v9uv.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
-      },
-      {
-        "name": "TV2000 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
       }
     ],
     "Documentary": [
