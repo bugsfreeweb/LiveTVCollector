@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07 11:00:26",
+  "date": "2026-11-08 11:01:17",
   "channels": {
     "News": [
       {
@@ -222,6 +222,13 @@
         "url": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
       },
       {
+        "name": "IVC (480p)",
+        "logo": "https://i.imgur.com/HyXYR2o.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://200.59.191.177:8000/play/a00j/index.m3u8"
+      },
+      {
         "name": "Latina TV (1080p)",
         "logo": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
         "group": "General",
@@ -325,6 +332,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8"
+      },
+      {
+        "name": "TV FANB (576p)",
+        "logo": "https://i.imgur.com/yaEyv29.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://200.59.191.177:8000/play/a0le/index.m3u8"
       },
       {
         "name": "TV Oasis Monay (1080i)",
@@ -701,6 +715,13 @@
         "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8"
       },
       {
+        "name": "SportsMax News (1080p)",
+        "logo": "https://i.imgur.com/IjN1Nhm.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.79.86.130:8000/play/a081/index.m3u8"
+      },
+      {
         "name": "TNT Sports (Argentina)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
         "group": "Sports",
@@ -927,6 +948,22 @@
         "url": "https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8"
       }
     ],
+    "Kids": [
+      {
+        "name": "123TV (480p)",
+        "logo": "https://i.imgur.com/xXGeZms.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://200.59.191.177:8000/play/a0lb/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon Latin America (1080p)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.79.131:8000/play/a0qm"
+      }
+    ],
     "Legislative": [
       {
         "name": "ANTV (Venezuela) (720p)",
@@ -989,6 +1026,22 @@
         "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8"
       }
     ],
+    "Education": [
+      {
+        "name": "Colombeia (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://200.59.191.177:8000/play/a0la/index.m3u8"
+      },
+      {
+        "name": "Vive (576p)",
+        "logo": "https://i.imgur.com/VEYhkDq.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://200.59.191.177:8000/play/a0l6/index.m3u8"
+      }
+    ],
     "Comedy": [
       {
         "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Comedy\",Comedy Central Latin America (1080p)",
@@ -1005,15 +1058,6 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Nickelodeon Latin America (1080p)",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://181.78.79.131:8000/play/a0qm"
       }
     ],
     "Culture;Music": [
