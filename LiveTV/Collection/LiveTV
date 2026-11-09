@@ -282,7 +282,7 @@
     "img": "https://gamako.net/iptv/logos/blacklogos/nexttv_logobbg.png"
   },
   {
-    "name": "NEXT TV",
+    "name": "Star Novelas",
     "type": "FR series",
     "url": "https://video1.getstreamhosting.com:1936/StarPlusNovelas/live/main_stream.m3u8",
     "img": "https://gamako.net/iptv/logos/blacklogos/starplus_logobbg.png"
@@ -352,6 +352,12 @@
     "type": "FR generalist",
     "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
     "img": "https://lgfmedias.com/logos/pop-mono.svg"
+  },
+  {
+    "name": "TV5Monde Europe HD",
+    "type": "FR generalist",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
+    "img": "https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png"
   },
   {
     "name": "BFM TV HD",
@@ -666,6 +672,12 @@
     "img": "https://picserve.netplus.ch/channels/startv.png"
   },
   {
+    "name": "Welt der Wunder HD",
+    "type": "DE generalist",
+    "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+    "img": "https://static.epg.best/de/WeltDerWunder.de.png"
+  },
+  {
     "name": "ORF1 HD",
     "type": "AT generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8",
@@ -742,6 +754,12 @@
     "type": "DE news",
     "url": "https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8",
     "img": "https://picserve.netplus.ch/channels/ntv.png"
+  },
+  {
+    "name": "Auto Bild HD",
+    "type": "DE news",
+    "url": "https://auto-bild.personalstream.tv/v1/bildde/master.m3u8",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_AutoBild.svg/langfr-500px-Logo_AutoBild.svg.png"
   },
   {
     "name": "euronews. deutsch HD",
@@ -846,12 +864,6 @@
     "img": "https://picserve.netplus.ch/channels/la5.png"
   },
   {
-    "name": "CANALE Italia",
-    "type": "IT generalist",
-    "url": "https://liveac115b.b-cdn.net/canale1.smil/m.m3u8",
-    "img": "https://picserve.netplus.ch/channels/canaleit.png"
-  },
-  {
     "name": "nove HD 720p",
     "type": "IT generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8",
@@ -872,8 +884,14 @@
   {
     "name": "Real Time IT HD",
     "type": "IT generalist",
-    "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8?",
+    "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8",
     "img": "https://static.epg.best/it/realtime.it.png"
+  },
+  {
+    "name": "CANALE Italia",
+    "type": "IT generalist",
+    "url": "https://liveac115b.b-cdn.net/canale1.smil/m.m3u8",
+    "img": "https://picserve.netplus.ch/channels/canaleit.png"
   },
   {
     "name": "Rai Sport HD",
@@ -890,7 +908,7 @@
   {
     "name": "AUTOMOTO IT",
     "type": "IT sport",
-    "url": "https://streamcdnm2-3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/chunklist.m3u8",
+    "url": "https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/726c5407-75a8-4485-909e-c1d4d05c6754/1.m3u8",
     "img": "https://static.epg.best/it/automoto.it.png"
   },
   {
@@ -1036,6 +1054,12 @@
     "type": "US news",
     "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8",
     "img": "https://picserve.netplus.ch/channels/cnn.png"
+  },
+  {
+    "name": "tvg-id=\"FoxLiveNow\" tvg-logo=\"https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/1184/666/LiveNOW-logo-1280x720.jpg\" tvg-country=\"US\" tvg-language=\"English\" group-title=\"US news\",Fox LiveNOW",
+    "type": "US news",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/1184/666/LiveNOW-logo-1280x720.jpg"
   },
   {
     "name": "FashionTV HD",
@@ -1244,13 +1268,13 @@
   {
     "name": "CGTN news HD",
     "type": "CN news",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
+    "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
     "img": "https://picserve.netplus.ch/channels/cctvnews.png"
   },
   {
     "name": "CGTN news HD",
     "type": "CN news",
-    "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
     "img": "https://picserve.netplus.ch/channels/cctvnews.png"
   },
   {
@@ -1264,12 +1288,6 @@
     "type": "GR news",
     "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
     "img": "https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg"
-  },
-  {
-    "name": "EPT news HD",
-    "type": "GR news",
-    "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8",
-    "img": "https://static.epg.best/gr/eptnews.gr.png"
   },
   {
     "name": "Africa24 HD",
@@ -1358,7 +1376,7 @@
   {
     "name": "Figaro TV HD",
     "type": "Uncategorized",
-    "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+    "url": "https://static.lefigaro.fr/secom/tnt.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1484,7 +1502,7 @@
   {
     "name": "MDL Monde Du Loisir TV HD",
     "type": "Uncategorized",
-    "url": "https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/manifest.m3u8",
+    "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/mondeduloisir.png"
   },
   {
@@ -1509,13 +1527,13 @@
     "name": "SCREAM IN F HD",
     "type": "Uncategorized",
     "url": "https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8",
-    "img": "https://picserve.netplus.ch/channels/screamin.png"
+    "img": "https://picserve.netplus.ch/channels/fast_screamin.png"
   },
   {
     "name": "BFM2. HD",
     "type": "Uncategorized",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8",
-    "img": "https://picserve.netplus.ch/channels/bfm2.png"
+    "img": "https://www.bfmtv.com/assets/v29/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg"
   },
   {
     "name": "Les secrets de nos régions France",
@@ -1528,12 +1546,6 @@
     "type": "Uncategorized",
     "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/manifest.m3u8",
     "img": "https://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png"
-  },
-  {
-    "name": "Fox LiveNOW",
-    "type": "Uncategorized",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "PTV PUISSANCE TV",
@@ -1722,27 +1734,9 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "N24 Doku HD",
-    "type": "Uncategorized",
-    "url": "https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Bild TV HD",
     "type": "Uncategorized",
     "url": "https://bild.personalstream.tv/v1/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Auto Bild HD",
-    "type": "Uncategorized",
-    "url": "https://auto-bild.personalstream.tv/v1/bildde/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Welt der Wunder HD",
-    "type": "Uncategorized",
-    "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1980,6 +1974,12 @@
     "img": "https://static.epg.best/ca/icitele.ca.png"
   },
   {
+    "name": "N24 Doku HD",
+    "type": "DE documentaries",
+    "url": "https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8",
+    "img": "https://static.epg.best/de/N24Doku.de.png"
+  },
+  {
     "name": "Rugby Zone",
     "type": "UK SPORTS",
     "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d98c73d-ddae-4260-a640-e2e443a0b6ce/27173802-f7ef-4e18-ab7e-f4c2e3da9326/2.m3u8",
@@ -2020,18 +2020,6 @@
     "type": "News",
     "url": "https://jmp2.uk/stvp-CH700006GD",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png"
-  },
-  {
-    "name": "canalb fr HD",
-    "type": "CH local",
-    "url": "https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8",
-    "img": "https://static.epg.best/ch/canalb-f.ch.png"
-  },
-  {
-    "name": "canalb de HD",
-    "type": "CH local",
-    "url": "https://canalb-d.vedge.infomaniak.com/livecast/ik:canalb-d/manifest.m3u8",
-    "img": "https://static.epg.best/ch/canalb-d.ch.png"
   },
   {
     "name": "Radio Italia live",
@@ -2110,5 +2098,11 @@
     "type": "CH region",
     "url": "https://rtmp-vl.fidion.de/live/tvrt.m3u8",
     "img": "https://www.tvrt.ch/design2020/logos/logo-tvrt-head.svg"
+  },
+  {
+    "name": "TV5MONDE Chefs HD",
+    "type": "FR ",
+    "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   }
 ]
