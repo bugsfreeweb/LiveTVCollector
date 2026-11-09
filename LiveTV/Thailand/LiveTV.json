@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08 08:46:41",
+  "date": "2026-11-09 09:07:20",
   "channels": {
     "VTV": [
       {
@@ -1080,13 +1080,6 @@
         "url": "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8"
       },
       {
-        "name": "RTM ASEAN",
-        "logo": "https://i.imgur.com/skAiUxg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
-      },
-      {
         "name": "Top News (720p)",
         "logo": "https://i.imgur.com/tRFnV9M.png",
         "group": "News",
@@ -1431,6 +1424,15 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
         "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Cartoon Network Asia Thailand",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
+        "url": "http://103.253.74.210:7070/stream/118/index.m3u8"
       }
     ],
     "Series": [
