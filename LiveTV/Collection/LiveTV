@@ -12,6 +12,12 @@
     "img": "https://picserve.netplus.ch/channels/srfinfo.png"
   },
   {
+    "name": "tagesschau24 HD",
+    "type": "CH news",
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "img": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png"
+  },
+  {
     "name": "RTS 1 HD",
     "type": "CH Generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8",
@@ -396,6 +402,12 @@
     "img": "https://picserve.netplus.ch/channels/franceinfo.png"
   },
   {
+    "name": "LGF Talk",
+    "type": "FR news",
+    "url": "https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8",
+    "img": "https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png"
+  },
+  {
     "name": "20 Minutes TV HD",
     "type": "FR news",
     "url": "https://live-20minutestv.digiteka.com/1961167769/tracks-v2a1/mono.ts.m3u8",
@@ -456,6 +468,12 @@
     "img": "https://picserve.netplus.ch/channels/tvm3.png"
   },
   {
+    "name": "STINGRAY iConcerts HD",
+    "type": "music",
+    "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+    "img": "https://www.stingray.com/wp-content/uploads/2026/04/iconcerts_logo.svg"
+  },
+  {
     "name": "that's 70s",
     "type": "music",
     "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
@@ -484,6 +502,24 @@
     "type": "music",
     "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8",
     "img": "https://static.elektamedia.com/ch/tmc_00s.png"
+  },
+  {
+    "name": "Movie Music by STINGRAY HD",
+    "type": "music",
+    "url": "https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8",
+    "img": "https://www.stingray.com/wp-content/uploads/2024/12/movie-music_logo.svg"
+  },
+  {
+    "name": "dJazz STINGRAY HD",
+    "type": "music",
+    "url": "https://8af87da5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5REpBWlpfSExT/a1941365-77da-4bb2-98b2-307abbb35d4e/3.m3u8",
+    "img": "https://www.stingray.com/wp-content/uploads/2024/01/stingray_djazz.svg"
+  },
+  {
+    "name": "Classica STINGRAY HD",
+    "type": "music",
+    "url": "https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5Q2xhc3NpY2FfSExT/4547056c-4a43-4209-b017-81137f725997/3.m3u8",
+    "img": "https://www.stingray.com/wp-content/uploads/2024/01/stingray_classica.svg"
   },
   {
     "name": "TRACE BRASIL HD",
@@ -924,6 +960,12 @@
     "img": "https://static.epg.best/it/euronews.it.png"
   },
   {
+    "name": "Class CNBC IT HD",
+    "type": "IT news",
+    "url": "https://d1t2v0gs1xcf0l.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y3ddf6plueqkw/d1f46cc7-20fb-49fa-8357-925d31c9eeeb/0.m3u8",
+    "img": "https://classcnbc.it/"
+  },
+  {
     "name": "Rai Gulp HD",
     "type": "IT child",
     "url": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8",
@@ -1086,7 +1128,7 @@
     "img": "https://picserve.netplus.ch/channels/tvcnews.png"
   },
   {
-    "name": "euronews. english HD",
+    "name": "euronews. en HD",
     "type": "EN news",
     "url": "https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8",
     "img": "https://static.epg.best/uk/euronews.uk.png"
@@ -1308,16 +1350,10 @@
     "img": "https://picserve.netplus.ch/channels/africanews.png"
   },
   {
-    "name": "TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]",
-    "type": "Uncategorized",
-    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "TV5MONDE Info (1080p) [Geo-blocked]",
     "type": "Uncategorized",
     "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
-    "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondeinfo_logobbg.png"
+    "img": "https://picserve.netplus.ch/channels/fast_tv5mondeinfofr.png"
   },
   {
     "name": "RT Russia Today France HD",
@@ -1482,16 +1518,16 @@
     "img": "https://picserve.netplus.ch/channels/tracelatina.png"
   },
   {
-    "name": "BB BLACK! HD",
-    "type": "Uncategorized",
-    "url": "https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/bblack.png"
-  },
-  {
     "name": "BB BLACK! Africa HD",
     "type": "Uncategorized",
     "url": "https://bblackafrica.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8",
     "img": "https://picserve.netplus.ch/channels/bblackafrica.png"
+  },
+  {
+    "name": "BB BLACK! Caribbean HD",
+    "type": "Uncategorized",
+    "url": "https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
+    "img": "https://picserve.netplus.ch/channels/bblackcaribbean.png"
   },
   {
     "name": "BB BLACK! Classik HD",
@@ -1590,12 +1626,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "RIK SAT HD",
-    "type": "Uncategorized",
-    "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Radio Italia tv",
     "type": "Uncategorized",
     "url": "https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8",
@@ -1638,48 +1668,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Musig24 Schweizer musik schlager",
-    "type": "Uncategorized",
-    "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "TVPolonia info HD",
-    "type": "Uncategorized",
-    "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "STINGRAY iConcerts HD",
-    "type": "Uncategorized",
-    "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "English Club TV",
-    "type": "Uncategorized",
-    "url": "https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "TVD TV Découverte",
-    "type": "Uncategorized",
-    "url": "https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "RHT Radio Haute Tension Guadeloupe",
-    "type": "Uncategorized",
-    "url": "https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "LGF Talk",
-    "type": "Uncategorized",
-    "url": "https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8",
-    "img": "https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png"
-  },
-  {
     "name": "DW English (1080p)",
     "type": "Uncategorized",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
@@ -1692,45 +1680,9 @@
     "img": "https://api-cdn.arte.tv/img/v2/image/EJNxrqJoyTicNtX7uuZTTC/1920x1080"
   },
   {
-    "name": "arirang korea HD",
-    "type": "Uncategorized",
-    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "ICI Television Québec HD",
-    "type": "Uncategorized",
-    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "SPORTDIGITAL FREE HD deutsch",
     "type": "Uncategorized",
     "url": "https://jmp2.uk/stvp-DEAJ0500429A",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Movie Music by STINGRAY HD",
-    "type": "Uncategorized",
-    "url": "https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "dJazz STINGRAY HD",
-    "type": "Uncategorized",
-    "url": "https://8af87da5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5REpBWlpfSExT/a1941365-77da-4bb2-98b2-307abbb35d4e/3.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Classica STINGRAY HD",
-    "type": "Uncategorized",
-    "url": "https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5Q2xhc3NpY2FfSExT/4547056c-4a43-4209-b017-81137f725997/3.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "MotorVision english HD",
-    "type": "Uncategorized",
-    "url": "https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1761,12 +1713,6 @@
     "name": "Reuters TV HD",
     "type": "Uncategorized",
     "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "TVR INFO TV Romania INFO HD",
-    "type": "Uncategorized",
-    "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1860,12 +1806,6 @@
     "img": "https://i.postimg.cc/6qSJsv8k/vosgestv.png"
   },
   {
-    "name": "Bénin TV HD",
-    "type": "",
-    "url": "https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8",
-    "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/benintv_logobbg.png"
-  },
-  {
     "name": "TECH&CO",
     "type": "informations",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END",
@@ -1938,6 +1878,12 @@
     "img": "https://i.ibb.co/ByN83p3/funradtv.png"
   },
   {
+    "name": "RIK SAT HD",
+    "type": "CY generalist",
+    "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+    "img": "https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png"
+  },
+  {
     "name": "Dokusat HD",
     "type": "documentary",
     "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
@@ -1956,10 +1902,46 @@
     "img": "https://i.postimg.cc/L5DYvxw9/morethansportstv.png"
   },
   {
-    "name": "tagesschau24 HD",
-    "type": "news",
-    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
-    "img": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png"
+    "name": "Musig24 Schweizer musik schlager",
+    "type": "CH music",
+    "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
+    "img": "https://new.musig24.tv/assets/brand/musig24-logo.webp"
+  },
+  {
+    "name": "TVP info_ HD",
+    "type": "PL news",
+    "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
+    "img": "https://s.tvp.pl/files/portale-v4/tvp-info-v2/assets/images/tvp_info-2024.feb2d591.svg"
+  },
+  {
+    "name": "English Club TV",
+    "type": "UK Learning",
+    "url": "https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
+    "img": "https://english-club.tv/wp-content/uploads/2015/09/logo-round.png"
+  },
+  {
+    "name": "TVD TV Découverte",
+    "type": "CH regional",
+    "url": "https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8",
+    "img": "https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png"
+  },
+  {
+    "name": "arirang korea HD",
+    "type": "KR Generalist",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/500px-Arirang.svg.png"
+  },
+  {
+    "name": "ICI Television Québec HD",
+    "type": "CA Generalist",
+    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+    "img": "https://icitelevision.ca/wp-content/uploads/2017/07/logoretina-3.png"
+  },
+  {
+    "name": "MotorVision En HD",
+    "type": "sport",
+    "url": "https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8",
+    "img": "https://video.motorvision.tv/themes/custom/mvg/motorvision_tv/logo.png"
   },
   {
     "name": "GB News HD",
@@ -1990,6 +1972,12 @@
     "type": "UK SPORTS",
     "url": "https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8",
     "img": "https://picserve.netplus.ch/channels/fast_wired2fish.png"
+  },
+  {
+    "name": "TVR INFO Romania INFO HD",
+    "type": "RO news",
+    "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8",
+    "img": "https://tvrinfo.ro/wp-content/themes/tvr/images/white-logo.svg"
   },
   {
     "name": "RTL Luxembourg HD",
@@ -2058,12 +2046,6 @@
     "img": "https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png"
   },
   {
-    "name": "Class CNBC IT HD",
-    "type": "IT news financial",
-    "url": "https://d1t2v0gs1xcf0l.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y3ddf6plueqkw/d1f46cc7-20fb-49fa-8357-925d31c9eeeb/0.m3u8",
-    "img": "https://classcnbc.it/"
-  },
-  {
     "name": "time2Rlx HD",
     "type": "DE leisure",
     "url": "https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/playlist.m3u8",
@@ -2104,5 +2086,11 @@
     "type": "FR ",
     "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Black TVs",
+    "type": "US generalist",
+    "url": "https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8",
+    "img": "https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg"
   }
 ]
