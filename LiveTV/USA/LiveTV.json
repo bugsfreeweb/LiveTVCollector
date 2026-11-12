@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11 09:29:45",
+  "date": "2026-11-12 10:41:40",
   "channels": {
     "Movies": [
       {
@@ -512,6 +512,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
+      },
+      {
+        "name": "Scares by Shudder (1080p)",
+        "logo": "https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8"
       },
       {
         "name": "Sony Canal Novelas",
@@ -4030,11 +4037,11 @@
         "url": "https://rumble.com/live-hls/6v67mu/playlist.m3u8"
       },
       {
-        "name": "LiveNOW from FOX (720p)",
+        "name": "LiveNOW from FOX (1080p)",
         "logo": "https://i.imgur.com/1JnyzHv.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
+        "url": "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8"
       },
       {
         "name": "MS NOW (432p)",
@@ -4258,7 +4265,7 @@
         "logo": "https://i.imgur.com/W0Jvi5o.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8"
+        "url": "https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8"
       },
       {
         "name": "The First TV (1080p)",
@@ -11863,11 +11870,11 @@
         "url": "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8"
       },
       {
-        "name": "Fox Weather (720p)",
+        "name": "Fox Weather (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
         "group": "Weather",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://247wlive.foxweather.com/stream/index.m3u8"
+        "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8"
       },
       {
         "name": "NorCast Weather (1080p)",
@@ -14610,7 +14617,14 @@
     ],
     "Animation;Kids": [
       {
-        "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
+        "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
+      },
+      {
+        "name": "Cartoon Network (United States) West (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
