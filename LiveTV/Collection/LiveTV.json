@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11 10:33:27",
+  "date": "2026-11-12 11:37:23",
   "channels": {
     "CH news": [
       {
@@ -1156,6 +1156,13 @@
         "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8"
       },
       {
+        "name": "TV2000",
+        "logo": "https://static-play2000.akamaized.net/live/2026/04/vCxmXXnhSHQDwqV075gRTGP4A7Ywa3ofHUyYfuDH.png",
+        "group": "IT generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_1500/chunklist.m3u8"
+      },
+      {
         "name": "Real Time IT HD",
         "logo": "https://static.epg.best/it/realtime.it.png",
         "group": "IT generalist",
@@ -1384,7 +1391,7 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8"
       },
       {
-        "name": "tvg-id=\"FoxLiveNow\" tvg-logo=\"https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/1184/666/LiveNOW-logo-1280x720.jpg\" tvg-country=\"US\" tvg-language=\"English\" group-title=\"US news\",Fox LiveNOW",
+        "name": "Fox LiveNOW",
         "logo": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/1184/666/LiveNOW-logo-1280x720.jpg",
         "group": "US news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -1767,13 +1774,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8"
-      },
-      {
-        "name": "Wellbeing TV HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://amg01736-harmonysecomgro-myzentv-netgemuk-5yjaw.amagi.tv/ts-eu-w1-n2/playlist/amg01736-harmonysecomgro-myzentv-netgemuk/playlist.m3u8"
       },
       {
         "name": "Just for laughs HD",
@@ -2595,15 +2595,6 @@
         "url": "https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/0e8e584b-60e7-4c2b-ab88-9db01211bf55/0.m3u8"
       }
     ],
-    "IT religion": [
-      {
-        "name": "TV2000 IT",
-        "logo": "https://static.epg.best/it/tv2000.it.png",
-        "group": "IT religion",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8"
-      }
-    ],
     "IT home": [
       {
         "name": "HGTV IT Home & Garden HD",
@@ -2690,6 +2681,22 @@
         "group": "US generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8"
+      }
+    ],
+    "FR movies": [
+      {
+        "name": "SciFi",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SciFi_2026.svg/250px-SciFi_2026.svg.png",
+        "group": "FR movies",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "http://192.99.186.30/stream/250/index.m3u8"
+      },
+      {
+        "name": "13EME RUE",
+        "logo": "https://thumb.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/250px-Logo_13e_Rue_%282017%29.svg.png",
+        "group": "FR movies",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "http://192.99.186.30/stream/251/index.m3u8"
       }
     ]
   }
