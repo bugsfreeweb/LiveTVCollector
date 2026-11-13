@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12 11:17:19",
+  "date": "2026-11-13 10:36:23",
   "channels": {
     "News": [
       {
@@ -659,16 +659,14 @@
         "url": "http://103.250.28.74:8000/play/a02x/index.m3u8"
       }
     ],
-    "Education;Religious": [
-      {
-        "name": "Paighan TV (1080p)",
-        "logo": "https://i.imgur.com/zokC3gO.png",
-        "group": "Education;Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://116.90.120.151:8000/play/a00h/index.m3u8"
-      }
-    ],
     "Undefined": [
+      {
+        "name": "Paigham Television (576p)",
+        "logo": "https://papaji.freetvindia.com/media/1655_FreeTV_Paigam.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8"
+      },
       {
         "name": "PMI TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/SfyCwXj.png",
@@ -766,6 +764,15 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
+      }
+    ],
+    "Education;Religious": [
+      {
+        "name": "Paighan TV (1080p)",
+        "logo": "https://i.imgur.com/zokC3gO.png",
+        "group": "Education;Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://116.90.120.151:8000/play/a00h/index.m3u8"
       }
     ]
   }
