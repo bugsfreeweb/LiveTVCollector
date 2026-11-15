@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14 09:54:02",
+  "date": "2026-11-15 09:38:26",
   "channels": {
     "Entertainment": [
       {
@@ -1052,6 +1052,20 @@
         "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
       },
       {
+        "name": "Eurosport 1 Italy",
+        "logo": "https://i.imgur.com/olQJgm7.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "Eurosport 2 Italy (540p)",
+        "logo": "https://i.imgur.com/f56dHgR.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8"
+      },
+      {
         "name": "FIFA+ Italy (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
         "group": "Sports",
@@ -1113,6 +1127,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8"
+      },
+      {
+        "name": "Rai Sport",
+        "logo": "https://i.imgur.com/6PEevOM.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896"
       },
       {
         "name": "San Marino RTV Sport (720p)",
@@ -1888,6 +1909,13 @@
         "url": "http://95.141.36.9:8080/stream/181/index.m3u8"
       },
       {
+        "name": "Boomerang (Italy)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802"
+      },
+      {
         "name": "DeA Kids",
         "logo": "https://i.imgur.com/ixnJAuq.png",
         "group": "Kids",
@@ -2195,11 +2223,11 @@
         "url": "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
       },
       {
-        "name": "Rai 1 (720p)",
+        "name": "Rai 1 (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
+        "url": "http://team-tv.co:81/rai1/index.m3u8"
       },
       {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai 2 (1080p)",
