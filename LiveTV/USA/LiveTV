@@ -242,31 +242,31 @@
   {
     "name": "Maxcine 2 (720p)",
     "type": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8",
     "img": "https://gia.tv/streams/pptv/209163.png"
   },
   {
     "name": "Maxcine (720p)",
     "type": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8",
     "img": "https://gia.tv/streams/pptv/208138.png"
   },
   {
     "name": "Maxcine Comedy (720p)",
     "type": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8",
     "img": "https://gia.tv/streams/pptv/208730.png"
   },
   {
     "name": "Maxcine Family (720p)",
     "type": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8",
     "img": "https://gia.tv/streams/pptv/208817.png"
   },
   {
     "name": "Maxcine Kids (720p)",
     "type": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8",
     "img": "https://gia.tv/streams/pptv/209909.png"
   },
   {
@@ -454,6 +454,12 @@
     "type": "Movies",
     "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png"
+  },
+  {
+    "name": "Star Action (720p)",
+    "type": "Movies",
+    "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8",
+    "img": "https://i.imgur.com/XD1Tpet.png"
   },
   {
     "name": "Starz Cinema (720p)",
@@ -3264,12 +3270,6 @@
     "img": "https://i.imgur.com/m80uxdz.png"
   },
   {
-    "name": "Black News Channel (1080p)",
-    "type": "News",
-    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/oX5oR4d.png"
-  },
-  {
     "name": "Blaze Live (720p)",
     "type": "News",
     "url": "https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8",
@@ -5976,6 +5976,12 @@
     "img": "https://i.imgur.com/wg5I5Fb.png"
   },
   {
+    "name": "Comedy Central (United States) (1080p)",
+    "type": "Comedy",
+    "url": "https://tvnow.hostless.app/comedy-central.m3u8",
+    "img": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png"
+  },
+  {
     "name": "Comedy Central Animation",
     "type": "Comedy",
     "url": "https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8",
@@ -6486,7 +6492,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
   },
   {
-    "name": "E! East (1080p)",
+    "name": "E! (United States) East (1080p)",
     "type": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
     "img": "https://i.imgur.com/TWFDkap.png"
@@ -7698,7 +7704,7 @@
     "img": "https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png"
   },
   {
-    "name": "Paramount Network (1080p)",
+    "name": "Paramount Network (United States) (1080p)",
     "type": "Movies;Series",
     "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"
@@ -7824,9 +7830,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png"
   },
   {
-    "name": "Disney Junior (United States) (480p)",
+    "name": "Disney Junior (United States) (720p)",
     "type": "Kids",
-    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
+    "url": "https://tvnow.hostless.app/disney-junior.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png"
   },
   {
@@ -7908,9 +7914,9 @@
     "img": "https://i.imgur.com/PVt8OPN.png"
   },
   {
-    "name": "Nick Jr. (United States) (720p)",
+    "name": "Nick Jr. (United States) (1080p)",
     "type": "Kids",
-    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
+    "url": "https://tvnow.hostless.app/nick-jr.m3u8",
     "img": "https://i.imgur.com/KT4tdQs.png"
   },
   {
@@ -7920,15 +7926,21 @@
     "img": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png"
   },
   {
+    "name": "Nickelodeon (United States) (1080p)",
+    "type": "Kids",
+    "url": "https://tvnow.hostless.app/nickelodeon.m3u8",
+    "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
     "name": "Nickelodeon en espanol",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
     "img": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png"
   },
   {
-    "name": "Nicktoons (United States) (720p)",
+    "name": "Nicktoons (United States) (1080p)",
     "type": "Kids",
-    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+    "url": "https://tvnow.hostless.app/nicktoons.m3u8",
     "img": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png"
   },
   {
@@ -12186,6 +12198,12 @@
     "img": "https://i.imgur.com/8nqbi9b.png"
   },
   {
+    "name": "TheGrio TV FAST (1080p)",
+    "type": "Undefined",
+    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/8nqbi9b.png"
+  },
+  {
     "name": "TLN KQSL (720p)",
     "type": "Undefined",
     "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
@@ -12456,9 +12474,9 @@
     "img": "https://i.imgur.com/6lklsyN.png"
   },
   {
-    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "name": "Cartoon Network (United States) (1080p)",
     "type": "Animation;Kids",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+    "url": "https://tvnow.hostless.app/cartoon-network.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
   },
   {

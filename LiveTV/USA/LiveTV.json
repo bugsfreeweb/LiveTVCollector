@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14 09:54:01",
+  "date": "2026-11-15 09:38:17",
   "channels": {
     "Movies": [
       {
@@ -287,35 +287,35 @@
         "logo": "https://gia.tv/streams/pptv/209163.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8"
+        "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8"
       },
       {
         "name": "Maxcine (720p)",
         "logo": "https://gia.tv/streams/pptv/208138.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8"
+        "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8"
       },
       {
         "name": "Maxcine Comedy (720p)",
         "logo": "https://gia.tv/streams/pptv/208730.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8"
+        "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8"
       },
       {
         "name": "Maxcine Family (720p)",
         "logo": "https://gia.tv/streams/pptv/208817.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8"
+        "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8"
       },
       {
         "name": "Maxcine Kids (720p)",
         "logo": "https://gia.tv/streams/pptv/209909.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8"
+        "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8"
       },
       {
         "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36\" group-title=\"Movies\",Mega Extreno HD (720p)",
@@ -533,6 +533,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8"
+      },
+      {
+        "name": "Star Action (720p)",
+        "logo": "https://i.imgur.com/XD1Tpet.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8"
       },
       {
         "name": "Starz Cinema (720p)",
@@ -3827,13 +3834,6 @@
         "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
       },
       {
-        "name": "Black News Channel (1080p)",
-        "logo": "https://i.imgur.com/oX5oR4d.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "Blaze Live (720p)",
         "logo": "https://i.imgur.com/GwxneSQ.png",
         "group": "News",
@@ -6999,6 +6999,13 @@
         "url": "https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8"
       },
       {
+        "name": "Comedy Central (United States) (1080p)",
+        "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tvnow.hostless.app/comedy-central.m3u8"
+      },
+      {
         "name": "Comedy Central Animation",
         "logo": "https://i.imgur.com/uENch0P.png",
         "group": "Comedy",
@@ -7596,7 +7603,7 @@
         "url": "http://212.5.144.156:8080/discovery/index.m3u8"
       },
       {
-        "name": "E! East (1080p)",
+        "name": "E! (United States) East (1080p)",
         "logo": "https://i.imgur.com/TWFDkap.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -9018,7 +9025,7 @@
         "url": "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
       },
       {
-        "name": "Paramount Network (1080p)",
+        "name": "Paramount Network (United States) (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -9167,11 +9174,11 @@
         "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test"
       },
       {
-        "name": "Disney Junior (United States) (480p)",
+        "name": "Disney Junior (United States) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://tvsen5.aynascope.net/disney/index.m3u8"
+        "url": "https://tvnow.hostless.app/disney-junior.m3u8"
       },
       {
         "name": "Disney XD (United States) (720p)",
@@ -9265,11 +9272,11 @@
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
       },
       {
-        "name": "Nick Jr. (United States) (720p)",
+        "name": "Nick Jr. (United States) (1080p)",
         "logo": "https://i.imgur.com/KT4tdQs.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://212.5.144.156:8080/nickjr/index.m3u8"
+        "url": "https://tvnow.hostless.app/nick-jr.m3u8"
       },
       {
         "name": "Nick Jr. Pluto TV (720p)",
@@ -9279,6 +9286,13 @@
         "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8"
       },
       {
+        "name": "Nickelodeon (United States) (1080p)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://tvnow.hostless.app/nickelodeon.m3u8"
+      },
+      {
         "name": "Nickelodeon en espanol",
         "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
         "group": "Kids",
@@ -9286,11 +9300,11 @@
         "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8"
       },
       {
-        "name": "Nicktoons (United States) (720p)",
+        "name": "Nicktoons (United States) (1080p)",
         "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://41.205.93.154/NICKTOONS/index.m3u8"
+        "url": "https://tvnow.hostless.app/nicktoons.m3u8"
       },
       {
         "name": "Ninja Kidz TV (1080p)",
@@ -14292,6 +14306,13 @@
         "url": "https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8"
       },
       {
+        "name": "TheGrio TV FAST (1080p)",
+        "logo": "https://i.imgur.com/8nqbi9b.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "TLN KQSL (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
         "group": "Undefined",
@@ -14617,11 +14638,11 @@
     ],
     "Animation;Kids": [
       {
-        "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+        "name": "Cartoon Network (United States) (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
+        "url": "https://tvnow.hostless.app/cartoon-network.m3u8"
       },
       {
         "name": "Cartoon Network (United States) West (1080p) [Geo-blocked]",
