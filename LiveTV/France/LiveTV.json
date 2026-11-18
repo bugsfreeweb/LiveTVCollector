@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17 10:50:55",
+  "date": "2026-11-18 10:18:35",
   "channels": {
     "Entertainment": [
       {
@@ -50,6 +50,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://99.27.51.147:8080/M6/index.m3u8"
+      },
+      {
+        "name": "M6 SD (1080p)",
+        "logo": "https://i.imgur.com/7GVp3fW.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8"
       },
       {
         "name": "MTV (France) (720p)",
@@ -115,7 +122,7 @@
         "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8"
       },
       {
-        "name": "TF1",
+        "name": "TF1 (1080p)",
         "logo": "https://i.imgur.com/QxHt9NC.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
@@ -620,11 +627,11 @@
         "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE"
       },
       {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"News\",BFM TV (1080p)",
+        "name": "BFM TV (1080p)",
         "logo": "https://i.imgur.com/YJCcczD.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
+        "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8"
       },
       {
         "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"News\",BFM Var (1080p)",
@@ -1573,11 +1580,11 @@
     ],
     "Legislative": [
       {
-        "name": "LCP (477p)",
+        "name": "LCP (720p)",
         "logo": "https://i.imgur.com/k7UImOJ.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
+        "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8"
       }
     ],
     "Culture": [
