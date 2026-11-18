@@ -145,7 +145,7 @@ https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6329474265c8
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-62d7f6904d0067dd4d60d0de.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ReeL7vsBisvCW9xebomo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",12 TV Parma (540p) [Not 24/7]
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="General",50 Canale
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="General",50 Canale (720p)
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="General",111 TV (720p)
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -557,7 +557,7 @@ http://185.227.34.104/stream/117/index.m3u8
 https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="Kids",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Kids",Rai Yoyo
 http://95.141.36.9:8080/stream/156/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Kids",Super!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Kids",Super! (720p)
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWcQfF2.png" group-title="Kids",Super! iCarly
 https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
@@ -612,7 +612,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="Undefined",Rai 2 HD (720p)
 http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Undefined",Rai 3 (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+http://team-tv.co:81/rai3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Undefined",Rai 3 BIS FJK (408p)
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Undefined",Rai 3 Friuli Venezia Giulia (408p)
@@ -631,9 +631,9 @@ http://team-tv.co:81/rai5/index.m3u8
 http://5.180.164.197:8080/RAIGULP/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="Undefined",like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Undefined",Rai Premium
 http://95.141.36.9:8080/stream/170/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Storia (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Sudtirol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="Undefined",Rai Storia (1080p)
+http://team-tv.co:81/raistoria/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Sudtirol (1080p)
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxGvE8C.png" group-title="Undefined",RDS Social TV (720p)
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
