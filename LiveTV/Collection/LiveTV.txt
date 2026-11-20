@@ -5,20 +5,6 @@ Logo: https://i.postimg.cc/6qSJsv8k/vosgestv.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: CA Generalist
-Name: ICI Television Québec HD
-URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-Logo: https://icitelevision.ca/wp-content/uploads/2017/07/logoretina-3.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: CA generalist
-Name: ICI RDI Télé - Radio Canada HD
-URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-Logo: https://static.epg.best/ca/icitele.ca.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: CH music
 Name: Musig24 Schweizer musik schlager
 URL: https://tv.musig24.tv/hls/0/stream.m3u8
@@ -37,13 +23,6 @@ Group: CH region
 Name: TV RT Rheintal
 URL: https://rtmp-vl.fidion.de/live/tvrt.m3u8
 Logo: https://www.tvrt.ch/design2020/logos/logo-tvrt-head.svg
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: CH regional
-Name: TVD TV Découverte
-URL: https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
-Logo: https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -81,26 +60,7 @@ Logo: https://picserve.netplus.ch/channels/fast_emotionl.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: DE documentaries
-Name: N24 Doku HD
-URL: https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
-Logo: https://static.epg.best/de/N24Doku.de.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: DE generalist
-Name: Welt der Wunder HD
-URL: https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-Logo: https://static.epg.best/de/WeltDerWunder.de.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: DE news
-Name: Auto Bild HD
-URL: https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
-Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_AutoBild.svg/langfr-500px-Logo_AutoBild.svg.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: euronews. deutsch HD
 URL: https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 Logo: https://static.epg.best/de/euronews.de.png
@@ -142,11 +102,6 @@ URL: http://192.99.186.30/stream/68/index.m3u8
 Logo: https://picserve.netplus.ch/channels/discoverychannel.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: HISTOIRE TV HD
-URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
-Logo: https://picserve.netplus.ch/channels/histoire.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: Investigation Discovery
 URL: http://192.99.186.30/stream/81/index.m3u8
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-330px-InvestigationDiscoveryLogo2020.svg.png
@@ -154,11 +109,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: EN news
-Name: euronews. english HD
-URL: https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
-Logo: https://static.epg.best/uk/euronews.uk.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: France24 english HD
 URL: https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://static.epg.best/uk/france24.uk.png
@@ -174,27 +124,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: TV5Monde Europe HD
 URL: https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 Logo: https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: FR kids
-Name: CARTOON NETWORK HD
-URL: https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
-Logo: https://picserve.netplus.ch/channels/cartoonnetwork.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: FR music
-Name: Madras FM TV HD
-URL: https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-Logo: https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: FR news
-Name: LGF Talk
-URL: https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8
-Logo: https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -238,14 +167,14 @@ URL: https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m
 Logo: https://picserve.netplus.ch/channels/france2hd.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: France3 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-Logo: https://picserve.netplus.ch/channels/france3hd.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: M6 CH HD
 URL: https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 Logo: https://picserve.netplus.ch/channels/m6hd.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: France3 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+Logo: https://picserve.netplus.ch/channels/france3hd.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: TMC HD
@@ -291,6 +220,16 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: 3+ ADRENALIN HD
 URL: https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 Logo: https://picserve.netplus.ch/channels/tv24.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: arte d HD
+URL: https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+Logo: https://api-cdn.arte.tv/img/v2/image/EJNxrqJoyTicNtX7uuZTTC/1920x1080
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: ICI Television Québec HD
+URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+Logo: https://icitelevision.ca/wp-content/uploads/2017/07/logoretina-3.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -354,17 +293,17 @@ Logo: https://static.epg.best/it/automoto.it.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: KR Generalist
-Name: arirang korea HD
-URL: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8
-Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/500px-Arirang.svg.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: LU generalist
 Name: RTL Luxembourg HD
 URL: https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 Logo: https://static.epg.best/lu/RTL.bj.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: Learning
+Name: English Club TV
+URL: https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+Logo: https://english-club.tv/wp-content/uploads/2015/09/logo-round.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -405,16 +344,14 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: News
+Name: GB News HD
+URL: https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+Logo: https://static.epg.best/gb/gbnews.gb.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: 2686. Brut.
 URL: https://jmp2.uk/stvp-CH700006GD
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: PL news
-Name: TVP info_ HD
-URL: https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-Logo: https://s.tvp.pl/files/portale-v4/tvp-info-v2/assets/images/tvp_info-2024.feb2d591.svg
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -607,20 +544,6 @@ Logo: https://static.epg.best/ua/1plus1.ua.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: UK Learning
-Name: English Club TV
-URL: https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-Logo: https://english-club.tv/wp-content/uploads/2015/09/logo-round.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: UK News
-Name: GB News HD
-URL: https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-Logo: https://static.epg.best/gb/gbnews.gb.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: UK SPORTS
 Name: Rugby Zone
 URL: https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d98c73d-ddae-4260-a640-e2e443a0b6ce/27173802-f7ef-4e18-ab7e-f4c2e3da9326/2.m3u8
@@ -631,6 +554,13 @@ Name: Wired2fish
 URL: https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
 Logo: https://picserve.netplus.ch/channels/fast_wired2fish.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: UK generalist
+Name: channel4 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+Logo: https://picserve.netplus.ch/channels/channel4.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: UK news
@@ -747,7 +677,7 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: Trace Sport Stars HD
 URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-Logo: https://picserve.netplus.ch/channels/tracesportstars.png
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: Frequence Novelas F HD
@@ -815,23 +745,8 @@ URL: https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: DW English (1080p)
-URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: arte d HD
-URL: https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-Logo: https://api-cdn.arte.tv/img/v2/image/EJNxrqJoyTicNtX7uuZTTC/1920x1080
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: SPORTDIGITAL FREE HD deutsch
 URL: https://jmp2.uk/stvp-DEAJ0500429A
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: Bild TV HD
-URL: https://bild.personalstream.tv/v1/master.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -877,8 +792,50 @@ Logo: https://picserve.netplus.ch/channels/automoto.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
+Group: cartoons
+Name: CARTOON NETWORK HD
+URL: https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+Logo: https://picserve.netplus.ch/channels/cartoonnetwork.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Canal J HD
+URL: https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+Logo: https://picserve.netplus.ch/channels/canalj.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Disney Channel D
+URL: https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+Logo: https://picserve.netplus.ch/channels/disneychannelde.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: RiC D
+URL: https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
+Logo: https://picserve.netplus.ch/channels/ric.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Mangas
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+Logo: https://picserve.netplus.ch/channels/mangas.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: niCKTOONS HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+Logo: https://i.imgur.com/OWRUPA4.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Nickelodeon Junior
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+Logo: https://picserve.netplus.ch/channels/nickjunior.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: TV Pitchoun
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
+Logo: https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
 Group: comedy
-Name: COMEDY CENTRAL D HD
+Name: COMEDY CENTRAL HD
 URL: https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 Logo: https://picserve.netplus.ch/channels/comedycentral.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -898,6 +855,20 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: TV5MONDE Chefs HD
 URL: https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: discover
+Name: Ushuïa TV
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+Logo: https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: documentaries
+Name: N24 Doku HD
+URL: https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
+Logo: https://static.epg.best/de/N24Doku.de.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -932,9 +903,19 @@ URL: https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-B
 Logo: https://static.epg.best/uk/bbcearth.uk.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: HISTOIRE TV HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+Logo: https://picserve.netplus.ch/channels/histoire.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: Science&Vie HD
 URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 Logo: https://picserve.netplus.ch/channels/scienceetvie.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: CRIME DISTRICT
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+Logo: https://i.imgur.com/WQJ6Lbk.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -951,6 +932,11 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: generalist
+Name: France5 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+Logo: https://picserve.netplus.ch/channels/france5hd.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: carac1 HD
 URL: https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 Logo: https://picserve.netplus.ch/channels/rougetv.png
@@ -1201,6 +1187,11 @@ URL: https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 Logo: https://picserve.netplus.ch/channels/nove.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: BBC ONE HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+Logo: https://picserve.netplus.ch/channels/bbc1.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: BBC TWO HD
 URL: https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 Logo: https://picserve.netplus.ch/channels/bbc2.png
@@ -1237,7 +1228,7 @@ Logo: https://picserve.netplus.ch/channels/quest.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: channel4 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 Logo: https://picserve.netplus.ch/channels/channel4.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1386,6 +1377,21 @@ URL: https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/ma
 Logo: https://i.ibb.co/pdnMrZn/a24.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: arirang korea HD
+URL: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8
+Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/500px-Arirang.svg.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: ICI RDI Télé - Radio Canada HD
+URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+Logo: https://static.epg.best/ca/icitele.ca.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Welt der Wunder HD
+URL: https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+Logo: https://static.epg.best/de/WeltDerWunder.de.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: RTVi HD
 URL: https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://static.epg.best/ru/RTVi.ru.png
@@ -1404,6 +1410,11 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: TV Breizh
 URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
 Logo: https://picserve.netplus.ch/channels/tvbreizh.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: téva
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+Logo: https://assets-bundle.6cloud.fr/m6/24/svg-sprite/marginless.svg#tevareplay
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -1432,11 +1443,6 @@ URL: https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 Logo: https://picserve.netplus.ch/channels/gulli.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Canal J HD
-URL: https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
-Logo: https://picserve.netplus.ch/channels/canalj.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: RTL SUPER HD
 URL: https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 Logo: https://picserve.netplus.ch/channels/superrtl.png
@@ -1447,22 +1453,12 @@ URL: https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 Logo: https://picserve.netplus.ch/channels/kika.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Disney Channel D
-URL: https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-Logo: https://picserve.netplus.ch/channels/disneychannelde.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: RiC D
-URL: https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
-Logo: https://picserve.netplus.ch/channels/ric.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: Rai Gulp HD
 URL: https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 Logo: https://picserve.netplus.ch/channels/raigulp.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: Boomrang F HD
+Name: Boomerang F HD
 URL: http://41.205.93.154/BOOMERANG/index.m3u8
 Logo: https://picserve.netplus.ch/channels/boomerang.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1470,21 +1466,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: Nickelodeon
 URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
 Logo: https://picserve.netplus.ch/channels/nickelodeon.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: Mangas
-URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
-Logo: https://picserve.netplus.ch/channels/mangas.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: niCKTOONS HD
-URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
-Logo: https://i.imgur.com/OWRUPA4.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: Nickelodeon Junior
-URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
-Logo: https://picserve.netplus.ch/channels/nickjunior.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -1513,11 +1494,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: movie
-Name: TCM CINEMA F HD
-URL: https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
-Logo: https://picserve.netplus.ch/channels/tcm.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: LA7 CINEMA HD 720p
 URL: https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 Logo: https://picserve.netplus.ch/channels/la7d.png
@@ -1528,10 +1504,20 @@ URL: https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 Logo: https://picserve.netplus.ch/channels/film4.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: ACTION
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+Logo: https://picserve.netplus.ch/channels/crimedistric.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 
 Group: movies
+Name: TCM CINEMA HD
+URL: https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
+Logo: https://picserve.netplus.ch/channels/tcm.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: SciFi HD
-URL: http://192.99.186.30/stream/250/index.m3u8
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/syfy/live.livx/playlist.m3u8
 Logo: https://picserve.netplus.ch/channels/syfyhd.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
@@ -1592,6 +1578,11 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: STINGRAY iConcerts HD
 URL: https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 Logo: https://www.stingray.com/wp-content/uploads/2026/04/iconcerts_logo.svg
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Madras FM TV HD
+URL: https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+Logo: https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: that's 70s
@@ -1798,7 +1789,7 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 Name: Russia Today HD
 URL: https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-Logo: https://thumb.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-500px-RT_France.svg.png
+Logo: https://www.lyngsat.com/logo/tv/rr/rt-france-ru.svg
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: Figaro TV HD
@@ -1814,6 +1805,36 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: ERT news HD EPT news HD
 URL: https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 Logo: https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: TVP info_ HD
+URL: https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+Logo: https://s.tvp.pl/files/portale-v4/tvp-info-v2/assets/images/tvp_info-2024.feb2d591.svg
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: euronews. english HD
+URL: https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+Logo: https://static.epg.best/uk/euronews.uk.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: LGF Talk
+URL: https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8
+Logo: https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: DW English
+URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+Logo:  tvg-country=
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: tvg-name="BildTV.de@SD" tvg-logo=" tvg-country="DE" tvg-language="German" group-title="news"
+URL: https://bild.personalstream.tv/v1/master.m3u8
+Logo:  tvg-country=
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: Auto Bild HD
+URL: https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_AutoBild.svg/langfr-500px-Logo_AutoBild.svg.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: euronews. italia HD
@@ -1839,6 +1860,11 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: i24NEWS
 URL: https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/330px-LOGO_i24NEWS.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: TGCOM24 HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
+Logo: https://freebox.cdn.scw.iliad.fr/large_Mediaset_TG_Com24_296fc48738.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -1890,6 +1916,16 @@ URL: https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 Logo: https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: TVD TV Découverte
+URL: https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
+Logo: https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: PARIS PREMIERE HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+Logo: https://i.imgur.com/ily4bEm.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 
 Group: religion
 Name: kto HD
@@ -1905,6 +1941,13 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: K-TV HD
 URL: https://streamcdnm1-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/chunklist_b3392000.m3u8
 Logo: https://static.epg.best/de/k-tv.de.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: religious
+Name: Vatican media Europa
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -1978,9 +2021,14 @@ URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 Logo: https://picserve.netplus.ch/channels/fifaplus.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: MotorVision En HD
-URL: https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8
-Logo: https://video.motorvision.tv/themes/custom/mvg/motorvision_tv/logo.png
+Name: MotorVision+ HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision/live.livx/playlist.m3u8
+Logo: https://picserve.netplus.ch/channels/motorvision.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+Name: FIGHTBOX HD
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8
+Logo: https://freebox.cdn.scw.iliad.fr/large_Fight_Box_2013_8cd4fe8cf0.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
@@ -2000,13 +2048,6 @@ Group: travel
 Name: TREK HD
 URL: https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 Logo: https://picserve.netplus.ch/channels/escales.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: travel documentary
-Name: France5 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-Logo: https://picserve.netplus.ch/channels/france5hd.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
