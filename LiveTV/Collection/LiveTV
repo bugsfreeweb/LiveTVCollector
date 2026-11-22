@@ -8,7 +8,7 @@
   {
     "name": "BFM TV HD",
     "type": "news",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/bfmtv.png"
   },
   {
@@ -186,6 +186,12 @@
     "img": "https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg"
   },
   {
+    "name": "tagesschau24 HD",
+    "type": "news",
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "img": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png"
+  },
+  {
     "name": "TVP info_ HD",
     "type": "news",
     "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
@@ -210,16 +216,28 @@
     "img": " tvg-country="
   },
   {
-    "name": "tvg-name=\"BildTV.de@SD\" tvg-logo=\" tvg-country=\"DE\" tvg-language=\"German\" group-title=\"news\"",
+    "name": "Bild TV HD",
     "type": "news",
     "url": "https://bild.personalstream.tv/v1/master.m3u8",
-    "img": " tvg-country="
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bild_%28Fernsehsender%29_logo.svg/500px-Bild_%28Fernsehsender%29_logo.svg.png"
   },
   {
     "name": "Auto Bild HD",
     "type": "news",
     "url": "https://auto-bild.personalstream.tv/v1/bildde/master.m3u8",
     "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_AutoBild.svg/langfr-500px-Logo_AutoBild.svg.png"
+  },
+  {
+    "name": "Reuters TV HD",
+    "type": "news",
+    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Reuters_TV_logo.png"
+  },
+  {
+    "name": "France24 english HD",
+    "type": "news",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://static.epg.best/uk/france24.uk.png"
   },
   {
     "name": "euronews. italia HD",
@@ -272,55 +290,55 @@
   {
     "name": "TF1 CH HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/tf1hd.png"
   },
   {
     "name": "France2 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france2hd.png"
   },
   {
     "name": "M6 CH HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/m6hd.png"
   },
   {
     "name": "France3 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france3hd.png"
   },
   {
     "name": "TMC HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/tmc.png"
   },
   {
     "name": "W9 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/w9.png"
   },
   {
     "name": "TFX HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/nt1.png"
   },
   {
     "name": "T18 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/t18.png"
   },
   {
     "name": "CSTAR HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/d17.png"
   },
   {
@@ -378,7 +396,7 @@
     "img": "https://picserve.netplus.ch/channels/canalalphaju.png"
   },
   {
-    "name": "Canal B fr HD",
+    "name": "Canal B HD",
     "type": "Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalbfr.png"
@@ -426,7 +444,7 @@
     "img": "https://picserve.netplus.ch/channels/canalalphane.png"
   },
   {
-    "name": "Canal B de HD",
+    "name": "Kanal B HD",
     "type": "Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalbde.png"
@@ -458,7 +476,7 @@
   {
     "name": "France4 HD",
     "type": "kids",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france4hd.png"
   },
   {
@@ -486,12 +504,6 @@
     "img": "https://picserve.netplus.ch/channels/raigulp.png"
   },
   {
-    "name": "Boomerang F HD",
-    "type": "kids",
-    "url": "http://41.205.93.154/BOOMERANG/index.m3u8",
-    "img": "https://picserve.netplus.ch/channels/boomerang.png"
-  },
-  {
     "name": "Nickelodeon",
     "type": "kids",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8",
@@ -500,7 +512,7 @@
   {
     "name": "France5 HD",
     "type": "generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france5hd.png"
   },
   {
@@ -510,9 +522,9 @@
     "img": "https://picserve.netplus.ch/channels/rougetv.png"
   },
   {
-    "name": "arte F HD",
+    "name": "arte HD",
     "type": "generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/artehd.png"
   },
   {
@@ -1032,6 +1044,12 @@
     "img": "https://i.ibb.co/pdnMrZn/a24.png"
   },
   {
+    "name": "LGF Pop HD",
+    "type": "generalist",
+    "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
+    "img": "https://lgfmedias.com/logos/pop-mono.svg"
+  },
+  {
     "name": "arirang korea HD",
     "type": "generalist",
     "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8",
@@ -1134,6 +1152,12 @@
     "img": "https://static.epg.best/uk/bbcearth.uk.png"
   },
   {
+    "name": "CGTN DOCUMENTARY FHD",
+    "type": "documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://news.cgtn.com/public/editor/2022-06-20/547/img/16ca798ce864481bae5c4ee8a0a0c6bf/16ca798ce864481bae5c4ee8a0a0c6bf.jpeg"
+  },
+  {
     "name": "HISTOIRE TV HD",
     "type": "documentary",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8",
@@ -1160,7 +1184,7 @@
   {
     "name": "La chaine L'EQUIPE",
     "type": "sport",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/lequipe21.png"
   },
   {
@@ -1212,10 +1236,46 @@
     "img": "https://picserve.netplus.ch/channels/motorvision.png"
   },
   {
+    "name": "Eurosport1 HD",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosportde.png"
+  },
+  {
+    "name": "Eurosport2 HD",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
+  },
+  {
     "name": "FIGHTBOX HD",
     "type": "sport",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8",
     "img": "https://freebox.cdn.scw.iliad.fr/large_Fight_Box_2013_8cd4fe8cf0.png"
+  },
+  {
+    "name": "eurosport1",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosportde.png"
+  },
+  {
+    "name": "eurosport2",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
+  },
+  {
+    "name": "eurosport1",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosportde.png"
+  },
+  {
+    "name": "eurosport2",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
   },
   {
     "name": "AB3",
@@ -1278,6 +1338,12 @@
     "img": "https://picserve.netplus.ch/channels/ric.png"
   },
   {
+    "name": "Boomerang HD",
+    "type": "cartoons",
+    "url": "http://41.205.93.154/BOOMERANG/index.m3u8",
+    "img": "https://picserve.netplus.ch/channels/boomerang.png"
+  },
+  {
     "name": "Mangas",
     "type": "cartoons",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8",
@@ -1300,6 +1366,12 @@
     "type": "cartoons",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8",
     "img": "https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png"
+  },
+  {
+    "name": "Rai Yoyo",
+    "type": "cartoons",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/250px-Rai_Yoyo_-_Logo_2017.svg.png"
   },
   {
     "name": "TREK HD",
@@ -1360,6 +1432,12 @@
     "type": "music",
     "url": "https://33dm06.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8",
     "img": "https://i.ibb.co/SwvbkW2V/peyi.jpg"
+  },
+  {
+    "name": "Musig24 Schweizer musik schlager",
+    "type": "music",
+    "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
+    "img": "https://new.musig24.tv/assets/brand/musig24-logo.webp"
   },
   {
     "name": "STINGRAY iConcerts HD",
@@ -1428,6 +1506,12 @@
     "img": "https://static.epg.best/br/tracebrasil.br.png"
   },
   {
+    "name": "SWR DASDING HD",
+    "type": "music",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "img": "https://assets.radioplayer.org/276/276377/11/4215-mst05n26.png"
+  },
+  {
     "name": "RTL102.5 HD",
     "type": "music",
     "url": "https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-xr8iccrw35yso/4baf5509-b693-48bc-8e22-12496209477d/1.m3u8",
@@ -1482,12 +1566,6 @@
     "img": "https://picserve.netplus.ch/channels/maxtv.png"
   },
   {
-    "name": "Global Buddhist Network HD",
-    "type": "Religion",
-    "url": "https://us.gbnus.com/live/dhamma_high/playlist.m3u8",
-    "img": "https://i.imgur.com/fU0ZhKD.png"
-  },
-  {
     "name": "8Mont-Blanc HD",
     "type": "regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8",
@@ -1540,6 +1618,12 @@
     "type": "regional",
     "url": "https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8",
     "img": "https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png"
+  },
+  {
+    "name": "lilo.TV HD",
+    "type": "regional",
+    "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8",
+    "img": "https://www.lilotv.de/wp-content/uploads/2024/01/logo.png"
   },
   {
     "name": "PARIS PREMIERE HD",
@@ -1606,6 +1690,12 @@
     "type": "cooking",
     "url": "https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8",
     "img": "https://picserve.netplus.ch/channels/foodnetwork.png"
+  },
+  {
+    "name": "750g TV",
+    "type": "cooking",
+    "url": "https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/750g_logo.png"
   },
   {
     "name": "TV5MONDE Chefs HD",
@@ -1710,10 +1800,10 @@
     "img": "https://picserve.netplus.ch/channels/bblackcaribbean.png"
   },
   {
-    "name": "BB BLACK! Classik HD",
+    "name": "ADTV HD",
     "type": "Uncategorized",
     "url": "http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8",
-    "img": "https://picserve.netplus.ch/channels/bblackclassik.png"
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "MDL Monde Du Loisir TV HD",
@@ -1812,30 +1902,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "lilo.TV HD",
-    "type": "Uncategorized",
-    "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "SWR DASDING HD",
-    "type": "Uncategorized",
-    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "CGTN DOCUMENTARY FHD",
-    "type": "Uncategorized",
-    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Reuters TV HD",
-    "type": "Uncategorized",
-    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "wetter.tv HD",
     "type": "wetter",
     "url": "https://streaming.meteonews.net/hls/stream.m3u8",
@@ -1906,12 +1972,6 @@
     "type": "Séries et Divertissements",
     "url": "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8",
     "img": "https://freebox.cdn.scw.iliad.fr/medium_E02656638_HHSEUK_007310_Flag_A_Overlay_Home_Screen_1_1_Sq_1000x1000px_Template_v02_copie_8aaa923ce1.jpg"
-  },
-  {
-    "name": "POPCORN",
-    "type": "Séries et Divertissements",
-    "url": "https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8",
-    "img": "https://freebox.cdn.scw.iliad.fr/large_POPCORN_emission_Logo_Reproduction_8ad41ad83b.png"
   },
   {
     "name": "LE MEILLEUR D'ARTHUR HD",
@@ -1986,6 +2046,12 @@
     "img": "https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondevoyage_logobbg.png"
   },
   {
+    "name": "Global Buddhist Network HD",
+    "type": "Religious",
+    "url": "https://us.gbnus.com/live/dhamma_high/playlist.m3u8",
+    "img": "https://i.imgur.com/fU0ZhKD.png"
+  },
+  {
     "name": "Fox LiveNOW",
     "type": "US news",
     "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
@@ -2016,30 +2082,6 @@
     "img": "https://picserve.netplus.ch/channels/chasseetpeche.png"
   },
   {
-    "name": "tagesschau24 HD",
-    "type": "CH news",
-    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
-    "img": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png"
-  },
-  {
-    "name": "LGF Pop HD",
-    "type": "FR generalist",
-    "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
-    "img": "https://lgfmedias.com/logos/pop-mono.svg"
-  },
-  {
-    "name": "TV5Monde Europe HD",
-    "type": "FR generalist",
-    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
-    "img": "https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png"
-  },
-  {
-    "name": "Musig24 Schweizer musik schlager",
-    "type": "CH music",
-    "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
-    "img": "https://new.musig24.tv/assets/brand/musig24-logo.webp"
-  },
-  {
     "name": "English Club TV",
     "type": "Learning",
     "url": "https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
@@ -2052,22 +2094,10 @@
     "img": "https://static.epg.best/gb/gbnews.gb.png"
   },
   {
-    "name": "2686. Brut.",
-    "type": "News",
-    "url": "https://jmp2.uk/stvp-CH700006GD",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png"
-  },
-  {
     "name": "N24 Doku HD",
     "type": "documentaries",
     "url": "https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8",
     "img": "https://static.epg.best/de/N24Doku.de.png"
-  },
-  {
-    "name": "France24 english HD",
-    "type": "EN news",
-    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://static.epg.best/uk/france24.uk.png"
   },
   {
     "name": "Rugby Zone",
@@ -2118,10 +2148,28 @@
     "img": "https://static.epg.best/de/euronews.de.png"
   },
   {
+    "name": "Brut.",
+    "type": "Documentary",
+    "url": "https://jmp2.uk/stvp-CH700006GD",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png"
+  },
+  {
+    "name": "Discovery Channel HD",
+    "type": "Documentary",
+    "url": "http://192.99.186.30/stream/68/index.m3u8",
+    "img": "https://picserve.netplus.ch/channels/discoverychannel.png"
+  },
+  {
+    "name": "Investigation Discovery",
+    "type": "Documentary",
+    "url": "http://192.99.186.30/stream/81/index.m3u8",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-330px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
     "name": "Radio Italia live",
     "type": "IT local",
     "url": "https://radioitalialive.akamaized.net/hls/live/2124228/radioitalialive/stream03/streamPlaylist.m3u8",
-    "img": "https://static.epg.best/it/radioitalialive.it.png"
+    "img": "https://www.radioitalia.it/images/logo-radioitalia-200.png"
   },
   {
     "name": "Food Network IT HD",
@@ -2158,12 +2206,6 @@
     "type": "IT generalist",
     "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
     "img": "https://static.epg.best/it/giallo.it.png"
-  },
-  {
-    "name": "TV2000",
-    "type": "IT generalist",
-    "url": "https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_1500/chunklist.m3u8",
-    "img": "https://static-play2000.akamaized.net/live/2026/04/vCxmXXnhSHQDwqV075gRTGP4A7Ywa3ofHUyYfuDH.png"
   },
   {
     "name": "Real Time IT HD",
@@ -2214,13 +2256,25 @@
     "img": "https://gamako.net/iptv/logos/blacklogos/starplus_logobbg.png"
   },
   {
+    "name": "TV5Monde Europe HD",
+    "type": "FR generalist",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
+    "img": "https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png"
+  },
+  {
+    "name": "arte F HD",
+    "type": "FR generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/artehd.png"
+  },
+  {
     "name": "AUTOMOTO HD",
     "type": "auto moto",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/automoto.png"
   },
   {
-    "name": "Comedy Central Fr HD",
+    "name": "Comedy Central HD",
     "type": "entertainement",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/comedycentral.png"
@@ -2232,37 +2286,7 @@
     "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/langfr-960px-RTBF_la_une_logo_2025.svg.png"
   },
   {
-    "name": "Discovery Channel F HD",
-    "type": "Documentary",
-    "url": "http://192.99.186.30/stream/68/index.m3u8",
-    "img": "https://picserve.netplus.ch/channels/discoverychannel.png"
-  },
-  {
-    "name": "Investigation Discovery",
-    "type": "Documentary",
-    "url": "http://192.99.186.30/stream/81/index.m3u8",
-    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-330px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "name": "Eurosport1 F HD",
-    "type": "Sports",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/eurosport1.png"
-  },
-  {
-    "name": "Eurosport2 F HD",
-    "type": "Sports",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
-  },
-  {
-    "name": "Golf+ HD",
-    "type": "Sports",
-    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-    "img": "https://picserve.netplus.ch/channels/golfplus.png"
-  },
-  {
-    "name": "Ushuïa TV",
+    "name": "Ushuaïa TV",
     "type": "discover",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8",
     "img": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png"
@@ -2272,6 +2296,84 @@
     "type": "religious",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TF1 CH HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/tf1hd.png"
+  },
+  {
+    "name": "France2 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france2hd.png"
+  },
+  {
+    "name": "France3 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france3hd.png"
+  },
+  {
+    "name": "M6 CH HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/m6hd.png"
+  },
+  {
+    "name": "TMC HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8",
+    "img": "https://picserve.netplus.ch/channels/tmc.png"
+  },
+  {
+    "name": "W9 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8",
+    "img": "https://picserve.netplus.ch/channels/w9.png"
+  },
+  {
+    "name": "TFX HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
+    "img": "https://picserve.netplus.ch/channels/nt1.png"
+  },
+  {
+    "name": "T18 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+    "img": "https://picserve.netplus.ch/channels/t18.png"
+  },
+  {
+    "name": "CSTAR HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+    "img": "https://picserve.netplus.ch/channels/d17.png"
+  },
+  {
+    "name": "France4 HD",
+    "type": "FR Child/music",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france4hd.png"
+  },
+  {
+    "name": "France5 HD",
+    "type": "FR travel documentary",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france5hd.png"
+  },
+  {
+    "name": "La chaine L'EQUIPE",
+    "type": "FR sport",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+    "img": "https://picserve.netplus.ch/channels/lequipe21.png"
+  },
+  {
+    "name": "BFM TV HD",
+    "type": "FR news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+    "img": "https://picserve.netplus.ch/channels/bfmtv.png"
   },
   {
     "name": "kto HD",
