@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23 10:31:33",
+  "date": "2026-11-24 13:20:11",
   "channels": {
     "Movies": [
       {
@@ -274,13 +274,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8"
-      },
-      {
-        "name": "Lifetime Movies (1080p)",
-        "logo": "https://i.imgur.com/BWmqYTO.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8"
       },
       {
         "name": "Made In Hollywood (720p)",
@@ -561,13 +554,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8"
-      },
-      {
-        "name": "Starz Cinema (720p)",
-        "logo": "https://i.imgur.com/ghzzKoT.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8"
       },
       {
         "name": "TV Land Drama",
@@ -1803,6 +1789,13 @@
         "url": "https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8"
       },
       {
+        "name": "America TeVe (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live.gideo.video/americateve2/master.m3u8"
+      },
+      {
         "name": "BHTV10 (720p)",
         "logo": "https://i.imgur.com/NRrJ6xb.png",
         "group": "Undefined",
@@ -2342,11 +2335,11 @@
         "url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
       },
       {
-        "name": "truTV (720p)",
+        "name": "truTV (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8"
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8"
       },
       {
         "name": "truTV West (720p) [Geo-blocked]",
@@ -2842,7 +2835,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+        "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
       },
       {
         "name": "Fox Sports 1 (720p)",
@@ -2922,25 +2915,11 @@
         "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
       },
       {
-        "name": "MLB Strike Zone (720p)",
-        "logo": "https://i.imgur.com/uMI1ySO.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
-      },
-      {
         "name": "MMA TV (576p)",
         "logo": "https://i.imgur.com/Qxco1eW.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://31.148.48.15/M1_Global/index.m3u8"
-      },
-      {
-        "name": "MSG (720p)",
-        "logo": "https://i.imgur.com/SEQFh0P.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8"
       },
       {
         "name": "NBA TV (720p)",
@@ -2964,11 +2943,11 @@
         "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8"
       },
       {
-        "name": "NFL Network (720p)",
+        "name": "NFL Network (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://198.58.104.90:8989/nfl/index.m3u8"
+        "url": "https://tvsen6.aynaott.com/nfl/index.m3u8"
       },
       {
         "name": "NHL Network (1080p)",
@@ -3564,6 +3543,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://apollo-eks.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8"
+      },
+      {
+        "name": "MLB Strike Zone",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
       },
       {
         "name": "NHL Network",
@@ -8431,7 +8417,7 @@
         "url": "http://212.5.144.156:8080/discovery/index.m3u8"
       },
       {
-        "name": "E! (United States) East (1080p)",
+        "name": "E! East (1080p)",
         "logo": "https://i.imgur.com/TWFDkap.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -8688,13 +8674,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8"
-      },
-      {
-        "name": "MTV2 (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://198.58.104.90:8989/mtv2/index.m3u8"
       },
       {
         "name": "MTV (United States) (1080p)",
@@ -10368,13 +10347,6 @@
         "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
       },
       {
-        "name": "ABC KOAT-TV (720p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8"
-      },
-      {
         "name": "ABC KRGV-TV (720p)",
         "logo": "https://i.imgur.com/pvXZ8DX.png",
         "group": "General",
@@ -10401,13 +10373,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg00312-amg00312c54-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c54-amgplt0022/playlist.m3u8"
-      },
-      {
-        "name": "ABC WBBJ-TV (432p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
       },
       {
         "name": "ABC WBRZ-TV (480p)",
@@ -10438,32 +10403,11 @@
         "url": "https://amg01438-amg01438c1-vizio-us-10865.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "ABC WFTV (720p)",
+        "name": "ABC WFTV (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/pvXZ8DX.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "ABC WISN-TV (720p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8"
-      },
-      {
-        "name": "ABC WJLA-TV (1080p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC WLOS (1080p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8"
+        "url": "https://amg00327-coxmediagroup-wftvbreakingnews-vizious-bfgi2.amagi.tv/ts-eu-w1-n2/playlist/amg00327-coxmediagroup-wftvbreakingnews-vizious/playlist.m3u8"
       },
       {
         "name": "ABC WMAR-TV (1080p)",
@@ -10471,20 +10415,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg01438-amg01438c22-vizio-us-10908.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "ABC WMUR-TV (720p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8"
-      },
-      {
-        "name": "ABC WPDE-TV (1080p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8"
       },
       {
         "name": "ABC WSB-TV (1080p) [Geo-blocked]",
@@ -10499,20 +10429,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "ABC WSYX (1080p)",
-        "logo": "https://i.imgur.com/Lv6HuCT.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "ABC WTNH (720p)",
-        "logo": "https://i.imgur.com/pvXZ8DX.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw=="
       },
       {
         "name": "ABC WTVQ-DT (720p)",
@@ -10919,13 +10835,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8"
-      },
-      {
-        "name": "CBS WKRC-TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
       },
       {
         "name": "CBS WKYT-TV (1080p) [Geo-blocked]",
@@ -12130,41 +12039,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
-      },
-      {
-        "name": "Telemundo East HD (1080p)",
-        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8"
-      },
-      {
-        "name": "Telemundo KNSD (1080p) [Not 24/7]",
-        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
-      },
-      {
-        "name": "Telemundo WCAU (1080p)",
-        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI"
-      },
-      {
-        "name": "Telemundo West (720p)",
-        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://45.5.117.57:8900/play/a058/index.m3u8"
-      },
-      {
-        "name": "Telemundo WTMO-CD (720p)",
-        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8"
       },
       {
         "name": "Telemundo Al Dia (720p)",
@@ -13465,20 +13339,6 @@
         "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
       },
       {
-        "name": "National Geographic (United States) HD East (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://198.58.104.90:8989/natgeo/index.m3u8"
-      },
-      {
-        "name": "National Geographic Wild (United States) HD East (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://198.58.104.90:8989/natgeowild/index.m3u8"
-      },
-      {
         "name": "Pluto TV History",
         "logo": "https://i.imgur.com/XkQD5kM.png",
         "group": "Documentary",
@@ -13491,13 +13351,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8"
-      },
-      {
-        "name": "Reelz (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
       },
       {
         "name": "Reelz Famous & Infamous (1080p)",
@@ -14067,6 +13920,13 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "Freeform (720p)",
+        "logo": "https://i.ibb.co/qYtLJt8Q/IMG-2280.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9"
       },
       {
         "name": "Positiv TV (1080p)",
@@ -18589,6 +18449,13 @@
         "group": "24/7 Local News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8"
+      },
+      {
+        "name": "WFTV-TV ABC 9 24/7 News (Orlando FL)",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "group": "24/7 Local News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8"
       },
       {
         "name": "WFTV-TV ABC 9 Now (Orlando FL)",
@@ -24899,6 +24766,13 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3613"
+      },
+      {
+        "name": "FOX Deportes",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
       },
       {
         "name": "FOX One en Español",
