@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24 14:19:22",
+  "date": "2026-11-25 12:54:25",
   "channels": {
     "news": [
       {
@@ -24,7 +24,7 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8"
       },
       {
-        "name": "euronews F HD",
+        "name": "euronews. fr HD",
         "logo": "https://picserve.netplus.ch/channels/euronews.png",
         "group": "news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -234,7 +234,7 @@
         "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
       },
       {
-        "name": "euronews. english HD",
+        "name": "euronews. en HD",
         "logo": "https://static.epg.best/uk/euronews.uk.png",
         "group": "news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -283,7 +283,7 @@
         "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8"
       },
       {
-        "name": "euronews. italia HD",
+        "name": "euronews. it HD",
         "logo": "https://static.epg.best/it/euronews.it.png",
         "group": "news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -323,6 +323,13 @@
         "group": "news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "7info",
+        "logo": "https://i.imgur.com/jcl1nNR.png",
+        "group": "news",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8"
       }
     ],
     "Generalist": [
@@ -446,120 +453,195 @@
         "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
       }
     ],
-    "Regional": [
+    "regional": [
       {
         "name": "Canal9 HD",
         "logo": "https://picserve.netplus.ch/channels/canal9.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8"
       },
       {
         "name": "Léman bleu HD",
         "logo": "https://picserve.netplus.ch/channels/lemanbleu.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8"
       },
       {
+        "name": "LA TELE HD",
+        "logo": "https://picserve.netplus.ch/channels/latele.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8"
+      },
+      {
         "name": "Canal Alpha JU HD",
         "logo": "https://picserve.netplus.ch/channels/canalalphaju.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8"
       },
       {
         "name": "Canal B HD",
         "logo": "https://picserve.netplus.ch/channels/canalbfr.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8"
       },
       {
         "name": "Rhone TV HD",
         "logo": "https://picserve.netplus.ch/channels/rhonefmtv.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rhonefmtv/browser-HLS8/rhonefmtv.m3u8"
       },
       {
         "name": "carac2 HD",
         "logo": "https://picserve.netplus.ch/channels/onetv.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8"
       },
       {
         "name": "carac3 HD",
         "logo": "https://picserve.netplus.ch/channels/lfmtv.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8"
       },
       {
         "name": "carac4 HD",
         "logo": "https://picserve.netplus.ch/channels/tvsuisseplus.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8"
       },
       {
         "name": "carac5 HD",
         "logo": "https://picserve.netplus.ch/channels/teleswizz.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8"
       },
       {
         "name": "nrtv HD",
         "logo": "https://picserve.netplus.ch/channels/nrtv.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8"
       },
       {
+        "name": "8Mont-Blanc HD",
+        "logo": "https://picserve.netplus.ch/channels/tv8montblanc.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8"
+      },
+      {
+        "name": "Val TV HD",
+        "logo": "https://picserve.netplus.ch/channels/valtv.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8"
+      },
+      {
         "name": "Canal Alpha NE HD",
         "logo": "https://picserve.netplus.ch/channels/canalalphane.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8"
       },
       {
         "name": "Kanal B HD",
         "logo": "https://picserve.netplus.ch/channels/canalbde.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8"
       },
       {
         "name": "kanal9 HD",
         "logo": "https://picserve.netplus.ch/channels/kanal9.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8"
       },
       {
         "name": "TeleBärn HD",
         "logo": "https://picserve.netplus.ch/channels/telebaern.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8"
       },
       {
         "name": "TB2 HD",
         "logo": "https://picserve.netplus.ch/channels/telebielingue.png",
-        "group": "Regional",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8"
-      }
-    ],
-    "Regional VD": [
+      },
       {
-        "name": "LA TELE HD",
-        "logo": "https://picserve.netplus.ch/channels/latele.png",
-        "group": "Regional VD",
+        "name": "Canal32 HD",
+        "logo": "https://www.canal32.fr/wp-content/uploads/2026/04/logo-canal-32.svg",
+        "group": "regional",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8"
+        "url": "https://canal32-lineaire.b-cdn.net/master.m3u8"
+      },
+      {
+        "name": "TeleTop",
+        "logo": "https://picserve.netplus.ch/channels/teletop.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8"
+      },
+      {
+        "name": "TeleBasel HD",
+        "logo": "https://picserve.netplus.ch/channels/telebasel.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8"
+      },
+      {
+        "name": "teletecino HD",
+        "logo": "https://www.teleticino.ch/corporate/Teleticino.svg",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8"
+      },
+      {
+        "name": "BFMTV Alsace",
+        "logo": "https://picserve.netplus.ch/channels/alsace20.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8"
+      },
+      {
+        "name": "alpe d'huez tv HD",
+        "logo": "https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
+      },
+      {
+        "name": "TVD TV Découverte",
+        "logo": "https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8"
+      },
+      {
+        "name": "lilo.TV HD",
+        "logo": "https://www.lilotv.de/wp-content/uploads/2024/01/logo.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8"
+      },
+      {
+        "name": "PARIS PREMIERE HD",
+        "logo": "https://i.imgur.com/ily4bEm.png",
+        "group": "regional",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8"
       }
     ],
     "kids": [
@@ -1292,6 +1374,20 @@
         "group": "generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "Benin web TV",
+        "logo": "https://i.imgur.com/CYy4n0N.png",
+        "group": "generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://stream.beninwebtv.bj/2/live/stream.m3u8"
+      },
+      {
+        "name": "sene web",
+        "logo": "https://i.imgur.com/i9P2qjs.png",
+        "group": "generalist",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8"
       }
     ],
     "movies/documentary": [
@@ -1416,7 +1512,14 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8"
       },
       {
-        "name": "eurosport1 D",
+        "name": "blue zoom D HD",
+        "logo": "https://picserve.netplus.ch/channels/bluezoomde.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8"
+      },
+      {
+        "name": "eurosport1 de",
         "logo": "https://picserve.netplus.ch/channels/eurosportde.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -1458,6 +1561,13 @@
         "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
       },
       {
+        "name": "Trace Sport Stars HD",
+        "logo": "https://i.imgur.com/FabFP5A.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "MotorVision+ HD",
         "logo": "https://picserve.netplus.ch/channels/motorvision.png",
         "group": "sport",
@@ -1465,14 +1575,21 @@
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision/live.livx/playlist.m3u8"
       },
       {
-        "name": "Eurosport1 HD",
+        "name": "Chasse&Pêche HD",
+        "logo": "https://picserve.netplus.ch/channels/chasseetpeche.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "Eurosport1 fr HD",
         "logo": "https://picserve.netplus.ch/channels/eurosportde.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8"
       },
       {
-        "name": "Eurosport2 HD",
+        "name": "Eurosport2 fr HD",
         "logo": "https://picserve.netplus.ch/channels/eurosport2.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -1486,28 +1603,28 @@
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8"
       },
       {
-        "name": "eurosport1",
+        "name": "eurosport1 it HD",
         "logo": "https://picserve.netplus.ch/channels/eurosportde.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
       },
       {
-        "name": "eurosport2",
+        "name": "eurosport2 it HD",
         "logo": "https://picserve.netplus.ch/channels/eurosport2.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8"
       },
       {
-        "name": "eurosport1",
+        "name": "eurosport1 en HD",
         "logo": "https://picserve.netplus.ch/channels/eurosportde.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8"
       },
       {
-        "name": "eurosport2",
+        "name": "eurosport2 en HD",
         "logo": "https://picserve.netplus.ch/channels/eurosport2.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
@@ -1630,6 +1747,13 @@
         "group": "cartoons",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "Benin TV Junior",
+        "logo": "https://i.imgur.com/pxFamLr.png",
+        "group": "cartoons",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
       }
     ],
     "travel": [
@@ -1868,94 +1992,6 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8"
       }
     ],
-    "regional": [
-      {
-        "name": "8Mont-Blanc HD",
-        "logo": "https://picserve.netplus.ch/channels/tv8montblanc.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8"
-      },
-      {
-        "name": "Val TV HD",
-        "logo": "https://picserve.netplus.ch/channels/valtv.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8"
-      },
-      {
-        "name": "Canal32 HD",
-        "logo": "https://www.canal32.fr/wp-content/uploads/2026/04/logo-canal-32.svg",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://canal32-lineaire.b-cdn.net/master.m3u8"
-      },
-      {
-        "name": "TeleTop",
-        "logo": "https://picserve.netplus.ch/channels/teletop.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8"
-      },
-      {
-        "name": "TeleBasel HD",
-        "logo": "https://picserve.netplus.ch/channels/telebasel.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8"
-      },
-      {
-        "name": "teletecino HD",
-        "logo": "https://www.teleticino.ch/corporate/Teleticino.svg",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8"
-      },
-      {
-        "name": "BFMTV Alsace",
-        "logo": "https://picserve.netplus.ch/channels/alsace20.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8"
-      },
-      {
-        "name": "alpe d'huez tv HD",
-        "logo": "https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
-      },
-      {
-        "name": "TVD TV Découverte",
-        "logo": "https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8"
-      },
-      {
-        "name": "lilo.TV HD",
-        "logo": "https://www.lilotv.de/wp-content/uploads/2024/01/logo.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8"
-      },
-      {
-        "name": "PARIS PREMIERE HD",
-        "logo": "https://i.imgur.com/ily4bEm.png",
-        "group": "regional",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8"
-      }
-    ],
-    "Sport": [
-      {
-        "name": "blue zoom D HD",
-        "logo": "https://picserve.netplus.ch/channels/bluezoomde.png",
-        "group": "Sport",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8"
-      }
-    ],
     "comedy": [
       {
         "name": "COMEDY CENTRAL HD",
@@ -2167,13 +2203,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8"
-      },
-      {
-        "name": "Trace Sport Stars HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Frequence Novelas F HD",
@@ -2507,13 +2536,6 @@
         "group": "sports",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
-      },
-      {
-        "name": "Chasse&Pêche HD",
-        "logo": "https://picserve.netplus.ch/channels/chasseetpeche.png",
-        "group": "sports",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8"
       }
     ],
     "Learning": [
@@ -2606,7 +2628,7 @@
     ],
     "DE news": [
       {
-        "name": "euronews. deutsch HD",
+        "name": "euronews. de HD",
         "logo": "https://static.epg.best/de/euronews.de.png",
         "group": "DE news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",

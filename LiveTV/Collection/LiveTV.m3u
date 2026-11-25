@@ -5,7 +5,7 @@ https://rtsinfo-d.akamaized.net/out/v1/lsvs/rts-info/cmaf/hls-index.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france24.png" group-title="news",France24 HD
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/euronews.png" group-title="news",euronews F HD
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/euronews.png" group-title="news",euronews. fr HD
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itele.png" group-title="news",CNEWS HD
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
@@ -65,7 +65,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://s.tvp.pl/files/portale-v4/tvp-info-v2/assets/images/tvp_info-2024.feb2d591.svg" group-title="news",TVP info_ HD
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/uk/euronews.uk.png" group-title="news",euronews. english HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/uk/euronews.uk.png" group-title="news",euronews. en HD
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png" group-title="news",LGF Talk
 https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8
@@ -79,7 +79,7 @@ https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/uk/france24.uk.png" group-title="news",France24 english HD
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/euronews.it.png" group-title="news",euronews. italia HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/euronews.it.png" group-title="news",euronews. it HD
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 #EXTINF:-1 tvg-logo="https://classcnbc.it/" group-title="news",Class CNBC IT HD
 https://d1t2v0gs1xcf0l.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y3ddf6plueqkw/d1f46cc7-20fb-49fa-8357-925d31c9eeeb/0.m3u8
@@ -91,6 +91,8 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Mediaset_TG_Com24_296fc48738.png" group-title="news",TGCOM24 HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="news",7info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="Generalist",RTS 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="Generalist",RTS 2 HD
@@ -125,38 +127,60 @@ https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://icitelevision.ca/wp-content/uploads/2017/07/logoretina-3.png" group-title="Generalist",ICI Television Québec HD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canal9.png" group-title="Regional",Canal9 HD
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canal9.png" group-title="regional",Canal9 HD
 https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" group-title="Regional",Léman bleu HD
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" group-title="regional",Léman bleu HD
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" group-title="Regional",Canal Alpha JU HD
-https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png" group-title="Regional",Canal B HD
-https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rhonefmtv.png" group-title="Regional",Rhone TV HD
-https://viamotionhsi.netplus.ch/live/eds/rhonefmtv/browser-HLS8/rhonefmtv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/onetv.png" group-title="Regional",carac2 HD
-https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" group-title="Regional",carac3 HD
-https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" group-title="Regional",carac4 HD
-https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png" group-title="Regional",carac5 HD
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" group-title="Regional",nrtv HD
-https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" group-title="Regional",Canal Alpha NE HD
-https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalbde.png" group-title="Regional",Kanal B HD
-https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" group-title="Regional",kanal9 HD
-https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" group-title="Regional",TeleBärn HD
-https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" group-title="Regional",TB2 HD
-https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/latele.png" group-title="Regional VD",LA TELE HD
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/latele.png" group-title="regional",LA TELE HD
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" group-title="regional",Canal Alpha JU HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png" group-title="regional",Canal B HD
+https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rhonefmtv.png" group-title="regional",Rhone TV HD
+https://viamotionhsi.netplus.ch/live/eds/rhonefmtv/browser-HLS8/rhonefmtv.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/onetv.png" group-title="regional",carac2 HD
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" group-title="regional",carac3 HD
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" group-title="regional",carac4 HD
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png" group-title="regional",carac5 HD
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" group-title="regional",nrtv HD
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" group-title="regional",8Mont-Blanc HD
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/valtv.png" group-title="regional",Val TV HD
+https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" group-title="regional",Canal Alpha NE HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalbde.png" group-title="regional",Kanal B HD
+https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" group-title="regional",kanal9 HD
+https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" group-title="regional",TeleBärn HD
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" group-title="regional",TB2 HD
+https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal32.fr/wp-content/uploads/2026/04/logo-canal-32.svg" group-title="regional",Canal32 HD
+https://canal32-lineaire.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/teletop.png" group-title="regional",TeleTop
+https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/telebasel.png" group-title="regional",TeleBasel HD
+https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleticino.ch/corporate/Teleticino.svg" group-title="regional",teletecino HD
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/alsace20.png" group-title="regional",BFMTV Alsace
+https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png" group-title="regional",alpe d'huez tv HD
+https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png" group-title="regional",TVD TV Découverte
+https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.lilotv.de/wp-content/uploads/2024/01/logo.png" group-title="regional",lilo.TV HD
+https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="regional",PARIS PREMIERE HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" group-title="kids",France4 HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/gulli.png" group-title="kids",gulli HD
@@ -365,6 +389,10 @@ https://live.matele.be/hls/live.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-bundle.6cloud.fr/m6/24/svg-sprite/marginless.svg#tevareplay" group-title="generalist",téva
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="generalist",Benin web TV
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9P2qjs.png" group-title="generalist",sene web
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rtl9.png" group-title="movies/documentary",RTL9 HD
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/ab1.png" group-title="Series",AB1
@@ -397,7 +425,9 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/sport1.png" group-title="sport",sport1 HD
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",eurosport1 D
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" group-title="sport",blue zoom D HD
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",eurosport1 de
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" group-title="sport",Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
@@ -409,21 +439,25 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/fifaplus.png" group-title="sport",FIFA+ HD
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="sport",Trace Sport Stars HD
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/motorvision.png" group-title="sport",MotorVision+ HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",Eurosport1 HD
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/chasseetpeche.png" group-title="sport",Chasse&Pêche HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",Eurosport1 fr HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" group-title="sport",Eurosport2 HD
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" group-title="sport",Eurosport2 fr HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Fight_Box_2013_8cd4fe8cf0.png" group-title="sport",FIGHTBOX HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",eurosport1
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",eurosport1 it HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" group-title="sport",eurosport2
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" group-title="sport",eurosport2 it HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",eurosport1
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="sport",eurosport1 en HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" group-title="sport",eurosport2
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" group-title="sport",eurosport2 en HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/ab3.png" group-title="series",AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
@@ -457,6 +491,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/pl
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/250px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="cartoons",Rai Yoyo
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="cartoons",Benin TV Junior
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/escales.png" group-title="travel",TREK HD
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/animaux.png" group-title="animals",ANIMAUX HD
@@ -521,30 +557,6 @@ https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/bibeltv01
 https://streamcdnm1-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/chunklist_b3392000.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" group-title="Religion",DieuTV HD
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" group-title="regional",8Mont-Blanc HD
-https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/valtv.png" group-title="regional",Val TV HD
-https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.canal32.fr/wp-content/uploads/2026/04/logo-canal-32.svg" group-title="regional",Canal32 HD
-https://canal32-lineaire.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/teletop.png" group-title="regional",TeleTop
-https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/telebasel.png" group-title="regional",TeleBasel HD
-https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.teleticino.ch/corporate/Teleticino.svg" group-title="regional",teletecino HD
-https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/alsace20.png" group-title="regional",BFMTV Alsace
-https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png" group-title="regional",alpe d'huez tv HD
-https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png" group-title="regional",TVD TV Découverte
-https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.lilotv.de/wp-content/uploads/2024/01/logo.png" group-title="regional",lilo.TV HD
-https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="regional",PARIS PREMIERE HD
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" group-title="Sport",blue zoom D HD
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png" group-title="comedy",COMEDY CENTRAL HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png" group-title="comedy",nickelodeon D
@@ -603,8 +615,6 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/mondeduloisir.png" group-title="Uncategorized",MDL Monde Du Loisir TV HD
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Uncategorized",Trace Sport Stars HD
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/fast_frequencenovelas.png" group-title="Uncategorized",Frequence Novelas F HD
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/fast_screamin.png" group-title="Uncategorized",SCREAM IN F HD
@@ -691,8 +701,6 @@ https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manif
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5DYvxw9/morethansportstv.png" group-title="sports",More Than Sports TV HD
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/chasseetpeche.png" group-title="sports",Chasse&Pêche HD
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Learning",English Club TV
 https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/gbnews.gb.png" group-title="News",GB News HD
@@ -713,7 +721,7 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 https://1936287162.rsc.cdn77.org/hls/54jCArWE/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/funbox.uk.png" group-title="UK sport",FAST & FUNBOX HD
 https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/euronews.de.png" group-title="DE news",euronews. deutsch HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/euronews.de.png" group-title="DE news",euronews. de HD
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png" group-title="Documentary",Brut.
 https://jmp2.uk/stvp-CH700006GD
