@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26 12:42:59",
+  "date": "2026-11-27 12:38:53",
   "channels": {
     "news": [
       {
@@ -1540,6 +1540,13 @@
         "url": "https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
       },
       {
+        "name": "Nautical Channel HD",
+        "logo": "https://picserve.netplus.ch/channels/fast_nauticalchannel.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nautical/live.livx/playlist.m3u8"
+      },
+      {
         "name": "swiss sport tv HD",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "sport",
@@ -1629,6 +1636,13 @@
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "MGGTV",
+        "logo": "https://freebox.cdn.scw.iliad.fr/large_MGGTV_LOGO_Vertical_81d21eee36.png",
+        "group": "sport",
+        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mgg_tv/live.livx/playlist.m3u8"
       }
     ],
     "series": [
@@ -2112,13 +2126,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/cb6e197e-fdf9-4dcd-860d-b8c519ef288f/1.m3u8"
-      },
-      {
-        "name": "Nautical Channel HD",
-        "logo": "https://picserve.netplus.ch/channels/fast_nauticalchannel.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8"
       },
       {
         "name": "AUTOMOTION FHD",
