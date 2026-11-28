@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27 11:24:38",
+  "date": "2026-11-28 11:05:46",
   "channels": {
     "General": [
       {
@@ -16530,6 +16530,13 @@
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
       },
       {
+        "name": "Tenerife Plus TV",
+        "logo": "https://www.tenerifeplus.tv/assets/logo/tfplus.svg",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://k20.usastreams.com:8081/tenerifeplus/index.m3u8"
+      },
+      {
         "name": "TV BRICS Spanish (1080p)",
         "logo": "https://i.imgur.com/vLpm8tN.png",
         "group": "General",
@@ -22481,11 +22488,25 @@
         "url": "https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8"
       },
       {
+        "name": "Atlantico Television (1080p)",
+        "logo": "https://i.imgur.com/JB5QkAw.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://live.atlanticotelevision.com/hls/hi/index.m3u8"
+      },
+      {
         "name": "France 24 Spanish (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
+      },
+      {
+        "name": "Mirame TV (1080p)",
+        "logo": "https://i.imgur.com/LK4pLgT.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1"
       },
       {
         "name": "RT en Espanol (1080p)",
@@ -52259,11 +52280,11 @@
         "url": "https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8"
       },
       {
-        "name": "DAZN F1",
+        "name": "DAZN F1 (1080p)",
         "logo": "https://i.imgur.com/yFCr5XX.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://tvorb.net/ZTV/6918-live.m3u8"
+        "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8"
       },
       {
         "name": "Eurosport 1 Spain (576p)",
@@ -57599,11 +57620,11 @@
         "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
       },
       {
-        "name": "EWTN Espana",
+        "name": "EWTN Espana (1080p)",
         "logo": "https://i.imgur.com/KvpMbkd.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8"
+        "url": "https://1211313014.rsc.cdn77.org/1211313014/index.m3u8"
       },
       {
         "name": "Trece (Spain) (576p)",
@@ -59413,6 +59434,13 @@
         "group": "Culture",
         "source": "https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u",
         "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8"
+      },
+      {
+        "name": "Condavision (1080p)",
+        "logo": "https://i.imgur.com/dlrazec.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
       },
       {
         "name": "Radio 3 (720p)",
@@ -64382,6 +64410,13 @@
         "url": "https://cdn1.etbon.eus/oc1/index.m3u8"
       },
       {
+        "name": "Galicia TV America (480p)",
+        "logo": "https://i.imgur.com/s59AaqG.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "http://200.59.191.177:8000/play/a0p7/index.m3u8"
+      },
+      {
         "name": "Galicia TV Europa (720p)",
         "logo": "https://i.imgur.com/dvkzH8n.png",
         "group": "General;Public",
@@ -64454,6 +64489,13 @@
         "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
       },
       {
+        "name": "CanalCosta (1080p)",
+        "logo": "https://i.imgur.com/ap4FmYb.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"
+      },
+      {
         "name": "La Septima (1080p)",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8d/La_S%C3%A9ptima_2026_II.svg/revision/latest?cb=20261106050649",
         "group": "Undefined",
@@ -64480,6 +64522,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8"
+      },
+      {
+        "name": "Teleonuba (1080p)",
+        "logo": "https://i.imgur.com/cHMfmO7.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8"
       },
       {
         "name": "Television Canaria (1080p)",
